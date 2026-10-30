@@ -1,0 +1,2327 @@
+{
+ "format": 1,
+ "city": {
+  "id": "prague",
+  "name": "Prague",
+  "country": "Czechia",
+  "center": {
+   "latitude": 50.0874654,
+   "longitude": 14.4212535
+  },
+  "bounds": {
+   "south": 49.9419006,
+   "north": 50.1774302,
+   "west": 14.2244355,
+   "east": 14.7067867
+  },
+  "languages": [
+   "en"
+  ],
+  "quality": "generated",
+  "placeCount": 45,
+  "version": 1,
+  "hero": {
+   "file": "images/prague-astronomical-clock.jpg",
+   "author": "Steve Collis from Melbourne, Australia",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Astronomical_Clock_(8341899828).jpg"
+  },
+  "packUrl": "cities/prague/pack.json",
+  "generatedAt": "2026-10-30T15:00:07Z"
+ },
+ "pois": [
+  {
+   "id": "prague-astronomical-clock",
+   "image": {
+    "file": "images/prague-astronomical-clock.jpg",
+    "author": "Steve Collis from Melbourne, Australia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Astronomical_Clock_(8341899828).jpg"
+   },
+   "location": {
+    "latitude": 50.08699,
+    "longitude": 14.4207
+   },
+   "category": "monument",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "medieval",
+    "monument"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Prague astronomical clock",
+     "intro": "The Prague astronomical clock, or Prague Orloj, is a medieval astronomical clock attached to the Old Town Hall in Prague, the capital of the Czech Republic.",
+     "narration": "The Prague astronomical clock, or Prague Orloj, is a medieval astronomical clock attached to the Old Town Hall in Prague, the capital of the Czech Republic.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Prague astronomical clock",
+     "url": "https://en.wikipedia.org/wiki/Prague_astronomical_clock",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q729370",
+     "url": "https://www.wikidata.org/wiki/Q729370",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "prague-castle",
+   "image": {
+    "file": "images/prague-castle.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castillo_de_Praga,_Praga,_Rep%C3%BAblica_Checa,_2022-07-02,_DD_209.jpg"
+   },
+   "location": {
+    "latitude": 50.09,
+    "longitude": 14.4
+   },
+   "category": "monument",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 32,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument",
+    "roman"
+   ],
+   "area": "Hradčany",
+   "content": {
+    "en": {
+     "name": "Prague Castle",
+     "intro": "Prague Castle is a castle complex in Prague, Czech Republic serving as the official residence and workplace of the president of the Czech Republic.",
+     "narration": "Prague Castle is a castle complex in Prague, Czech Republic serving as the official residence and workplace of the president of the Czech Republic. Built in the 9th century, the castle has long served as the seat of power for kings of Bohemia, Holy Roman emperors, and presidents of Czechoslovakia. As such, the term \"Prague Castle\" or simply \"Hrad\" are often used as metonymy for the president and his staff and advisors. The Bohemian Crown Jewels are kept within a hidden room inside it.",
+     "longDescription": "Prague Castle is a castle complex in Prague, Czech Republic serving as the official residence and workplace of the president of the Czech Republic. Built in the 9th century, the castle has long served as the seat of power for kings of Bohemia, Holy Roman emperors, and presidents of Czechoslovakia. As such, the term \"Prague Castle\" or simply \"Hrad\" are often used as metonymy for the president and his staff and advisors. The Bohemian Crown Jewels are kept within a hidden room inside it. According to the Guinness Book of Records, Prague Castle is the largest ancient castle in the world, occupying an area of almost 70,000 square metres, at about 570 metres in length and an average of about 130 metres wide. The castle is the most visited tourist attraction in the Czech Republic. In 2024, the castle attracted 2.59 million visitors.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Prague Castle",
+     "url": "https://en.wikipedia.org/wiki/Prague_Castle",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q193369",
+     "url": "https://www.wikidata.org/wiki/Q193369",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "petrin-lookout-tower",
+   "image": {
+    "file": "images/petrin-lookout-tower.jpg",
+    "author": "A.Savin",
+    "license": "FAL",
+    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_View_from_Lesser_Town_Nicholas_Church_img5.jpg"
+   },
+   "location": {
+    "latitude": 50.083544444,
+    "longitude": 14.39505
+   },
+   "category": "viewpoint",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "scenic",
+    "viewpoint"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Petřín Lookout Tower",
+     "intro": "The Petřín Lookout Tower is a steel-framework tower 63.5 metres tall on Petřín Hill in Prague, built in 1891.",
+     "narration": "The Petřín Lookout Tower is a steel-framework tower 63.5 metres tall on Petřín Hill in Prague, built in 1891. It resembles the Eiffel Tower and was used as an observation tower as well as a transmission tower. Today, the tower is a major tourist attraction.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Petřín Lookout Tower",
+     "url": "https://en.wikipedia.org/wiki/Pet%C5%99%C3%ADn_Lookout_Tower",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q12256",
+     "url": "https://www.wikidata.org/wiki/Q12256",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "old-town-square",
+   "image": {
+    "file": "images/old-town-square.jpg",
+    "author": "Estec GmbH, Billig Hotel in Prag",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prague_old_town_square_panorama.jpg"
+   },
+   "location": {
+    "latitude": 50.0875,
+    "longitude": 14.421388888
+   },
+   "category": "square",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Old Town Square",
+     "intro": "Old Town Square is a historic square in the Old Town quarter of Prague, the capital of the Czech Republic.",
+     "narration": "Old Town Square is a historic square in the Old Town quarter of Prague, the capital of the Czech Republic. It is located between Wenceslas Square and Charles Bridge.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Old Town Square",
+     "url": "https://en.wikipedia.org/wiki/Old_Town_Square",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q421678",
+     "url": "https://www.wikidata.org/wiki/Q421678",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "charles-bridge",
+   "image": {
+    "file": "images/charles-bridge.jpg",
+    "author": "A.Savin",
+    "license": "FAL",
+    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_View_from_Petrinska_Tower_img2.jpg"
+   },
+   "location": {
+    "latitude": 50.086388888,
+    "longitude": 14.411944444
+   },
+   "category": "monument",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 46,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "medieval",
+    "monument",
+    "river"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Charles Bridge",
+     "intro": "Charles Bridge is a medieval stone arch bridge that crosses the Vltava river in Prague, Czech Republic.",
+     "narration": "Charles Bridge is a medieval stone arch bridge that crosses the Vltava river in Prague, Czech Republic. Its construction started in 1357 under the auspices of King Charles IV, and finished in the early 15th century. The bridge replaced the old Judith Bridge built 1158–1172 that had been severely damaged by a flood in 1342. This new bridge was originally called Stone Bridge or Prague Bridge, but has been referred to as \"Charles Bridge\" since 1870. As the only means of crossing the river Vltava until 1841, Charles Bridge was the most important connection between Prague Castle and the city's Old Town and adjacent areas. This land connection made Prague important as a trade route between Eastern and Western Europe.",
+     "longDescription": "Charles Bridge is a medieval stone arch bridge that crosses the Vltava river in Prague, Czech Republic. Its construction started in 1357 under the auspices of King Charles IV, and finished in the early 15th century. The bridge replaced the old Judith Bridge built 1158–1172 that had been severely damaged by a flood in 1342. This new bridge was originally called Stone Bridge or Prague Bridge, but has been referred to as \"Charles Bridge\" since 1870. As the only means of crossing the river Vltava until 1841, Charles Bridge was the most important connection between Prague Castle and the city's Old Town and adjacent areas. This land connection made Prague important as a trade route between Eastern and Western Europe. The bridge is located on the historic coronation route of the Bohemian kings. The bridge is 516 metres long and nearly 10 metres wide. Following the example of the Stone Bridge in Regensburg, it was built as a bow bridge with 16 arches shielded by ice guards. It is protected by three bridge towers, two on the Lesser Quarter side and one on the Old Town side, the Old Town Bridge Tower. The bridge is decorated by a continuous alley of 30 statues and statuaries, most of them baroque-style, originally erected around 1700, but now all have been replaced by replicas. The bridge is currently undergoing a twenty-year process of structural inspections, restoration, and repairs. The process started in late 2019, and is expected to cost 45–60 million CZK.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Charles Bridge",
+     "url": "https://en.wikipedia.org/wiki/Charles_Bridge",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q204871",
+     "url": "https://www.wikidata.org/wiki/Q204871",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "zizkov-television-tower",
+   "image": {
+    "file": "images/zizkov-television-tower.jpg",
+    "author": "Norbert Požár (cs:Wikipedista:Bertik)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C5%BDi%C5%BEkov_tv_tower.jpg"
+   },
+   "location": {
+    "latitude": 50.080833333,
+    "longitude": 14.451388888
+   },
+   "category": "viewpoint",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 23,
+   "visitMinutes": 6,
+   "tags": [
+    "iconic",
+    "scenic",
+    "viewpoint"
+   ],
+   "area": "Prague 3",
+   "content": {
+    "en": {
+     "name": "Žižkov Television Tower",
+     "intro": "The Žižkov Television Tower is a transmitter tower built in Prague between 1985 and 1992.",
+     "narration": "The Žižkov Television Tower is a transmitter tower built in Prague between 1985 and 1992. Designed by the architect Václav Aulický and the structural engineer Jiří Kozák, it stands high above the city's traditional skyline from its position on top of a hill in the district of Žižkov, from which it takes its name. The tower is an example of high-tech architecture.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Žižkov Television Tower",
+     "url": "https://en.wikipedia.org/wiki/%C5%BDi%C5%BEkov_Television_Tower",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1413217",
+     "url": "https://www.wikidata.org/wiki/Q1413217",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-vitus-cathedral",
+   "image": {
+    "file": "images/st-vitus-cathedral.jpg",
+    "author": "o¬.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praha,_Katedr%C3%A1la,_JV_01.jpg"
+   },
+   "location": {
+    "latitude": 50.090833333,
+    "longitude": 14.400555555
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "medieval",
+    "roman"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "St. Vitus Cathedral",
+     "intro": "The Metropolitan Cathedral of Saints Vitus, Wenceslaus and Adalbert is a Catholic metropolitan cathedral in Prague, and the seat of the Archbishop of Prague.",
+     "narration": "The Metropolitan Cathedral of Saints Vitus, Wenceslaus and Adalbert is a Catholic metropolitan cathedral in Prague, and the seat of the Archbishop of Prague. Until 1997, the cathedral was dedicated only to Saint Vitus, and is still commonly named only as St. Vitus Cathedral. This cathedral is a prominent example of Gothic architecture, and is the largest and most important church in the country. Located within Prague Castle and containing the tombs of many Bohemian kings and Holy Roman Emperors, the cathedral is under the ownership of the Czech government as part of the Prague Castle complex.",
+     "longDescription": "The Metropolitan Cathedral of Saints Vitus, Wenceslaus and Adalbert is a Catholic metropolitan cathedral in Prague, and the seat of the Archbishop of Prague. Until 1997, the cathedral was dedicated only to Saint Vitus, and is still commonly named only as St. Vitus Cathedral. This cathedral is a prominent example of Gothic architecture, and is the largest and most important church in the country. Located within Prague Castle and containing the tombs of many Bohemian kings and Holy Roman Emperors, the cathedral is under the ownership of the Czech government as part of the Prague Castle complex. The cathedral's dimensions are 124 m × 60 m, the main tower is 102.8 m high, front towers 82 m, arch height 33.2 m.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St. Vitus Cathedral",
+     "url": "https://en.wikipedia.org/wiki/St._Vitus_Cathedral",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5949",
+     "url": "https://www.wikidata.org/wiki/Q5949",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "old-town-prague",
+   "image": {
+    "file": "images/old-town-prague.jpg",
+    "author": null,
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prague_from_Klementinum.jpg"
+   },
+   "location": {
+    "latitude": 50.0847,
+    "longitude": 14.4203
+   },
+   "category": "neighbourhood",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "historic",
+    "iconic",
+    "medieval",
+    "neighbourhood",
+    "river"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Old Town (Prague)",
+     "intro": "The Old Town of Prague is a medieval settlement of Prague, Czech Republic.",
+     "narration": "The Old Town of Prague is a medieval settlement of Prague, Czech Republic. It was separated from the outside by a semi-circular moat and wall, connected to the Vltava river at both of its ends. The moat is now covered up by the streets Revoluční, Na Příkopě, and Národní — which remain the official boundary of the cadastral community of Old Town. It is now part of Prague 1. Notable places in the Old Town include Old Town Square and Astronomical Clock. The Old Town is surrounded by the New Town of Prague. Across the river Vltava connected by the Charles Bridge is the Lesser Town of Prague.",
+     "longDescription": "The Old Town of Prague is a medieval settlement of Prague, Czech Republic. It was separated from the outside by a semi-circular moat and wall, connected to the Vltava river at both of its ends. The moat is now covered up by the streets Revoluční, Na Příkopě, and Národní — which remain the official boundary of the cadastral community of Old Town. It is now part of Prague 1. Notable places in the Old Town include Old Town Square and Astronomical Clock. The Old Town is surrounded by the New Town of Prague. Across the river Vltava connected by the Charles Bridge is the Lesser Town of Prague. The former Jewish Town is located in the northwest corner of Old Town heading towards the Vltava.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Old Town (Prague)",
+     "url": "https://en.wikipedia.org/wiki/Old_Town_%28Prague%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q748211",
+     "url": "https://www.wikidata.org/wiki/Q748211",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "vysehrad",
+   "image": {
+    "file": "images/vysehrad.jpg",
+    "author": "Tilman2007",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praha_2,_Pevnost_Vy%C5%A1ehrad_20170808_014.jpg"
+   },
+   "location": {
+    "latitude": 50.064427188,
+    "longitude": 14.417644214
+   },
+   "category": "archaeology",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 30,
+   "visitMinutes": 6,
+   "tags": [
+    "archaeology",
+    "hidden",
+    "historic",
+    "iconic",
+    "river"
+   ],
+   "area": "Vyšehrad",
+   "content": {
+    "en": {
+     "name": "Vyšehrad",
+     "intro": "Vyšehrad is a historic fort in Prague, Czech Republic, just over 3 km southeast of Prague Castle, on the east bank of the Vltava River.",
+     "narration": "Vyšehrad is a historic fort in Prague, Czech Republic, just over 3 km southeast of Prague Castle, on the east bank of the Vltava River. It was likely founded in the 10th century. Inside the fort are the Basilica of St. Peter and St. Paul and the Vyšehrad Cemetery, containing the remains of many famous Czechs, such as Antonín Dvořák, Bedřich Smetana, Karel Čapek, and Alphonse Mucha. It also contains Prague's oldest Rotunda of St. Martin, from the 11th century.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Vyšehrad",
+     "url": "https://en.wikipedia.org/wiki/Vy%C5%A1ehrad",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q616334",
+     "url": "https://www.wikidata.org/wiki/Q616334",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "wenceslas-square",
+   "image": {
+    "file": "images/wenceslas-square.jpg",
+    "author": "VitVit",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:V%C3%A1clavsk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_z_kupole_Muzea_3.jpg"
+   },
+   "location": {
+    "latitude": 50.082308,
+    "longitude": 14.426141
+   },
+   "category": "square",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Wenceslas Square",
+     "intro": "Wenceslas Square is one of the main city squares and the centre of the business and cultural communities in the New Town of Prague, Czech Republic.",
+     "narration": "Wenceslas Square is one of the main city squares and the centre of the business and cultural communities in the New Town of Prague, Czech Republic. Many historical events occurred there, and it is a traditional setting for demonstrations, celebrations, and other public gatherings. It is also the place with the busiest pedestrian traffic in the whole country. The square is named after Saint Wenceslas, the patron saint of Bohemia. It is part of the historic centre of Prague, a World Heritage Site. Formerly known as Koňský trh or Rossmarkt, for its periodic accommodation of horse markets during the Middle Ages, it was renamed Svatováclavské náměstí in 1848 on the proposal of Karel Havlíček Borovský.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Wenceslas Square",
+     "url": "https://en.wikipedia.org/wiki/Wenceslas_Square",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q847613",
+     "url": "https://www.wikidata.org/wiki/Q847613",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "church-of-our-lady-before-tyn",
+   "image": {
+    "file": "images/church-of-our-lady-before-tyn.jpg",
+    "author": "A.Savin",
+    "license": "FAL",
+    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_View_from_Old_Town_Hall_Tower_img2.jpg"
+   },
+   "location": {
+    "latitude": 50.08771,
+    "longitude": 14.4227
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 27,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "medieval"
+   ],
+   "area": "Old Town",
+   "content": {
+    "en": {
+     "name": "Church of Our Lady before Týn",
+     "intro": "The Church of the Mother of God before Týn, or Church of Our Lady before Týn, is a Gothic church and a dominant feature of the Old Town of Prague, Czech Republic.",
+     "narration": "The Church of the Mother of God before Týn, or Church of Our Lady before Týn, is a Gothic church and a dominant feature of the Old Town of Prague, Czech Republic. It has been the main church of this part of the city since the 14th century. The church's two towers are 80 m high, and each tower's spire is topped by eight smaller spires in two layers of four.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Church of Our Lady before Týn",
+     "url": "https://en.wikipedia.org/wiki/Church_of_Our_Lady_before_T%C3%BDn",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1453427",
+     "url": "https://www.wikidata.org/wiki/Q1453427",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "old-new-synagogue",
+   "image": {
+    "file": "images/old-new-synagogue.jpg",
+    "author": "Jerzy Strzelecki",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_New_Synagogue_01(js).jpg"
+   },
+   "location": {
+    "latitude": 50.09,
+    "longitude": 14.418611111
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 28,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "medieval"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Old New Synagogue",
+     "intro": "The Old New Synagogue, also called the Altneuschul, is an Orthodox Jewish congregation and synagogue, located in Josefov, Prague, in the Czech Republic.",
+     "narration": "The Old New Synagogue, also called the Altneuschul, is an Orthodox Jewish congregation and synagogue, located in Josefov, Prague, in the Czech Republic. The synagogue is Europe's oldest active synagogue. Completed in 1270, it is also the oldest surviving medieval synagogue of twin-nave design. It is one of the earliest Gothic buildings in Prague. A still older Prague synagogue, known as the Old Synagogue, was demolished in 1867 and replaced by the Spanish Synagogue.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Old New Synagogue",
+     "url": "https://en.wikipedia.org/wiki/Old_New_Synagogue",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q443107",
+     "url": "https://www.wikidata.org/wiki/Q443107",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "powder-tower-prague",
+   "image": {
+    "file": "images/powder-tower-prague.jpg",
+    "author": "A.Savin",
+    "license": "FAL",
+    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_Powder_Tower_from_Republic_Square.jpg"
+   },
+   "location": {
+    "latitude": 50.087222222,
+    "longitude": 14.427777777
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "medieval",
+    "museum"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Powder Tower, Prague",
+     "intro": "The Powder Tower or Powder Gate is a Gothic tower in Prague, Czech Republic.",
+     "narration": "The Powder Tower or Powder Gate is a Gothic tower in Prague, Czech Republic. It is one of the original city gates. It separates the Old Town from the New Town. Powder Tower, as with many historical sites in Prague, undergoes periodic preservation and restoration. The most recent treatment began Summer 2024 and is scheduled to be completed in October. Jiří Pospíšil, Deputy Mayor for Culture and Tourism stated \"It is our duty to take care of Prague's heritage buildings, which are a symbol of Prague and the legacy of our ancestors...",
+     "longDescription": "The Powder Tower or Powder Gate is a Gothic tower in Prague, Czech Republic. It is one of the original city gates. It separates the Old Town from the New Town. Powder Tower, as with many historical sites in Prague, undergoes periodic preservation and restoration. The most recent treatment began Summer 2024 and is scheduled to be completed in October. Jiří Pospíšil, Deputy Mayor for Culture and Tourism stated \"It is our duty to take care of Prague's heritage buildings, which are a symbol of Prague and the legacy of our ancestors... Now, in cooperation with Prague City Tourism, we are starting the repair of the Powder Tower, and I am very happy that the tower will have a literal new coat.\"",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Powder Tower, Prague",
+     "url": "https://en.wikipedia.org/wiki/Powder_Tower%2C_Prague",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1488700",
+     "url": "https://www.wikidata.org/wiki/Q1488700",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-george-s-basilica-prague",
+   "image": {
+    "file": "images/st-george-s-basilica-prague.jpg",
+    "author": "Dennis G. Jarvis",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Czech-03808_-_St._George%27s_Basilica_(33020214885).jpg"
+   },
+   "location": {
+    "latitude": 50.09111,
+    "longitude": 14.40222
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 30,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "medieval"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "St. George's Basilica, Prague",
+     "intro": "St.",
+     "narration": "St. George's Basilica is the oldest surviving church building within Prague Castle, Prague, Czech Republic. The basilica was founded by Vratislaus I of Bohemia in 920. It is dedicated to Saint George. Primarily Romanesque in style, it is part of the collection of buildings that comprise the castle, the political capital of the nation, and the spiritual center of the Czech state. It is the burial place of several highly notable Czech nobles, dukes, and saints, such as St. Ludmila.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St. George's Basilica, Prague",
+     "url": "https://en.wikipedia.org/wiki/St._George%27s_Basilica%2C_Prague",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1437065",
+     "url": "https://www.wikidata.org/wiki/Q1437065",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "mala-strana",
+   "image": {
+    "file": "images/mala-strana.jpg",
+    "author": "A.Savin",
+    "license": "FAL",
+    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_view_from_Lesser_Town_Tower_of_Charles_Bridge_img6.jpg"
+   },
+   "location": {
+    "latitude": 50.088055555,
+    "longitude": 14.403888888
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 22,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "medieval",
+    "neighbourhood",
+    "river"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Malá Strana",
+     "intro": "Malá Strana or historically Menší Město pražské is a district of the city of Prague, Czech Republic, and one of its most historic neighbourhoods.",
+     "narration": "Malá Strana or historically Menší Město pražské is a district of the city of Prague, Czech Republic, and one of its most historic neighbourhoods. In the Middle Ages, it was a dominant center of the ethnic German citizens of Prague. It also housed many noble palaces while the right-bank towns were comparatively more bourgeois and more Bohemian Czech.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Malá Strana",
+     "url": "https://en.wikipedia.org/wiki/Mal%C3%A1_Strana",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q753289",
+     "url": "https://www.wikidata.org/wiki/Q753289",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "josefov",
+   "image": {
+    "file": "images/josefov.jpg",
+    "author": "Balou46",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:CZ-prag-josefov_restaur-syn.jpg"
+   },
+   "location": {
+    "latitude": 50.090278,
+    "longitude": 14.419444
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "neighbourhood"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Josefov",
+     "intro": "Josefov is a town quarter and the smallest cadastral area of Prague, Czech Republic, formerly the Jewish ghetto of the town.",
+     "narration": "Josefov is a town quarter and the smallest cadastral area of Prague, Czech Republic, formerly the Jewish ghetto of the town. It is surrounded by the Old Town. The quarter is often represented by the flag of Prague's Jewish community, a yellow Magen David on a red field.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Josefov",
+     "url": "https://en.wikipedia.org/wiki/Josefov",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q753292",
+     "url": "https://www.wikidata.org/wiki/Q753292",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "strahov-monastery",
+   "image": {
+    "file": "images/strahov-monastery.jpg",
+    "author": "Matěj Baťha",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praha,_Hradcany_-_Strahovsky_klaster_(pohled_z_ulice_Uvoz).jpg"
+   },
+   "location": {
+    "latitude": 50.085962903,
+    "longitude": 14.389281672
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic"
+   ],
+   "area": "Hradčany",
+   "content": {
+    "en": {
+     "name": "Strahov Monastery",
+     "intro": "Strahov Monastery is a Premonstratensian abbey founded in 1143 by Jindřich Zdík, Bishop John of Prague, and Vladislaus II, Duke of Bohemia.",
+     "narration": "Strahov Monastery is a Premonstratensian abbey founded in 1143 by Jindřich Zdík, Bishop John of Prague, and Vladislaus II, Duke of Bohemia. It is located in Strahov, Prague, Czech Republic.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Strahov Monastery",
+     "url": "https://en.wikipedia.org/wiki/Strahov_Monastery",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q969482",
+     "url": "https://www.wikidata.org/wiki/Q969482",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "saints-cyril-and-methodius-cathedral",
+   "image": {
+    "file": "images/saints-cyril-and-methodius-cathedral.jpg",
+    "author": "VitVit",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praha_Resslova_sv._Cyril_a_Metod%C4%9Bj_2.jpg"
+   },
+   "location": {
+    "latitude": 50.0759,
+    "longitude": 14.417
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic"
+   ],
+   "area": "Prague 2",
+   "content": {
+    "en": {
+     "name": "Saints Cyril and Methodius Cathedral",
+     "intro": "The Saints Cyril and Methodius Cathedral in Nové Město, Prague, the Czech Republic, is the principal Czech and Slovak Orthodox Church.",
+     "narration": "The Saints Cyril and Methodius Cathedral in Nové Město, Prague, the Czech Republic, is the principal Czech and Slovak Orthodox Church.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Saints Cyril and Methodius Cathedral",
+     "url": "https://en.wikipedia.org/wiki/Saints_Cyril_and_Methodius_Cathedral",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q956163",
+     "url": "https://www.wikidata.org/wiki/Q956163",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-nicholas-church-mala-strana",
+   "image": {
+    "file": "images/st-nicholas-church-mala-strana.jpg",
+    "author": "VitVit",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mal%C3%A1_Strana_kostel_sv._Mikul%C3%A1%C5%A1e_z_Pet%C5%99%C3%ADna-3.jpg"
+   },
+   "location": {
+    "latitude": 50.087778,
+    "longitude": 14.403611
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "baroque",
+    "church",
+    "historic",
+    "medieval"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "St. Nicholas Church (Malá Strana)",
+     "intro": "The Church of Saint Nicholas is a Baroque church in the Lesser Town of Prague.",
+     "narration": "The Church of Saint Nicholas is a Baroque church in the Lesser Town of Prague. It was built between 1704 and 1755 on the site where formerly a Gothic church from the 13th century stood, which was also dedicated to Saint Nicholas. It has been described as the greatest example of Prague Baroque.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St. Nicholas Church (Malá Strana)",
+     "url": "https://en.wikipedia.org/wiki/St._Nicholas_Church_%28Mal%C3%A1_Strana%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2420392",
+     "url": "https://www.wikidata.org/wiki/Q2420392",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "new-town-prague",
+   "image": {
+    "file": "images/new-town-prague.jpg",
+    "author": "VitVit",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Novom%C4%9Bstsk%C3%A1_radnice_1.jpg"
+   },
+   "location": {
+    "latitude": 50.0767,
+    "longitude": 14.4264
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "historic",
+    "medieval",
+    "modern",
+    "neighbourhood"
+   ],
+   "area": "Prague 2",
+   "content": {
+    "en": {
+     "name": "New Town, Prague",
+     "intro": "New Town is a quarter in the city of Prague in the Czech Republic.",
+     "narration": "New Town is a quarter in the city of Prague in the Czech Republic. New Town is the youngest and largest of the five independent towns that today comprise the historic center of modern Prague. New Town was founded in 1348 by Charles IV just outside the city walls to the east and south of the Old Town and encompassed an area of 7.5 km2; about three times the size of the Old Town. The population of Prague in 1378 was well over 40,000, perhaps as much as twice that, making it the 4th most populated city north of the Alps and, by area, the 3rd largest city in Europe.",
+     "longDescription": "New Town is a quarter in the city of Prague in the Czech Republic. New Town is the youngest and largest of the five independent towns that today comprise the historic center of modern Prague. New Town was founded in 1348 by Charles IV just outside the city walls to the east and south of the Old Town and encompassed an area of 7.5 km2; about three times the size of the Old Town. The population of Prague in 1378 was well over 40,000, perhaps as much as twice that, making it the 4th most populated city north of the Alps and, by area, the 3rd largest city in Europe. Although New Town can trace its current layout to its construction in the 14th century, only few churches and administrative buildings from this time survive. There are many secular and educational buildings in New Town, but also especially magnificent gothic and baroque churches. These nevertheless are not the main drawing points for tourists. New Town's most famous landmark is Wenceslas Square, which was originally built as a horsemarket and now functions as a center of commerce and tourism. In the 15th century, the Novoměstská radnice, or New Town Hall, was the site of the first of the three defenestrations of Prague.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: New Town, Prague",
+     "url": "https://en.wikipedia.org/wiki/New_Town%2C_Prague",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q753219",
+     "url": "https://www.wikidata.org/wiki/Q753219",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "dancing-house",
+   "image": {
+    "file": "images/dancing-house.jpg",
+    "author": "Josi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tan%C4%8D%C3%ADc%C3%AD_d%C5%AFm_-_Etxe_Dantzaria.jpg"
+   },
+   "location": {
+    "latitude": 50.075555555,
+    "longitude": 14.414166666
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture"
+   ],
+   "area": "Prague 2",
+   "content": {
+    "en": {
+     "name": "Dancing House",
+     "intro": "The Dancing House, or Ginger and Fred, is the nickname given to the Nationale-Nederlanden building on the Rašínovo nábřeží in Prague, Czech Republic.",
+     "narration": "The Dancing House, or Ginger and Fred, is the nickname given to the Nationale-Nederlanden building on the Rašínovo nábřeží in Prague, Czech Republic. It was designed by the Croatian-Czech architect Vlado Milunić in cooperation with Canadian-American architect Frank Gehry on a vacant riverfront plot. The building was designed in 1992. The construction, carried out by BESIX, was completed four years later in 1996. Gehry originally called the house Ginger and Fred, but the nickname Ginger & Fred is now mainly used for the restaurant located on the seventh floor of the Dancing House Hotel. Gehry himself later discarded his own idea, as he was \"afraid to import American Hollywood kitsch to Prague\".",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Dancing House",
+     "url": "https://en.wikipedia.org/wiki/Dancing_House",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q244816",
+     "url": "https://www.wikidata.org/wiki/Q244816",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "golden-lane",
+   "image": {
+    "file": "images/golden-lane.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Callej%C3%B3n_del_oro,_Praga,_Rep%C3%BAblica_Checa,_2022-07-02,_DD_139.jpg"
+   },
+   "location": {
+    "latitude": 50.0920358,
+    "longitude": 14.4041764
+   },
+   "category": "street",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "neighbourhood",
+    "street"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Golden Lane",
+     "intro": "Golden Lane is a street situated in Prague Castle, Czech Republic.",
+     "narration": "Golden Lane is a street situated in Prague Castle, Czech Republic. Originally built in the 16th century to house Rudolf II's castle guards, it takes its name from the goldsmiths that lived there in the 17th century. Golden Lane consists of small houses, painted in bright colours in the 1950s. The street originally had houses on both sides, but one side was demolished in the 19th century. Today, the lane is a part of the small and big castle rings, while there is free entry after the Prague Castle interiors close. Many of the houses are now souvenir shops, and there is a museum of medieval armory within the former 14th-century fortification accessible from Golden Lane.",
+     "longDescription": "Golden Lane is a street situated in Prague Castle, Czech Republic. Originally built in the 16th century to house Rudolf II's castle guards, it takes its name from the goldsmiths that lived there in the 17th century. Golden Lane consists of small houses, painted in bright colours in the 1950s. The street originally had houses on both sides, but one side was demolished in the 19th century. Today, the lane is a part of the small and big castle rings, while there is free entry after the Prague Castle interiors close. Many of the houses are now souvenir shops, and there is a museum of medieval armory within the former 14th-century fortification accessible from Golden Lane. The fortuneteller Matylda Průšová lived in number 14 before World War II. A sister of writer Franz Kafka rented the house number 22 in the summer of 1916; Kafka used this house to write for approximately one year. Jaroslav Seifert, who won the Nobel Prize in Literature in 1984 and who was one of the signatories of Charter 77, lived there in 1929. Golden Lane is connected with Dalibor Tower, which used to be a dungeon.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Golden Lane",
+     "url": "https://en.wikipedia.org/wiki/Golden_Lane",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1535529",
+     "url": "https://www.wikidata.org/wiki/Q1535529",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "lennon-wall",
+   "image": {
+    "file": "images/lennon-wall.jpg",
+    "author": "Adam Zivner",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:JohnLennonWall.jpg"
+   },
+   "location": {
+    "latitude": 50.086241666,
+    "longitude": 14.406947222
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Lennon Wall",
+     "intro": "The Lennon Wall or John Lennon Wall, located at Velkopřevorské náměstí, Malá Strana, is a historic legal graffiti wall in Prague, Czechia.",
+     "narration": "The Lennon Wall or John Lennon Wall, located at Velkopřevorské náměstí, Malá Strana, is a historic legal graffiti wall in Prague, Czechia. After the 1980 murder of John Lennon a mural of Lennon was painted by an unknown artist onto the wall and as more people expanded upon it, the wall slowly became a place for free expression of then communist Czechoslovakia. It has historically been used for demonstrations and carries a central theme of John Lennon, but it also features designs relating to local and global causes such as global warming. The wall has also inspired other walls across the globe, such as the Hong Kong Lennon wall.",
+     "longDescription": "The Lennon Wall or John Lennon Wall, located at Velkopřevorské náměstí, Malá Strana, is a historic legal graffiti wall in Prague, Czechia. After the 1980 murder of John Lennon a mural of Lennon was painted by an unknown artist onto the wall and as more people expanded upon it, the wall slowly became a place for free expression of then communist Czechoslovakia. It has historically been used for demonstrations and carries a central theme of John Lennon, but it also features designs relating to local and global causes such as global warming. The wall has also inspired other walls across the globe, such as the Hong Kong Lennon wall. The wall is owned by the Sovereign Military Order of Malta, which until 2019 allowed all graffiti. As of the latest reconstruction, the wall exists as a semi-legal graffiti wall; spray painting has been banned and only some areas of the wall are allowed to be used by the public.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Lennon Wall",
+     "url": "https://en.wikipedia.org/wiki/Lennon_Wall",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1630131",
+     "url": "https://www.wikidata.org/wiki/Q1630131",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "clementinum",
+   "image": {
+    "file": "images/clementinum.jpg",
+    "author": "VitVit",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Klementinum_z_Mari%C3%A1nsk%C3%A9ho_n%C3%A1m_1.jpg"
+   },
+   "location": {
+    "latitude": 50.086666666,
+    "longitude": 14.416388888
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 29,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Clementinum",
+     "intro": "The Clementinum is a historic complex of buildings in Prague which houses the National Library of the Czech Republic.",
+     "narration": "The Clementinum is a historic complex of buildings in Prague which houses the National Library of the Czech Republic. Until recently the complex hosted the National, University and Technical libraries; the City Library was also nearby on Mariánské Náměstí. In 2009, the Technical library moved to the Prague National Technical Library at Technická 6. The Municipal library is located in the adjacent building on Mariánské Náměstí, where you'll find the famous Idiom installation in the foyer.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Clementinum",
+     "url": "https://en.wikipedia.org/wiki/Clementinum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1100429",
+     "url": "https://www.wikidata.org/wiki/Q1100429",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "estates-theatre",
+   "image": {
+    "file": "images/estates-theatre.jpg",
+    "author": "VitVit",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praha_Stavovsk%C3%A9_divadlo_5.jpg"
+   },
+   "location": {
+    "latitude": 50.086111111,
+    "longitude": 14.423888888
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "Old Town",
+   "content": {
+    "en": {
+     "name": "Estates Theatre",
+     "intro": "The Estates Theatre is a historic theatre in Prague, Czech Republic.",
+     "narration": "The Estates Theatre is a historic theatre in Prague, Czech Republic. The Estates Theatre was annexed to the National Theatre in 1948 and currently draws on three artistic ensembles, opera, ballet, and drama, which perform at the Estates Theatre, the National Theatre, and the Kolowrat Theatre.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Estates Theatre",
+     "url": "https://en.wikipedia.org/wiki/Estates_Theatre",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q521155",
+     "url": "https://www.wikidata.org/wiki/Q521155",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "spanish-synagogue-prague",
+   "image": {
+    "file": "images/spanish-synagogue-prague.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sinagoga_Espa%C3%B1ola,_Praga,_Rep%C3%BAblica_Checa,_2022-07-02,_DD_29.jpg"
+   },
+   "location": {
+    "latitude": 50.09036111,
+    "longitude": 14.42083333
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 34,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "modern",
+    "moorish"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Spanish Synagogue (Prague)",
+     "intro": "The Spanish Synagogue is a former Reform Jewish synagogue, located in the area of the so-called Jewish Town, Prague, in the Czech Republic.",
+     "narration": "The Spanish Synagogue is a former Reform Jewish synagogue, located in the area of the so-called Jewish Town, Prague, in the Czech Republic. The synagogue was completed in 1868 in the Moorish Revival style on the site of the presumably oldest synagogue, Old School. In 1955 the former synagogue was permanently repurposed as a Jewish museum and is administered by the Jewish Museum in Prague. A small park with a modern statue of Franz Kafka by Jaroslav Róna is situated between the synagogue and the Church of the Holy Spirit.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Spanish Synagogue (Prague)",
+     "url": "https://en.wikipedia.org/wiki/Spanish_Synagogue_%28Prague%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q990003",
+     "url": "https://www.wikidata.org/wiki/Q990003",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "national-museum-prague",
+   "image": {
+    "file": "images/national-museum-prague.jpg",
+    "author": "VitVit",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:N%C3%A1rodn%C3%AD_muzeum_schodi%C5%A1t%C4%9B_8.jpg"
+   },
+   "location": {
+    "latitude": 50.0798433,
+    "longitude": 14.4304172
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Prague",
+   "content": {
+    "en": {
+     "name": "National Museum (Prague)",
+     "intro": "The National Museum is a public museum dedicated to natural scientific and historical collections of the Czech Republic, its history, culture and people, among others.",
+     "narration": "The National Museum is a public museum dedicated to natural scientific and historical collections of the Czech Republic, its history, culture and people, among others. The museum was founded in 1818 by Kašpar Maria Šternberg. Historian František Palacký was also strongly involved in the foundation of the museum. The National Museum houses nearly 14 million items from the areas of natural history, history, arts, music and librarianship, which are located in dozens of museum buildings. The main hall of the National Museum is located on Wenceslas Square in downtown Prague. Built in neo-Renaissance style in 1891, the building underwent significant restoration from 2011 to 2018 to mark the centennial of the Czech and Czechoslovak declaration of independence.",
+     "longDescription": "The National Museum is a public museum dedicated to natural scientific and historical collections of the Czech Republic, its history, culture and people, among others. The museum was founded in 1818 by Kašpar Maria Šternberg. Historian František Palacký was also strongly involved in the foundation of the museum. The National Museum houses nearly 14 million items from the areas of natural history, history, arts, music and librarianship, which are located in dozens of museum buildings. The main hall of the National Museum is located on Wenceslas Square in downtown Prague. Built in neo-Renaissance style in 1891, the building underwent significant restoration from 2011 to 2018 to mark the centennial of the Czech and Czechoslovak declaration of independence. Due to its dominance over the busiest intersection of Prague, the National Museum building carries a significant national importance. As such, it frequently serves as a focal point for protests, rallies, gatherings and public events.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: National Museum (Prague)",
+     "url": "https://en.wikipedia.org/wiki/National_Museum_%28Prague%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q188112",
+     "url": "https://www.wikidata.org/wiki/Q188112",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "zizkov",
+   "image": {
+    "file": "images/zizkov.jpg",
+    "author": "VitVit",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C5%BDi%C5%BEkov_z_V%C3%ADtkova.jpg"
+   },
+   "location": {
+    "latitude": 50.0872,
+    "longitude": 14.4628
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 32,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood",
+    "roman"
+   ],
+   "area": "Prague 3",
+   "content": {
+    "en": {
+     "name": "Žižkov",
+     "intro": "Žižkov is a cadastral district of Prague, Czech Republic.",
+     "narration": "Žižkov is a cadastral district of Prague, Czech Republic. Most of Žižkov lies in the municipal and administrative district of Prague 3, except for very small parts which are in Prague 8 and Prague 10. Prior to 1922, Žižkov was an independent city. The district is named after Hussite military leader Jan Žižka. It is situated south of Vitkov hill, site of the Battle of Vitkov Hill on 14 July 1420, where Žižka's peasant army decisively defeated the forces of Sigismund, Holy Roman Emperor.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Žižkov",
+     "url": "https://en.wikipedia.org/wiki/%C5%BDi%C5%BEkov",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q378120",
+     "url": "https://www.wikidata.org/wiki/Q378120",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "wallenstein-palace",
+   "image": {
+    "file": "images/wallenstein-palace.jpg",
+    "author": "V. Groulík. Original uploader was Martinect at cs.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valdstejnsky_Palace_Lobkowicz_wing.jpg"
+   },
+   "location": {
+    "latitude": 50.09,
+    "longitude": 14.40666667
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "baroque",
+    "hidden",
+    "historic"
+   ],
+   "area": "Malá Strana",
+   "content": {
+    "en": {
+     "name": "Wallenstein Palace",
+     "intro": "Waldstein Palace is a Baroque palace in Malá Strana, Prague, that served as a residence for Imperial Generalissimo Albrecht von Waldstein and now houses the Senate of the Czech Republic.",
+     "narration": "Waldstein Palace is a Baroque palace in Malá Strana, Prague, that served as a residence for Imperial Generalissimo Albrecht von Waldstein and now houses the Senate of the Czech Republic.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Wallenstein Palace",
+     "url": "https://en.wikipedia.org/wiki/Wallenstein_Palace",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q569877",
+     "url": "https://www.wikidata.org/wiki/Q569877",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "basilica-of-st-peter-and-st-paul-prague",
+   "image": {
+    "file": "images/basilica-of-st-peter-and-st-paul-prague.jpg",
+    "author": "VitVit",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vy%C5%A1ehrad_bazilika_1.jpg"
+   },
+   "location": {
+    "latitude": 50.06438,
+    "longitude": 14.41784
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "medieval",
+    "river"
+   ],
+   "area": "Vyšehrad",
+   "content": {
+    "en": {
+     "name": "Basilica of St. Peter and St. Paul, Prague",
+     "intro": "The Basilica of St.",
+     "narration": "The Basilica of St. Peter and St. Paul is a neo-Gothic collegiate and parish church in Vyšehrad fortress in Prague, Czech Republic. Founded in 1070–1080 by the King Vratislaus II of Bohemia, the Romanesque basilica suffered a fire in the year 1249 and has been rebuilt in Gothic and later in neo-Gothic style. The basilica features an impressive stone mosaic above its entry, and its twin 58 m towers can be seen atop a hill to the south from along the Vltava River in central Prague. Behind the church is located large park and Vyšehrad cemetery, the final resting place of many famous Czechs, including author Karel Čapek and composer Antonín Dvořák.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Basilica of St. Peter and St. Paul, Prague",
+     "url": "https://en.wikipedia.org/wiki/Basilica_of_St._Peter_and_St._Paul%2C_Prague",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2916171",
+     "url": "https://www.wikidata.org/wiki/Q2916171",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "charles-square",
+   "image": {
+    "file": "images/charles-square.jpg",
+    "author": "Ondřej Kořínek",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Park_Karlovo_n%C3%A1m%C4%9Bst%C3%AD_(Nov%C3%A9_M%C4%9Bsto)_(4).jpg"
+   },
+   "location": {
+    "latitude": 50.07583,
+    "longitude": 14.42083
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "historic",
+    "medieval",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Prague 2",
+   "content": {
+    "en": {
+     "name": "Charles Square",
+     "intro": "Charles Square is a city square in the New Town of Prague, Czech Republic.",
+     "narration": "Charles Square is a city square in the New Town of Prague, Czech Republic. At roughly 80,550 m² it is one of the largest squares in the world and was the largest town square of the medieval Europe. Founded in 1348 as the main square of the New Town by Charles IV, it was known as Dobytčí trh from the 15th century and finally named after its founder in 1848. The central portion of the square was turned into a park in the 1860s. The square is now one of the main transport hubs of the city centre with Karlovo náměstí metro station and numerous tram lines and busy roads crossing it in all directions.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Charles Square",
+     "url": "https://en.wikipedia.org/wiki/Charles_Square",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1514053",
+     "url": "https://www.wikidata.org/wiki/Q1514053",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "old-town-hall-prague",
+   "image": {
+    "file": "images/old-town-hall-prague.jpg",
+    "author": "Hans Peter Schaefer, http://www.reserv-a-rt.de",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prag_Altstaedter_Ring_rathaus.jpg"
+   },
+   "location": {
+    "latitude": 50.087108305,
+    "longitude": 14.420606888
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Old Town Hall (Prague)",
+     "intro": "The Old Town Hall in Prague, the capital of the Czech Republic, is one of the city's most visited monuments.",
+     "narration": "The Old Town Hall in Prague, the capital of the Czech Republic, is one of the city's most visited monuments. It is located in Old Town Square.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Old Town Hall (Prague)",
+     "url": "https://en.wikipedia.org/wiki/Old_Town_Hall_%28Prague%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2332231",
+     "url": "https://www.wikidata.org/wiki/Q2332231",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "rudolfinum",
+   "image": {
+    "file": "images/rudolfinum.jpg",
+    "author": "Aconcagua (talk)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rudolfinum_Prague.jpg"
+   },
+   "location": {
+    "latitude": 50.09,
+    "longitude": 14.4156
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 31,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "river"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Rudolfinum",
+     "intro": "The Rudolfinum is a building in Prague, Czech Republic.",
+     "narration": "The Rudolfinum is a building in Prague, Czech Republic. It is designed in the neo-Renaissance style and is situated on Jan Palach Square on the bank of the river Vltava. Since its opening in 1885, it has been associated with music and art. Currently, the Czech Philharmonic Orchestra and Galerie Rudolfinum are based in the building. Its largest music auditorium, Dvořák Hall, is one of the main venues of the Prague Spring International Music Festival and is noted for its excellent acoustics.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Rudolfinum",
+     "url": "https://en.wikipedia.org/wiki/Rudolfinum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1130137",
+     "url": "https://www.wikidata.org/wiki/Q1130137",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "jan-hus-memorial",
+   "image": {
+    "file": "images/jan-hus-memorial.jpg",
+    "author": "Petr Vilgus",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prague_hus_statue.jpg"
+   },
+   "location": {
+    "latitude": 50.08777778,
+    "longitude": 14.42111111
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Jan Hus Memorial",
+     "intro": "The Jan Hus Memorial stands at one end of Old Town Square, Prague in the Czech Republic.",
+     "narration": "The Jan Hus Memorial stands at one end of Old Town Square, Prague in the Czech Republic. The huge monument depicts victorious Hussite warriors and Protestants who were forced into exile 200 years after Hus in the wake of the lost Battle of the White Mountain during the Thirty Years' War, and a young mother who symbolises national rebirth. The monument was so large that the sculptor designed and built his own villa and studio where the work could be carried out. It was unveiled in 1915 to commemorate the 500th anniversary of Jan Hus' execution. The memorial was designed by Ladislav Šaloun and paid for solely by public donations.",
+     "longDescription": "The Jan Hus Memorial stands at one end of Old Town Square, Prague in the Czech Republic. The huge monument depicts victorious Hussite warriors and Protestants who were forced into exile 200 years after Hus in the wake of the lost Battle of the White Mountain during the Thirty Years' War, and a young mother who symbolises national rebirth. The monument was so large that the sculptor designed and built his own villa and studio where the work could be carried out. It was unveiled in 1915 to commemorate the 500th anniversary of Jan Hus' execution. The memorial was designed by Ladislav Šaloun and paid for solely by public donations. Born in 1369, Hus became an influential religious thinker, philosopher, and reformer in Prague. He was a key predecessor to the Protestant movement of the sixteenth century. In his works he criticized religious moral decay of the Catholic Church. Accordingly, the Czech patriot Hus believed that mass should be given in the vernacular, or local language, rather than in Latin. He was inspired by the teachings of John Wycliffe. In the following century, Hus was followed by many other reformers - e.g. Martin Luther, John Calvin and Huldrych Zwingli. Hus was ultimately condemned by the Council of Constance and burned at the stake in 1415. This led to the Hussite Wars.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Jan Hus Memorial",
+     "url": "https://en.wikipedia.org/wiki/Jan_Hus_Memorial",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q3499497",
+     "url": "https://www.wikidata.org/wiki/Q3499497",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "national-gallery-prague",
+   "image": {
+    "file": "images/national-gallery-prague.jpg",
+    "author": "Czech Wikipedia user Packa",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praha_Veletr%C5%BEn%C3%AD_pal%C3%A1c_jih.jpg"
+   },
+   "location": {
+    "latitude": 50.101111,
+    "longitude": 14.4325
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Prague",
+   "content": {
+    "en": {
+     "name": "National Gallery Prague",
+     "intro": "The National Gallery Prague, formerly the National Gallery in Prague, is a state-owned art gallery in Prague, which manages the largest collection of art in the Czech Republic and presents masterpieces of Czech and…",
+     "narration": "The National Gallery Prague, formerly the National Gallery in Prague, is a state-owned art gallery in Prague, which manages the largest collection of art in the Czech Republic and presents masterpieces of Czech and international fine art in permanent and temporary exhibitions. The collections of the gallery are not housed in a single building, but are presented in a number of historic structures within the city of Prague, as well as other places. The largest of the gallery sites is the Trade Fair Palace, which houses the National Gallery's collection of modern art.",
+     "longDescription": "The National Gallery Prague, formerly the National Gallery in Prague, is a state-owned art gallery in Prague, which manages the largest collection of art in the Czech Republic and presents masterpieces of Czech and international fine art in permanent and temporary exhibitions. The collections of the gallery are not housed in a single building, but are presented in a number of historic structures within the city of Prague, as well as other places. The largest of the gallery sites is the Trade Fair Palace, which houses the National Gallery's collection of modern art. Other important exhibition spaces are located in the Convent of St Agnes of Bohemia, the Kinský Palace, the Salm Palace, the Schwarzenberg Palace, the Sternberg Palace, and the Wallenstein Riding School. Founded in 1796, it is one of the world's oldest public art galleries and one of the largest museums in Central Europe.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: National Gallery Prague",
+     "url": "https://en.wikipedia.org/wiki/National_Gallery_Prague",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1419555",
+     "url": "https://www.wikidata.org/wiki/Q1419555",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-nicholas-church-stare-mesto",
+   "image": {
+    "file": "images/st-nicholas-church-stare-mesto.jpg",
+    "author": "A.Savin",
+    "license": "FAL",
+    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_Old_Town_Square_img1.jpg"
+   },
+   "location": {
+    "latitude": 50.087777777,
+    "longitude": 14.419861111
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "baroque",
+    "church",
+    "hidden",
+    "historic",
+    "medieval"
+   ],
+   "area": "Old Town",
+   "content": {
+    "en": {
+     "name": "St. Nicholas Church (Staré Město)",
+     "intro": "The Church of Saint Nicholas is a Late-Gothic and Baroque church in the Old Town of Prague.",
+     "narration": "The Church of Saint Nicholas is a Late-Gothic and Baroque church in the Old Town of Prague. It was built between 1732-1737 on the site of a Gothic church from the 13th century which was also dedicated to Saint Nicholas. The church was formerly used by the Czech and Slovak Orthodox Church. Since 1920 it has been the main church of the Czechoslovak Hussite Church and its Prague diocese. During the Prague uprising in 1945, the church was used by the Czech partisans as a concealed site for Radio Prague, as the main radio building was under attack by the Waffen-SS.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St. Nicholas Church (Staré Město)",
+     "url": "https://en.wikipedia.org/wiki/St._Nicholas_Church_%28Star%C3%A9_M%C4%9Bsto%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2595999",
+     "url": "https://www.wikidata.org/wiki/Q2595999",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "bethlehem-chapel",
+   "image": {
+    "file": "images/bethlehem-chapel.jpg",
+    "author": "http://cs.wikipedia.org/wiki/Wikipedista_diskuse:Kf",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Betlemska_kaple.jpg"
+   },
+   "location": {
+    "latitude": 50.084305555,
+    "longitude": 14.4175
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 23,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "medieval"
+   ],
+   "area": "Old Town",
+   "content": {
+    "en": {
+     "name": "Bethlehem Chapel",
+     "intro": "The Bethlehem Chapel is a medieval religious building in the Old Town of Prague, Czech Republic.",
+     "narration": "The Bethlehem Chapel is a medieval religious building in the Old Town of Prague, Czech Republic. It is notable for its connection with the origins of the Bohemian Reformation, especially with the Czech reformer Jan Hus. The chapel is named in honor of the Holy Innocents massacred in Bethlehem by Herod the Great in an attempt to kill the newborn Jesus Christ.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Bethlehem Chapel",
+     "url": "https://en.wikipedia.org/wiki/Bethlehem_Chapel",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q831362",
+     "url": "https://www.wikidata.org/wiki/Q831362",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "national-monument-at-vitkov",
+   "image": {
+    "file": "images/national-monument-at-vitkov.jpg",
+    "author": "Michal Kmínek",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pam%C3%A1tn%C3%ADk_N%C3%A1rodn%C3%AD_pam%C3%A1tn%C3%ADk_(%C5%BDi%C5%BEkov).JPG"
+   },
+   "location": {
+    "latitude": 50.0883,
+    "longitude": 14.4494
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Prague 3",
+   "content": {
+    "en": {
+     "name": "National Monument at Vítkov",
+     "intro": "The National Monument at Vítkov on top of Vítkov Hill in Prague's Žižkov district is one of the most important buildings commemorating the Czech statehood.",
+     "narration": "The National Monument at Vítkov on top of Vítkov Hill in Prague's Žižkov district is one of the most important buildings commemorating the Czech statehood. It includes the third-largest bronze rider statue in the world, of Jan Žižka, who defeated the Catholic forces led by King Sigismund in 1420 at the Battle of Vítkov Hill. The Monument also includes the Ceremonial Hall, an exhibition entitled Crossroads of Czech and Czechoslovak Statehood, the Tomb of the Unknown Soldier and other exhibition halls. The Monument was built from 1928 to 1938 in honor of the World War I Czechoslovak legionaries. After 1948, it was used to promote the communist regime. Between 1954 and 1962, it housed the mausoleum of Klement Gottwald.",
+     "longDescription": "The National Monument at Vítkov on top of Vítkov Hill in Prague's Žižkov district is one of the most important buildings commemorating the Czech statehood. It includes the third-largest bronze rider statue in the world, of Jan Žižka, who defeated the Catholic forces led by King Sigismund in 1420 at the Battle of Vítkov Hill. The Monument also includes the Ceremonial Hall, an exhibition entitled Crossroads of Czech and Czechoslovak Statehood, the Tomb of the Unknown Soldier and other exhibition halls. The Monument was built from 1928 to 1938 in honor of the World War I Czechoslovak legionaries. After 1948, it was used to promote the communist regime. Between 1954 and 1962, it housed the mausoleum of Klement Gottwald. In 2000, the monument was acquired by the National Museum, which conducted a major restoration work. After over two years of reconstruction, the Memorial was opened to the public on 29 October 2009.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: National Monument at Vítkov",
+     "url": "https://en.wikipedia.org/wiki/National_Monument_at_V%C3%ADtkov",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q3333173",
+     "url": "https://www.wikidata.org/wiki/Q3333173",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "church-of-our-lady-of-victories",
+   "image": {
+    "file": "images/church-of-our-lady-of-victories.jpg",
+    "author": "VitVit",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mal%C3%A1_Strana_kostel_PM_V%C3%ADt%C4%9Bzn%C3%A9_3.jpg"
+   },
+   "location": {
+    "latitude": 50.0857,
+    "longitude": 14.4036
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 33,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Church of Our Lady of Victories",
+     "intro": "The Church of Our Lady of Victories, also referred as the Shrine of the Infant Jesus of Prague, in Malá Strana, the \"Lesser Quarter\" of Prague, is a church governed and administered by the Discalced Carmelites.",
+     "narration": "The Church of Our Lady of Victories, also referred as the Shrine of the Infant Jesus of Prague, in Malá Strana, the \"Lesser Quarter\" of Prague, is a church governed and administered by the Discalced Carmelites. The shrine is home to the famed statue called the Infant Jesus of Prague. The statue, which originated in Spain, is a 16th-century representation of infant Child Jesus holding a globus cruciger. It was donated to the Carmelite friars in 1628 by Polyxena, First Princess of the House of Lobkowicz.",
+     "longDescription": "The Church of Our Lady of Victories, also referred as the Shrine of the Infant Jesus of Prague, in Malá Strana, the \"Lesser Quarter\" of Prague, is a church governed and administered by the Discalced Carmelites. The shrine is home to the famed statue called the Infant Jesus of Prague. The statue, which originated in Spain, is a 16th-century representation of infant Child Jesus holding a globus cruciger. It was donated to the Carmelite friars in 1628 by Polyxena, First Princess of the House of Lobkowicz. Pope Leo XII granted its first pontifical decree of canonical coronation on 24 September 1824, signed and notarized by Cardinal Pietro Francesco Galleffi for the Patriarchal Council of the \"Vatican Chapter\", as the first Christological image granted this prestigious honor. On 30 March 1913, Pope Pius X granted authorization to erect the Confraternity of the Infant Jesus of Prague based on former regulations promulgated by Pope Clement VIII, which was signed and notarized by Cardinal Rafael Merry del Val. Pope Benedict XVI crowned the image for the second time during his Apostolic visit to the Czech Republic on 26 September 2009. The venerated image, along with its canoness custodians celebrated its 200 years of pontifical coronation in 2024.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Church of Our Lady of Victories",
+     "url": "https://en.wikipedia.org/wiki/Church_of_Our_Lady_of_Victories",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1503199",
+     "url": "https://www.wikidata.org/wiki/Q1503199",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "stalin-monument-prague",
+   "image": {
+    "file": "images/stalin-monument-prague.jpg",
+    "author": "FOTO:Fortepan — ID 7365: Adományozó/Donor: Szent-tamási Mihály. archive copy at the Wayback Machine",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Letna-park._Eur%C3%B3pa_legnagyobb,_30_m%C3%A9teres_Szt%C3%A1lin_szobra_volt_(%C3%A1llt_1962-ig)._Ma_egy_25_m%C3%A9teres,_m%C5%B1k%C3%B6d%C5%91_metron%C3%B3m_van_a_hely%C3%A9n._Fortepan_7365_(cropped).jpg"
+   },
+   "location": {
+    "latitude": 50.09472308,
+    "longitude": 14.41598833
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Prague",
+   "content": {
+    "en": {
+     "name": "Stalin Monument (Prague)",
+     "intro": "Stalin's Monument was a 15.5 m granite statue honoring Joseph Stalin in Prague, Czechoslovakia.",
+     "narration": "Stalin's Monument was a 15.5 m granite statue honoring Joseph Stalin in Prague, Czechoslovakia. It was unveiled on 1 May 1955 after more than 5+1⁄2 years of work, and was the world's largest representation of Stalin. The sculpture was demolished in late 1962.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Stalin Monument (Prague)",
+     "url": "https://en.wikipedia.org/wiki/Stalin_Monument_%28Prague%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1706629",
+     "url": "https://www.wikidata.org/wiki/Q1706629",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "prague-1",
+   "image": {
+    "file": "images/prague-1.jpg",
+    "author": "A.Savin",
+    "license": "FAL",
+    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_View_from_Petrinska_Tower_img2.jpg"
+   },
+   "location": {
+    "latitude": 50.086388888,
+    "longitude": 14.411111111
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "medieval",
+    "neighbourhood"
+   ],
+   "area": "Prague",
+   "content": {
+    "en": {
+     "name": "Prague 1",
+     "intro": "Prague 1, formally the Prague 1 Municipal District, is a second-tier municipality in Prague.",
+     "narration": "Prague 1, formally the Prague 1 Municipal District, is a second-tier municipality in Prague. It is co-extensive with the national administrative district of the same name. Prague 1 includes most of the medieval heart of the city. All of Staré Město and Josefov are in the district, as are most of Malá Strana, Hradčany and Nové Město. Tiny parts of Holešovice and Vinohrady round out the district. The district has remained intact since its creation in 1960. Most of Prague 1 is a UNESCO World Heritage Site. Almost all of Prague's major tourist sites, including Prague Castle, Old Town Square, the Charles Bridge and the above-mentioned Jewish Quarter, are in the district.",
+     "longDescription": "Prague 1, formally the Prague 1 Municipal District, is a second-tier municipality in Prague. It is co-extensive with the national administrative district of the same name. Prague 1 includes most of the medieval heart of the city. All of Staré Město and Josefov are in the district, as are most of Malá Strana, Hradčany and Nové Město. Tiny parts of Holešovice and Vinohrady round out the district. The district has remained intact since its creation in 1960. Most of Prague 1 is a UNESCO World Heritage Site. Almost all of Prague's major tourist sites, including Prague Castle, Old Town Square, the Charles Bridge and the above-mentioned Jewish Quarter, are in the district. The Parliament of the Czech Republic and the offices of the government are in Malá Strana, while the main building of Charles University is in Staré Město. As of the end of 2004, 32,552 people lived in 18,821 homes in the district. The district covers 5.53 square kilometres. A Prague 1 address is considered quite prestigious, and real estate there is the most expensive in the city.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Prague 1",
+     "url": "https://en.wikipedia.org/wiki/Prague_1",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q973974",
+     "url": "https://www.wikidata.org/wiki/Q973974",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "o2-arena-prague",
+   "image": {
+    "file": "images/o2-arena-prague.jpg",
+    "author": "VitVit",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Libe%C5%88_O2_ar%C3%A9na_a_busy.jpg"
+   },
+   "location": {
+    "latitude": 50.104167,
+    "longitude": 14.493611
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden"
+   ],
+   "area": "Prague 9",
+   "content": {
+    "en": {
+     "name": "O2 Arena (Prague)",
+     "intro": "O2 Arena is a multi-purpose arena, in Prague, Czech Republic.",
+     "narration": "O2 Arena is a multi-purpose arena, in Prague, Czech Republic. It is home to HC Sparta Prague of the Czech Extraliga and is the third-largest ice hockey arena in Europe. It has hosted important sport events such as three Ice Hockey World Championships, the first edition of the prestigious tennis Laver Cup, the European Athletics Indoor Championships, the Euroleague Final Four 2006, the World Floorball Championship, the 2012 Davis Cup finals, four Fed Cup finals, as well as a handful of NHL and KHL games, including a 2014 Gagarin Cup final. It also hosts stage shows, such as concerts, and other large-scale events. The highest arena capacity reached was 20,208 people.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: O2 Arena (Prague)",
+     "url": "https://en.wikipedia.org/wiki/O2_Arena_%28Prague%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q692207",
+     "url": "https://www.wikidata.org/wiki/Q692207",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "vinohrady",
+   "image": {
+    "file": "images/vinohrady.jpg",
+    "author": "Chmee2",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Riegrovy_sady3.jpg"
+   },
+   "location": {
+    "latitude": 50.075555555,
+    "longitude": 14.445833333
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "historic",
+    "neighbourhood"
+   ],
+   "area": "Prague 4",
+   "content": {
+    "en": {
+     "name": "Vinohrady",
+     "intro": "Vinohrady is a cadastral district in Prague.",
+     "narration": "Vinohrady is a cadastral district in Prague. It is so named because the area was once covered in vineyards dating from the 14th century. Vinohrady lies in the municipal and administrative districts of Prague 2, Prague 3 and Prague 10, little parts also of Prague 1 and Prague 4. Between 1788–1867 it was called Viničné Hory. From 1867 to 1968 it was called Královské Vinohrady. In 1875, Královské Vinohrady was divided into two parts, Královské Vinohrady I and Královské Vinohrady II, the part I was renamed to Žižkov and the part II to Královské Vinohrady in 1877. In 1922 Královské Vinohrady was made part of Prague as district XII.",
+     "longDescription": "Vinohrady is a cadastral district in Prague. It is so named because the area was once covered in vineyards dating from the 14th century. Vinohrady lies in the municipal and administrative districts of Prague 2, Prague 3 and Prague 10, little parts also of Prague 1 and Prague 4. Between 1788–1867 it was called Viničné Hory. From 1867 to 1968 it was called Královské Vinohrady. In 1875, Královské Vinohrady was divided into two parts, Královské Vinohrady I and Královské Vinohrady II, the part I was renamed to Žižkov and the part II to Královské Vinohrady in 1877. In 1922 Královské Vinohrady was made part of Prague as district XII. In 1949, the west part was conjoined with Prague 2 and the east part remain separate district Prague 12. In 1960, when Prague's divisions were reduced from 16 to 10 administrative districts, the north part of Prague 12 was conjoined with Žižkov into Prague 3 and the south part was joined to Prague 10. Local patriots say that the real reason was that Královské Vinohrady was known as a \"bourgeois\" district and thus politically unreliable for the then-ruling Communist Party of Czechoslovakia. The historic part of Prague Main Railway Station is situated at the margin of Vinohrady. City Electric Tramway of Královské Vinohrady were a base of the Prague net of municipal electric tramway.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Vinohrady",
+     "url": "https://en.wikipedia.org/wiki/Vinohrady",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q662985",
+     "url": "https://www.wikidata.org/wiki/Q662985",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "head-of-franz-kafka",
+   "image": {
+    "file": "images/head-of-franz-kafka.jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:David-%C4%8Cern%C3%BD,-Franz-Kafka,-opposite_orientation-2014).jpg"
+   },
+   "location": {
+    "latitude": 50.081666666,
+    "longitude": 14.420833333
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 27,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Prague 1",
+   "content": {
+    "en": {
+     "name": "Head of Franz Kafka",
+     "intro": "The Head of Franz Kafka, also known as the Statue of Kafka, is an outdoor kinetic sculpture by David Černý depicting Czech German-language writer Franz Kafka, installed on 31 October 2014 outside of the Quadrio…",
+     "narration": "The Head of Franz Kafka, also known as the Statue of Kafka, is an outdoor kinetic sculpture by David Černý depicting Czech German-language writer Franz Kafka, installed on 31 October 2014 outside of the Quadrio shopping mall in Prague, Czech Republic. The price was 30 million crowns, paid by the investor CPI Property Group together with the adjacent Quadrio complex. Kafka himself worked in the nearby building of a saving bank.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Head of Franz Kafka",
+     "url": "https://en.wikipedia.org/wiki/Head_of_Franz_Kafka",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q29169058",
+     "url": "https://www.wikidata.org/wiki/Q29169058",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "prague-zoo",
+   "image": {
+    "file": "images/prague-zoo.jpg",
+    "author": "Altaipanther",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zoo_Praha.JPG"
+   },
+   "location": {
+    "latitude": 50.116944,
+    "longitude": 14.406111
+   },
+   "category": "park",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 8,
+   "tags": [
+    "hidden",
+    "park",
+    "scenic"
+   ],
+   "area": "Troja",
+   "content": {
+    "en": {
+     "name": "Prague Zoo",
+     "intro": "Prague Zoological Garden is a zoo in Prague, Czech Republic.",
+     "narration": "Prague Zoological Garden is a zoo in Prague, Czech Republic. It was opened in 1931 with the goal to \"advance the study of zoology, protect wildlife, and educate the public\" in the district of Troja in the north of Prague. In 2013, the zoo occupied 58 hectares with 50 hectares in use for exhibits, and housed around 5,000 animals from 676 species, including 132 species listed as threatened. The zoo is rated as the seventh best zoo in the world by Forbes Travel Guide in 2007, and is rated as the fifth best in the world by TripAdvisor. The zoo director is Lenka Poliaková.",
+     "longDescription": "Prague Zoological Garden is a zoo in Prague, Czech Republic. It was opened in 1931 with the goal to \"advance the study of zoology, protect wildlife, and educate the public\" in the district of Troja in the north of Prague. In 2013, the zoo occupied 58 hectares with 50 hectares in use for exhibits, and housed around 5,000 animals from 676 species, including 132 species listed as threatened. The zoo is rated as the seventh best zoo in the world by Forbes Travel Guide in 2007, and is rated as the fifth best in the world by TripAdvisor. The zoo director is Lenka Poliaková. The zoo has contributed significantly to saving Przewalski's horse; for many years, it was the leading breeder of the subspecies and these horses are transported to the Mongolian steppes.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Prague Zoo",
+     "url": "https://en.wikipedia.org/wiki/Prague_Zoo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q220086",
+     "url": "https://www.wikidata.org/wiki/Q220086",
+     "license": "CC0"
+    }
+   ]
+  }
+ ]
+}

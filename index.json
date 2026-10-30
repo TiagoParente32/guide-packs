@@ -1,0 +1,440 @@
+{
+ "format": 1,
+ "cities": [
+  {
+   "id": "amsterdam",
+   "name": "Amsterdam",
+   "country": "Netherlands",
+   "center": {
+    "latitude": 52.3730796,
+    "longitude": 4.8924534
+   },
+   "bounds": {
+    "south": 52.2781742,
+    "north": 52.4310638,
+    "west": 4.7287776,
+    "east": 5.0791622
+   },
+   "languages": [
+    "en"
+   ],
+   "quality": "generated",
+   "placeCount": 45,
+   "version": 1,
+   "hero": {
+    "file": "images/de-wallen.jpg",
+    "author": "Rungbachduong",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:De_Wallen.JPG"
+   },
+   "packUrl": "cities/amsterdam/pack.json",
+   "generatedAt": "2026-10-30T14:53:12Z",
+   "sizeBytes": 7227779
+  },
+  {
+   "id": "barcelona",
+   "name": "Barcelona",
+   "country": "Spain",
+   "center": {
+    "latitude": 41.3825802,
+    "longitude": 2.177073
+   },
+   "bounds": {
+    "south": 41.3170354,
+    "north": 41.4679135,
+    "west": 2.0524977,
+    "east": 2.2283555
+   },
+   "languages": [
+    "en"
+   ],
+   "quality": "generated",
+   "placeCount": 45,
+   "version": 1,
+   "hero": {
+    "file": "images/sagrada-familia.jpg",
+    "author": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SF_maig_2026.jpg"
+   },
+   "packUrl": "cities/barcelona/pack.json",
+   "generatedAt": "2026-10-30T15:01:46Z",
+   "sizeBytes": 6871916
+  },
+  {
+   "id": "berlin",
+   "name": "Berlin",
+   "country": "Germany",
+   "center": {
+    "latitude": 52.5173885,
+    "longitude": 13.3951309
+   },
+   "bounds": {
+    "south": 52.3382448,
+    "north": 52.6755087,
+    "west": 13.088345,
+    "east": 13.7611609
+   },
+   "languages": [
+    "en"
+   ],
+   "quality": "generated",
+   "placeCount": 45,
+   "version": 1,
+   "hero": {
+    "file": "images/fernsehturm-berlin.jpg",
+    "author": "L-BBE",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tv-turm_-_panoramio.jpg"
+   },
+   "packUrl": "cities/berlin/pack.json",
+   "generatedAt": "2026-10-30T14:55:14Z",
+   "sizeBytes": 6516572
+  },
+  {
+   "id": "edinburgh",
+   "name": "Edinburgh",
+   "country": "United Kingdom",
+   "center": {
+    "latitude": 55.9533456,
+    "longitude": -3.1883749
+   },
+   "bounds": {
+    "south": 55.8187919,
+    "north": 56.0040837,
+    "west": -3.4495326,
+    "east": -3.0749528
+   },
+   "languages": [
+    "en"
+   ],
+   "quality": "generated",
+   "placeCount": 45,
+   "version": 1,
+   "hero": {
+    "file": "images/edinburgh-castle.jpg",
+    "author": "Stephencdickson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_from_the_Grassmarket.jpg"
+   },
+   "packUrl": "cities/edinburgh/pack.json",
+   "generatedAt": "2026-10-30T15:01:09Z",
+   "sizeBytes": 7064986
+  },
+  {
+   "id": "florence",
+   "name": "Florence",
+   "country": "Italy",
+   "center": {
+    "latitude": 43.7697955,
+    "longitude": 11.2556404
+   },
+   "bounds": {
+    "south": 43.7258716,
+    "north": 43.8354631,
+    "west": 11.1497598,
+    "east": 11.3389044
+   },
+   "languages": [
+    "en"
+   ],
+   "quality": "generated",
+   "placeCount": 45,
+   "version": 1,
+   "hero": {
+    "file": "images/florence-cathedral.jpg",
+    "author": "Petar Milošević",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Florence_Duomo_from_Michelangelo_hill.jpg"
+   },
+   "packUrl": "cities/florence/pack.json",
+   "generatedAt": "2026-10-30T14:44:01Z",
+   "sizeBytes": 6758607
+  },
+  {
+   "id": "london",
+   "name": "London",
+   "country": "United Kingdom",
+   "center": {
+    "latitude": 51.5074456,
+    "longitude": -0.1277653
+   },
+   "bounds": {
+    "south": 51.2867601,
+    "north": 51.6918741,
+    "west": -0.5103751,
+    "east": 0.3340155
+   },
+   "languages": [
+    "en"
+   ],
+   "quality": "generated",
+   "placeCount": 45,
+   "version": 1,
+   "hero": {
+    "file": "images/trafalgar-square.jpg",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trafalgar_Square,_London_2_-_Jun_2009.jpg"
+   },
+   "packUrl": "cities/london/pack.json",
+   "generatedAt": "2026-10-30T15:01:06Z",
+   "sizeBytes": 6644255
+  },
+  {
+   "id": "madrid",
+   "name": "Madrid",
+   "country": "Spain",
+   "center": {
+    "latitude": 40.416782,
+    "longitude": -3.703507
+   },
+   "bounds": {
+    "south": 40.3119774,
+    "north": 40.6437293,
+    "west": -3.8889539,
+    "east": -3.5183264
+   },
+   "languages": [
+    "en"
+   ],
+   "quality": "generated",
+   "placeCount": 45,
+   "version": 1,
+   "hero": {
+    "file": "images/plaza-mayor-madrid.jpg",
+    "author": "Draceane",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madrid,_Plaza_Mayor,_2016,_(02).jpg"
+   },
+   "packUrl": "cities/madrid/pack.json",
+   "generatedAt": "2026-10-30T15:01:25Z",
+   "sizeBytes": 7461694
+  },
+  {
+   "id": "paris",
+   "name": "Paris",
+   "country": "France",
+   "center": {
+    "latitude": 48.8534951,
+    "longitude": 2.3483915
+   },
+   "bounds": {
+    "south": 48.8155755,
+    "north": 48.902156,
+    "west": 2.224122,
+    "east": 2.4697602
+   },
+   "languages": [
+    "en"
+   ],
+   "quality": "generated",
+   "placeCount": 45,
+   "version": 1,
+   "hero": {
+    "file": "images/eiffel-tower.jpg",
+    "author": "Benh LIEU SONG",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons.jpg"
+   },
+   "packUrl": "cities/paris/pack.json",
+   "generatedAt": "2026-10-30T14:36:11Z",
+   "sizeBytes": 6324366
+  },
+  {
+   "id": "porto",
+   "name": "Porto",
+   "country": "Portugal",
+   "center": {
+    "latitude": 41.1502195,
+    "longitude": -8.6103497
+   },
+   "bounds": {
+    "south": 41.1383507,
+    "north": 41.1859353,
+    "west": -8.691289,
+    "east": -8.5520792
+   },
+   "languages": [
+    "en",
+    "pt-PT"
+   ],
+   "quality": "generated",
+   "placeCount": 45,
+   "version": 1,
+   "hero": {
+    "file": "images/dom-luis-i-bridge.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puente_Don_Luis_I,_Oporto,_Portugal,_2012-05-09,_DD_13.JPG"
+   },
+   "packUrl": "cities/porto/pack.json",
+   "generatedAt": "2026-10-30T00:34:58Z",
+   "sizeBytes": 6845121
+  },
+  {
+   "id": "prague",
+   "name": "Prague",
+   "country": "Czechia",
+   "center": {
+    "latitude": 50.0874654,
+    "longitude": 14.4212535
+   },
+   "bounds": {
+    "south": 49.9419006,
+    "north": 50.1774302,
+    "west": 14.2244355,
+    "east": 14.7067867
+   },
+   "languages": [
+    "en"
+   ],
+   "quality": "generated",
+   "placeCount": 45,
+   "version": 1,
+   "hero": {
+    "file": "images/prague-astronomical-clock.jpg",
+    "author": "Steve Collis from Melbourne, Australia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Astronomical_Clock_(8341899828).jpg"
+   },
+   "packUrl": "cities/prague/pack.json",
+   "generatedAt": "2026-10-30T15:00:07Z",
+   "sizeBytes": 7726424
+  },
+  {
+   "id": "rome",
+   "name": "Rome",
+   "country": "Italy",
+   "center": {
+    "latitude": 41.8933203,
+    "longitude": 12.4829321
+   },
+   "bounds": {
+    "south": 41.6556417,
+    "north": 42.1410285,
+    "west": 12.2344416,
+    "east": 12.8557603
+   },
+   "languages": [
+    "en"
+   ],
+   "quality": "generated",
+   "placeCount": 45,
+   "version": 1,
+   "hero": {
+    "file": "images/colosseum.jpg",
+    "author": "FeaturedPics",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg"
+   },
+   "packUrl": "cities/rome/pack.json",
+   "generatedAt": "2026-10-30T14:42:24Z",
+   "sizeBytes": 6906221
+  },
+  {
+   "id": "seville",
+   "name": "Seville",
+   "country": "Spain",
+   "center": {
+    "latitude": 37.3886303,
+    "longitude": -5.9953403
+   },
+   "bounds": {
+    "south": 37.3002036,
+    "north": 37.4529579,
+    "west": -6.0329183,
+    "east": -5.8191571
+   },
+   "languages": [
+    "en"
+   ],
+   "quality": "generated",
+   "placeCount": 45,
+   "version": 1,
+   "hero": {
+    "file": "images/plaza-de-espana-seville.jpg",
+    "author": "Carlos Delgado",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a_(Sevilla)_-_01.jpg"
+   },
+   "packUrl": "cities/seville/pack.json",
+   "generatedAt": "2026-10-30T14:28:38Z",
+   "sizeBytes": 6898952
+  },
+  {
+   "id": "venice",
+   "name": "Venice",
+   "country": "Italy",
+   "center": {
+    "latitude": 45.4371908,
+    "longitude": 12.3345898
+   },
+   "bounds": {
+    "south": 45.2312466,
+    "north": 45.5779981,
+    "west": 12.1668349,
+    "east": 12.5965709
+   },
+   "languages": [
+    "en"
+   ],
+   "quality": "generated",
+   "placeCount": 45,
+   "version": 1,
+   "hero": {
+    "file": "images/st-mark-s-basilica.jpg",
+    "author": "Nino Barbieri",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Venice_-_St._Marc%27s_Basilica_01.jpg"
+   },
+   "packUrl": "cities/venice/pack.json",
+   "generatedAt": "2026-10-30T14:46:07Z",
+   "sizeBytes": 7671245
+  },
+  {
+   "id": "vienna",
+   "name": "Vienna",
+   "country": "Austria",
+   "center": {
+    "latitude": 48.2083537,
+    "longitude": 16.3725042
+   },
+   "bounds": {
+    "south": 48.1179069,
+    "north": 48.3226679,
+    "west": 16.181831,
+    "east": 16.5775132
+   },
+   "languages": [
+    "en"
+   ],
+   "quality": "generated",
+   "placeCount": 45,
+   "version": 1,
+   "hero": {
+    "file": "images/st-stephen-s-cathedral-vienna.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Stephansdom_(1).JPG"
+   },
+   "packUrl": "cities/vienna/pack.json",
+   "generatedAt": "2026-10-30T14:57:38Z",
+   "sizeBytes": 7021528
+  }
+ ]
+}

@@ -1,0 +1,2303 @@
+{
+ "format": 1,
+ "city": {
+  "id": "barcelona",
+  "name": "Barcelona",
+  "country": "Spain",
+  "center": {
+   "latitude": 41.3825802,
+   "longitude": 2.177073
+  },
+  "bounds": {
+   "south": 41.3170354,
+   "north": 41.4679135,
+   "west": 2.0524977,
+   "east": 2.2283555
+  },
+  "languages": [
+   "en"
+  ],
+  "quality": "generated",
+  "placeCount": 45,
+  "version": 1,
+  "hero": {
+   "file": "images/sagrada-familia.jpg",
+   "author": "Canaan",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:SF_maig_2026.jpg"
+  },
+  "packUrl": "cities/barcelona/pack.json",
+  "generatedAt": "2026-10-30T15:01:46Z"
+ },
+ "pois": [
+  {
+   "id": "sagrada-familia",
+   "image": {
+    "file": "images/sagrada-familia.jpg",
+    "author": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SF_maig_2026.jpg"
+   },
+   "location": {
+    "latitude": 41.40369,
+    "longitude": 2.17433
+   },
+   "category": "church",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic"
+   ],
+   "area": "Sagrada Família",
+   "content": {
+    "en": {
+     "name": "Sagrada Família",
+     "intro": "Basílica i Temple Expiatori de la Sagrada Família, or simply Sagrada Família, is a Catholic Basilica in the Eixample district of Barcelona, Catalonia, Spain.",
+     "narration": "Basílica i Temple Expiatori de la Sagrada Família, or simply Sagrada Família, is a Catholic Basilica in the Eixample district of Barcelona, Catalonia, Spain. Designed by the Catalan architect Antoni Gaudí, it is the tallest church in the world. On 7 November 2010, Pope Benedict XVI consecrated the church and proclaimed it a basilica. In 2005, parts of the Sagrada Família were declared a UNESCO World Heritage Site, under \"Works of Antoni Gaudí\". On 19 March 1882, construction of Sagrada Família began under the architect Francisco de Paula del Villar. In 1883, when Villar resigned, Gaudí took over as chief architect, transforming the project with his architectural and engineering style, combining Gothic and curvilinear Art Nouveau forms.",
+     "longDescription": "Basílica i Temple Expiatori de la Sagrada Família, or simply Sagrada Família, is a Catholic Basilica in the Eixample district of Barcelona, Catalonia, Spain. Designed by the Catalan architect Antoni Gaudí, it is the tallest church in the world. On 7 November 2010, Pope Benedict XVI consecrated the church and proclaimed it a basilica. In 2005, parts of the Sagrada Família were declared a UNESCO World Heritage Site, under \"Works of Antoni Gaudí\". On 19 March 1882, construction of Sagrada Família began under the architect Francisco de Paula del Villar. In 1883, when Villar resigned, Gaudí took over as chief architect, transforming the project with his architectural and engineering style, combining Gothic and curvilinear Art Nouveau forms. Gaudí devoted the remainder of his life to the project, and he is buried in the church's crypt. At the time of his death in 1926, less than a quarter of the project was complete. Relying solely on private donations, Sagrada Família's construction progressed slowly and was interrupted by the Spanish Civil War. In July 1936, anarchists from the Iberian Anarchist Federation set fire to the crypt and broke their way into the workshop, partially destroying Gaudí's original plans. In 1939, Francesc de Paula Quintana took over site management, which was able to go on with the material that was saved from Gaudí's workshop and that was reconstructed from published plans and photographs. Construction resumed with intermittent progress in the 1950s. Advancements in technologies such as computer-aided design and computer numerical control have since enabled faster progress, and construction passed the midpoint in 2010. In 2014, it was anticipated that the building would be completed by 2026, the centenary of Gaudí's death, but this schedule was threa",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Sagrada Família",
+     "url": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q48435",
+     "url": "https://www.wikidata.org/wiki/Q48435",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "park-guell",
+   "image": {
+    "file": "images/park-guell.jpg",
+    "author": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:G%C3%BCell_BCN_edited.jpg"
+   },
+   "location": {
+    "latitude": 41.413611111,
+    "longitude": 2.152777777
+   },
+   "category": "park",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 8,
+   "tags": [
+    "historic",
+    "iconic",
+    "modern",
+    "park",
+    "scenic"
+   ],
+   "area": "La Salut",
+   "content": {
+    "en": {
+     "name": "Park Güell",
+     "intro": "Park Güell is a complex of parks and gardens in Barcelona with architectural elements, located in the La Salut neighborhood of the Gràcia district in Barcelona, Catalonia, Spain.",
+     "narration": "Park Güell is a complex of parks and gardens in Barcelona with architectural elements, located in the La Salut neighborhood of the Gràcia district in Barcelona, Catalonia, Spain. It is situated on the southern slope of the Turó del Carmel hill, part of the Collserola mountain range, overlooking the city. The separate Parc del Carmel lies on the northern side of the same hill. In the context of Barcelona's late 19th and early 20th-century urban expansion, Catalan industrialist and art patron Eusebi Güell commissioned architect Antoni Gaudí, a leading figure of the aesthetic movement in Catalan modernism, to design a park. Construction took place between 1900 and 1914, and the park officially opened to the public in 1926.",
+     "longDescription": "Park Güell is a complex of parks and gardens in Barcelona with architectural elements, located in the La Salut neighborhood of the Gràcia district in Barcelona, Catalonia, Spain. It is situated on the southern slope of the Turó del Carmel hill, part of the Collserola mountain range, overlooking the city. The separate Parc del Carmel lies on the northern side of the same hill. In the context of Barcelona's late 19th and early 20th-century urban expansion, Catalan industrialist and art patron Eusebi Güell commissioned architect Antoni Gaudí, a leading figure of the aesthetic movement in Catalan modernism, to design a park. Construction took place between 1900 and 1914, and the park officially opened to the public in 1926. In 1984, UNESCO designated the park a World Heritage Site, recognizing it as part of the \"Works of Antoni Gaudí\" collection and stating \"the architecture of the park combined elements from the Arts and Crafts movement, Symbolism, Expressionism, and Rationalism, and presaged and influenced many forms and techniques of 20th-century Modernism.\"",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Park Güell",
+     "url": "https://en.wikipedia.org/wiki/Park_G%C3%BCell",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q212867",
+     "url": "https://www.wikidata.org/wiki/Q212867",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "barcelona-cathedral",
+   "image": {
+    "file": "images/barcelona-cathedral.jpg",
+    "author": "Fernando",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barcelona_Cathedral_Saint_Eulalia.jpg"
+   },
+   "location": {
+    "latitude": 41.383888888,
+    "longitude": 2.176388888
+   },
+   "category": "church",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "medieval"
+   ],
+   "area": "Gothic Quarter",
+   "content": {
+    "en": {
+     "name": "Barcelona Cathedral",
+     "intro": "The Cathedral of the Holy Cross and Saint Eulalia, also known as Barcelona Cathedral, is the seat of the archbishop of Barcelona in Catalonia, Spain.",
+     "narration": "The Cathedral of the Holy Cross and Saint Eulalia, also known as Barcelona Cathedral, is the seat of the archbishop of Barcelona in Catalonia, Spain. The cathedral was constructed from the thirteenth to fifteenth centuries, with the principal work done in the fourteenth century. The cloister, which encloses the Well of the Geese, was completed in 1448. In the late nineteenth century, the neo-Gothic façade was constructed over the undistinguished exterior that was common to Catalan churches. Its form is a pseudo-basilica, vaulted over five aisles, the outer two divided into chapels. The transept is truncated. The east end is a chevet of nine radiating chapels connected by an ambulatory.",
+     "longDescription": "The Cathedral of the Holy Cross and Saint Eulalia, also known as Barcelona Cathedral, is the seat of the archbishop of Barcelona in Catalonia, Spain. The cathedral was constructed from the thirteenth to fifteenth centuries, with the principal work done in the fourteenth century. The cloister, which encloses the Well of the Geese, was completed in 1448. In the late nineteenth century, the neo-Gothic façade was constructed over the undistinguished exterior that was common to Catalan churches. Its form is a pseudo-basilica, vaulted over five aisles, the outer two divided into chapels. The transept is truncated. The east end is a chevet of nine radiating chapels connected by an ambulatory. The high altar is raised, allowing a clear view into the crypt. The cathedral is dedicated to the Holy Cross and Eulalia of Barcelona, co-patron saint of Barcelona, a young virgin martyr who, according to Catholic tradition, suffered martyrdom during Roman times in the city. One story says that she was exposed naked in the public square and a miraculous snowfall in mid-spring covered her nudity. The enraged Romans put her into a barrel with knives stuck into it and rolled it down a street. The relics of Saint Eulalia are entombed in the cathedral's crypt. The choir stalls retain the coats-of-arms of the knights of the Order of the Golden Fleece. In his first trip into Spain, Charles V selected Barcelona as the site of a chapter of his order. The king had arrived for his investiture as Count of Barcelona. The city, as a Mediterranean port, offered the closest communication with other far-flung Habsburg dominions, while the large proportions of the cathedral would accommodate required grand ceremonies. In 1518, the Order's herald, Thomas Isaac, and its treasurer, Jean Micault, were commissi",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Barcelona Cathedral",
+     "url": "https://en.wikipedia.org/wiki/Barcelona_Cathedral",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q17155",
+     "url": "https://www.wikidata.org/wiki/Q17155",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "casa-batllo",
+   "image": {
+    "file": "images/casa-batllo.jpg",
+    "author": "ChristianSchd",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa_Batllo_Overview_Barcelona_Spain_cut.jpg"
+   },
+   "location": {
+    "latitude": 41.39158,
+    "longitude": 2.16492
+   },
+   "category": "architecture",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic"
+   ],
+   "area": "Dreta de l'Eixample",
+   "content": {
+    "en": {
+     "name": "Casa Batlló",
+     "intro": "Casa Batlló is a building in the center of Barcelona, Spain.",
+     "narration": "Casa Batlló is a building in the center of Barcelona, Spain. It was designed by Antoni Gaudí, and is considered one of his masterpieces. A remodel of a previously built house, it was redesigned in 1904 by Gaudí and has been refurbished several times since. Gaudí's assistants Domènec Sugrañes i Gras, Josep Canaleta and Joan Rubió also contributed to the renovation project. Casa Batlló is located on the Passeig de Gràcia in the Eixample district and forms part of a row of houses known as the Illa de la Discòrdia, so named because it features four striking, and strikingly different, buildings by noted Modernista architects of Barcelona.",
+     "longDescription": "Casa Batlló is a building in the center of Barcelona, Spain. It was designed by Antoni Gaudí, and is considered one of his masterpieces. A remodel of a previously built house, it was redesigned in 1904 by Gaudí and has been refurbished several times since. Gaudí's assistants Domènec Sugrañes i Gras, Josep Canaleta and Joan Rubió also contributed to the renovation project. Casa Batlló is located on the Passeig de Gràcia in the Eixample district and forms part of a row of houses known as the Illa de la Discòrdia, so named because it features four striking, and strikingly different, buildings by noted Modernista architects of Barcelona. Like everything Gaudí designed, Casa Batlló is only identifiable as Modernisme in the broadest sense. The ground floor, in particular, has unusual tracery, irregular oval windows and sculpted stonework with sinuous, squiggly forms. There are few straight lines, and much of the façade is decorated with a colorful mosaic made of broken ceramic tiles. In 2005, Casa Batlló became a UNESCO World Heritage Site.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Casa Batlló",
+     "url": "https://en.wikipedia.org/wiki/Casa_Batll%C3%B3",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q461371",
+     "url": "https://www.wikidata.org/wiki/Q461371",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "la-boqueria",
+   "image": {
+    "file": "images/la-boqueria.jpg",
+    "author": "Thingstodoinbarcelona",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_of_Mercat_de_Boqueria.jpg"
+   },
+   "location": {
+    "latitude": 41.381796,
+    "longitude": 2.171549
+   },
+   "category": "market",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 23,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "historic",
+    "iconic",
+    "market"
+   ],
+   "area": "El Raval",
+   "content": {
+    "en": {
+     "name": "La Boqueria",
+     "intro": "The Mercat de Sant Josep de la Boqueria, usually simply referred to as La Boqueria, is a large public market in the Ciutat Vella district of Barcelona, Catalonia, Spain, and one of the city's foremost tourist…",
+     "narration": "The Mercat de Sant Josep de la Boqueria, usually simply referred to as La Boqueria, is a large public market in the Ciutat Vella district of Barcelona, Catalonia, Spain, and one of the city's foremost tourist landmarks, with an entrance from La Rambla, not far from the Liceu, Barcelona's opera house. The market has a very diverse selection of goods.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: La Boqueria",
+     "url": "https://en.wikipedia.org/wiki/La_Boqueria",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1334899",
+     "url": "https://www.wikidata.org/wiki/Q1334899",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "arc-de-triomf",
+   "image": {
+    "file": "images/arc-de-triomf.jpg",
+    "author": "Bajajvikram",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomf_Barcelona.jpg"
+   },
+   "location": {
+    "latitude": 41.391111,
+    "longitude": 2.180556
+   },
+   "category": "monument",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 30,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument"
+   ],
+   "area": "Sant Pere, Santa Caterina i la Ribera",
+   "content": {
+    "en": {
+     "name": "Arc de Triomf",
+     "intro": "The Arc de Triomf, translated: Arch of Victory, is a memorial arch in Barcelona, Catalonia, Spain.",
+     "narration": "The Arc de Triomf, translated: Arch of Victory, is a memorial arch in Barcelona, Catalonia, Spain. It was built by architect Josep Vilaseca i Casanovas as the main access gate for the 1888 Barcelona World Fair. The arch crosses over the wide central promenade of the Passeig de Lluís Companys, leading to the Ciutadella Park that now occupies the site of the world fair. It is located at the northern end of the promenade, facing the Passeig de Sant Joan.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Arc de Triomf",
+     "url": "https://en.wikipedia.org/wiki/Arc_de_Triomf",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q631075",
+     "url": "https://www.wikidata.org/wiki/Q631075",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "la-rambla-barcelona",
+   "image": {
+    "file": "images/la-rambla-barcelona.jpg",
+    "author": "Ralf Roletschek",
+    "license": "GFDL 1.2",
+    "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:15-10-27-Vista_des_de_l%27est%C3%A0tua_de_Colom_a_Barcelona-WMA_2791.jpg"
+   },
+   "location": {
+    "latitude": 41.381389,
+    "longitude": 2.173056
+   },
+   "category": "street",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "iconic",
+    "neighbourhood",
+    "street"
+   ],
+   "area": "El Raval",
+   "content": {
+    "en": {
+     "name": "La Rambla, Barcelona",
+     "intro": "La Rambla is considered the most well known street in central Barcelona.",
+     "narration": "La Rambla is considered the most well known street in central Barcelona. A tree-lined pedestrian street, it stretches for 1.2 kilometres connecting the Plaça de Catalunya in its center with the Christopher Columbus Monument at Port Vell. La Rambla forms the boundary between the neighbourhoods of the Barri Gòtic to the east and the El Raval to the west. La Rambla can be crowded, especially during the height of the tourist season. It hosts a combination of eateries, shops, markets, and cultural institutions. The Spanish poet Federico García Lorca once said that La Rambla was \"the only street in the world which I wish would never end.\"",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: La Rambla, Barcelona",
+     "url": "https://en.wikipedia.org/wiki/La_Rambla%2C_Barcelona",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q850593",
+     "url": "https://www.wikidata.org/wiki/Q850593",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "gothic-quarter-barcelona",
+   "image": {
+    "file": "images/gothic-quarter-barcelona.jpg",
+    "author": "C messier",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palau_Reial_Major_2574.jpg"
+   },
+   "location": {
+    "latitude": 41.382777777,
+    "longitude": 2.176944444
+   },
+   "category": "neighbourhood",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "iconic",
+    "medieval",
+    "modern",
+    "neighbourhood",
+    "roman"
+   ],
+   "area": "Ciutat Vella",
+   "content": {
+    "en": {
+     "name": "Gothic Quarter, Barcelona",
+     "intro": "The Gothic Quarter is the historic centre of the old city of Barcelona.",
+     "narration": "The Gothic Quarter is the historic centre of the old city of Barcelona. It stretches from La Rambla to Via Laietana, and from the Mediterranean seafront to the Ronda de Sant Pere. It is a part of Ciutat Vella district. The quarter encompasses the oldest parts of the city of Barcelona, and includes the remains of the city's Roman wall and several notable medieval landmarks. Much of the present-day fabric of the quarter, however, dates to the 19th and early 20th centuries. El Call, the medieval Jewish quarter, is located within this area, along with the former Sinagoga Major. The Barri Gòtic retains a labyrinthine street plan, with many small streets opening out into squares.",
+     "longDescription": "The Gothic Quarter is the historic centre of the old city of Barcelona. It stretches from La Rambla to Via Laietana, and from the Mediterranean seafront to the Ronda de Sant Pere. It is a part of Ciutat Vella district. The quarter encompasses the oldest parts of the city of Barcelona, and includes the remains of the city's Roman wall and several notable medieval landmarks. Much of the present-day fabric of the quarter, however, dates to the 19th and early 20th centuries. El Call, the medieval Jewish quarter, is located within this area, along with the former Sinagoga Major. The Barri Gòtic retains a labyrinthine street plan, with many small streets opening out into squares. Most of the quarter is closed to regular traffic although open to service vehicles and taxis.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Gothic Quarter, Barcelona",
+     "url": "https://en.wikipedia.org/wiki/Gothic_Quarter%2C_Barcelona",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q17154",
+     "url": "https://www.wikidata.org/wiki/Q17154",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "la-barceloneta-barcelona",
+   "image": {
+    "file": "images/la-barceloneta-barcelona.jpg",
+    "author": "dronepicr",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Barceloneta_Beach_and_Port_Vell_in_Barcelona,_Spain_(51226238126).jpg"
+   },
+   "location": {
+    "latitude": 41.37944,
+    "longitude": 2.18917
+   },
+   "category": "neighbourhood",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "historic",
+    "iconic",
+    "neighbourhood",
+    "river"
+   ],
+   "area": "Ciutat Vella",
+   "content": {
+    "en": {
+     "name": "La Barceloneta, Barcelona",
+     "intro": "La Barceloneta is a neighborhood in the Ciutat Vella district of Barcelona, Catalonia, Spain.",
+     "narration": "La Barceloneta is a neighborhood in the Ciutat Vella district of Barcelona, Catalonia, Spain. The neighborhood was built in the 18th century for the residents of the Ribera neighborhood who had been displaced by the construction of the Ciutadella of Barcelona. The neighborhood has a triangular shape, bordered by the Mediterranean Sea, the Moll d’Espanya of Port Vell, and the El Born neighborhood. This neighborhood has its own flag and metro stop on the Barcelona Metro line 4. The neighborhood can also be explored by taking Las Gorondrinas, which depart from the front port of the Columbus monument.",
+     "longDescription": "La Barceloneta is a neighborhood in the Ciutat Vella district of Barcelona, Catalonia, Spain. The neighborhood was built in the 18th century for the residents of the Ribera neighborhood who had been displaced by the construction of the Ciutadella of Barcelona. The neighborhood has a triangular shape, bordered by the Mediterranean Sea, the Moll d’Espanya of Port Vell, and the El Born neighborhood. This neighborhood has its own flag and metro stop on the Barcelona Metro line 4. The neighborhood can also be explored by taking Las Gorondrinas, which depart from the front port of the Columbus monument. This way, one can see the coastal strip, but the real charm of this neighborhood lies in wandering through its narrow streets and alleys. Torre Sant Sebastià is the terminus of the Port Vell Aerial Tramway; opened in 1931, it connects La Barceloneta with Montjuïc across Port Vell. La Barceloneta is known for its sandy beaches and its many restaurants and nightclubs along the boardwalk. Over the past several years, the quality of the sand on the beach has been a source of ongoing controversy. In February 2008, the World Health Organization started an inquiry to determine whether the sand meets WHO beach health and safety guidelines. With its modernity, La Barceloneta still retains the scent of salt and marine life. For many, this is considered a luxury. La Barceloneta also attracts many cruise ships to dock. Among the attractions on Barceloneta’s beach are German artist Rebecca Horn's \"Homenatge a la Barceloneta\" monument, and, where the beach meets the Port Olímpic, Frank Gehry's contemporary \"Peix d’Or\" sculpture. In the center of the neighborhood, there is a small museum called \"Casa de la Barceloneta\", housed in a preserved building dating back to 1761. Admission to the mus",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: La Barceloneta, Barcelona",
+     "url": "https://en.wikipedia.org/wiki/La_Barceloneta%2C_Barcelona",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q377070",
+     "url": "https://www.wikidata.org/wiki/Q377070",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "barcelona-pavilion",
+   "image": {
+    "file": "images/barcelona-pavilion.jpg",
+    "author": "Ashley Pomeroy at English Wikipedia",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Barcelona_Pavilion,_Barcelona,_2010.jpg"
+   },
+   "location": {
+    "latitude": 41.370555555,
+    "longitude": 2.15
+   },
+   "category": "architecture",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "modern"
+   ],
+   "area": "Montjuïc",
+   "content": {
+    "en": {
+     "name": "Barcelona Pavilion",
+     "intro": "The Barcelona Pavilion is a structure designed by Ludwig Mies van der Rohe and Lilly Reich.",
+     "narration": "The Barcelona Pavilion is a structure designed by Ludwig Mies van der Rohe and Lilly Reich. It was originally built as the German Pavilion for the 1929 International Exposition in Barcelona, Catalonia, Spain. This building was used for the official opening of the German section of the exhibition. It is an important building in the history of modern architecture, known for its simple form and its use of expensive materials, such as marble, red onyx, and travertine. The original structure was demolished in 1930, and it was reconstructed in 1986. Furnishings specifically designed for the building, including the Barcelona chair, are still in production, and the structure has inspired many important modernist buildings.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Barcelona Pavilion",
+     "url": "https://en.wikipedia.org/wiki/Barcelona_Pavilion",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q807915",
+     "url": "https://www.wikidata.org/wiki/Q807915",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "placa-de-catalunya",
+   "image": {
+    "file": "images/placa-de-catalunya.jpg",
+    "author": "Ralf Roletschek",
+    "license": "GFDL 1.2",
+    "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:14-08-06-barcelona-RalfR-304.jpg"
+   },
+   "location": {
+    "latitude": 41.387031,
+    "longitude": 2.170079
+   },
+   "category": "square",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 4,
+   "tags": [
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Dreta de l'Eixample",
+   "content": {
+    "en": {
+     "name": "Plaça de Catalunya",
+     "intro": "Plaça de Catalunya is a large square in central Barcelona that is generally considered to be both its city centre and the place where the old city and the 19th century-built Eixample meet.",
+     "narration": "Plaça de Catalunya is a large square in central Barcelona that is generally considered to be both its city centre and the place where the old city and the 19th century-built Eixample meet. The plaza is especially known for its fountains and statues, the central compass rose on the pavement, its proximity to some of Barcelona's most popular attractions, and the flocks of pigeons that gather in the centre. Some of the city's most important streets and avenues meet at Plaça Catalunya: Passeig de Gràcia, Rambla de Catalunya, La Rambla, and Portal de l'Àngel, in addition to Ronda de Sant Pere, Carrer de Vergara, and Carrer de Pelai. The plaza occupies an area of about 50,000 square metres.",
+     "longDescription": "Plaça de Catalunya is a large square in central Barcelona that is generally considered to be both its city centre and the place where the old city and the 19th century-built Eixample meet. The plaza is especially known for its fountains and statues, the central compass rose on the pavement, its proximity to some of Barcelona's most popular attractions, and the flocks of pigeons that gather in the centre. Some of the city's most important streets and avenues meet at Plaça Catalunya: Passeig de Gràcia, Rambla de Catalunya, La Rambla, and Portal de l'Àngel, in addition to Ronda de Sant Pere, Carrer de Vergara, and Carrer de Pelai. The plaza occupies an area of about 50,000 square metres. The square played a significant part in the Spanish Civil War, in particular as a site of key events of the May Days.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Plaça de Catalunya",
+     "url": "https://en.wikipedia.org/wiki/Pla%C3%A7a_de_Catalunya",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q822881",
+     "url": "https://www.wikidata.org/wiki/Q822881",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "la-pedrera-barcelona",
+   "image": {
+    "file": "images/la-pedrera-barcelona.jpg",
+    "author": "Thomas Ledl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa_Mil%C3%A0,_general_view.jpg"
+   },
+   "location": {
+    "latitude": 41.395277777,
+    "longitude": 2.161666666
+   },
+   "category": "architecture",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic"
+   ],
+   "area": "Dreta de l'Eixample",
+   "content": {
+    "en": {
+     "name": "La Pedrera, Barcelona",
+     "intro": "Casa Milà, popularly known as La Pedrera in reference to its unconventional rough-hewn appearance, is a Modernista building in Barcelona, Catalonia, Spain.",
+     "narration": "Casa Milà, popularly known as La Pedrera in reference to its unconventional rough-hewn appearance, is a Modernista building in Barcelona, Catalonia, Spain. It was the last private residence designed by architect Antoni Gaudí and was built between 1906 and 1912. The building was commissioned in 1906 by Pere Milà and his wife Roser Segimon. At the time, it was controversial because of its undulating stone facade, twisting wrought iron balconies, and design by Josep Maria Jujol. Several structural innovations include a self-supporting stone façade, and a free-plan floor, underground garage and the spectacular terrace on the roof. In 1984, it was declared a World Heritage Site by UNESCO.",
+     "longDescription": "Casa Milà, popularly known as La Pedrera in reference to its unconventional rough-hewn appearance, is a Modernista building in Barcelona, Catalonia, Spain. It was the last private residence designed by architect Antoni Gaudí and was built between 1906 and 1912. The building was commissioned in 1906 by Pere Milà and his wife Roser Segimon. At the time, it was controversial because of its undulating stone facade, twisting wrought iron balconies, and design by Josep Maria Jujol. Several structural innovations include a self-supporting stone façade, and a free-plan floor, underground garage and the spectacular terrace on the roof. In 1984, it was declared a World Heritage Site by UNESCO. Since 2013 it has been the headquarters of the Fundació Catalunya La Pedrera, which manages visits to the building, exhibitions and other cultural and educational activities at Casa Milà.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: La Pedrera, Barcelona",
+     "url": "https://en.wikipedia.org/wiki/La_Pedrera%2C_Barcelona",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q207870",
+     "url": "https://www.wikidata.org/wiki/Q207870",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "museu-nacional-d-art-de-catalunya",
+   "image": {
+    "file": "images/museu-nacional-d-art-de-catalunya.jpg",
+    "author": "MARIA ROSA FERRE ✿ from Vilafranca del penedes, Catalunya",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:WLM14ES_-_Palau_Nacional_i_seu_del_MNAC_de_Barcelona_-_MARIA_ROSA_FERRE.jpg"
+   },
+   "location": {
+    "latitude": 41.368333333,
+    "longitude": 2.153305555
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "medieval",
+    "modern",
+    "museum"
+   ],
+   "area": "Montjuïc",
+   "content": {
+    "en": {
+     "name": "Museu Nacional d'Art de Catalunya",
+     "intro": "The Museu Nacional d'Art de Catalunya, abbreviated as MNAC, is a museum of Catalan visual art located in Barcelona, Catalonia, Spain.",
+     "narration": "The Museu Nacional d'Art de Catalunya, abbreviated as MNAC, is a museum of Catalan visual art located in Barcelona, Catalonia, Spain. Situated on Montjuïc hill at the end of Avinguda de la Reina Maria Cristina, near Pl Espanya, the museum is notable for its collection of Romanesque church paintings, and for Catalan art and design from the late 19th and early 20th centuries, including modernisme and noucentisme. The museum is housed in the Palau Nacional, a huge, Italian-style building dating to 1929. The Palau Nacional, which has housed the Museu d'Art de Catalunya since 1934, was declared a national museum in 1990 under the Museums Law passed by the Catalan Government.",
+     "longDescription": "The Museu Nacional d'Art de Catalunya, abbreviated as MNAC, is a museum of Catalan visual art located in Barcelona, Catalonia, Spain. Situated on Montjuïc hill at the end of Avinguda de la Reina Maria Cristina, near Pl Espanya, the museum is notable for its collection of Romanesque church paintings, and for Catalan art and design from the late 19th and early 20th centuries, including modernisme and noucentisme. The museum is housed in the Palau Nacional, a huge, Italian-style building dating to 1929. The Palau Nacional, which has housed the Museu d'Art de Catalunya since 1934, was declared a national museum in 1990 under the Museums Law passed by the Catalan Government. That same year, a thorough renovation process was launched based on plans drawn up by the architects Gae Aulenti and Enric Steegmann, who were later joined in the undertaking by Josep Benedito Tobias. The Oval Hall was reopened for the 1992 Summer Olympic Games, and the various collections were installed and opened over the period from 1995 to 2004. The museum was officially inaugurated on 16 December 2004. It is one of the largest museums in Spain.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Museu Nacional d'Art de Catalunya",
+     "url": "https://en.wikipedia.org/wiki/Museu_Nacional_d%27Art_de_Catalunya",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q861252",
+     "url": "https://www.wikidata.org/wiki/Q861252",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "torre-glories",
+   "image": {
+    "file": "images/torre-glories.jpg",
+    "author": "Diliff",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torre_Agbar_-_Barcelona,_Spain_-_Jan_2007.jpg"
+   },
+   "location": {
+    "latitude": 41.403489,
+    "longitude": 2.189519
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "El Parc i la Llacuna del Poblenou",
+   "content": {
+    "en": {
+     "name": "Torre Glòries",
+     "intro": "The Torre Glòries, formerly known as Torre Agbar, is a 38-story skyscraper located between Avinguda Diagonal and Carrer Badajoz, near Plaça de les Glòries Catalanes, which marks the gateway to the new technological…",
+     "narration": "The Torre Glòries, formerly known as Torre Agbar, is a 38-story skyscraper located between Avinguda Diagonal and Carrer Badajoz, near Plaça de les Glòries Catalanes, which marks the gateway to the new technological district of Barcelona, Catalonia, Spain. It was designed by French architect Jean Nouvel in association with the Spanish firm b720 Fermín Vázquez Arquitectos and built by Dragados. The Torre Glòries is located in the Poblenou neighbourhood of Barcelona and it was originally named after its owners, the Agbar Group, a holding company whose interests include the Barcelona water company Aigües de Barcelona. The tower is 144.44 m high with a diameter of 39 m.",
+     "longDescription": "The Torre Glòries, formerly known as Torre Agbar, is a 38-story skyscraper located between Avinguda Diagonal and Carrer Badajoz, near Plaça de les Glòries Catalanes, which marks the gateway to the new technological district of Barcelona, Catalonia, Spain. It was designed by French architect Jean Nouvel in association with the Spanish firm b720 Fermín Vázquez Arquitectos and built by Dragados. The Torre Glòries is located in the Poblenou neighbourhood of Barcelona and it was originally named after its owners, the Agbar Group, a holding company whose interests include the Barcelona water company Aigües de Barcelona. The tower is 144.44 m high with a diameter of 39 m. It has a total of 50,693 m2, of which 30,000 m2 are offices, 3,210 m2 technical facilities, 8,132 m2 services, including an auditorium, and 9,132 m2 parking space. It cost €130 million to build. It opened in June 2005 and was officially opened by King Juan Carlos I on 16 September 2005. It is one in a collection of high-tech architecture examples in Barcelona. The building was owned by the multinational group Agbar, which has its corporate headquarters in the building and which takes up most of the floors, leasing the remainder. The Agbar Tower was acquired in March 2010 for 165 million euros, after reaching an agreement with its former owner, the investment group Azurelau. Azurelau had previously bought the property in mid-2007. The purchase price was not disclosed. By 2017 it was purchased by Merlin Properties real estate group and it was renamed as Torre Glòries after the name of the adjacent square.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Torre Glòries",
+     "url": "https://en.wikipedia.org/wiki/Torre_Gl%C3%B2ries",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q336246",
+     "url": "https://www.wikidata.org/wiki/Q336246",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palau-de-la-musica-catalana",
+   "image": {
+    "file": "images/palau-de-la-musica-catalana.jpg",
+    "author": "Doomuu",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palau_m%C3%BAsica_catalana_exterior.jpg"
+   },
+   "location": {
+    "latitude": 41.387666666,
+    "longitude": 2.175277777
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "Sant Pere, Santa Caterina i la Ribera",
+   "content": {
+    "en": {
+     "name": "Palau de la Música Catalana",
+     "intro": "Palau de la Música Catalana is a concert hall in Barcelona, Catalonia, Spain.",
+     "narration": "Palau de la Música Catalana is a concert hall in Barcelona, Catalonia, Spain. Designed in the Catalan modernista style by the architect Lluís Domènech i Montaner, it was built between 1905 and 1908 for Orfeó Català, a choral society founded in 1891 that was a leading force in the Catalan cultural movement that came to be known as the Renaixença. It was inaugurated on 9 February 1908. The construction project was mainly financed by Orfeó Català, but important financial contributions also came from Barcelona's wealthy industrialists and bourgeoisie. The palace won the architect an award from the Barcelona City Council in 1909, given to the best building built during the previous year.",
+     "longDescription": "Palau de la Música Catalana is a concert hall in Barcelona, Catalonia, Spain. Designed in the Catalan modernista style by the architect Lluís Domènech i Montaner, it was built between 1905 and 1908 for Orfeó Català, a choral society founded in 1891 that was a leading force in the Catalan cultural movement that came to be known as the Renaixença. It was inaugurated on 9 February 1908. The construction project was mainly financed by Orfeó Català, but important financial contributions also came from Barcelona's wealthy industrialists and bourgeoisie. The palace won the architect an award from the Barcelona City Council in 1909, given to the best building built during the previous year. Between 1982 and 1989, the building underwent extensive restoration, remodeling, and extension under the direction of architects Oscar Tusquets and Carles Díaz. In 1997, the palace de la Música Catalana was declared a UNESCO World Heritage Site along with Hospital de Sant Pau. Today, more than half a million people a year attend musical performances in the Palau that range from symphonic and chamber music to jazz and Cançó.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palau de la Música Catalana",
+     "url": "https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q327940",
+     "url": "https://www.wikidata.org/wiki/Q327940",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "santa-maria-del-mar-barcelona",
+   "image": {
+    "file": "images/santa-maria-del-mar-barcelona.jpg",
+    "author": "Kent Wang",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Mar,_Barcelona_05.jpg"
+   },
+   "location": {
+    "latitude": 41.383611,
+    "longitude": 2.181944
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "discoveries",
+    "historic",
+    "medieval",
+    "river"
+   ],
+   "area": "Sant Pere, Santa Caterina i la Ribera",
+   "content": {
+    "en": {
+     "name": "Santa Maria del Mar, Barcelona",
+     "intro": "Santa Maria del Mar is a church in the Ribera district of Barcelona, Catalonia, Spain, built between 1329 and 1383 at the height of Principality of Catalonia's maritime and mercantile preeminence.",
+     "narration": "Santa Maria del Mar is a church in the Ribera district of Barcelona, Catalonia, Spain, built between 1329 and 1383 at the height of Principality of Catalonia's maritime and mercantile preeminence. It is an outstanding example of Catalan Gothic, with a purity and unity of style that is very unusual in large medieval buildings.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Santa Maria del Mar, Barcelona",
+     "url": "https://en.wikipedia.org/wiki/Santa_Maria_del_Mar%2C_Barcelona",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q908802",
+     "url": "https://www.wikidata.org/wiki/Q908802",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palau-guell",
+   "image": {
+    "file": "images/palau-guell.jpg",
+    "author": "Thomas Ledl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palau_G%C3%BCell,_Antoni_Gaudi,_Barcelona_2.jpg"
+   },
+   "location": {
+    "latitude": 41.37882,
+    "longitude": 2.17439
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "El Raval",
+   "content": {
+    "en": {
+     "name": "Palau Güell",
+     "intro": "The Palau Güell is a mansion designed by the architect Antoni Gaudí for the industrial tycoon Eusebi Güell, and was built between 1886 and 1888.",
+     "narration": "The Palau Güell is a mansion designed by the architect Antoni Gaudí for the industrial tycoon Eusebi Güell, and was built between 1886 and 1888. It is situated on the Carrer Nou de la Rambla, in the El Raval neighborhood of Barcelona in Catalonia, Spain. It is part of the UNESCO World Heritage Site \"Works of Antoni Gaudí\". The home is centered around the main room for entertaining high society guests. Guests entered the home in horse-drawn carriages through the front iron gates, which featured a parabolic arch and intricate patterns of forged ironwork resembling seaweed and in some parts a horsewhip.",
+     "longDescription": "The Palau Güell is a mansion designed by the architect Antoni Gaudí for the industrial tycoon Eusebi Güell, and was built between 1886 and 1888. It is situated on the Carrer Nou de la Rambla, in the El Raval neighborhood of Barcelona in Catalonia, Spain. It is part of the UNESCO World Heritage Site \"Works of Antoni Gaudí\". The home is centered around the main room for entertaining high society guests. Guests entered the home in horse-drawn carriages through the front iron gates, which featured a parabolic arch and intricate patterns of forged ironwork resembling seaweed and in some parts a horsewhip. Gaudí placed the bronze sculpture of a phoenix between the two gates, a mythical animal that is an emblem of the economic and cultural renaissance experienced by Catalan society. Animals could be taken down a ramp and kept in the livery stable in the basement where the servants resided, while the guests went up the stairs to the receiving room. The ornate walls and ceilings of the receiving room disguised small viewing windows high on the walls where the owners of the home could view their guests from the upper floor and get a \"sneak peek\" before greeting them, in case they needed to adjust their attire accordingly. The main party room has a tall ceiling with small holes near the top where lanterns were hung at night from the outside to give the appearance of a starlit sky. In 2004, visits by the public were completely suspended due to renovations; some of the stone used in the original construction was weak and had cracked over the years causing structural problems within the building. It is currently completely open, with all restoration work completed in April 2011. It was used in Antonioni's film The Passenger as a backdrop for the first meeting between Jack Nicholson a",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palau Güell",
+     "url": "https://en.wikipedia.org/wiki/Palau_G%C3%BCell",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q597051",
+     "url": "https://www.wikidata.org/wiki/Q597051",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "columbus-monument-barcelona",
+   "image": {
+    "file": "images/columbus-monument-barcelona.jpg",
+    "author": "Gena Haltmair",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monument_a_Colom_2.jpg"
+   },
+   "location": {
+    "latitude": 41.37580278,
+    "longitude": 2.17776111
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 26,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument"
+   ],
+   "area": "Gothic Quarter",
+   "content": {
+    "en": {
+     "name": "Columbus Monument, Barcelona",
+     "intro": "The Columbus Monument is a 60 m tall monument to Christopher Columbus at the lower end of La Rambla, Barcelona, Catalonia, Spain.",
+     "narration": "The Columbus Monument is a 60 m tall monument to Christopher Columbus at the lower end of La Rambla, Barcelona, Catalonia, Spain. It was constructed for the Exposición Universal de Barcelona in honor of Columbus' first voyage to the Americas. The monument serves as a reminder that Christopher Columbus reported to Queen Isabella I and King Ferdinand V in Barcelona after his first trip to the new continent.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Columbus Monument, Barcelona",
+     "url": "https://en.wikipedia.org/wiki/Columbus_Monument%2C_Barcelona",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2288815",
+     "url": "https://www.wikidata.org/wiki/Q2288815",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "parc-de-la-ciutadella",
+   "image": {
+    "file": "images/parc-de-la-ciutadella.jpg",
+    "author": "SACE (Servicios Aéreos Comerciales Españoles); Rodríguez Escalona, Carlos",
+    "license": "CC BY 1.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/1.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A8ria_Ciutadella_1960.jpg"
+   },
+   "location": {
+    "latitude": 41.388111,
+    "longitude": 2.187517
+   },
+   "category": "park",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 8,
+   "tags": [
+    "historic",
+    "park",
+    "scenic"
+   ],
+   "area": "Sant Pere, Santa Caterina i la Ribera",
+   "content": {
+    "en": {
+     "name": "Parc de la Ciutadella",
+     "intro": "The Parc de la Ciutadella is a park on the northeastern edge of Ciutat Vella, Barcelona, Catalonia, Spain.",
+     "narration": "The Parc de la Ciutadella is a park on the northeastern edge of Ciutat Vella, Barcelona, Catalonia, Spain. For decades following its creation in the mid-19th century, this park was the city's only green space. The 31-hectare grounds include the city zoo, the Palau del Parlament de Catalunya, a small lake, museums, and a large fountain designed by Josep Fontserè. As the location of the Parliament of Catalonia, the tensions in 2018 and 2019 regarding Catalan independence regularly led to the police closure of the park to public access to prevent crowds forming near to the official buildings.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Parc de la Ciutadella",
+     "url": "https://en.wikipedia.org/wiki/Parc_de_la_Ciutadella",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q301135",
+     "url": "https://www.wikidata.org/wiki/Q301135",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "el-raval",
+   "image": {
+    "file": "images/el-raval.jpg",
+    "author": "Enfo",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:105_Museu_d%27Hist%C3%B2ria_de_Catalunya,_vista_a%C3%A8ria_del_Raval.JPG"
+   },
+   "location": {
+    "latitude": 41.38,
+    "longitude": 2.16861
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "neighbourhood"
+   ],
+   "area": "Ciutat Vella",
+   "content": {
+    "en": {
+     "name": "El Raval",
+     "intro": "El Raval is a neighborhood in the Ciutat Vella district of Barcelona, the capital city of Catalonia.",
+     "narration": "El Raval is a neighborhood in the Ciutat Vella district of Barcelona, the capital city of Catalonia. The neighborhood, especially the part closest to the old port, was formerly known as Barri Xinès or Barrio Chino, meaning \"Chinatown\". El Raval is one of the two historical neighborhoods that border La Rambla, the other being the Barri Gòtic; it contains some 50,000 people. An area historically infamous for its nightlife and cabarets, as well as prostitution and crime, El Raval has changed significantly in recent years and due to its central location has become a minor attraction of Barcelona. It currently has a very diverse immigrant community.",
+     "longDescription": "El Raval is a neighborhood in the Ciutat Vella district of Barcelona, the capital city of Catalonia. The neighborhood, especially the part closest to the old port, was formerly known as Barri Xinès or Barrio Chino, meaning \"Chinatown\". El Raval is one of the two historical neighborhoods that border La Rambla, the other being the Barri Gòtic; it contains some 50,000 people. An area historically infamous for its nightlife and cabarets, as well as prostitution and crime, El Raval has changed significantly in recent years and due to its central location has become a minor attraction of Barcelona. It currently has a very diverse immigrant community. It is home to many bars and restaurants, as well as community spaces and collectives.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: El Raval",
+     "url": "https://en.wikipedia.org/wiki/El_Raval",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1758503",
+     "url": "https://www.wikidata.org/wiki/Q1758503",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "placa-d-espanya-barcelona",
+   "image": {
+    "file": "images/placa-d-espanya-barcelona.jpg",
+    "author": "Nicholas Gemini",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pla%C3%A7a_d%27Espanya_(Barcelona)_03.jpg"
+   },
+   "location": {
+    "latitude": 41.375038,
+    "longitude": 2.149108
+   },
+   "category": "square",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Montjuïc",
+   "content": {
+    "en": {
+     "name": "Plaça d'Espanya, Barcelona",
+     "intro": "Plaça d'Espanya is one of Barcelona's most important squares, built on the occasion of the 1929 Barcelona International Exposition, held at the foot of Montjuïc, in the Sants-Montjuïc district.",
+     "narration": "Plaça d'Espanya is one of Barcelona's most important squares, built on the occasion of the 1929 Barcelona International Exposition, held at the foot of Montjuïc, in the Sants-Montjuïc district.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Plaça d'Espanya, Barcelona",
+     "url": "https://en.wikipedia.org/wiki/Pla%C3%A7a_d%27Espanya%2C_Barcelona",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2013874",
+     "url": "https://www.wikidata.org/wiki/Q2013874",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "magic-fountain-of-montjuic",
+   "image": {
+    "file": "images/magic-fountain-of-montjuic.jpg",
+    "author": "jordi domènech",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_font_de_Montju%C3%AFc_amb_Collserola_al_fons.jpg"
+   },
+   "location": {
+    "latitude": 41.371139,
+    "longitude": 2.151727
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 32,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument"
+   ],
+   "area": "Montjuïc",
+   "content": {
+    "en": {
+     "name": "Magic Fountain of Montjuïc",
+     "intro": "The Magic Fountain of Montjuïc is a fountain located at the head of Avinguda Maria Cristina in the Montjuïc neighborhood of Barcelona, Catalonia, Spain.",
+     "narration": "The Magic Fountain of Montjuïc is a fountain located at the head of Avinguda Maria Cristina in the Montjuïc neighborhood of Barcelona, Catalonia, Spain. The fountain is situated below the Palau Nacional on the Montjuïc mountain and near the Plaça d'Espanya and Poble Espanyol de Barcelona. The fountain, like most of the surrounding developments, was constructed for the 1929 Barcelona International Exposition. The fountain sprays 700 gallons of water a second through 3620 jets to create its effect. The highest water spout is 170 feet.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Magic Fountain of Montjuïc",
+     "url": "https://en.wikipedia.org/wiki/Magic_Fountain_of_Montju%C3%AFc",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1414600",
+     "url": "https://www.wikidata.org/wiki/Q1414600",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "casa-amatller",
+   "image": {
+    "file": "images/casa-amatller.jpg",
+    "author": "The original uploader was Argyriou at English Wikipedia.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:CasaAmatller.jpg"
+   },
+   "location": {
+    "latitude": 41.391449,
+    "longitude": 2.165009
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "modern",
+    "monument"
+   ],
+   "area": "Dreta de l'Eixample",
+   "content": {
+    "en": {
+     "name": "Casa Amatller",
+     "intro": "Casa Amatller is a building in the Modernisme style in Barcelona, Catalunya, Spain, designed by renowned Catalan architect Josep Puig i Cadafalch.",
+     "narration": "Casa Amatller is a building in the Modernisme style in Barcelona, Catalunya, Spain, designed by renowned Catalan architect Josep Puig i Cadafalch. Along with Casa Batlló and Casa Lleó-Morera, it makes up the three most important buildings in Barcelona's famous Illa de la Discòrdia, noted for its unique, contrasting modern buildings. The building was originally constructed in 1875, then redesigned as a residence for wealthy chocolatier and archaeological enthusiast Antoni Amatller between 1898 and 1900. After his death in 1910, it remained the home of Amatller's daughter until her death in 1960. The continuous ownership by the Amatller family meant that the house's interior of 1900 has remained largely preserved intact to the present day.",
+     "longDescription": "Casa Amatller is a building in the Modernisme style in Barcelona, Catalunya, Spain, designed by renowned Catalan architect Josep Puig i Cadafalch. Along with Casa Batlló and Casa Lleó-Morera, it makes up the three most important buildings in Barcelona's famous Illa de la Discòrdia, noted for its unique, contrasting modern buildings. The building was originally constructed in 1875, then redesigned as a residence for wealthy chocolatier and archaeological enthusiast Antoni Amatller between 1898 and 1900. After his death in 1910, it remained the home of Amatller's daughter until her death in 1960. The continuous ownership by the Amatller family meant that the house's interior of 1900 has remained largely preserved intact to the present day. It now serves as a historic house museum, café, and the Amatller Institute for Hispanic Art, a scholarly study center. The house is regularly open for scheduled tours.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Casa Amatller",
+     "url": "https://en.wikipedia.org/wiki/Casa_Amatller",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q506814",
+     "url": "https://www.wikidata.org/wiki/Q506814",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "placa-sant-jaume",
+   "image": {
+    "file": "images/placa-sant-jaume.jpg",
+    "author": "Herodotptlomeu",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Pla%C3%A7a_Sant_Jaume.jpg"
+   },
+   "location": {
+    "latitude": 41.3825,
+    "longitude": 2.176944444
+   },
+   "category": "square",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 29,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Gothic Quarter",
+   "content": {
+    "en": {
+     "name": "Plaça Sant Jaume",
+     "intro": "The Plaça de Sant Jaume is a square at the center of the Old City of Barcelona and the administrative heart of both the city and surrounding Catalonia.",
+     "narration": "The Plaça de Sant Jaume is a square at the center of the Old City of Barcelona and the administrative heart of both the city and surrounding Catalonia. This is because the Palace of the Generalitat of Catalonia and the City Hall are located here across from one another. This square's origin stems from the early-19th century, when the new main façade of City Hall was built and the former church of Sant Jaume was demolished.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Plaça Sant Jaume",
+     "url": "https://en.wikipedia.org/wiki/Pla%C3%A7a_Sant_Jaume",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2082605",
+     "url": "https://www.wikidata.org/wiki/Q2082605",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "museu-picasso",
+   "image": {
+    "file": "images/museu-picasso.jpg",
+    "author": "Pere López",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palau_Berenguer_d%27Aguilar.jpg"
+   },
+   "location": {
+    "latitude": 41.385216,
+    "longitude": 2.180893
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "medieval",
+    "museum"
+   ],
+   "area": "Ciutat Vella",
+   "content": {
+    "en": {
+     "name": "Museu Picasso",
+     "intro": "The Museu Picasso is an art museum in Barcelona, in Catalonia, Spain.",
+     "narration": "The Museu Picasso is an art museum in Barcelona, in Catalonia, Spain. It houses an extensive collection of artworks by the twentieth-century Spanish artist Pablo Picasso, with a total of 4251 of his works. It is housed in five adjoining medieval palaces on Montcada Street in the La Ribera neighborhood in the Old City of Barcelona. It opened to the public on 9 March 1963, becoming the first museum dedicated to Picasso's work and the only one created during his lifetime. It has since been declared a museum of national interest by the Government of Catalonia. Highlights of the collection include two of his first major works, The First Communion, and Science and Charity.",
+     "longDescription": "The Museu Picasso is an art museum in Barcelona, in Catalonia, Spain. It houses an extensive collection of artworks by the twentieth-century Spanish artist Pablo Picasso, with a total of 4251 of his works. It is housed in five adjoining medieval palaces on Montcada Street in the La Ribera neighborhood in the Old City of Barcelona. It opened to the public on 9 March 1963, becoming the first museum dedicated to Picasso's work and the only one created during his lifetime. It has since been declared a museum of national interest by the Government of Catalonia. Highlights of the collection include two of his first major works, The First Communion, and Science and Charity. In particular, the Museu Picasso reveals Picasso's relationship with the city of Barcelona, a relationship that was shaped in his youth and adolescence and continued until his death.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Museu Picasso",
+     "url": "https://en.wikipedia.org/wiki/Museu_Picasso",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1050032",
+     "url": "https://www.wikidata.org/wiki/Q1050032",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "barcelona-museum-of-contemporary-art",
+   "image": {
+    "file": "images/barcelona-museum-of-contemporary-art.jpg",
+    "author": "Zarateman",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Museu_d%27Art_Contemporani_de_Barcelona_(MACBA).jpg"
+   },
+   "location": {
+    "latitude": 41.38311,
+    "longitude": 2.16679
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 24,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "modern",
+    "museum"
+   ],
+   "area": "El Raval",
+   "content": {
+    "en": {
+     "name": "Barcelona Museum of Contemporary Art",
+     "intro": "The Barcelona Museum of Contemporary Art is a contemporary art museum situated in the Plaça dels Àngels, in El Raval neighborhood, Ciutat Vella district, in Barcelona, Catalonia, Spain.",
+     "narration": "The Barcelona Museum of Contemporary Art is a contemporary art museum situated in the Plaça dels Àngels, in El Raval neighborhood, Ciutat Vella district, in Barcelona, Catalonia, Spain. The museum opened to the public on 28 November 1995. Its current director is Valentín Roma, while previous directors include Daniel Giralt-Miracle, Miquel Molins Nubiola, Manuel Borja-Villel, Bartomeu Marí, Ferran Barenblit, and Elvira Dyangani Ose.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Barcelona Museum of Contemporary Art",
+     "url": "https://en.wikipedia.org/wiki/Barcelona_Museum_of_Contemporary_Art",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1067140",
+     "url": "https://www.wikidata.org/wiki/Q1067140",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "montjuic-castle",
+   "image": {
+    "file": "images/montjuic-castle.jpg",
+    "author": "C messier",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%CE%9A%CE%AC%CF%83%CF%84%CF%81%CE%BF_%CE%9C%CE%BF%CE%BD%CE%B6%CE%BF%CF%85%CE%AF%CE%BA_3231_-_3233.jpg"
+   },
+   "location": {
+    "latitude": 41.36342,
+    "longitude": 2.16617
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Montjuïc",
+   "content": {
+    "en": {
+     "name": "Montjuïc Castle",
+     "intro": "Montjuïc Castle is an old military fortress, with roots dating back from 1640, built on top of Montjuïc hill in Barcelona, Catalonia, Spain.",
+     "narration": "Montjuïc Castle is an old military fortress, with roots dating back from 1640, built on top of Montjuïc hill in Barcelona, Catalonia, Spain. It currently serves as a Barcelona municipal facility.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Montjuïc Castle",
+     "url": "https://en.wikipedia.org/wiki/Montju%C3%AFc_Castle",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2500125",
+     "url": "https://www.wikidata.org/wiki/Q2500125",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "fossar-de-les-moreres",
+   "image": {
+    "file": "images/fossar-de-les-moreres.jpg",
+    "author": "Puigalder",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fossardelesmoreres3.jpg"
+   },
+   "location": {
+    "latitude": 41.383684,
+    "longitude": 2.182433
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "historic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Sant Pere, Santa Caterina i la Ribera",
+   "content": {
+    "en": {
+     "name": "Fossar de les Moreres",
+     "intro": "The Fossar de les Moreres is a memorial square in Barcelona, adjacent to the basilica of Santa Maria del Mar.",
+     "narration": "The Fossar de les Moreres is a memorial square in Barcelona, adjacent to the basilica of Santa Maria del Mar. The plaza was built over a cemetery where defenders of the city were buried following the Siege of Barcelona at the end of the War of the Spanish Succession in 1714. The plaza features a memorial to the fallen Catalans of the war, with a torch of eternal flame and a heroic poem by Frederic Soler, \"El Fossar de les Moreres\". In the aftermath of the War of Spanish Succession, Catalonia suffered the loss of its independence.",
+     "longDescription": "The Fossar de les Moreres is a memorial square in Barcelona, adjacent to the basilica of Santa Maria del Mar. The plaza was built over a cemetery where defenders of the city were buried following the Siege of Barcelona at the end of the War of the Spanish Succession in 1714. The plaza features a memorial to the fallen Catalans of the war, with a torch of eternal flame and a heroic poem by Frederic Soler, \"El Fossar de les Moreres\". In the aftermath of the War of Spanish Succession, Catalonia suffered the loss of its independence. The subsequent royal decrees known as the Decretos de Nueva Planta abolished the furs of Catalonia as well as institutions that dated back to the time of the Crown of Aragon and beyond. At a later date the public use of the Catalan language was banned for public documents. The Decretos dealt not only with Catalonia, but also with other parts of Spain and the empire as a whole. Given this history connected with the decrees and the war, the Fossar de les Moreres is a place of remembrance every year during the National Day of Catalonia. The holiday commemorates the date on which Barcelona fell, 11 September, and Catalans yearly pay homage to the defenders of the city who were killed and are buried at the memorial.[1]",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Fossar de les Moreres",
+     "url": "https://en.wikipedia.org/wiki/Fossar_de_les_Moreres",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2749521",
+     "url": "https://www.wikidata.org/wiki/Q2749521",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "montjuic-communications-tower",
+   "image": {
+    "file": "images/montjuic-communications-tower.jpg",
+    "author": "Thomas Ledl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torre_de_comunicacions_de_Montjuic,_Barcelona,_Calavatra_01.jpg"
+   },
+   "location": {
+    "latitude": 41.36417,
+    "longitude": 2.15056
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 33,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Montjuïc",
+   "content": {
+    "en": {
+     "name": "Montjuïc Communications Tower",
+     "intro": "The Montjuïc Communications Tower, popularly known as Torre Calatrava and Torre Telefónica, is a telecommunication tower in the Montjuïc neighbourhood of Barcelona, Catalonia, Spain.",
+     "narration": "The Montjuïc Communications Tower, popularly known as Torre Calatrava and Torre Telefónica, is a telecommunication tower in the Montjuïc neighbourhood of Barcelona, Catalonia, Spain. It was designed by Santiago Calatrava, with construction taking place from 1989 to 1992. The white tower was built for Telefónica to transmit television coverage of the 1992 Summer Olympic Games in Barcelona. The 136-metre tower is located in the Olympic park and represents an athlete holding the Olympic Flame. The base is covered with trencadís, Gaudí's mosaic technique created from broken tile shards.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Montjuïc Communications Tower",
+     "url": "https://en.wikipedia.org/wiki/Montju%C3%AFc_Communications_Tower",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q202530",
+     "url": "https://www.wikidata.org/wiki/Q202530",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "liceu",
+   "image": {
+    "file": "images/liceu.jpg",
+    "author": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Th%C3%A9%C3%A2tre_Liceu_Barcelone_3.jpg"
+   },
+   "location": {
+    "latitude": 41.380277777,
+    "longitude": 2.173611111
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "El Raval",
+   "content": {
+    "en": {
+     "name": "Liceu",
+     "intro": "The Gran Teatre del Liceu, or simply Liceu, is a theater in Barcelona, Spain.",
+     "narration": "The Gran Teatre del Liceu, or simply Liceu, is a theater in Barcelona, Spain. Situated on La Rambla, it is the city's oldest theater building still in use for its original purpose. Founded in 1837 at another location, the Liceu opened at its current address on 4 April 1847. The theater was rebuilt after fires in 1861 and 1994, and reopened on 20 April 1862 and 7 October 1999. On 7 November 1893, on the opening night of the season, an anarchist threw two bombs into the stalls. About twenty people were killed, and many more were injured. Between 1847 and 1989, the 2,338-seat Liceu was the largest opera house in Europe by capacity.",
+     "longDescription": "The Gran Teatre del Liceu, or simply Liceu, is a theater in Barcelona, Spain. Situated on La Rambla, it is the city's oldest theater building still in use for its original purpose. Founded in 1837 at another location, the Liceu opened at its current address on 4 April 1847. The theater was rebuilt after fires in 1861 and 1994, and reopened on 20 April 1862 and 7 October 1999. On 7 November 1893, on the opening night of the season, an anarchist threw two bombs into the stalls. About twenty people were killed, and many more were injured. Between 1847 and 1989, the 2,338-seat Liceu was the largest opera house in Europe by capacity. Since 1994, the Liceu has been owned and managed by a public foundation whose board of trustees represents the Ministry of Culture, the Generalitat de Catalunya, the Provincial Deputation of Barcelona and the City Council of Barcelona. The theater has its own choir, symphony orchestra and college of music.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Liceu",
+     "url": "https://en.wikipedia.org/wiki/Liceu",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1130050",
+     "url": "https://www.wikidata.org/wiki/Q1130050",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "montjuic-circuit",
+   "image": {
+    "file": "images/montjuic-circuit.jpg",
+    "author": "Toni Sala",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:24_Horas_de_Montjuich._10_de_julio_de_1966_8.jpg"
+   },
+   "location": {
+    "latitude": 41.36611,
+    "longitude": 2.15194
+   },
+   "category": "street",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "street"
+   ],
+   "area": "Montjuïc",
+   "content": {
+    "en": {
+     "name": "Montjuïc Circuit",
+     "intro": "The Montjuïc Circuit was a street circuit located on the Montjuïc mountain in Barcelona, Catalonia, Spain.",
+     "narration": "The Montjuïc Circuit was a street circuit located on the Montjuïc mountain in Barcelona, Catalonia, Spain. The circuit was also the venue for the Spanish motorcycle Grand Prix twelve times between 1951 and 1976. The circuit hosted four Formula One Grand Prix races on non consecutive years between 1969 and 1975. The final Formula One Grand Prix it hosted was notable for both a fatal crash that led to Formula One abandoning the venue and for being the only occasion to date, that a female driver has scored World Championship points.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Montjuïc Circuit",
+     "url": "https://en.wikipedia.org/wiki/Montju%C3%AFc_Circuit",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q172892",
+     "url": "https://www.wikidata.org/wiki/Q172892",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "fundacio-joan-miro",
+   "image": {
+    "file": "images/fundacio-joan-miro.jpg",
+    "author": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fundaci%C3%B3_Mir%C3%B3.JPG"
+   },
+   "location": {
+    "latitude": 41.368611111,
+    "longitude": 2.16
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "modern",
+    "museum"
+   ],
+   "area": "Montjuïc",
+   "content": {
+    "en": {
+     "name": "Fundació Joan Miró",
+     "intro": "The Fundació Joan Miró is a modern art museum honoring the life and work of the Spanish artist Joan Miró, located on the hill called Montjuïc in Barcelona, Catalonia.",
+     "narration": "The Fundació Joan Miró is a modern art museum honoring the life and work of the Spanish artist Joan Miró, located on the hill called Montjuïc in Barcelona, Catalonia.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Fundació Joan Miró",
+     "url": "https://en.wikipedia.org/wiki/Fundaci%C3%B3_Joan_Mir%C3%B3",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q867072",
+     "url": "https://www.wikidata.org/wiki/Q867072",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "dona-i-ocell",
+   "image": {
+    "file": "images/dona-i-ocell.jpg",
+    "author": "PierreSelim",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joan_Miro_-_Dona_i_ocell_(1).jpg"
+   },
+   "location": {
+    "latitude": 41.37781,
+    "longitude": 2.14697
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "La Nova Esquerra de l'Eixample",
+   "content": {
+    "en": {
+     "name": "Dona i Ocell",
+     "intro": "Dona i Ocell is a 22-metre high sculpture by Joan Miró located in the Joan Miró Park in Barcelona, Catalonia, Spain.",
+     "narration": "Dona i Ocell is a 22-metre high sculpture by Joan Miró located in the Joan Miró Park in Barcelona, Catalonia, Spain. The sculpture was covered in tiles by the artist's collaborator Joan Gardy Artigas. The sculpture is part of an artwork trilogy commissioned from Miró to welcome visitors to Barcelona.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Dona i Ocell",
+     "url": "https://en.wikipedia.org/wiki/Dona_i_Ocell",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q593202",
+     "url": "https://www.wikidata.org/wiki/Q593202",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "temple-expiatori-del-sagrat-cor",
+   "image": {
+    "file": "images/temple-expiatori-del-sagrat-cor.jpg",
+    "author": "Jordiferrer",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_del_Sagrat_Cor_vist_des_de_la_Talaia_del_Tibidabo.JPG"
+   },
+   "location": {
+    "latitude": 41.422075,
+    "longitude": 2.11886111
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 24,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "roman"
+   ],
+   "area": "Vallvidrera, el Tibidabo i les Planes",
+   "content": {
+    "en": {
+     "name": "Temple Expiatori del Sagrat Cor",
+     "intro": "The Temple Expiatori del Sagrat Cor is a Roman Catholic church and minor basilica located on the summit of Mount Tibidabo in Barcelona, Catalonia, Spain.",
+     "narration": "The Temple Expiatori del Sagrat Cor is a Roman Catholic church and minor basilica located on the summit of Mount Tibidabo in Barcelona, Catalonia, Spain. The building is the work of the Catalan architect Enric Sagnier and was completed by his son Josep Maria Sagnier i Vidal. The construction of the church, dedicated to the Sacred Heart of Jesus, lasted from 1902 to 1961.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Temple Expiatori del Sagrat Cor",
+     "url": "https://en.wikipedia.org/wiki/Temple_Expiatori_del_Sagrat_Cor",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1189293",
+     "url": "https://www.wikidata.org/wiki/Q1189293",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "torre-de-collserola",
+   "image": {
+    "file": "images/torre-de-collserola.jpg",
+    "author": "Felix König",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torre_de_Collserola_2013.jpg"
+   },
+   "location": {
+    "latitude": 41.417222222,
+    "longitude": 2.114166666
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Vallvidrera, el Tibidabo i les Planes",
+   "content": {
+    "en": {
+     "name": "Torre de Collserola",
+     "intro": "Torre de Collserola is a uniquely designed tower located on the Tibidabo hill in the Serra de Collserola, in Barcelona, Catalonia, Spain.",
+     "narration": "Torre de Collserola is a uniquely designed tower located on the Tibidabo hill in the Serra de Collserola, in Barcelona, Catalonia, Spain. It was designed by the architect Sir Norman Foster and by the Spanish civil engineers Julio Martínez Calzón and Manuel Julià Vilardell. This emblematic tower was built in 1991 by the construction company Cubiertas y MZOV S.A. for the 1992 Summer Olympics. It features a pod for floor space like many towers but uses guy wires for lateral support like a mast. Mainly used as a TV and radio transmitter, this futuristic design provides the highest viewpoint over the city.",
+     "longDescription": "Torre de Collserola is a uniquely designed tower located on the Tibidabo hill in the Serra de Collserola, in Barcelona, Catalonia, Spain. It was designed by the architect Sir Norman Foster and by the Spanish civil engineers Julio Martínez Calzón and Manuel Julià Vilardell. This emblematic tower was built in 1991 by the construction company Cubiertas y MZOV S.A. for the 1992 Summer Olympics. It features a pod for floor space like many towers but uses guy wires for lateral support like a mast. Mainly used as a TV and radio transmitter, this futuristic design provides the highest viewpoint over the city. The top antenna reaches 288.4 m and the top of the pod, which has thirteen floors, reaches 152 m. The highest point of this tower is the highest place one could be in the city of Barcelona. The tenth floor of the pod is open to the public.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Torre de Collserola",
+     "url": "https://en.wikipedia.org/wiki/Torre_de_Collserola",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1147977",
+     "url": "https://www.wikidata.org/wiki/Q1147977",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "poble-espanyol",
+   "image": {
+    "file": "images/poble-espanyol.jpg",
+    "author": "pere prlpz",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porta_del_Poble_Espanyol_de_Montju%C3%AFc_-_20200818_181705.jpg"
+   },
+   "location": {
+    "latitude": 41.369139,
+    "longitude": 2.146692
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 33,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Montjuïc",
+   "content": {
+    "en": {
+     "name": "Poble Espanyol",
+     "intro": "The Poble Espanyol is an open-air architectural museum in Barcelona, Catalonia, Spain, approximately 400 metres away from the Fountains of Montjuïc.",
+     "narration": "The Poble Espanyol is an open-air architectural museum in Barcelona, Catalonia, Spain, approximately 400 metres away from the Fountains of Montjuïc. It is listed as a Cultural Asset of Local Interest. Built for the 1929 Barcelona International Exposition, the museum consists of 117 full-scale buildings replicated from different places in Spain, put together to form a small town recreating urban atmospheres of a variety of places with a range of architectural styles. These buildings house a theater, restaurants, artisan workshops and a museum of contemporary art.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Poble Espanyol",
+     "url": "https://en.wikipedia.org/wiki/Poble_Espanyol",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1062480",
+     "url": "https://www.wikidata.org/wiki/Q1062480",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "may-days",
+   "image": {
+    "file": "images/may-days.jpg",
+    "author": "The Spanish Revolution",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:POUM_FAI.jpg"
+   },
+   "location": {
+    "latitude": 41.4019,
+    "longitude": 2.17139
+   },
+   "category": "street",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "street"
+   ],
+   "area": "Barcelona",
+   "content": {
+    "en": {
+     "name": "May Days",
+     "intro": "The May Days, sometimes also called May Events, were a series of clashes between 3 and 8 May 1937 during which factions on the Republican side of the Spanish Civil War engaged one another in street battles in various…",
+     "narration": "The May Days, sometimes also called May Events, were a series of clashes between 3 and 8 May 1937 during which factions on the Republican side of the Spanish Civil War engaged one another in street battles in various parts of Catalonia, centered on the city of Barcelona. In those events, libertarian socialist supporters of the Spanish Revolution, such as the anarchist CNT and the anti-Stalinist POUM, which opposed a centralized government, faced others, such as the Republican government, Catalan government and the Communist Party of Spain, which believed in a strong central government.",
+     "longDescription": "The May Days, sometimes also called May Events, were a series of clashes between 3 and 8 May 1937 during which factions on the Republican side of the Spanish Civil War engaged one another in street battles in various parts of Catalonia, centered on the city of Barcelona. In those events, libertarian socialist supporters of the Spanish Revolution, such as the anarchist CNT and the anti-Stalinist POUM, which opposed a centralized government, faced others, such as the Republican government, Catalan government and the Communist Party of Spain, which believed in a strong central government. The events were the culmination of the confrontation between prewar Republican legality and the Spanish Revolution, which had been in constant strife since the beginning of the Spanish Civil War.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: May Days",
+     "url": "https://en.wikipedia.org/wiki/May_Days",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1885246",
+     "url": "https://www.wikidata.org/wiki/Q1885246",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palau-nacional",
+   "image": {
+    "file": "images/palau-nacional.jpg",
+    "author": "Juanedc from Zaragoza, España",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palau_Nacional,_Barcelona.jpg"
+   },
+   "location": {
+    "latitude": 41.368333333,
+    "longitude": 2.153305555
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 46,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Montjuïc",
+   "content": {
+    "en": {
+     "name": "Palau Nacional",
+     "intro": "The Palau Nacional is a building on the hill of Montjuïc in Barcelona.",
+     "narration": "The Palau Nacional is a building on the hill of Montjuïc in Barcelona. It was the main site of the 1929 International Exhibition. It was designed by Eugenio Cendoya and Enric Catà under the supervision of Pere Domènech i Roura. Since 1934 it has been home to the National Art Museum of Catalonia. With a ground surface of 32,000 m2, the Spanish Renaissance-inspired building has a rectangular floor plan flanked by two side and one rear square sections, with an elliptical dome in the centre. The fountains by the staircases leading to the palace are the work of Carles Buïgas. Between 1996 and 2004, the palace was extended to accommodate the National Art Museum's entire collection of over 5,000 artworks.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palau Nacional",
+     "url": "https://en.wikipedia.org/wiki/Palau_Nacional",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2341107",
+     "url": "https://www.wikidata.org/wiki/Q2341107",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "santa-maria-del-pi-barcelona",
+   "image": {
+    "file": "images/santa-maria-del-pi-barcelona.jpg",
+    "author": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilique_Ste_Marie_Pin_Barcelone_6.jpg"
+   },
+   "location": {
+    "latitude": 41.382222222,
+    "longitude": 2.173888888
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "medieval"
+   ],
+   "area": "Gothic Quarter",
+   "content": {
+    "en": {
+     "name": "Santa Maria del Pi, Barcelona",
+     "intro": "Santa Maria del Pi is a 15th-century Gothic church in Barcelona, Catalonia, Spain.",
+     "narration": "Santa Maria del Pi is a 15th-century Gothic church in Barcelona, Catalonia, Spain. It is situated on the Plaça del Pi, in the Barri Gòtic district of the city.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Santa Maria del Pi, Barcelona",
+     "url": "https://en.wikipedia.org/wiki/Santa_Maria_del_Pi%2C_Barcelona",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2293331",
+     "url": "https://www.wikidata.org/wiki/Q2293331",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "la-monumental",
+   "image": {
+    "file": "images/la-monumental.jpg",
+    "author": "Sergi Larripa (User:SergiL)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:050529_Barcelona_027.jpg"
+   },
+   "location": {
+    "latitude": 41.4,
+    "longitude": 2.18111
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Fort Pienc",
+   "content": {
+    "en": {
+     "name": "La Monumental",
+     "intro": "The Plaza de Toros Monumental de Barcelona, often known simply as La Monumental, is a bullring in the city of Barcelona, Catalonia, Spain.",
+     "narration": "The Plaza de Toros Monumental de Barcelona, often known simply as La Monumental, is a bullring in the city of Barcelona, Catalonia, Spain. It was the last bullfighting arena in commercial operation in Catalonia. It was inaugurated in 1914 under the name Plaza de El Sport and was soon expanded and given its current name in 1916. It is situated at the confluence of the Gran Via and Carrer Marina in the Eixample district. It has a capacity of 19,582 within 26 rows of lines, boxes, and stands on the first floor inside and an upper gallery surrounding the building.",
+     "longDescription": "The Plaza de Toros Monumental de Barcelona, often known simply as La Monumental, is a bullring in the city of Barcelona, Catalonia, Spain. It was the last bullfighting arena in commercial operation in Catalonia. It was inaugurated in 1914 under the name Plaza de El Sport and was soon expanded and given its current name in 1916. It is situated at the confluence of the Gran Via and Carrer Marina in the Eixample district. It has a capacity of 19,582 within 26 rows of lines, boxes, and stands on the first floor inside and an upper gallery surrounding the building. It was the last place in Catalonia where bullfights were held since the Parliament of Catalonia passed a law banning bullfighting events on 28 July 2010 that came into force in 2012. Though the ban was overturned in 2016, no further bullfights had taken place as of July 2020. It is owned by the Balañá family, who placed it under the control of the Casa Matilla, an organisation which manages a number of bullrings. The plaza is currently used for sporting, musical and circus events. The building was originally built in the noucentista architectural style, the work of Manuel Joaquim Raspall i Mayol. The expansion work was done by Ignasi Mas i Morell and Domènec Sugrañes i Gras to give it its current facade, strongly influenced by Mudéjar and Byzantine architecture. It is one of the larger public arenas in Barcelona, with a capacity of 19,582 for bullfights or about 25,000 for events such as rock concerts.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: La Monumental",
+     "url": "https://en.wikipedia.org/wiki/La_Monumental",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q337522",
+     "url": "https://www.wikidata.org/wiki/Q337522",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "placa-del-rei",
+   "image": {
+    "file": "images/placa-del-rei.jpg",
+    "author": "C messier",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palau_Reial_Major_2574.jpg"
+   },
+   "location": {
+    "latitude": 41.38413,
+    "longitude": 2.17744
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "medieval",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Gothic Quarter",
+   "content": {
+    "en": {
+     "name": "Plaça del Rei",
+     "intro": "Plaça del Rei is a 14th-century medieval public square in the Barri Gòtic of Barcelona, Catalonia, Spain.",
+     "narration": "Plaça del Rei is a 14th-century medieval public square in the Barri Gòtic of Barcelona, Catalonia, Spain. The square is surrounded by the Palau Reial Major including the Saló del Tinell, the Palau del Lloctinent, the 15th-century tower Mirador del Rei Martí, and the Capella Reial de Santa Àgata. On its southern side stands Casa Padellàs a 15th–16th century palazzo moved here stone by stone from Mercaders Street in 1931 and since 1943, has housed the Barcelona City History Museum. Topos V, a work by Eduardo Chillida, underlines one of the corners of the square.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Plaça del Rei",
+     "url": "https://en.wikipedia.org/wiki/Pla%C3%A7a_del_Rei",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2067174",
+     "url": "https://www.wikidata.org/wiki/Q2067174",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "casa-calvet",
+   "image": null,
+   "location": {
+    "latitude": 41.390833333,
+    "longitude": 2.173055555
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 46,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Dreta de l'Eixample",
+   "content": {
+    "en": {
+     "name": "Casa Calvet",
+     "intro": "Casa Calvet is a building, designed by Antoni Gaudí for a textile manufacturer which served as both a commercial property and a residence.",
+     "narration": "Casa Calvet is a building, designed by Antoni Gaudí for a textile manufacturer which served as both a commercial property and a residence. It is located at Carrer de Casp 48, Eixample district of Barcelona. It was built between 1898 and 1900. Gaudí scholars agree that this building is the most conventional of his works, partly because it had to be squeezed in between older structures and partly because it was sited in one of the most elegant sections of Barcelona. Its symmetry, balance and orderly rhythm are unusual for Gaudí's works. However, the curves and double gable at the top, the projecting oriel at the entrance — almost baroque in its drama, and isolated witty details are modernista elements.",
+     "longDescription": "Casa Calvet is a building, designed by Antoni Gaudí for a textile manufacturer which served as both a commercial property and a residence. It is located at Carrer de Casp 48, Eixample district of Barcelona. It was built between 1898 and 1900. Gaudí scholars agree that this building is the most conventional of his works, partly because it had to be squeezed in between older structures and partly because it was sited in one of the most elegant sections of Barcelona. Its symmetry, balance and orderly rhythm are unusual for Gaudí's works. However, the curves and double gable at the top, the projecting oriel at the entrance — almost baroque in its drama, and isolated witty details are modernista elements. Bulging balconies alternate with smaller, shallower balconies. Mushrooms above the oriel at the center allude to the owner's favorite hobby. Columns flanking the entrance are in the form of stacked bobbins — an allusion to the family business of textile manufacture. Lluís Permanyer claims that \"the gallery at ground level is the façade's most outstanding feature, a daring combination of wrought iron and stone in which decorative historical elements such as a cypress, an olive tree, horns of plenty, and the Catalan coat of arms can be discerned\". Three sculpted heads at the top also allude to the owner: One is Sant Pere Màrtir Calvet i Carbonell and two are patron saints of Vilassar, Andreu Calvet's home town. Between 1899 and 1906, the Arts Building Annual Award awarded modernist pieces, like the Casa Calvet, the Casa Lleó Morera and the Casa Trinxet.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Casa Calvet",
+     "url": "https://en.wikipedia.org/wiki/Casa_Calvet",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1046405",
+     "url": "https://www.wikidata.org/wiki/Q1046405",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "passeig-de-gracia",
+   "image": {
+    "file": "images/passeig-de-gracia.jpg",
+    "author": "Andrew",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Via_Barcelona_Casa_Mil%C3%A0.JPG"
+   },
+   "location": {
+    "latitude": 41.393044444,
+    "longitude": 2.163786111
+   },
+   "category": "street",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 24,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "historic",
+    "neighbourhood",
+    "street"
+   ],
+   "area": "Vila de Gràcia",
+   "content": {
+    "en": {
+     "name": "Passeig de Gràcia",
+     "intro": "Passeig de Gràcia is one of the major avenues in Barcelona and one of its most important shopping and business areas, containing several of the city's most celebrated pieces of architecture.",
+     "narration": "Passeig de Gràcia is one of the major avenues in Barcelona and one of its most important shopping and business areas, containing several of the city's most celebrated pieces of architecture. It is located in the central part of Eixample, stretching from Plaça Catalunya to Carrer Gran de Gràcia. Passeig de Gràcia is regarded as the most expensive street in Barcelona and in Spain.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Passeig de Gràcia",
+     "url": "https://en.wikipedia.org/wiki/Passeig_de_Gr%C3%A0cia",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1419892",
+     "url": "https://www.wikidata.org/wiki/Q1419892",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "venetian-towers",
+   "image": {
+    "file": "images/venetian-towers.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:(Barcelona)_Torres_venecianes_-_El_Tibidabo_-_Temple_Expiatori_del_Sagrat_Cor.jpg"
+   },
+   "location": {
+    "latitude": 41.374228811,
+    "longitude": 2.149971166
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Montjuïc",
+   "content": {
+    "en": {
+     "name": "Venetian Towers",
+     "intro": "The Venetian Towers is the popular name for a pair of towers on Avinguda de la Reina Maria Cristina at its junction with Plaça d'Espanya in Barcelona, Catalonia, Spain.",
+     "narration": "The Venetian Towers is the popular name for a pair of towers on Avinguda de la Reina Maria Cristina at its junction with Plaça d'Espanya in Barcelona, Catalonia, Spain. There is one tower on either side of the street. The towers are 47 m high, with a 7.2-metre square cross-section. The bottom section of each is built of artificial stone, the main section of red brick, and the top section is a colonnaded viewing gallery built of artificial stone, and topped by a pyramidal copper roof. They were modelled on the campanile of St. Mark's Basilica in Venice.",
+     "longDescription": "The Venetian Towers is the popular name for a pair of towers on Avinguda de la Reina Maria Cristina at its junction with Plaça d'Espanya in Barcelona, Catalonia, Spain. There is one tower on either side of the street. The towers are 47 m high, with a 7.2-metre square cross-section. The bottom section of each is built of artificial stone, the main section of red brick, and the top section is a colonnaded viewing gallery built of artificial stone, and topped by a pyramidal copper roof. They were modelled on the campanile of St. Mark's Basilica in Venice. They were originally envisaged in Léon Jaussely's city expansion plan of 1907, and designed by architect Ramon Reventós and built in the period 1927 to 1929, as part of the redevelopment of the area for the 1929 Barcelona International Exposition. Reventós was also involved in a number of other projects featured in the exhibition, such as the Greek Theatre, the Spanish Village, and the buildings of the Montjuïc Funicular on the nearby hill of Montjuïc. They serve an ornamental function, to mark the entrance to the exhibition district, now known as Fira de Barcelona, and the start of the grand avenue leading up to the Palau Nacional on Montjuïc, which houses the National Art Museum of Catalonia. Originally, the towers were open to the public, who could climb the internal stairs to the viewing galleries, but they are now normally closed. In later years, the western tower housed equipment for controlling the illumination of the Magic Fountain of Montjuïc, 350m away at the far end of Avinguda Maria Cristina, and the gallery of the eastern tower housed sirens for signalling possible emergencies; the disused equipment was removed during the 2013/14 restoration work. The towers are registered as protected structures by Barcelona",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Venetian Towers",
+     "url": "https://en.wikipedia.org/wiki/Venetian_Towers",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q7919738",
+     "url": "https://www.wikidata.org/wiki/Q7919738",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "el-poblenou",
+   "image": {
+    "file": "images/el-poblenou.jpg",
+    "author": "Manuellebron",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:PereIV-HabitatSky.jpg"
+   },
+   "location": {
+    "latitude": 41.39916667,
+    "longitude": 2.20388889
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood",
+    "river"
+   ],
+   "area": "Sant Martí",
+   "content": {
+    "en": {
+     "name": "El Poblenou",
+     "intro": "El Poblenou is an extensive neighborhood of Barcelona’s Sant Martí district that borders the Mediterranean Sea to the south, Sant Adrià del Besòs to the east, Parc de la Ciutadella in Ciutat Vella to the west, and…",
+     "narration": "El Poblenou is an extensive neighborhood of Barcelona’s Sant Martí district that borders the Mediterranean Sea to the south, Sant Adrià del Besòs to the east, Parc de la Ciutadella in Ciutat Vella to the west, and Sant Andreu to the north. Originally, it was a town entirely separate from Barcelona proper.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: El Poblenou",
+     "url": "https://en.wikipedia.org/wiki/El_Poblenou",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1404773",
+     "url": "https://www.wikidata.org/wiki/Q1404773",
+     "license": "CC0"
+    }
+   ]
+  }
+ ]
+}

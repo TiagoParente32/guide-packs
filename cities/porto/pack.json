@@ -1,0 +1,2626 @@
+{
+ "format": 1,
+ "city": {
+  "id": "porto",
+  "name": "Porto",
+  "country": "Portugal",
+  "center": {
+   "latitude": 41.1502195,
+   "longitude": -8.6103497
+  },
+  "bounds": {
+   "south": 41.1383507,
+   "north": 41.1859353,
+   "west": -8.691289,
+   "east": -8.5520792
+  },
+  "languages": [
+   "en",
+   "pt-PT"
+  ],
+  "quality": "generated",
+  "placeCount": 45,
+  "version": 1,
+  "hero": {
+   "file": "images/dom-luis-i-bridge.jpg",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puente_Don_Luis_I,_Oporto,_Portugal,_2012-05-09,_DD_13.JPG"
+  },
+  "packUrl": "cities/porto/pack.json",
+  "generatedAt": "2026-10-30T00:34:58Z"
+ },
+ "pois": [
+  {
+   "id": "dom-luis-i-bridge",
+   "image": {
+    "file": "images/dom-luis-i-bridge.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puente_Don_Luis_I,_Oporto,_Portugal,_2012-05-09,_DD_13.JPG"
+   },
+   "location": {
+    "latitude": 41.139722,
+    "longitude": -8.609444
+   },
+   "category": "monument",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument",
+    "river"
+   ],
+   "area": "Santa Marinha e São Pedro da Afurada",
+   "content": {
+    "en": {
+     "name": "Dom Luís I Bridge",
+     "intro": "The Luiz I Bridge, commonly known as Dom Luís I Bridge, is a double-deck metal arch bridge that spans the river Douro between the cities of Porto and Vila Nova de Gaia in Portugal.",
+     "narration": "The Luiz I Bridge, commonly known as Dom Luís I Bridge, is a double-deck metal arch bridge that spans the river Douro between the cities of Porto and Vila Nova de Gaia in Portugal. At its construction, its 172 metres span was the longest of its type in the world. It can be confused with the nearby Maria Pia Bridge, a railway bridge that was built 9 years earlier, which is similar in aspect to the Luiz I bridge. Today, the bridge's upper level is used by pedestrians and by line D of the Porto Metro, whilst buses, taxis, cyclists, and pedestrians use the lower level.",
+     "longDescription": "The Luiz I Bridge, commonly known as Dom Luís I Bridge, is a double-deck metal arch bridge that spans the river Douro between the cities of Porto and Vila Nova de Gaia in Portugal. At its construction, its 172 metres span was the longest of its type in the world. It can be confused with the nearby Maria Pia Bridge, a railway bridge that was built 9 years earlier, which is similar in aspect to the Luiz I bridge. Today, the bridge's upper level is used by pedestrians and by line D of the Porto Metro, whilst buses, taxis, cyclists, and pedestrians use the lower level. The lower level links to the Porto waterfront, including the Praça da Ribeira and the lower station of the Guindais Funicular, at its northern end, and to Gaia waterfront, with its Port wine lodges, at its southern end. The upper level connects to Porto city centre and São Bento station at its northern end, and adjoins the Serra do Pilar Monastery and the upper station of the Gaia Cable Car at its southern end.",
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Ponte de D. Luís (Porto)",
+     "intro": "A Ponte de D.",
+     "narration": "A Ponte de D. Luís, também conhecida como Ponte Luís I ou Ponte Luiz I, é uma ponte em estrutura metálica com dois tabuleiros, construída entre os anos 1881 e 1886, ligando as cidades do Porto e Vila Nova de Gaia separadas pelo rio Douro, em Portugal. Esta construção veio substituir a antiga ponte pênsil que existia no mesmo local e foi realizada mediante o projecto do engenheiro belga Théophile Seyrig, que já tinha colaborado anteriormente com Gustave Eiffel na construção da Ponte de D. Maria Pia, ferroviária. A ponte foi inaugurada em 1886 e 1888. A Ponte Luís I está classificada como Imóvel de Interesse Público desde 1982 e como Património Mundial da UNESCO desde 1996.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Dom Luís I Bridge",
+     "url": "https://en.wikipedia.org/wiki/Dom_Lu%C3%ADs_I_Bridge",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Ponte de D. Luís (Porto)",
+     "url": "https://pt.wikipedia.org/wiki/Ponte_de_D._Lu%C3%ADs_%28Porto%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1322447",
+     "url": "https://www.wikidata.org/wiki/Q1322447",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "maria-pia-bridge",
+   "image": {
+    "file": "images/maria-pia-bridge.jpg",
+    "author": "Attributed to Karl Emil Biel",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponte_Maria_Pia_(01).jpg"
+   },
+   "location": {
+    "latitude": 41.139817,
+    "longitude": -8.59702
+   },
+   "category": "monument",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument",
+    "river"
+   ],
+   "area": "Oliveira do Douro",
+   "content": {
+    "en": {
+     "name": "Maria Pia Bridge",
+     "intro": "Maria Pia Bridge, commonly known as Dona Maria Pia Bridge, is a railway bridge built in 1877 and attributed to Gustave Eiffel.",
+     "narration": "Maria Pia Bridge, commonly known as Dona Maria Pia Bridge, is a railway bridge built in 1877 and attributed to Gustave Eiffel. It is situated between the Portuguese Northern municipalities of Porto and Vila Nova de Gaia. The double-hinged, crescent arch bridge is made of wrought iron and spans 353 m, 60 m over the Douro River. It was part of the Linha Norte system of the national railway. At the time of its construction, it was the longest single-arch span in the world. It is no longer used for rail transport, having been replaced by Ponte de São João in 1991.",
+     "longDescription": "Maria Pia Bridge, commonly known as Dona Maria Pia Bridge, is a railway bridge built in 1877 and attributed to Gustave Eiffel. It is situated between the Portuguese Northern municipalities of Porto and Vila Nova de Gaia. The double-hinged, crescent arch bridge is made of wrought iron and spans 353 m, 60 m over the Douro River. It was part of the Linha Norte system of the national railway. At the time of its construction, it was the longest single-arch span in the world. It is no longer used for rail transport, having been replaced by Ponte de São João in 1991. It is often confused with the similar Luiz I Bridge, which was built nine years later and is located 1 kilometre to the west, although the D. Luis Bridge has two decks instead of one.",
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Ponte de D. Maria Pia",
+     "intro": "A Ponte de D.",
+     "narration": "A Ponte de D. Maria Pia ou Ponte Maria Pia é uma infraestrutura ferroviária, que transportava a Linha do Norte sobre o Rio Douro, entre as cidades do Porto e Vila Nova de Gaia, no Norte de Portugal. Foi inaugurada em 4 de Novembro de 1877 e foi encerrada em 24 de Junho de 1991, tendo sido substituída pela Ponte de São João. É considerada, junto com o Viaduto de Garabit, como as maiores obras-primas executadas pelo engenheiro Gustave Eiffel. Na altura da sua inauguração, era a ponte com o maior arco em ferro do mundo. Está classificada como Monumento Nacional desde 1982.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Maria Pia Bridge",
+     "url": "https://en.wikipedia.org/wiki/Maria_Pia_Bridge",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Ponte de D. Maria Pia",
+     "url": "https://pt.wikipedia.org/wiki/Ponte_de_D._Maria_Pia",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1550899",
+     "url": "https://www.wikidata.org/wiki/Q1550899",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "porto-cathedral",
+   "image": {
+    "file": "images/porto-cathedral.jpg",
+    "author": "Georges Jansoone",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porto.Cathedral01.jpg"
+   },
+   "location": {
+    "latitude": 41.142818,
+    "longitude": -8.611203
+   },
+   "category": "church",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "medieval",
+    "roman"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Porto Cathedral",
+     "intro": "The Porto Cathedral is a Roman Catholic church located in the historical centre of the city of Porto, Portugal.",
+     "narration": "The Porto Cathedral is a Roman Catholic church located in the historical centre of the city of Porto, Portugal. It is one of the city's oldest monuments and one of the most important local Romanesque monuments.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Porto Cathedral",
+     "url": "https://en.wikipedia.org/wiki/Porto_Cathedral",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Sé do Porto",
+     "url": "https://pt.wikipedia.org/wiki/S%C3%A9_do_Porto",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1441255",
+     "url": "https://www.wikidata.org/wiki/Q1441255",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "church-of-sao-francisco-porto",
+   "image": {
+    "file": "images/church-of-sao-francisco-porto.jpg",
+    "author": "João Carvalho",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porto_-_Igreja_da_Ordem_de_S%C3%A3o_Francisco1536.jpg"
+   },
+   "location": {
+    "latitude": 41.141,
+    "longitude": -8.616
+   },
+   "category": "church",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "baroque",
+    "church",
+    "historic",
+    "iconic",
+    "medieval"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Church of São Francisco (Porto)",
+     "intro": "The Church of Saint Francis is the most prominent Gothic monument in Porto, Portugal, being also noted for its outstanding Baroque inner decoration.",
+     "narration": "The Church of Saint Francis is the most prominent Gothic monument in Porto, Portugal, being also noted for its outstanding Baroque inner decoration. It is located in the historic centre of the city, declared World Heritage Site by UNESCO.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Igreja de São Francisco (Porto)",
+     "intro": "A Igreja de São Francisco é uma igreja gótica da cidade do Porto, situada na freguesia de São Nicolau em pleno Centro histórico do Porto.",
+     "narration": "A Igreja de São Francisco é uma igreja gótica da cidade do Porto, situada na freguesia de São Nicolau em pleno Centro histórico do Porto. A construção iniciou-se no século XIV como parte de um convento Franciscano. É notável pelo seu conjunto de talha dourada barroca do século XVIII. Anexa à sua entrada frontal, situa-se a Igreja da Venerável Ordem Terceira de São Francisco.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Church of São Francisco (Porto)",
+     "url": "https://en.wikipedia.org/wiki/Church_of_S%C3%A3o_Francisco_%28Porto%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Igreja de São Francisco (Porto)",
+     "url": "https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Francisco_%28Porto%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1549939",
+     "url": "https://www.wikidata.org/wiki/Q1549939",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palacio-da-bolsa",
+   "image": {
+    "file": "images/palacio-da-bolsa.jpg",
+    "author": "Manuel de Sousa",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_da_Bolsa_(Porto).JPG"
+   },
+   "location": {
+    "latitude": 41.141369,
+    "longitude": -8.615686
+   },
+   "category": "architecture",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Palácio da Bolsa",
+     "intro": "The Stock Exchange Palace is a historical building in Porto, Portugal.",
+     "narration": "The Stock Exchange Palace is a historical building in Porto, Portugal. The palace was built in the 19th century by the city's Commercial Association in Neoclassical style. It is located in the Infante D. Henrique Square in the historical centre of Porto, designated World Heritage Site by UNESCO.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Palácio da Bolsa",
+     "intro": "O Palácio da Bolsa, ou Palácio da Associação Comercial do Porto, na cidade do Porto, em Portugal, começou a ser construído em Outubro de 1842, em virtude do encerramento da Casa da Bolsa do Comércio, o que obrigou…",
+     "narration": "O Palácio da Bolsa, ou Palácio da Associação Comercial do Porto, na cidade do Porto, em Portugal, começou a ser construído em Outubro de 1842, em virtude do encerramento da Casa da Bolsa do Comércio, o que obrigou temporariamente os comerciantes portuenses a discutirem os seus negócios na Rua dos Ingleses, em pleno ar livre. Com uma mistura de estilos arquitectónicos o edifício apresenta em todo o seu esplendor, traços do neoclássico oitocentista, arquitectura toscana, assim como o neopaladiano inglês. Nas ainda por dentro e revestido a ouro. Sede da Associação Comercial do Porto, serve agora para os mais diversos eventos culturais, sociais e políticos da cidade.",
+     "longDescription": "O Palácio da Bolsa, ou Palácio da Associação Comercial do Porto, na cidade do Porto, em Portugal, começou a ser construído em Outubro de 1842, em virtude do encerramento da Casa da Bolsa do Comércio, o que obrigou temporariamente os comerciantes portuenses a discutirem os seus negócios na Rua dos Ingleses, em pleno ar livre. Com uma mistura de estilos arquitectónicos o edifício apresenta em todo o seu esplendor, traços do neoclássico oitocentista, arquitectura toscana, assim como o neopaladiano inglês. Nas ainda por dentro e revestido a ouro. Sede da Associação Comercial do Porto, serve agora para os mais diversos eventos culturais, sociais e políticos da cidade. O Salão Árabe detém o maior destaque de todas as salas do palácio devido, como o nome indica, a estuques do século XIX legendados a ouro com caracteres arábicos que preenchem as paredes e tecto da sala. É neste salão que tem lugar as homenagens a chefes-de-estado que visitam a cidade. Na Sala dos Retratos encontra-se uma famosa mesa do entalhador Zeferino José Pinto que levou três anos a ser construída, revelando-se um \"exemplar altamente qualificado em todas as exposições internacionais a que concorreu\".",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palácio da Bolsa",
+     "url": "https://en.wikipedia.org/wiki/Pal%C3%A1cio_da_Bolsa",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Palácio da Bolsa",
+     "url": "https://pt.wikipedia.org/wiki/Pal%C3%A1cio_da_Bolsa",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1371109",
+     "url": "https://www.wikidata.org/wiki/Q1371109",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "church-of-saint-ildefonso",
+   "image": {
+    "file": "images/church-of-saint-ildefonso.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Ildefonso,_Oporto,_Portugal,_2012-05-09,_DD_01.JPG"
+   },
+   "location": {
+    "latitude": 41.146289,
+    "longitude": -8.606484
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 26,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "baroque",
+    "church",
+    "historic",
+    "iconic"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Church of Saint Ildefonso",
+     "intro": "The Igreja de Santo Ildefonso is an eighteenth-century church in Porto, Portugal.",
+     "narration": "The Igreja de Santo Ildefonso is an eighteenth-century church in Porto, Portugal. The church is located near Batalha Square. Completed in 1739, the church was built in a proto-Baroque style and features a retable by the Italian artist Nicolau Nasoni and a façade of 1932 azulejo tilework. The church is named in honour of the Visigoth, Ildephonsus of Toledo, bishop of Toledo from 657 until his death in 667.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Igreja de Santo Ildefonso",
+     "intro": "A Igreja de Santo Ildefonso está localizada na Praça da Batalha, na freguesia atual de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, no centro da cidade do Porto, em Portugal.",
+     "narration": "A Igreja de Santo Ildefonso está localizada na Praça da Batalha, na freguesia atual de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, no centro da cidade do Porto, em Portugal. A igreja foi reconstruída a partir de 1730, por se encontrar em ruínas a primeira igreja, e ficou concluída em 1739, sendo dedicada a Santo Ildefonso de Toledo. A fachada é composta por duas torres sineiras com dentilhões nas cornijas, rematadas em cada face por esferas e frontões de fantasia. Por cima do entablamento ergue-se o nicho do padroeiro. Guarnecem as paredes azulejos de Jorge Colaço, com cenas da vida de Santo Ildefonso e alegorias da Eucaristia.",
+     "longDescription": "A Igreja de Santo Ildefonso está localizada na Praça da Batalha, na freguesia atual de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, no centro da cidade do Porto, em Portugal. A igreja foi reconstruída a partir de 1730, por se encontrar em ruínas a primeira igreja, e ficou concluída em 1739, sendo dedicada a Santo Ildefonso de Toledo. A fachada é composta por duas torres sineiras com dentilhões nas cornijas, rematadas em cada face por esferas e frontões de fantasia. Por cima do entablamento ergue-se o nicho do padroeiro. Guarnecem as paredes azulejos de Jorge Colaço, com cenas da vida de Santo Ildefonso e alegorias da Eucaristia. A nave é de tipo poligonal em estilo proto-barroco, com tecto em madeira e estuques ornamentais repetidos nas paredes. Os altares laterais são obras neo-clássicas e os colaterais são de talha rococó. O retábulo em talha barroca é rococó da segunda metade do século XVIII. De estilo protobarroco, apresenta um retábulo do artista italiano Nicolau Nasoni e uma fachada de azulejos de 1932. A igreja recebeu o nome em homenagem ao visigodo Ildefonso de Toledo, bispo de Toledo de 657 até sua morte em 667. A Igreja de Santo Ildefonso está classificada como Imóvel de Interesse Público desde 1977.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Church of Saint Ildefonso",
+     "url": "https://en.wikipedia.org/wiki/Church_of_Saint_Ildefonso",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Igreja de Santo Ildefonso",
+     "url": "https://pt.wikipedia.org/wiki/Igreja_de_Santo_Ildefonso",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2781524",
+     "url": "https://www.wikidata.org/wiki/Q2781524",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "clerigos-church",
+   "image": {
+    "file": "images/clerigos-church.jpg",
+    "author": "Krzysztof Golik",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igreja_dos_Clerigos_in_Porto_(1).jpg"
+   },
+   "location": {
+    "latitude": 41.145871,
+    "longitude": -8.61401
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "baroque",
+    "church",
+    "historic",
+    "iconic"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Clérigos Church",
+     "intro": "The Clérigos Church is a Baroque church in the city of Porto, in Portugal.",
+     "narration": "The Clérigos Church is a Baroque church in the city of Porto, in Portugal. Its 75-meter-tall bell tower, the Torre dos Clérigos, can be seen from various points of the city and is one of its most characteristic symbols.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Igreja e Torre dos Clérigos",
+     "intro": "A Igreja e Torre dos Clérigos é um notável conjunto arquitetónico situado na cidade do Porto, Portugal, sendo considerado o cartão-postal dessa cidade.",
+     "narration": "A Igreja e Torre dos Clérigos é um notável conjunto arquitetónico situado na cidade do Porto, Portugal, sendo considerado o cartão-postal dessa cidade. O conjunto localiza-se no topo da Rua dos Clérigos, entre as ruas de São Filipe Néri e da Assunção. Integra três elementos principais: a Igreja dos Clérigos, a Torre dos Clérigos e a Casa da Irmandade, que liga a igreja e a torre e em tempos acolheu os outros serviços da Irmandade dos Clérigos. Projetado pelo arquiteto Nicolau Nasoni, este conjunto é um dos mais notáveis exemplos do estilo tardo-barroco em território português e encontra-se classificado como Monumento Nacional desde 1910.",
+     "longDescription": "A Igreja e Torre dos Clérigos é um notável conjunto arquitetónico situado na cidade do Porto, Portugal, sendo considerado o cartão-postal dessa cidade. O conjunto localiza-se no topo da Rua dos Clérigos, entre as ruas de São Filipe Néri e da Assunção. Integra três elementos principais: a Igreja dos Clérigos, a Torre dos Clérigos e a Casa da Irmandade, que liga a igreja e a torre e em tempos acolheu os outros serviços da Irmandade dos Clérigos. Projetado pelo arquiteto Nicolau Nasoni, este conjunto é um dos mais notáveis exemplos do estilo tardo-barroco em território português e encontra-se classificado como Monumento Nacional desde 1910. É considerada a obra mais emblemática de Nasoni, incorporando, na ornamentação granítica, \"uma dinâmica morfologia rococó a par de linhas de continuidade vernácula, senão mesmo epimaneirista\". Os elementos arquitetónicos mais marcantes do conjunto caracterizam-se pela irregularidade e exagero das formas, que originam um efeito cénico surpreendente. \"Salientam-se as plantas irregulares, as fachadas onduladas, realçadas por uma contraposição de saliências, sacadas e reentrâncias, arcos interrompidos, e uma grande profusão de variadas janelas, complementadas pela exuberante torre sineira\". Nasoni foi enterrado nesta igreja, na qual empenhou muito tempo e dedicação, tendo sido revelada, na ampla reabilitação realizada recentemente, uma cripta onde poderá encontrar-se a sua sepultura.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Clérigos Church",
+     "url": "https://en.wikipedia.org/wiki/Cl%C3%A9rigos_Church",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Igreja e Torre dos Clérigos",
+     "url": "https://pt.wikipedia.org/wiki/Igreja_e_Torre_dos_Cl%C3%A9rigos",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q18642",
+     "url": "https://www.wikidata.org/wiki/Q18642",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ribeira-square",
+   "image": {
+    "file": "images/ribeira-square.jpg",
+    "author": "Georges Jansoone",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porto,_Pra%C3%A7a_da_Ribeira_(32).jpg"
+   },
+   "location": {
+    "latitude": 41.1407,
+    "longitude": -8.613
+   },
+   "category": "square",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Ribeira Square",
+     "intro": "The Ribeira Square is a historical square in Porto, Portugal.",
+     "narration": "The Ribeira Square is a historical square in Porto, Portugal. It is included in the historical centre of the city, designated World Heritage by UNESCO.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Praça da Ribeira (Porto)",
+     "intro": "A Praça da Ribeira é um largo histórico localizado no bairro de São Nicolau, na freguesia atual de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, numa das zonas mais antigas e típicas da cidade do…",
+     "narration": "A Praça da Ribeira é um largo histórico localizado no bairro de São Nicolau, na freguesia atual de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, numa das zonas mais antigas e típicas da cidade do Porto, em Portugal. O conjunto urbano da Praça da Ribeira e área envolvente está classificado como Imóvel de Interesse Público desde 1971.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Ribeira Square",
+     "url": "https://en.wikipedia.org/wiki/Ribeira_Square",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Praça da Ribeira (Porto)",
+     "url": "https://pt.wikipedia.org/wiki/Pra%C3%A7a_da_Ribeira_%28Porto%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q7322292",
+     "url": "https://www.wikidata.org/wiki/Q7322292",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "chapel-of-santa-catarina",
+   "image": {
+    "file": "images/chapel-of-santa-catarina.jpg",
+    "author": "Nelson Rocha from Portugal",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Capela_das_Almas_(Porto).jpg"
+   },
+   "location": {
+    "latitude": 41.14985833,
+    "longitude": -8.60555556
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Chapel of Santa Catarina",
+     "intro": "The Chapel of Santa Catarina, also known as the Chapel of Souls, is a chapel located on the shopping street of Rua de Santa Catarina, in the former parish of Santo Ildefonso, in the city of Porto, in Portugal.",
+     "narration": "The Chapel of Santa Catarina, also known as the Chapel of Souls, is a chapel located on the shopping street of Rua de Santa Catarina, in the former parish of Santo Ildefonso, in the city of Porto, in Portugal. It is particularly noted for the blue azulejo tiles on its exterior walls.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Capela de Santa Catarina (Santo Ildefonso)",
+     "intro": "A Capela das Almas ou Capela de Santa Catarina é uma capela situada na freguesia de Santo Ildefonso, na cidade do Porto, em Portugal.",
+     "narration": "A Capela das Almas ou Capela de Santa Catarina é uma capela situada na freguesia de Santo Ildefonso, na cidade do Porto, em Portugal. A capela tem a sua origem numa antiga capela feita em madeira erguida em louvor de Santa Catarina.",
+     "longDescription": "A Capela das Almas ou Capela de Santa Catarina é uma capela situada na freguesia de Santo Ildefonso, na cidade do Porto, em Portugal. A capela tem a sua origem numa antiga capela feita em madeira erguida em louvor de Santa Catarina. A construção do edifício que hoje existe remonta aos finais do século XVIII, altura em que a Irmandade das Almas e das Chagas de São Francisco passou do Mosteiro de Santa Clara para a Capela de Santa Catarina.“Com a anexação da irmandade cresceu também a fama e o culto de Santa Catarina, atraindo grande número de fiéis, o que obrigou os responsáveis da irmandade, que superintendiam o culto, a pensar numa nova construção.” A capela tem dois corpos, sendo o segundo mais baixo, e sofreu obras de ampliação e restauro que modificaram o estilo original, em 1801.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Chapel of Santa Catarina",
+     "url": "https://en.wikipedia.org/wiki/Chapel_of_Santa_Catarina",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Capela de Santa Catarina (Santo Ildefonso)",
+     "url": "https://pt.wikipedia.org/wiki/Capela_de_Santa_Catarina_%28Santo_Ildefonso%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q9695712",
+     "url": "https://www.wikidata.org/wiki/Q9695712",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "monastery-of-serra-do-pilar",
+   "image": {
+    "file": "images/monastery-of-serra-do-pilar.jpg",
+    "author": null,
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igreja_da_Serra_do_Pilar_por_Rodrigo_Tetsuo_Argenton_(02).jpg"
+   },
+   "location": {
+    "latitude": 41.138333333,
+    "longitude": -8.6075
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 28,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "river"
+   ],
+   "area": "Santa Marinha e São Pedro da Afurada",
+   "content": {
+    "en": {
+     "name": "Monastery of Serra do Pilar",
+     "intro": "The Monastery of Serra do Pilar is a former monastery located in Vila Nova de Gaia, Portugal, on the opposite side of the Douro River from Porto.",
+     "narration": "The Monastery of Serra do Pilar is a former monastery located in Vila Nova de Gaia, Portugal, on the opposite side of the Douro River from Porto. The monastery is situated on an outcrop overlooking the Dom Luís I Bridge and the historic centre of Porto. Together with these locations, the monastery was designated a UNESCO World Heritage Site in 1996. The monastery is notable for its church and cloister, both of which are circular.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Mosteiro da Serra do Pilar",
+     "intro": "O Mosteiro da Serra do Pilar ou Mosteiro de Santo Agostinho da Serra do Pilar localiza-se numa elevação denominada Serra do Pilar, em Vila Nova de Gaia, Portugal.",
+     "narration": "O Mosteiro da Serra do Pilar ou Mosteiro de Santo Agostinho da Serra do Pilar localiza-se numa elevação denominada Serra do Pilar, em Vila Nova de Gaia, Portugal. O edifício está no lado oposto do Rio Douro do Porto, com vista para a Ponte Luís I e para o Centro Histórico do Porto. O Mosteiro pertencia à Ordem de Santo Agostinho e a sua edificação teve início em 1538 e prolongou-se pelos séculos seguintes, em diversas etapas de construção que alteraram significativamente o desenho inicial. Actualmente serve como local religioso, cultural e militar.",
+     "longDescription": "O Mosteiro da Serra do Pilar ou Mosteiro de Santo Agostinho da Serra do Pilar localiza-se numa elevação denominada Serra do Pilar, em Vila Nova de Gaia, Portugal. O edifício está no lado oposto do Rio Douro do Porto, com vista para a Ponte Luís I e para o Centro Histórico do Porto. O Mosteiro pertencia à Ordem de Santo Agostinho e a sua edificação teve início em 1538 e prolongou-se pelos séculos seguintes, em diversas etapas de construção que alteraram significativamente o desenho inicial. Actualmente serve como local religioso, cultural e militar. O mosteiro é considerado um dos mais notáveis edifícios da arquitetura clássica europeia devido ao seu excepcional valor arquitetónico e ao caráter singular da sua igreja e do seu claustro, ambos circulares e com a mesma dimensão.[carece de fontes]? A Igreja e o Claustro foram classificados como Monumento Nacional, em 1910, e a sala do capítulo, refeitório, cozinha, torre e capela foram classificados como imóvel de interesse público, em 1935. Em 1996 juntamente com o Centro Histórico do Porto e a Ponte Luís I passou a estar classificado como Património Mundial da Unesco.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Monastery of Serra do Pilar",
+     "url": "https://en.wikipedia.org/wiki/Monastery_of_Serra_do_Pilar",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Mosteiro da Serra do Pilar",
+     "url": "https://pt.wikipedia.org/wiki/Mosteiro_da_Serra_do_Pilar",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q10332614",
+     "url": "https://www.wikidata.org/wiki/Q10332614",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "arrabida-bridge",
+   "image": {
+    "file": "images/arrabida-bridge.jpg",
+    "author": "No machine-readable author provided. Barao78 assumed (based on copyright claims).",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponte_da_Arr%C3%A1bida2.jpg"
+   },
+   "location": {
+    "latitude": 41.147466666,
+    "longitude": -8.640338888
+   },
+   "category": "monument",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument",
+    "river"
+   ],
+   "area": "Santa Marinha e São Pedro da Afurada",
+   "content": {
+    "en": {
+     "name": "Arrábida Bridge",
+     "intro": "The Arrábida Bridge is an arch bridge of reinforced concrete which carries six lanes of traffic over the Douro River, between Porto and Vila Nova de Gaia, in the Norte region of Portugal.",
+     "narration": "The Arrábida Bridge is an arch bridge of reinforced concrete which carries six lanes of traffic over the Douro River, between Porto and Vila Nova de Gaia, in the Norte region of Portugal.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Ponte da Arrábida",
+     "intro": "A Ponte da Arrábida é uma ponte em arco sobre o Rio Douro que liga o Porto a Vila Nova de Gaia, em Portugal.",
+     "narration": "A Ponte da Arrábida é uma ponte em arco sobre o Rio Douro que liga o Porto a Vila Nova de Gaia, em Portugal. Desde a década de 1930 que era necessário criar ligações alternativas às antigas pontes de modo a responder ao crescente fluxo da circulação viária. No tempo da sua construção em 1963, a ponte tinha o maior arco em betão armado de qualquer ponte no mundo. O comprimento total da plataforma é de 614,6 m, tendo uma largura de 26,5 m. O seu vão de 270 m, e 52 m de flecha, arco esse constituído por duas costelas ocas paralelas, de 8 m de largura ligadas entre si por contraventamento longitudinal e transversal.",
+     "longDescription": "A Ponte da Arrábida é uma ponte em arco sobre o Rio Douro que liga o Porto a Vila Nova de Gaia, em Portugal. Desde a década de 1930 que era necessário criar ligações alternativas às antigas pontes de modo a responder ao crescente fluxo da circulação viária. No tempo da sua construção em 1963, a ponte tinha o maior arco em betão armado de qualquer ponte no mundo. O comprimento total da plataforma é de 614,6 m, tendo uma largura de 26,5 m. O seu vão de 270 m, e 52 m de flecha, arco esse constituído por duas costelas ocas paralelas, de 8 m de largura ligadas entre si por contraventamento longitudinal e transversal. Tinha duas faixas de rodagem e duas faixas laterais para peões e ciclistas. Na década de 90 foi alterado o número de faixas rodoviárias. O engenheiro responsável pelo seu projecto foi Edgar António de Mesquita Cardoso que teve a colaboração do arquiteto Inácio Peres Fernandes e dos engenheiros José Francisco de Azevedo e Silva, responsável pelo estudo da iluminação e José do Canto Moniz, responsável pelo estudo do pavimento da faixa de rodagem. A construção foi delegada ao engenheiro José Pereira Zagallo.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Arrábida Bridge",
+     "url": "https://en.wikipedia.org/wiki/Arr%C3%A1bida_Bridge",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Ponte da Arrábida",
+     "url": "https://pt.wikipedia.org/wiki/Ponte_da_Arr%C3%A1bida",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1785740",
+     "url": "https://www.wikidata.org/wiki/Q1785740",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "monument-to-pedro-iv-porto",
+   "image": {
+    "file": "images/monument-to-pedro-iv-porto.jpg",
+    "author": "Joseolgon at Portuguese Wikipedia",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:D._Pedro_IV_Porto.JPG"
+   },
+   "location": {
+    "latitude": 41.1465,
+    "longitude": -8.61136
+   },
+   "category": "monument",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "pt-PT": {
+     "name": "Monumento a D. Pedro IV",
+     "intro": "O Monumento a D.",
+     "narration": "O Monumento a D. Pedro IV situa-se na Praça da Liberdade, na cidade do Porto, em Portugal. É uma estátua equestre da autoria do escultor Célestin Anatole Calmels. A primeira pedra foi posta em 9 de julho de 1862. Foi inaugurado em 19 de outubro de 1866. Tem 10 metros de altura e cinco toneladas de bronze. A estátua de bronze apresenta D. Pedro IV vestido com a farda de Caçadores 5 e sobre ela uma placa que era o seu traje habitual; na mão direita segura a Carta Constitucional de 1826 e na esquerda as rédeas do cavalo. No pedestal são representadas duas cenas da vida do homenageado, em dois baixos relevos.",
+     "longDescription": "O Monumento a D. Pedro IV situa-se na Praça da Liberdade, na cidade do Porto, em Portugal. É uma estátua equestre da autoria do escultor Célestin Anatole Calmels. A primeira pedra foi posta em 9 de julho de 1862. Foi inaugurado em 19 de outubro de 1866. Tem 10 metros de altura e cinco toneladas de bronze. A estátua de bronze apresenta D. Pedro IV vestido com a farda de Caçadores 5 e sobre ela uma placa que era o seu traje habitual; na mão direita segura a Carta Constitucional de 1826 e na esquerda as rédeas do cavalo. No pedestal são representadas duas cenas da vida do homenageado, em dois baixos relevos. Os baixos relevos originais eram de mármore de Carrara, mais tarde foram substituídos por outros em bronze. Estes foram roubados em 2007, ano em que a estátua foi recuperada pelo programa Porto com Pinta. Mas quando se retirou a tela publicitária, faltavam as placas. Recorrendo a fotos dos originais, foi possível fazer as duas réplicas que foram recolocadas em março de 2008.[carece de fontes]? Um deles representa o desembarque na praia do Mindelo, onde se vê D. Pedro IV a entregar a bandeira a Tomás de Mello Breyner. O segundo mostra a entrega do coração de D. Pedro ao Porto. O coração encontra-se na Igreja da Lapa.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Monument to Pedro IV (Porto)",
+     "url": "https://en.wikipedia.org/wiki/Monument_to_Pedro_IV_%28Porto%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Monumento a D. Pedro IV",
+     "url": "https://pt.wikipedia.org/wiki/Monumento_a_D._Pedro_IV",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q11783",
+     "url": "https://www.wikidata.org/wiki/Q11783",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "rotunda-da-boavista",
+   "image": {
+    "file": "images/rotunda-da-boavista.jpg",
+    "author": "Jose A.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oporto_(Portugal)_(26222997036).jpg"
+   },
+   "location": {
+    "latitude": 41.158132,
+    "longitude": -8.629149
+   },
+   "category": "square",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 32,
+   "visitMinutes": 4,
+   "tags": [
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Rotunda da Boavista",
+     "intro": "Rotunda da Boavista, is a large roundabout with public gardens at its centre in the Boavista neighbourhood in Porto, Portugal.",
+     "narration": "Rotunda da Boavista, is a large roundabout with public gardens at its centre in the Boavista neighbourhood in Porto, Portugal. Always popularly known as \"A Rotunda\" it was named Praça de Boavista on its construction in the late 1700s and was renamed in 1903 as the Praça de Mouzinho de Alberquerque, honouring the Portuguese soldier who fought in Africa during the 19th century. The gardens of the Rotunda de Boavista are notable for the very large, early twentieth century column commemorating the Peninsular Wars.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Rotunda da Boavista",
+     "url": "https://en.wikipedia.org/wiki/Rotunda_da_Boavista",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Praça de Mouzinho de Albuquerque (Porto)",
+     "url": "https://pt.wikipedia.org/wiki/Pra%C3%A7a_de_Mouzinho_de_Albuquerque_%28Porto%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q7370714",
+     "url": "https://www.wikidata.org/wiki/Q7370714",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "casa-de-serralves",
+   "image": {
+    "file": "images/casa-de-serralves.jpg",
+    "author": "Francisco Anzola from United States",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Art_deco_mansion_(32608592537).jpg"
+   },
+   "location": {
+    "latitude": 41.159495,
+    "longitude": -8.656371
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "modern",
+    "museum"
+   ],
+   "area": "Lordelo do Ouro e Massarelos",
+   "content": {
+    "en": {
+     "name": "Casa de Serralves",
+     "intro": "Serralves is a cultural institution located in Porto, Portugal.",
+     "narration": "Serralves is a cultural institution located in Porto, Portugal. It includes a contemporary art museum, a park, and a villa, with each one of these being an example of contemporary architecture, Modernism, and Art Deco architecture. The museum, designed by Álvaro Siza Vieira, is now the second most visited museum in Portugal.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Casa de Serralves",
+     "intro": "A Casa de Serralves localiza-se no Parque de Serralves, na freguesia de Lordelo do Ouro, na cidade e Distrito do Porto, em Portugal.",
+     "narration": "A Casa de Serralves localiza-se no Parque de Serralves, na freguesia de Lordelo do Ouro, na cidade e Distrito do Porto, em Portugal. Situada na antiga quinta do conde de Vizela, na zona rural do Porto, é considerada um exemplar único da arquitectura \"Art Déco\" no país.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Casa de Serralves",
+     "url": "https://en.wikipedia.org/wiki/Casa_de_Serralves",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Casa de Serralves",
+     "url": "https://pt.wikipedia.org/wiki/Casa_de_Serralves",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2940773",
+     "url": "https://www.wikidata.org/wiki/Q2940773",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "monumento-aos-herois-da-guerra-peninsular-porto",
+   "image": {
+    "file": "images/monumento-aos-herois-da-guerra-peninsular-porto.jpg",
+    "author": "Dicklyon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rotunda_da_Boavista,_Pra%C3%A7a_de_Mouzinho_de_Albuquerque.jpg"
+   },
+   "location": {
+    "latitude": 41.157943,
+    "longitude": -8.629072
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "pt-PT": {
+     "name": "Monumento aos Heróis da Guerra Peninsular (Porto)",
+     "intro": "O Monumento aos Heróis da Guerra Peninsular localiza-se na Rotunda da Boavista, Porto, Portugal.",
+     "narration": "O Monumento aos Heróis da Guerra Peninsular localiza-se na Rotunda da Boavista, Porto, Portugal. A Guerra Peninsular, assim designada, foi aquela que uniu os portugueses e os ingleses contra os exércitos de França, de Napoleão Bonaparte, na Península Ibérica, no período de 1808 a 1814. Bem no centro do jardim da Praça de Mouzinho de Albuquerque, ergue-se este monumento comemorativo aos bravos destas lutas. Da autoria do arquitecto Marques da Silva e do escultor Alves de Sousa, projecto escolhido dentre os três melhores, esta obra levou alguns anos a ser concluída. Coube à Cooperativa dos Pedreiros o encargo de o erigir, sendo começado em 1909 e apenas inaugurado em 1952.",
+     "longDescription": "O Monumento aos Heróis da Guerra Peninsular localiza-se na Rotunda da Boavista, Porto, Portugal. A Guerra Peninsular, assim designada, foi aquela que uniu os portugueses e os ingleses contra os exércitos de França, de Napoleão Bonaparte, na Península Ibérica, no período de 1808 a 1814. Bem no centro do jardim da Praça de Mouzinho de Albuquerque, ergue-se este monumento comemorativo aos bravos destas lutas. Da autoria do arquitecto Marques da Silva e do escultor Alves de Sousa, projecto escolhido dentre os três melhores, esta obra levou alguns anos a ser concluída. Coube à Cooperativa dos Pedreiros o encargo de o erigir, sendo começado em 1909 e apenas inaugurado em 1952. Dada a morosidade do tempo de construção e a morte do escultor Alves de Sousa, ainda jovem, a obra foi concluída sob a direcção dos escultores Henrique Moreira e José Sousa Caldas. É composta por um pedestal, de 45 m de altura, rodeado de grupos escultóricos, chegando mesmo, dois deles, a morder a base. Estes, representam cenas de artilharia em movimento, podendo ver-se também soldados ingleses que vieram apoiar Portugal e a intervenção das gentes do povo na luta e o desastre da «Ponte das Barcas». De notar a presença do elemento feminino em todos os grupos: no da frente, uma mulher, a Vitória guiando o povo, empunha, na mão esquerda, a bandeira nacional e, na direita, uma espada. Completa o conjunto uma alta coluna encimada por um leão sobre uma águia que derruba. Na base da figura tem figuras de soldados e cenas de factos ligados às guerras napoleónicas, em relevos esculpidos no granito. Duas datas, em bronze, como toda a escultura, podem ver-se em duas frentes da base da coluna: MDCCCVIII e MDCCCIX. Ainda no pedestal, estão apostas as armas da cidade.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Monumento aos Heróis da Guerra Peninsular (Porto)",
+     "url": "https://pt.wikipedia.org/wiki/Monumento_aos_Her%C3%B3is_da_Guerra_Peninsular_%28Porto%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q10332160",
+     "url": "https://www.wikidata.org/wiki/Q10332160",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "igreja-de-santa-clara-porto",
+   "image": {
+    "file": "images/igreja-de-santa-clara-porto.jpg",
+    "author": "Manuel de Sousa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igreja_Sta_Clara_(Porto).jpg"
+   },
+   "location": {
+    "latitude": 41.1425,
+    "longitude": -8.60916667
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Igreja de Santa Clara (Porto)",
+     "intro": "Igreja de Santa Clara is a Catholic church located in the parish of Sé in Porto, Portugal.",
+     "narration": "Igreja de Santa Clara is a Catholic church located in the parish of Sé in Porto, Portugal. The construction of the church began in 1416 alongside the Santa Clara Convent for use by nuns of the Order of Poor Clares. The nuns settled in the church in 1427, which was eventually completed in 1457. The building has been modified several times since then; for instance, in 1707–1715 new bedrooms were constructed, in 1729 the chapel was expanded, and in 1931 the fountain in the yard was demolished. The interior of the church is covered in gold and polychrome. Since 1910, it has been classified as a National Monument.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Igreja de Santa Clara (Porto)",
+     "intro": "A Igreja e Convento de Santa Clara é um templo católico localizado na freguesia da Sé, na cidade do Porto, em Portugal.",
+     "narration": "A Igreja e Convento de Santa Clara é um templo católico localizado na freguesia da Sé, na cidade do Porto, em Portugal. No seu interior podemos encontrar um dos melhores exemplares da arte da talha dourada do Barroco Joanino. Construída ao lado do mais visível lanço das Muralhas Fernandinas, a Igreja de Santa Clara ficou concluída em 1457, assim com o mosteiro com o qual fazia conjunto. Tal deveu-se a um pedido das freiras franciscanas clarissas que pretendiam ser transferidas do mosteiro anterior, do século XIII, situado no couto de Entre Ambos-os-Rios, atual Torrão.",
+     "longDescription": "A Igreja e Convento de Santa Clara é um templo católico localizado na freguesia da Sé, na cidade do Porto, em Portugal. No seu interior podemos encontrar um dos melhores exemplares da arte da talha dourada do Barroco Joanino. Construída ao lado do mais visível lanço das Muralhas Fernandinas, a Igreja de Santa Clara ficou concluída em 1457, assim com o mosteiro com o qual fazia conjunto. Tal deveu-se a um pedido das freiras franciscanas clarissas que pretendiam ser transferidas do mosteiro anterior, do século XIII, situado no couto de Entre Ambos-os-Rios, atual Torrão. Com a supressão de vários mosteiros mais pequenos nas diversas localidades entre o século XV e o século XVI, as freiras foram-se agregando em Santa Clara levando para lá as suas rendas, sendo uma delas uma portagem por todas as mercadorias que passavam pelo Rio Douro. No finais do século XIX, com a morte da última freira, o mosteiro foi extinto o que causou alguma degradação do edifício. Posteriormente, património do estado, e feitas as obras necessárias foi adaptado para Centro de Saúde e outras instituições. A entrada da igreja é feita através de uma porta barroca, datada de 1697 e reformulada no século XVIII, com elementos renascentistas como colunas salomónicas e capitéis coríntios. No interior podemos vislumbrar toda a magnificiência desta igreja, toda coberta por talha dourada da primeira metade do século XVIII.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Igreja de Santa Clara (Porto)",
+     "url": "https://en.wikipedia.org/wiki/Igreja_de_Santa_Clara_%28Porto%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Igreja de Santa Clara (Porto)",
+     "url": "https://pt.wikipedia.org/wiki/Igreja_de_Santa_Clara_%28Porto%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q3819477",
+     "url": "https://www.wikidata.org/wiki/Q3819477",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "church-of-sao-martinho-de-cedofeita",
+   "image": {
+    "file": "images/church-of-sao-martinho-de-cedofeita.jpg",
+    "author": "pt:usuário:JoaoMiranda",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igreja_de_cedofeita.jpg"
+   },
+   "location": {
+    "latitude": 41.15579167,
+    "longitude": -8.62169722
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 21,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "medieval"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Church of São Martinho de Cedofeita",
+     "intro": "The Church of Cedofeita is a medieval church in the civil parish of Cedofeita, municipality of Porto, in the northern Grande Porto Subregion of Portugal.",
+     "narration": "The Church of Cedofeita is a medieval church in the civil parish of Cedofeita, municipality of Porto, in the northern Grande Porto Subregion of Portugal. The Church is a rare architectural example of a single-nave vaulted-ceiling temple, and the only one in the traditional Entre-Douro-e-Minho Province region of Portugal. It is classified as a National Monument.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Igreja de São Martinho de Cedofeita",
+     "intro": "A Igreja de São Martinho de Cedofeita localiza-se no Largo do Priorado, Cedofeita, na cidade do Porto, em Portugal.",
+     "narration": "A Igreja de São Martinho de Cedofeita localiza-se no Largo do Priorado, Cedofeita, na cidade do Porto, em Portugal.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Church of São Martinho de Cedofeita",
+     "url": "https://en.wikipedia.org/wiki/Church_of_S%C3%A3o_Martinho_de_Cedofeita",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Igreja de São Martinho de Cedofeita",
+     "url": "https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Martinho_de_Cedofeita",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q3780685",
+     "url": "https://www.wikidata.org/wiki/Q3780685",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "casa-museu-guerra-junqueiro",
+   "image": {
+    "file": "images/casa-museu-guerra-junqueiro.jpg",
+    "author": "MariaCartas",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa-Museu_Guerra_Junqueiro_88.JPG"
+   },
+   "location": {
+    "latitude": 41.1425,
+    "longitude": -8.61055556
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "museum"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Casa-Museu Guerra Junqueiro",
+     "intro": "The Museum-Residence of Guerra Junqueiro is a former-residence and museum located in the civil parish of Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, in the Portuguese north, municipality of…",
+     "narration": "The Museum-Residence of Guerra Junqueiro is a former-residence and museum located in the civil parish of Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, in the Portuguese north, municipality of Porto, classified as a Imóvel de Interesse Público.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Casa-Museu Guerra Junqueiro",
+     "intro": "A Casa-Museu Guerra Junqueiro, ou Casa do Dr.",
+     "narration": "A Casa-Museu Guerra Junqueiro, ou Casa do Dr. Domingos Barbosa, é uma antiga casa nobre setecentista construída em estilo barroco e que, no século XX, foi transformada num centro cultural em memória do famoso poeta e escritor Guerra Junqueiro, localizada no Porto, em Portugal. O palacete, datado de 1730 e atribuído a Nicolau Nasoni, está localizado na Rua de D. Hugo, nº 32, na cidade do Porto, e foi doado em 1940 pela família do escritor à Câmara Municipal da cidade, juntamente com o espólio do poeta, com a condição que lá fossem expostas todas as peças que tinham sido reunidas em várias viagens que o escritor fez.",
+     "longDescription": "A Casa-Museu Guerra Junqueiro, ou Casa do Dr. Domingos Barbosa, é uma antiga casa nobre setecentista construída em estilo barroco e que, no século XX, foi transformada num centro cultural em memória do famoso poeta e escritor Guerra Junqueiro, localizada no Porto, em Portugal. O palacete, datado de 1730 e atribuído a Nicolau Nasoni, está localizado na Rua de D. Hugo, nº 32, na cidade do Porto, e foi doado em 1940 pela família do escritor à Câmara Municipal da cidade, juntamente com o espólio do poeta, com a condição que lá fossem expostas todas as peças que tinham sido reunidas em várias viagens que o escritor fez. A Casa-Museu Guerra Junqueiro foi classificada como Imóvel de Interesse Público em 1977. Nascido a 1850, em Freixo de Espada à Cinta, Guerra Junqueiro, que publicou os seus primeiros versos aos 14 anos, faleceu em 1923 com o sonho de uma casa onde pudesse expor todos os objectos que coleccionou ao longo da sua existência e um maravilhoso espólio literário, o que foi concretizado pela sua esposa e pela filha Maria Isabel Guerra Junqueiro. Expostas no museu podemos ver uma colecção de arte sacra, faiança de Viana do Castelo, pratos de Nuremberga, cerâmicas e mobiliário.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Casa-Museu Guerra Junqueiro",
+     "url": "https://en.wikipedia.org/wiki/Casa-Museu_Guerra_Junqueiro",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Casa-Museu Guerra Junqueiro",
+     "url": "https://pt.wikipedia.org/wiki/Casa-Museu_Guerra_Junqueiro",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5047775",
+     "url": "https://www.wikidata.org/wiki/Q5047775",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "fountain-of-the-lions-porto",
+   "image": {
+    "file": "images/fountain-of-the-lions-porto.jpg",
+    "author": "ZSPNrdwa Krosno from Krosno, Polska",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wycieczka_do_Porto_(_Igreja_da_Nossa_Senhora_das_Carmelitas)._(35935940020).jpg"
+   },
+   "location": {
+    "latitude": 41.147138,
+    "longitude": -8.615591
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 24,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Fountain of the Lions (Porto)",
+     "intro": "The Fountain of the Lions, is a 19th-century fountain built by French company Compagnie Générale des Eaux pour l'Etranger, in the civil parish of Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória in…",
+     "narration": "The Fountain of the Lions, is a 19th-century fountain built by French company Compagnie Générale des Eaux pour l'Etranger, in the civil parish of Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória in municipality of Porto. Cast by the Val d’Osne foundry in France, it is a copy, in most part, of the fountain in the Town Hall Square of Leicester, England",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Fonte dos Leões",
+     "intro": "A Fonte dos Leões fica situada na Praça de Gomes Teixeira, cidade do Porto, em frente da Reitoria da Universidade do Porto, edifício onde, até 1995, funcionou a Faculdade de Ciências da Universidade do Porto.",
+     "narration": "A Fonte dos Leões fica situada na Praça de Gomes Teixeira, cidade do Porto, em frente da Reitoria da Universidade do Porto, edifício onde, até 1995, funcionou a Faculdade de Ciências da Universidade do Porto. É umas das poucas fontes da cidade que não foram construídas em Portugal, sendo ao mesmo tempo a mais vistosa do Porto. Foi mandada fazer pela Companhia das Águas do Porto em 1882, entrando em funcionamento quatro anos mais tarde, fornecendo então água a esta zona da cidade.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Fountain of the Lions (Porto)",
+     "url": "https://en.wikipedia.org/wiki/Fountain_of_the_Lions_%28Porto%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Fonte dos Leões",
+     "url": "https://pt.wikipedia.org/wiki/Fonte_dos_Le%C3%B5es",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q66814756",
+     "url": "https://www.wikidata.org/wiki/Q66814756",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "igreja-da-lapa-porto",
+   "image": {
+    "file": "images/igreja-da-lapa-porto.jpg",
+    "author": "António Amen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cedofeita-Igreja_da_Veneravel_Irmandade_de_N._Sra._da_Lapa_(2).jpg"
+   },
+   "location": {
+    "latitude": 41.15710833,
+    "longitude": -8.61211944
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "pt-PT": {
+     "name": "Igreja da Lapa (Porto)",
+     "intro": "A Igreja de Nossa Senhora da Lapa é uma igreja católica situada na cidade do Porto, em Portugal, dedicada à Nossa Senhora da Lapa.",
+     "narration": "A Igreja de Nossa Senhora da Lapa é uma igreja católica situada na cidade do Porto, em Portugal, dedicada à Nossa Senhora da Lapa. A igreja foi edificada pela Irmandade da Nossa Senhora da Lapa, instituída em 1755, e faz parte de um conjunto edificado que inclui o cemitério da Lapa, a escola primária da Irmandade e o Hospital da Irmandade da Lapa. Na capela-mor encontra-se sepultado o coração do rei Pedro IV de Portugal, doado em testamento à irmandade. A primeira pedra da igreja foi lançada em 17 de julho de 1756 e, embora tenha sido consagrada em 1779, a construção só foi concluída em 1863. O primeiro projeto da igreja foi encomendado ao arquiteto João Glama Ströberle.",
+     "longDescription": "A Igreja de Nossa Senhora da Lapa é uma igreja católica situada na cidade do Porto, em Portugal, dedicada à Nossa Senhora da Lapa. A igreja foi edificada pela Irmandade da Nossa Senhora da Lapa, instituída em 1755, e faz parte de um conjunto edificado que inclui o cemitério da Lapa, a escola primária da Irmandade e o Hospital da Irmandade da Lapa. Na capela-mor encontra-se sepultado o coração do rei Pedro IV de Portugal, doado em testamento à irmandade. A primeira pedra da igreja foi lançada em 17 de julho de 1756 e, embora tenha sido consagrada em 1779, a construção só foi concluída em 1863. O primeiro projeto da igreja foi encomendado ao arquiteto João Glama Ströberle. Em 1756 foi encomendado em novo desenho ao arquiteto Figueiredo Seixas, que dirigiu as obras até à data da sua morte em 1773. Construída ao longo de mais de um século, a igreja apresenta elementos arquitetónicos rococós e neoclássicos.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Igreja da Lapa (Porto)",
+     "url": "https://pt.wikipedia.org/wiki/Igreja_da_Lapa_%28Porto%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q10300248",
+     "url": "https://www.wikidata.org/wiki/Q10300248",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "kadoorie-synagogue",
+   "image": {
+    "file": "images/kadoorie-synagogue.jpg",
+    "author": "DMY",
+    "license": "Attribution",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D7%91%D7%99%D7%AA_%D7%9B%D7%A0%D7%A1%D7%AA_%D7%9B%D7%93%D7%95%D7%A8%D7%99.jpg"
+   },
+   "location": {
+    "latitude": 41.155922,
+    "longitude": -8.636885
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 26,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "modern"
+   ],
+   "area": "Lordelo do Ouro e Massarelos",
+   "content": {
+    "en": {
+     "name": "Kadoorie Synagogue",
+     "intro": "The Kadoorie Mekor Haim Synagogue, also the Porto Synagogue, is an Orthodox Jewish congregation and synagogue, located at 340 Guerra Junqueiro Street, in the civil parish of Lordelo do Ouro e Massarelos, the…",
+     "narration": "The Kadoorie Mekor Haim Synagogue, also the Porto Synagogue, is an Orthodox Jewish congregation and synagogue, located at 340 Guerra Junqueiro Street, in the civil parish of Lordelo do Ouro e Massarelos, the municipality of Porto, in the northern region of Portugal. Mekor haim is Hebrew for 'source of life'. The synagogue was completed in 1938 in the Art Deco style, and is the largest synagogue in the Iberian Peninsula.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Sinagoga Kadoorie",
+     "intro": "A Sinagoga Kadoorie, aliás Sinagoga Kadoorie - Mekor Haim, é a sinagoga e sede da comunidade judaica do Porto, cujo nome oficial é Comunidade Israelita do Porto/ Comunidade Judaica do Porto.",
+     "narration": "A Sinagoga Kadoorie, aliás Sinagoga Kadoorie - Mekor Haim, é a sinagoga e sede da comunidade judaica do Porto, cujo nome oficial é Comunidade Israelita do Porto/ Comunidade Judaica do Porto. A sua construção foi iniciada em 1929, tendo sido inaugurada em 1938. É a maior sinagoga da Península Ibérica e situa-se na Rua de Guerra Junqueiro, na cidade do Porto, em Portugal.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Kadoorie Synagogue",
+     "url": "https://en.wikipedia.org/wiki/Kadoorie_Synagogue",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Sinagoga Kadoorie",
+     "url": "https://pt.wikipedia.org/wiki/Sinagoga_Kadoorie",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1140204",
+     "url": "https://www.wikidata.org/wiki/Q1140204",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "fort-of-sao-francisco-xavier",
+   "image": {
+    "file": "images/fort-of-sao-francisco-xavier.jpg",
+    "author": "Joseolgon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_Castelo_do_Queijo_(4).jpg"
+   },
+   "location": {
+    "latitude": 41.16862,
+    "longitude": -8.68999
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument"
+   ],
+   "area": "Aldoar, Foz do Douro e Nevogilde",
+   "content": {
+    "en": {
+     "name": "Fort of São Francisco Xavier",
+     "intro": "The Fort of São Francisco Xavier, commonly known as the 'Castelo do Queijo', is a fortification situated on the coast of the civil parish of Nevogilde in the northern Portuguese municipality of Porto.",
+     "narration": "The Fort of São Francisco Xavier, commonly known as the 'Castelo do Queijo', is a fortification situated on the coast of the civil parish of Nevogilde in the northern Portuguese municipality of Porto.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Forte de São Francisco Xavier do Queijo",
+     "intro": "O Forte de São Francisco Xavier situa-se na freguesia de Nevogilde, no concelho e distrito do Porto, em Portugal.",
+     "narration": "O Forte de São Francisco Xavier situa-se na freguesia de Nevogilde, no concelho e distrito do Porto, em Portugal. Em posição dominante sobre o oceano Atlântico e a pouca distância da foz do rio Douro, é também conhecido como Castelo do Queijo por, segundo a tradição, ter sido edificado sobre uma rocha de granito arredondada, e com um formato similar ao de um queijo.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Fort of São Francisco Xavier",
+     "url": "https://en.wikipedia.org/wiki/Fort_of_S%C3%A3o_Francisco_Xavier",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Forte de São Francisco Xavier do Queijo",
+     "url": "https://pt.wikipedia.org/wiki/Forte_de_S%C3%A3o_Francisco_Xavier_do_Queijo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1438936",
+     "url": "https://www.wikidata.org/wiki/Q1438936",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "serra-do-pilar",
+   "image": {
+    "file": "images/serra-do-pilar.jpg",
+    "author": "Alvesgaspar",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porto_July_2009-1a.jpg"
+   },
+   "location": {
+    "latitude": 41.138333333,
+    "longitude": -8.607222222
+   },
+   "category": "viewpoint",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "scenic",
+    "viewpoint"
+   ],
+   "area": "Vila Nova de Gaia",
+   "content": {
+    "pt-PT": {
+     "name": "Serra do Pilar",
+     "intro": "A Serra do Pilar ou Serra de São Nicolau ou Serra de São Nicolau de Vila Nova é uma elevação sobranceira ao Rio Douro localizada na freguesia de Santa Marinha, Vila Nova de Gaia, em posição fronteira à cidade do Porto.",
+     "narration": "A Serra do Pilar ou Serra de São Nicolau ou Serra de São Nicolau de Vila Nova é uma elevação sobranceira ao Rio Douro localizada na freguesia de Santa Marinha, Vila Nova de Gaia, em posição fronteira à cidade do Porto. Aí se situa o famoso Mosteiro da Serra do Pilar. Durante muitos anos transformado em quartel e atualmente classificado como Património Mundial, este mosteiro é hoje uma dais mais importantes atrações turísticas da região. Durante o cerco do Porto, foi o único reduto que os liberais conseguiram manter a Sul do Rio Douro. Ergue-se numa posição dominante proporcionando uma bela vista sobre o Rio Douro e a Ribeira e Centro Histórico do Porto.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Serra do Pilar",
+     "url": "https://pt.wikipedia.org/wiki/Serra_do_Pilar",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q10370497",
+     "url": "https://www.wikidata.org/wiki/Q10370497",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "jardim-de-sao-lazaro",
+   "image": {
+    "file": "images/jardim-de-sao-lazaro.jpg",
+    "author": "JotaCartas",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jardim_de_S%C3%A3o_L%C3%A1zaro-lago.jpg"
+   },
+   "location": {
+    "latitude": 41.145933,
+    "longitude": -8.602566
+   },
+   "category": "square",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "pt-PT": {
+     "name": "Jardim de São Lázaro",
+     "intro": "O Jardim de São Lázaro, oficialmente jardim Marques de Oliveira, é o mais antigo jardim municipal da cidade do Porto, em Portugal.",
+     "narration": "O Jardim de São Lázaro, oficialmente jardim Marques de Oliveira, é o mais antigo jardim municipal da cidade do Porto, em Portugal. Inaugurado em 1834, o jardim, fresco e frondoso, é de concepção romântica, podendo destacar-se as imponentes tílias, o coreto e os grupos escultóricos a que não será alheia a proximidade da Escola Superior de Belas Artes do Porto. Integrada no gradeamento que o delimita a norte, encontra-se uma fonte retirada do antigo convento de São Domingos. A nascente do jardim está a Biblioteca Pública Municipal do Porto e, a sul, a magnífica fachada barroca do antigo convento de São Lázaro, atribuído a Nicolau Nasoni.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Jardim de São Lázaro",
+     "url": "https://pt.wikipedia.org/wiki/Jardim_de_S%C3%A3o_L%C3%A1zaro",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q10306314",
+     "url": "https://www.wikidata.org/wiki/Q10306314",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "episcopal-palace-porto",
+   "image": {
+    "file": "images/episcopal-palace-porto.jpg",
+    "author": "Krzysztof Golik",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Episcopal_Palace_in_Porto_(1).jpg"
+   },
+   "location": {
+    "latitude": 41.142,
+    "longitude": -8.6116
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 23,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "baroque",
+    "historic",
+    "museum"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Episcopal Palace, Porto",
+     "intro": "The Episcopal Palace is the residence of the bishops of Porto, in Portugal.",
+     "narration": "The Episcopal Palace is the residence of the bishops of Porto, in Portugal. The palace is located on a high elevation, near Porto Cathedral, and dominates the skyline of the city. It is part of the historical centre of Porto, designated World Heritage Site by UNESCO. The palace is an important example of late Baroque and Rococo civil architecture in the city.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Paço Episcopal do Porto",
+     "intro": "O Paço Episcopal do Porto é a antiga residência dos bispos do Porto.",
+     "narration": "O Paço Episcopal do Porto é a antiga residência dos bispos do Porto. Situa-se adjacente à Sé do Porto e, pela sua posição elevada, domina a paisagem do centro histórico do Porto. O Paço Episcopal do Porto está classificado como Monumento Nacional desde 1910.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Episcopal Palace, Porto",
+     "url": "https://en.wikipedia.org/wiki/Episcopal_Palace%2C_Porto",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Paço Episcopal do Porto",
+     "url": "https://pt.wikipedia.org/wiki/Pa%C3%A7o_Episcopal_do_Porto",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1107442",
+     "url": "https://www.wikidata.org/wiki/Q1107442",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "bairro-da-pasteleira",
+   "image": null,
+   "location": {
+    "latitude": 41.15443889,
+    "longitude": -8.66016667
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "historic",
+    "neighbourhood"
+   ],
+   "area": "Lordelo do Ouro e Massarelos",
+   "content": {
+    "pt-PT": {
+     "name": "Bairro da Pasteleira",
+     "intro": "O Bairro da Pasteleira localiza-se entre as ruas de João Rodrigues Cabrilho, Bartolomeu Velho, e João de Barros, na freguesia de Lordelo do Ouro, junto do parque Urbano da Pasteleira popularmente conhecido como Mata…",
+     "narration": "O Bairro da Pasteleira localiza-se entre as ruas de João Rodrigues Cabrilho, Bartolomeu Velho, e João de Barros, na freguesia de Lordelo do Ouro, junto do parque Urbano da Pasteleira popularmente conhecido como Mata da Pasteleira e do Parque de Serralves, bem como da nova urbanização de iniciativa pública da Pasteleira concluída em 2001. Bairro de habitação social construído entre 1957 e 1960 no âmbito do Plano de Melhoramentos para a Cidade do Porto 1956-66 constituído por 27 blocos de habitação plurifamiliar com 608 fogos. Entra-se no bairro pelas ruas de Afonso de Aveiro, António Mariz Carneiro, Luis Serrão Pimentel, Nicolau Coelho e ainda pelo largo Diogo Gomes.",
+     "longDescription": "O Bairro da Pasteleira localiza-se entre as ruas de João Rodrigues Cabrilho, Bartolomeu Velho, e João de Barros, na freguesia de Lordelo do Ouro, junto do parque Urbano da Pasteleira popularmente conhecido como Mata da Pasteleira e do Parque de Serralves, bem como da nova urbanização de iniciativa pública da Pasteleira concluída em 2001. Bairro de habitação social construído entre 1957 e 1960 no âmbito do Plano de Melhoramentos para a Cidade do Porto 1956-66 constituído por 27 blocos de habitação plurifamiliar com 608 fogos. Entra-se no bairro pelas ruas de Afonso de Aveiro, António Mariz Carneiro, Luis Serrão Pimentel, Nicolau Coelho e ainda pelo largo Diogo Gomes. Tendo um clube do bairro, a Associação Desportiva e Recreativa da Pasteleira, que aposta nas camadas jovens sendo que os seniores actuam na Divisão de Honra no Campeonato Distrital do Porto de Futebol. Neste campo jogam, também, as camadas jovens do Boavista FC sempre que existem jogos do campeonato nacional da categoria.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Bairro da Pasteleira",
+     "url": "https://pt.wikipedia.org/wiki/Bairro_da_Pasteleira",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q9643799",
+     "url": "https://www.wikidata.org/wiki/Q9643799",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "liberdade-square-porto",
+   "image": {
+    "file": "images/liberdade-square-porto.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_da_Liberdade,_Oporto,_Portugal,_2012-05-09,_DD_01.JPG"
+   },
+   "location": {
+    "latitude": 41.1465,
+    "longitude": -8.6114
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Liberdade Square (Porto)",
+     "intro": "Liberdade Square is a square in the city of Porto, Portugal.",
+     "narration": "Liberdade Square is a square in the city of Porto, Portugal. It is located in Santo Ildefonso parish, in the lower town area. The square is continuous on its north side with the Avenida dos Aliados, an important avenue of the city.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Praça da Liberdade (Porto)",
+     "intro": "A Praça da Liberdade é, por muitos, considerada o coração da cidade do Porto, em Portugal.",
+     "narration": "A Praça da Liberdade é, por muitos, considerada o coração da cidade do Porto, em Portugal. Localiza-se na Baixa da cidade, na freguesia de Santo Ildefonso.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Liberdade Square (Porto)",
+     "url": "https://en.wikipedia.org/wiki/Liberdade_Square_%28Porto%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Praça da Liberdade (Porto)",
+     "url": "https://pt.wikipedia.org/wiki/Pra%C3%A7a_da_Liberdade_%28Porto%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q6541071",
+     "url": "https://www.wikidata.org/wiki/Q6541071",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "porto-boat-bridge-disaster",
+   "image": {
+    "file": "images/porto-boat-bridge-disaster.jpg",
+    "author": "Charles Van Zeller & Robert Havell",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_the_city_of_Oporto_(1833)_-_Charles_Van_Zeller_(des.);_Robert_Havell_(grav.).png"
+   },
+   "location": {
+    "latitude": 41.139722,
+    "longitude": -8.610556
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 22,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument",
+    "river"
+   ],
+   "area": "Santa Marinha e São Pedro da Afurada",
+   "content": {
+    "en": {
+     "name": "Porto Boat Bridge disaster",
+     "intro": "On 29 March 1809, the Ponte das Barcas, a pontoon bridge on the River Douro in Porto, Portugal, was the site of one of the world's most deadly bridge disasters which occurred during the First Battle of Porto between…",
+     "narration": "On 29 March 1809, the Ponte das Barcas, a pontoon bridge on the River Douro in Porto, Portugal, was the site of one of the world's most deadly bridge disasters which occurred during the First Battle of Porto between Portuguese and French troops. While the exact number of deaths is unknown, estimates of around 4,000 deaths are usually given.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Porto Boat Bridge disaster",
+     "url": "https://en.wikipedia.org/wiki/Porto_Boat_Bridge_disaster",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Ponte das Barcas",
+     "url": "https://pt.wikipedia.org/wiki/Ponte_das_Barcas",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q10351418",
+     "url": "https://www.wikidata.org/wiki/Q10351418",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "factory-house",
+   "image": {
+    "file": "images/factory-house.jpg",
+    "author": "Manuel de Sousa",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Feitoria_Inglesa_(Porto).JPG"
+   },
+   "location": {
+    "latitude": 41.141518,
+    "longitude": -8.613666
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 26,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "food",
+    "hidden",
+    "historic"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Factory House",
+     "intro": "The British Factory House, also known as the British Association House, is an 18th-century Neo-Palladian building located in the northern Portuguese centre of Porto, associated with the influence of Britain in the…",
+     "narration": "The British Factory House, also known as the British Association House, is an 18th-century Neo-Palladian building located in the northern Portuguese centre of Porto, associated with the influence of Britain in the port wine industry. This building is part of a group of buildings and infrastructure that mark the British presence in the city of Porto, which include the Oporto Cricket and Lawn Tennis Club and the Oporto British School.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Feitoria Inglesa",
+     "intro": "A Feitoria Inglesa é um edifício localizado na zona histórica do Porto, em Portugal.",
+     "narration": "A Feitoria Inglesa é um edifício localizado na zona histórica do Porto, em Portugal. Este edifício é um excelente testemunho da Aliança Luso-Britânica e do peso da comunidade britânica na cidade, grandemente empenhada no comércio do Vinho do Porto.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Factory House",
+     "url": "https://en.wikipedia.org/wiki/Factory_House",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Feitoria Inglesa",
+     "url": "https://pt.wikipedia.org/wiki/Feitoria_Inglesa",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1402131",
+     "url": "https://www.wikidata.org/wiki/Q1402131",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "bairro-de-contumil",
+   "image": null,
+   "location": {
+    "latitude": 41.169653,
+    "longitude": -8.583227
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "historic",
+    "neighbourhood"
+   ],
+   "area": "Campanhã",
+   "content": {
+    "pt-PT": {
+     "name": "Bairro de Contumil",
+     "intro": "O Bairro de Contumil é um bairro situado na cidade do Porto.",
+     "narration": "O Bairro de Contumil é um bairro situado na cidade do Porto. Localiza-se na freguesia de Campanhã, na zona nordeste da cidade. O bairro faz parte integrante do Segundo Plano de Melhoramentos da cidade do Porto, tendo sido projectado em 1966 e concluído em 1975, mesma data em que foi concluído o Bairro do Aleixo. Todos os blocos de habitação são compostos por 4 pisos. Num estudo sobre a imagem pública que os próprios habitantes teriam do seu bairro em relação a outros bairros sociais de Campanhã, o bairro de Contumil é visto entre o bom e razoável. Em 2006 o espaço público foi redesenhado e requalificado.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Bairro de Contumil",
+     "url": "https://pt.wikipedia.org/wiki/Bairro_de_Contumil",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q16496208",
+     "url": "https://www.wikidata.org/wiki/Q16496208",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "igreja-dos-congregados",
+   "image": {
+    "file": "images/igreja-dos-congregados.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_los_Congregados,_Oporto,_Portugal,_2012-05-09,_DD_01.JPG"
+   },
+   "location": {
+    "latitude": 41.146268,
+    "longitude": -8.610743
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "pt-PT": {
+     "name": "Igreja dos Congregados",
+     "intro": "A Igreja dos Congregados situa-se na Praça de Almeida Garrett, na cidade do Porto, em Portugal.",
+     "narration": "A Igreja dos Congregados situa-se na Praça de Almeida Garrett, na cidade do Porto, em Portugal. A igreja foi construída em 1703 num local onde existia uma capela dedicada a Santo António, datada de 1662, que foi destruída alguns anos antes para a construção da igreja. Estava anexa ao Convento da Congregação do Oratório. Na capela da Sagrada Família encontra-se o túmulo do corpo mumificado, ricamente vestido do Papa São Clemente, mártir. O único Papa que repousa longe do Vaticano. Foi identificado pelo professor Paulo de Souza Pinto, historiador e licenciado pela Universidade do Porto.",
+     "longDescription": "A Igreja dos Congregados situa-se na Praça de Almeida Garrett, na cidade do Porto, em Portugal. A igreja foi construída em 1703 num local onde existia uma capela dedicada a Santo António, datada de 1662, que foi destruída alguns anos antes para a construção da igreja. Estava anexa ao Convento da Congregação do Oratório. Na capela da Sagrada Família encontra-se o túmulo do corpo mumificado, ricamente vestido do Papa São Clemente, mártir. O único Papa que repousa longe do Vaticano. Foi identificado pelo professor Paulo de Souza Pinto, historiador e licenciado pela Universidade do Porto. A capela-mor foi reconstruída no século XIX e recebeu as pinturas murais de Acácio Lino, já os azulejos de sua fachada são de autoria de Jorge Colaço e os vitrais de Robert Léone e datam de 1920.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Igreja dos Congregados",
+     "url": "https://pt.wikipedia.org/wiki/Igreja_dos_Congregados",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q10300949",
+     "url": "https://www.wikidata.org/wiki/Q10300949",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "jardim-botanico-do-porto",
+   "image": {
+    "file": "images/jardim-botanico-do-porto.jpg",
+    "author": "JotaCartas",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jardim_Bot%C3%A2nico_Porto_-_tras.jpg"
+   },
+   "location": {
+    "latitude": 41.153335,
+    "longitude": -8.643079
+   },
+   "category": "park",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 8,
+   "tags": [
+    "hidden",
+    "historic",
+    "park",
+    "scenic"
+   ],
+   "area": "Lordelo do Ouro e Massarelos",
+   "content": {
+    "en": {
+     "name": "Jardim Botânico do Porto",
+     "intro": "The Porto Botanical Garden is a botanical garden located in the gardens of the Campo Alegre Estate or Andresen House, in Porto, Portugal.",
+     "narration": "The Porto Botanical Garden is a botanical garden located in the gardens of the Campo Alegre Estate or Andresen House, in Porto, Portugal. Since 2015, it has been a part of the Museum of Natural History and Science of University of Porto. In recognition of its conservation efforts and botanical significance, the garden received multiple international distinctions. In 2020, it was designated an International Camellia Garden of Excellence by the International Camellia Society. Additionally, since 2019, it has been awarded the Green Flag Award annually by Keep Britain Tidy, acknowledging the garden's value, conservation, and the quality of its maintenance plan.",
+     "longDescription": "The Porto Botanical Garden is a botanical garden located in the gardens of the Campo Alegre Estate or Andresen House, in Porto, Portugal. Since 2015, it has been a part of the Museum of Natural History and Science of University of Porto. In recognition of its conservation efforts and botanical significance, the garden received multiple international distinctions. In 2020, it was designated an International Camellia Garden of Excellence by the International Camellia Society. Additionally, since 2019, it has been awarded the Green Flag Award annually by Keep Britain Tidy, acknowledging the garden's value, conservation, and the quality of its maintenance plan. The current head of the Botanical Garden is the landscape architect Teresa Andresen, a descendant of the former owners of the estate, with Professors Arnaldo Rozeira, Roberto Salema and Barreto Caldas da Costa preceding her.",
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Jardim Botânico do Porto",
+     "intro": "O Jardim Botânico do Porto situa-se nos jardins da Quinta do Campo Alegre ou Casa dos Andresen, na freguesia de Lordelo do Ouro, na cidade do Porto, Portugal.",
+     "narration": "O Jardim Botânico do Porto situa-se nos jardins da Quinta do Campo Alegre ou Casa dos Andresen, na freguesia de Lordelo do Ouro, na cidade do Porto, Portugal.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Jardim Botânico do Porto",
+     "url": "https://en.wikipedia.org/wiki/Jardim_Bot%C3%A2nico_do_Porto",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Jardim Botânico do Porto",
+     "url": "https://pt.wikipedia.org/wiki/Jardim_Bot%C3%A2nico_do_Porto",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q10305543",
+     "url": "https://www.wikidata.org/wiki/Q10305543",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "bairro-do-cerco",
+   "image": null,
+   "location": {
+    "latitude": 41.1599,
+    "longitude": -8.56896111
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "historic",
+    "neighbourhood"
+   ],
+   "area": "Campanhã",
+   "content": {
+    "pt-PT": {
+     "name": "Bairro do Cerco",
+     "intro": "O Bairro do Cerco do Porto é um bairro portuense de habitação social situado entre as ruas de Vila Nova de Foz Côa, do Peso da Régua e a Estrada da Circunvalação, pertencendo à freguesia de Campanhã, na parte…",
+     "narration": "O Bairro do Cerco do Porto é um bairro portuense de habitação social situado entre as ruas de Vila Nova de Foz Côa, do Peso da Régua e a Estrada da Circunvalação, pertencendo à freguesia de Campanhã, na parte oriental da cidade, atravessado pelas ruas do Cerco do Porto, rua d'Alijó e de Santa Marta de Penaguião. O bairro foi inaugurado no ano de 1963, sendo que à data era composto por 804 fogos. Uma ampliação efectuada no ano de 1991 aumentou dos então 32 blocos para os actuais 34 blocos de habitação colectiva passando a constar de 888 fogos. Trata-se de um dos maiores bairros de habitação social do Porto ultrapassado somente pelo bairro das Campinas.",
+     "longDescription": "O Bairro do Cerco do Porto é um bairro portuense de habitação social situado entre as ruas de Vila Nova de Foz Côa, do Peso da Régua e a Estrada da Circunvalação, pertencendo à freguesia de Campanhã, na parte oriental da cidade, atravessado pelas ruas do Cerco do Porto, rua d'Alijó e de Santa Marta de Penaguião. O bairro foi inaugurado no ano de 1963, sendo que à data era composto por 804 fogos. Uma ampliação efectuada no ano de 1991 aumentou dos então 32 blocos para os actuais 34 blocos de habitação colectiva passando a constar de 888 fogos. Trata-se de um dos maiores bairros de habitação social do Porto ultrapassado somente pelo bairro das Campinas. Ambos os bairros foram construídos ao abrigo do Plano de Melhoramentos para a Cidade do Porto 1956-66.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Bairro do Cerco",
+     "url": "https://pt.wikipedia.org/wiki/Bairro_do_Cerco",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q9643878",
+     "url": "https://www.wikidata.org/wiki/Q9643878",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "mosteiro-de-sao-bento-da-vitoria",
+   "image": {
+    "file": "images/mosteiro-de-sao-bento-da-vitoria.jpg",
+    "author": "Manuel de Sousa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igreja_S_Bento_Vitoria_(Porto).JPG"
+   },
+   "location": {
+    "latitude": 41.1440085,
+    "longitude": -8.6163563
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "pt-PT": {
+     "name": "Mosteiro de São Bento da Vitória",
+     "intro": "O Mosteiro de São Bento da Vitória localiza-se no Morro do Olival, na cidade do Porto, em Portugal.",
+     "narration": "O Mosteiro de São Bento da Vitória localiza-se no Morro do Olival, na cidade do Porto, em Portugal. O mosteiro servia aos monges beneditinos, assim como a igreja monástica, tendo sido iniciada a construção do seu conjunto em finais do século XVI, no local anteriormente ocupado pela Judiaria do Olival. Em função do que tinha sido determinado no Mosteiro de Tibães, os beneditinos entraram no Porto com o intuito de construírem um mosteiro na cidade, o que veio a acontecer depois de resolvidos alguns entraves, embora a construção só tenha terminado cerca de um século depois do seu início, corria o ano de 1707.",
+     "longDescription": "O Mosteiro de São Bento da Vitória localiza-se no Morro do Olival, na cidade do Porto, em Portugal. O mosteiro servia aos monges beneditinos, assim como a igreja monástica, tendo sido iniciada a construção do seu conjunto em finais do século XVI, no local anteriormente ocupado pela Judiaria do Olival. Em função do que tinha sido determinado no Mosteiro de Tibães, os beneditinos entraram no Porto com o intuito de construírem um mosteiro na cidade, o que veio a acontecer depois de resolvidos alguns entraves, embora a construção só tenha terminado cerca de um século depois do seu início, corria o ano de 1707. Durante a Guerra Peninsular uma parte do mosteiro foi ocupada pelas tropas invasoras francesas e posteriormente pelas portuguesas, tendo-se servido dele como hospital militar. No que diz respeito à Igreja de São Bento da Vitória foi desenhada pelo arquitecto Diogo Marques Lucas, discípulo do italiano Filipe Terzio, em estilo clássico já deturpado pela Contrarreforma, com uma harmonia, solidez e proporções equilibradas. Depois de ter servido de quartel, a administração da igreja e parte do mosteiro foram confiadas aos beneditinos do Mosteiro de Singeverga, sendo lá instalado em 1995 o Arquivo Distrital, e mais tarde a Orquestra do Porto.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Mosteiro de São Bento da Vitória",
+     "url": "https://pt.wikipedia.org/wiki/Mosteiro_de_S%C3%A3o_Bento_da_Vit%C3%B3ria",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5994214",
+     "url": "https://www.wikidata.org/wiki/Q5994214",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "igreja-da-misericordia-do-porto",
+   "image": {
+    "file": "images/igreja-da-misericordia-do-porto.jpg",
+    "author": "Manuel de Sousa",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igreja_Misericordia_2_(Porto).JPG"
+   },
+   "location": {
+    "latitude": 41.143589,
+    "longitude": -8.614642
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 30,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "pt-PT": {
+     "name": "Igreja da Misericórdia do Porto",
+     "intro": "A Igreja da Misericórdia do Porto situa-se na Rua das Flores, na cidade do Porto, em Portugal.",
+     "narration": "A Igreja da Misericórdia do Porto situa-se na Rua das Flores, na cidade do Porto, em Portugal. Tendo sido construída inicialmente em 1559, de estilo renascentista com reminiscências góticas, desta igreja só se aproveitou a capela-mor, em virtude de um relâmpago que destruiu a fachada em Abril de 1621 e só no século XVIII seria objeto de reconstrução. O Edifício e a Igreja da Santa Casa da Misericórdia do Porto encontram-se classificados como Imóvel de Interesse Público desde 1977.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Igreja da Misericórdia do Porto",
+     "url": "https://pt.wikipedia.org/wiki/Igreja_da_Miseric%C3%B3rdia_do_Porto",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q10300284",
+     "url": "https://www.wikidata.org/wiki/Q10300284",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "praca-do-marques-de-pombal-porto",
+   "image": {
+    "file": "images/praca-do-marques-de-pombal-porto.jpg",
+    "author": "Manuel de Sousa",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pr_Marques_Pombal_(Porto).JPG"
+   },
+   "location": {
+    "latitude": 41.16111111,
+    "longitude": -8.60448333
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 25,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "pt-PT": {
+     "name": "Praça do Marquês de Pombal (Porto)",
+     "intro": "A Praça do Marquês de Pombal é um largo localizado na confluências das freguesias de Santo Ildefonso, Bonfim e Paranhos, na cidade do Porto, em Portugal.",
+     "narration": "A Praça do Marquês de Pombal é um largo localizado na confluências das freguesias de Santo Ildefonso, Bonfim e Paranhos, na cidade do Porto, em Portugal. A praça inclui um jardim romântico, duas taças com jogos de água e um coreto. Densamente arborizada, é muito procurada nos dias de calor e também pelos reformados que disputam aqui as suas partidas de sueca e de dominó.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Praça do Marquês de Pombal (Porto)",
+     "url": "https://pt.wikipedia.org/wiki/Pra%C3%A7a_do_Marqu%C3%AAs_de_Pombal_%28Porto%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q10353491",
+     "url": "https://www.wikidata.org/wiki/Q10353491",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "casa-do-infante",
+   "image": {
+    "file": "images/casa-do-infante.jpg",
+    "author": "Manuel de Sousa",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa_do_Infante_(Porto).JPG"
+   },
+   "location": {
+    "latitude": 41.140693,
+    "longitude": -8.614462
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "discoveries",
+    "hidden",
+    "historic"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Casa do Infante",
+     "intro": "The Casa do Infante, or alternately as the Alfândega Velha, is a historical house in the civil parish of Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, in the municipality of Porto, in northern…",
+     "narration": "The Casa do Infante, or alternately as the Alfândega Velha, is a historical house in the civil parish of Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, in the municipality of Porto, in northern Portugal. The house was originally built in the 14th century as customs and mint, although its present condition derives mostly from a remodelling carried out in the 17th century. Its name derived from an oral tradition that suggested the house was the birthplace of Prince Henry the Navigator in 1394. The Casa do Infante is located in the historical centre of Porto, designated World Heritage Site by UNESCO",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Casa do Infante",
+     "intro": "A Casa do Infante, ou Casa da Rua da Alfândega Velha é um museu e um dos edifícios mais antigos da cidade do Porto, em Portugal.",
+     "narration": "A Casa do Infante, ou Casa da Rua da Alfândega Velha é um museu e um dos edifícios mais antigos da cidade do Porto, em Portugal. A Casa do Infante é tradicionalmente tida como o local de nascimento do Infante D. Henrique, patrono dos descobrimentos portugueses. Trata-se de um conjunto edificado que ocupa uma extensa área da zona ribeirinha do Porto e que foi sofrendo sucessivas alterações ao longo dos tempos. Está sediado neste complexo de edifícios, desde os anos oitenta do século XX, o Arquivo Histórico Municipal do Porto.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Casa do Infante",
+     "url": "https://en.wikipedia.org/wiki/Casa_do_Infante",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Casa do Infante",
+     "url": "https://pt.wikipedia.org/wiki/Casa_do_Infante",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5047957",
+     "url": "https://www.wikidata.org/wiki/Q5047957",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "casa-da-camara",
+   "image": {
+    "file": "images/casa-da-camara.jpg",
+    "author": null,
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antiga_Casa_Camara_(Porto).JPG"
+   },
+   "location": {
+    "latitude": 41.143058,
+    "longitude": -8.611549
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Casa da Câmara",
+     "intro": "The Casa da Câmara is a former-administrative building located in the civil parish of Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, in the municipality of Porto, in northern Portugal.",
+     "narration": "The Casa da Câmara is a former-administrative building located in the civil parish of Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, in the municipality of Porto, in northern Portugal.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Antiga Casa da Câmara (Porto)",
+     "intro": "A Antiga Casa da Câmara ou Casa dos 24 foi o local onde funcionou a vereação municipal da cidade do Porto, em Portugal.",
+     "narration": "A Antiga Casa da Câmara ou Casa dos 24 foi o local onde funcionou a vereação municipal da cidade do Porto, em Portugal. Na Idade Média, a sua construção, mesmo ao lado da Sé do Porto, simbolizou uma afirmação do poder popular sobre o poder eclesiástico na cidade. Após ter caído em ruína durante longos anos, em 2002 e com projeto do arquiteto Fernando Távora, sobre as antigas fundações da desaparecida Casa dos 24 foi erguido um edifício contemporâneo. O edifício foi construído com desenho e tecnologia contemporânea, mas seguindo a suposta base e volumetria original. Esta nova construção foi pensada para não ter qualquer programa funcional associada, servindo unicamente como espaço de fruição da cidade.",
+     "longDescription": "A Antiga Casa da Câmara ou Casa dos 24 foi o local onde funcionou a vereação municipal da cidade do Porto, em Portugal. Na Idade Média, a sua construção, mesmo ao lado da Sé do Porto, simbolizou uma afirmação do poder popular sobre o poder eclesiástico na cidade. Após ter caído em ruína durante longos anos, em 2002 e com projeto do arquiteto Fernando Távora, sobre as antigas fundações da desaparecida Casa dos 24 foi erguido um edifício contemporâneo. O edifício foi construído com desenho e tecnologia contemporânea, mas seguindo a suposta base e volumetria original. Esta nova construção foi pensada para não ter qualquer programa funcional associada, servindo unicamente como espaço de fruição da cidade. Onde o visitante, mediante a grande janela, enquadrando a paisagem urbana protegida pela escultura do \"Porto\", a descobriria.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Casa da Câmara",
+     "url": "https://en.wikipedia.org/wiki/Casa_da_C%C3%A2mara",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Antiga Casa da Câmara (Porto)",
+     "url": "https://pt.wikipedia.org/wiki/Antiga_Casa_da_C%C3%A2mara_%28Porto%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q4774734",
+     "url": "https://www.wikidata.org/wiki/Q4774734",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "fountain-of-the-virtues",
+   "image": {
+    "file": "images/fountain-of-the-virtues.jpg",
+    "author": "Manuel de Sousa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chafariz_Virtudes_(Porto).JPG"
+   },
+   "location": {
+    "latitude": 41.14465833,
+    "longitude": -8.61896389
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Fountain of the Virtues",
+     "intro": "The Fountain of the Virtues is a fountain in the civil parish of Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, in the municipality of Porto.",
+     "narration": "The Fountain of the Virtues is a fountain in the civil parish of Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, in the municipality of Porto.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Chafariz das Virtudes",
+     "intro": "O Chafariz das Virtudes, Fonte do Rio Frio ou Fonte das Virtudes, localiza-se em Miragaia, na freguesia de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, na cidade e Distrito do Porto, em Portugal.",
+     "narration": "O Chafariz das Virtudes, Fonte do Rio Frio ou Fonte das Virtudes, localiza-se em Miragaia, na freguesia de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, na cidade e Distrito do Porto, em Portugal. Encontra-se classificado desde 1910 como Monumento Nacional, estando atualmente integrado no Jardim das Virtudes.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Fountain of the Virtues",
+     "url": "https://en.wikipedia.org/wiki/Fountain_of_the_Virtues",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Chafariz das Virtudes",
+     "url": "https://pt.wikipedia.org/wiki/Chafariz_das_Virtudes",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1058768",
+     "url": "https://www.wikidata.org/wiki/Q1058768",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "bairro-do-aleixo",
+   "image": {
+    "file": "images/bairro-do-aleixo.jpg",
+    "author": "Jose A.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oporto_(Portugal)_(16697808954).jpg"
+   },
+   "location": {
+    "latitude": 41.15038889,
+    "longitude": -8.64722222
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 34,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "Lordelo do Ouro e Massarelos",
+   "content": {
+    "pt-PT": {
+     "name": "Bairro do Aleixo",
+     "intro": "O Bairro do Aleixo foi um bairro portuense de habitação social pertencente à freguesia de Lordelo do Ouro.",
+     "narration": "O Bairro do Aleixo foi um bairro portuense de habitação social pertencente à freguesia de Lordelo do Ouro. Era considerado o bairro mais perigoso e mais estigmatizado da cidade do Porto, visto que era um dos principais centros de consumo e tráfico de droga daquela cidade.[carece de fontes]? Era composto por cinco edifícios, vulgarmente chamados de torres, devido à sua elevada altura comparativamente a outros bairros, cada um com treze andares, correspondendo a 320 casas. A grande maioria das pessoas que lá moravam eram oriundas da Ribeira do Porto.",
+     "longDescription": "O Bairro do Aleixo foi um bairro portuense de habitação social pertencente à freguesia de Lordelo do Ouro. Era considerado o bairro mais perigoso e mais estigmatizado da cidade do Porto, visto que era um dos principais centros de consumo e tráfico de droga daquela cidade.[carece de fontes]? Era composto por cinco edifícios, vulgarmente chamados de torres, devido à sua elevada altura comparativamente a outros bairros, cada um com treze andares, correspondendo a 320 casas. A grande maioria das pessoas que lá moravam eram oriundas da Ribeira do Porto. Tendo a sua inauguração feita a 13 de abril de 1974, sendo que apenas existia a primeira torre, a segunda torre foi \"tomada de assalto\" cerca um ano e meio depois sem se encontrar completa. A sua localização tinha como referência o Lordelo do Ouro, o Clube Fluvial Portuense, a Cantareira, a Junta de Freguesia local e a zona da Arrábida. O então presidente da Câmara do Porto, Rui Rio preconizou na campanha eleitoral para o mandato 2009-2013 a demolição do bairro por considerar ser a melhor forma de acabar com os problemas de tráfico e consumo de droga naquele bairro, bem como as más condições de conservação dos edifícios. Depois de um braço de ferro com os moradores, o tribunal acabaria por dar razão a Rui Rio. A demolição do bairro começou a ter lugar no dia 16 de dezembro de 2011 por volta das 11.45 min. com a implosão de uma das torres. A 12 de abril de 2013, pelas 11:14m foi implodida outra torre. Os habitantes das referida torres foram transferidos para outros bairros. Com o bairro já demolido, no seu local será desenvolvido um projecto imobiliário pelo consórcio Invesurb, conhecido como o Fundo Imobiliário do Bairro do Aleixo, constituído pela Mota-Engil, o empresário António Oliveira, Câmara Municipal do Porto e duas so",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Bairro do Aleixo",
+     "url": "https://pt.wikipedia.org/wiki/Bairro_do_Aleixo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q16496191",
+     "url": "https://www.wikidata.org/wiki/Q16496191",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "monumento-almeida-garrett",
+   "image": {
+    "file": "images/monumento-almeida-garrett.jpg",
+    "author": "User:Otourly",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:08._C%C3%A2mara_Munici%C3%B3_do_Porto.JPG"
+   },
+   "location": {
+    "latitude": 41.14969167,
+    "longitude": -8.61071111
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 21,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "pt-PT": {
+     "name": "Monumento Almeida Garrett",
+     "intro": "O monumento a Almeida Garrett, personalidade marcante do século XIX nascido no Porto, situa-se em frente à Câmara Municipal do Porto, na praça General Humberto Delgado ao cimo da Avenida dos Aliados.",
+     "narration": "O monumento a Almeida Garrett, personalidade marcante do século XIX nascido no Porto, situa-se em frente à Câmara Municipal do Porto, na praça General Humberto Delgado ao cimo da Avenida dos Aliados. Foi inaugurada em 11 de Novembro de 1954, para assinalar o centenário da morte do poeta, e realizada em bronze pelo escultor Salvador Barata Feyo.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Monumento Almeida Garrett",
+     "url": "https://pt.wikipedia.org/wiki/Monumento_Almeida_Garrett",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2649664",
+     "url": "https://www.wikidata.org/wiki/Q2649664",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "casa-barbot",
+   "image": {
+    "file": "images/casa-barbot.jpg",
+    "author": "Manuel de Sousa",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa_Barbot_(Vila_Nova_de_Gaia).JPG"
+   },
+   "location": {
+    "latitude": 41.133147,
+    "longitude": -8.607546
+   },
+   "category": "park",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 8,
+   "tags": [
+    "hidden",
+    "historic",
+    "park",
+    "scenic"
+   ],
+   "area": "Santa Marinha e São Pedro da Afurada",
+   "content": {
+    "pt-PT": {
+     "name": "Casa Barbot",
+     "intro": "A Casa Barbot, também referida como Casa e jardins da família Barbot, localiza-se na Avenida da República, na atual freguesia de Santa Marinha e São Pedro da Afurada, na cidade e no Município Vila Nova de Gaia,…",
+     "narration": "A Casa Barbot, também referida como Casa e jardins da família Barbot, localiza-se na Avenida da República, na atual freguesia de Santa Marinha e São Pedro da Afurada, na cidade e no Município Vila Nova de Gaia, Distrito do Porto, em Portugal. A Câmara Municipal de Vila Nova de Gaia adquiriu o imóvel, recuperou-o e aí instalou a Casa da Cultura, sede do Pelouro da Cultura, Património e Turismo da autarquia. A Casa Barbot - Casa da Cultura dispõe atualmente de uma área destinada a exposições e à promoção de eventos como debates, colóquios, seminários, workshops, lançamento de livros e momentos musicais. A Casa Barbot encontra-se classificada como Imóvel de Interesse Público desde 1982.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Casa Barbot",
+     "url": "https://pt.wikipedia.org/wiki/Casa_Barbot",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q9698045",
+     "url": "https://www.wikidata.org/wiki/Q9698045",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "funicular-dos-guindais",
+   "image": {
+    "file": "images/funicular-dos-guindais.jpg",
+    "author": "Barcex",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oporto_-_Funicular_dos_Guindais_-_20110425_132242.jpg"
+   },
+   "location": {
+    "latitude": 41.141988888,
+    "longitude": -8.608888888
+   },
+   "category": "street",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "historic",
+    "modern",
+    "neighbourhood",
+    "river",
+    "street"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Funicular dos Guindais",
+     "intro": "The Guindais Funicular is a funicular railway in the Portuguese city of Porto.",
+     "narration": "The Guindais Funicular is a funicular railway in the Portuguese city of Porto. It connects the Praça da Batalha, situated uphill to the north, with Cais dos Guindais, by the riverside to the south. The upper station is by the terminus of the vintage tram line 22 and within walking distance of São Bento station for metro and railway connections. The lower station is by the lower level of the Dom Luís I Bridge and within walking distance of the Praça da Ribeira. The modern funicular opened in 2004 and it runs along the same path of a funicular that briefly operated during the 19th century. It runs alongside the remains of the Fernandine Walls.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Funicular dos Guindais",
+     "intro": "O Funicular dos Guindais é uma ferrovia ligeira que se localiza na cidade do Porto, em Portugal, e liga a Batalha à Ribeira, vencendo um abrupto desnível.",
+     "narration": "O Funicular dos Guindais é uma ferrovia ligeira que se localiza na cidade do Porto, em Portugal, e liga a Batalha à Ribeira, vencendo um abrupto desnível.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Funicular dos Guindais",
+     "url": "https://en.wikipedia.org/wiki/Funicular_dos_Guindais",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Funicular dos Guindais",
+     "url": "https://pt.wikipedia.org/wiki/Funicular_dos_Guindais",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2228562",
+     "url": "https://www.wikidata.org/wiki/Q2228562",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "fountain-of-sao-miguel",
+   "image": {
+    "file": "images/fountain-of-sao-miguel.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chafariz_de_San_Miguel,_Oporto,_Portugal,_2012-05-09,_DD_01.JPG"
+   },
+   "location": {
+    "latitude": 41.14305556,
+    "longitude": -8.61083333
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+   "content": {
+    "en": {
+     "name": "Fountain of São Miguel",
+     "intro": "The Fountain of São Miguel is a fountain located in the civil parish of Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, in the Portuguese north, municipality of Porto, classified as a Imóvel de…",
+     "narration": "The Fountain of São Miguel is a fountain located in the civil parish of Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, in the Portuguese north, municipality of Porto, classified as a Imóvel de Interesse Público.",
+     "longDescription": null,
+     "lookFor": null
+    },
+    "pt-PT": {
+     "name": "Chafariz de São Miguel",
+     "intro": "O Chafariz de São Miguel, também designado por Chafariz do Anjo São Miguel, Chafariz da Sé e Fonte de São Miguel o Anjo, localiza-se ao lado da Sé do Porto, na freguesia atual de Cedofeita, Santo Ildefonso, Sé,…",
+     "narration": "O Chafariz de São Miguel, também designado por Chafariz do Anjo São Miguel, Chafariz da Sé e Fonte de São Miguel o Anjo, localiza-se ao lado da Sé do Porto, na freguesia atual de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, na cidade e Distrito do Porto, em Portugal. Fontanário que terá sido construído com projecto de Nasoni, encontra-se classificado como Imóvel de Interesse Público desde 1926. O nome da fonte, que contém uma moldura em ferro forjado, assim como um baixo relevo em mármore, advém duma estátua que está ao cimo que representa o anjo São Miguel.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Fountain of São Miguel",
+     "url": "https://en.wikipedia.org/wiki/Fountain_of_S%C3%A3o_Miguel",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikipedia: Chafariz de São Miguel",
+     "url": "https://pt.wikipedia.org/wiki/Chafariz_de_S%C3%A3o_Miguel",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5066770",
+     "url": "https://www.wikidata.org/wiki/Q5066770",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "bairro-de-sao-joao-de-deus",
+   "image": null,
+   "location": {
+    "latitude": 41.17713611,
+    "longitude": -8.57261944
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 28,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "Campanhã",
+   "content": {
+    "pt-PT": {
+     "name": "Bairro de São João de Deus",
+     "intro": "Campanhã é um bairro português da cidade do Porto sede da Freguesia de Campanhã do Município do Porto, freguesia com 8,13 km² de área e 29 666 habitantes, tendo, por isso, uma densidade populacional de 3 649 hab./km².",
+     "narration": "Campanhã é um bairro português da cidade do Porto sede da Freguesia de Campanhã do Município do Porto, freguesia com 8,13 km² de área e 29 666 habitantes, tendo, por isso, uma densidade populacional de 3 649 hab./km². Foi vila e sede de concelho até 1836. O concelho era constituído por uma única freguesia e tinha, em 1801, 3967 habitantes. Pelo decreto nº 40.526, de 8 de fevereiro de 1956, foram-lhe fixados os atuais limites.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Bairro de São João de Deus",
+     "url": "https://pt.wikipedia.org/wiki/Bairro_de_S%C3%A3o_Jo%C3%A3o_de_Deus",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q16496216",
+     "url": "https://www.wikidata.org/wiki/Q16496216",
+     "license": "CC0"
+    }
+   ]
+  }
+ ]
+}

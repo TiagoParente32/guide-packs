@@ -1,0 +1,2312 @@
+{
+ "format": 1,
+ "city": {
+  "id": "london",
+  "name": "London",
+  "country": "United Kingdom",
+  "center": {
+   "latitude": 51.5074456,
+   "longitude": -0.1277653
+  },
+  "bounds": {
+   "south": 51.2867601,
+   "north": 51.6918741,
+   "west": -0.5103751,
+   "east": 0.3340155
+  },
+  "languages": [
+   "en"
+  ],
+  "quality": "generated",
+  "placeCount": 45,
+  "version": 1,
+  "hero": {
+   "file": "images/trafalgar-square.jpg",
+   "author": "Diliff",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trafalgar_Square,_London_2_-_Jun_2009.jpg"
+  },
+  "packUrl": "cities/london/pack.json",
+  "generatedAt": "2026-10-30T15:01:06Z"
+ },
+ "pois": [
+  {
+   "id": "trafalgar-square",
+   "image": {
+    "file": "images/trafalgar-square.jpg",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trafalgar_Square,_London_2_-_Jun_2009.jpg"
+   },
+   "location": {
+    "latitude": 51.508055555,
+    "longitude": -0.128055555
+   },
+   "category": "square",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "Trafalgar Square",
+     "intro": "Trafalgar Square is a public square in the City of Westminster in Central London.",
+     "narration": "Trafalgar Square is a public square in the City of Westminster in Central London. It was established in the early 19th century around the area known as Charing Cross. Its name commemorates the Battle of Trafalgar, the British naval victory in the Napoleonic Wars over France and Spain that took place on 21 October 1805 off the coast of Cape Trafalgar. The area around Trafalgar Square has been a significant landmark since the 1200s, as distances from London are measured from Charing Cross. The King's Mews occupied part of the site until the reign of George IV, who moved them to Buckingham Palace, allowing the area to be redeveloped by John Nash.",
+     "longDescription": "Trafalgar Square is a public square in the City of Westminster in Central London. It was established in the early 19th century around the area known as Charing Cross. Its name commemorates the Battle of Trafalgar, the British naval victory in the Napoleonic Wars over France and Spain that took place on 21 October 1805 off the coast of Cape Trafalgar. The area around Trafalgar Square has been a significant landmark since the 1200s, as distances from London are measured from Charing Cross. The King's Mews occupied part of the site until the reign of George IV, who moved them to Buckingham Palace, allowing the area to be redeveloped by John Nash. Progress stalled after the death of Nash in 1835, and the square did not open until 1844. It is faced by buildings including the National Gallery, St Martin-in-the-Fields, Canada House and South Africa House. The square also contains several pieces of public sculpture, including the 169-foot Nelson's Column in the centre, which commemorates Vice-Admiral Horatio Nelson's victory at Trafalgar; an equestrian statue of Charles I; and the fourth plinth, which since 1999 has hosted a variety of artworks. The square has been used for community gatherings and political demonstrations, including Bloody Sunday in 1887, the culmination of the first Aldermaston March, anti-war protests and campaigns against climate change. A Christmas tree has been donated to the square by the government of Norway since 1947 and is erected for twelve days before and after Christmas Day. The square is a centre of annual celebrations on New Year's Eve and was known for its feral pigeons until their removal in the early 21st century.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Trafalgar Square",
+     "url": "https://en.wikipedia.org/wiki/Trafalgar_Square",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q129143",
+     "url": "https://www.wikidata.org/wiki/Q129143",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "bt-tower",
+   "image": {
+    "file": "images/bt-tower.jpg",
+    "author": "David Castor (dcastor)",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:BT_Tower-1.jpg"
+   },
+   "location": {
+    "latitude": 51.5215,
+    "longitude": -0.1389
+   },
+   "category": "viewpoint",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "scenic",
+    "viewpoint"
+   ],
+   "area": "London Borough of Camden",
+   "content": {
+    "en": {
+     "name": "BT Tower",
+     "intro": "The BT Tower is a communications tower in Fitzrovia, London, England, constructed in 1964.",
+     "narration": "The BT Tower is a communications tower in Fitzrovia, London, England, constructed in 1964. At the time of its completion it was known as the Museum Radio Tower, referring to its use by the neighbouring Museum Telephone Exchange. Subsequent changes in ownership caused it to become the Post Office Tower and Telecom Tower before it gained its current name in 1991. Since 2024 it has been owned by MCR Hotels. In 2003 Historic England designated it as a Grade II listed building. The main structure is 177 metres high, with aerial rigging bringing the total height to 189 metres. Upon completion it was the tallest structure in London and remained so until 1980.",
+     "longDescription": "The BT Tower is a communications tower in Fitzrovia, London, England, constructed in 1964. At the time of its completion it was known as the Museum Radio Tower, referring to its use by the neighbouring Museum Telephone Exchange. Subsequent changes in ownership caused it to become the Post Office Tower and Telecom Tower before it gained its current name in 1991. Since 2024 it has been owned by MCR Hotels. In 2003 Historic England designated it as a Grade II listed building. The main structure is 177 metres high, with aerial rigging bringing the total height to 189 metres. Upon completion it was the tallest structure in London and remained so until 1980. Butlins managed a revolving restaurant in the tower from 1966 until 1980. A 360° LED screen displays news across central London.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: BT Tower",
+     "url": "https://en.wikipedia.org/wiki/BT_Tower",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q797085",
+     "url": "https://www.wikidata.org/wiki/Q797085",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "city-of-london",
+   "image": {
+    "file": "images/city-of-london.jpg",
+    "author": "APK",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:City_of_London_and_Tower_of_London_viewed_from_the_Tower_Bridge.jpg"
+   },
+   "location": {
+    "latitude": 51.515555555,
+    "longitude": -0.093055555
+   },
+   "category": "neighbourhood",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "iconic",
+    "modern",
+    "neighbourhood",
+    "roman"
+   ],
+   "area": "London",
+   "content": {
+    "en": {
+     "name": "City of London",
+     "intro": "The City of London is a city, ceremonial county and local government district in England.",
+     "narration": "The City of London is a city, ceremonial county and local government district in England. Established by the Romans around 47 AD as Londinium, it forms the historic centre of the wider London metropolis. Surrounded by the modern ceremonial county of Greater London, the City is a unique local authority area governed by the City of London Corporation, which is led by the Lord Mayor of London. It is included as part of the region of England governed by the Greater London Authority, which shares local government powers in the region with the councils of 32 London boroughs and the City of London Corporation.",
+     "longDescription": "The City of London is a city, ceremonial county and local government district in England. Established by the Romans around 47 AD as Londinium, it forms the historic centre of the wider London metropolis. Surrounded by the modern ceremonial county of Greater London, the City is a unique local authority area governed by the City of London Corporation, which is led by the Lord Mayor of London. It is included as part of the region of England governed by the Greater London Authority, which shares local government powers in the region with the councils of 32 London boroughs and the City of London Corporation. Nicknamed the Square Mile, the City of London has an area of 1.12 sq mi, making it the smallest city in the United Kingdom by area. It had a population of 8,583 at the 2021 census. Over 500,000 people were employed in the area as of 2019. Together with Canary Wharf and the West End, the City of London forms the primary central business district of London, which is one of the leading financial centres of the world. The Bank of England and the London Stock Exchange are both based in the City. The insurance industry has a major presence in the area. The presence of the Inns of Court on the City's western boundary has made it a centre for the legal profession. The present City of London constituted the majority of London from its settlement by the Romans in the 1st century AD to the Middle Ages, with only area within the City Wards being considered London until urban expansion. It contains several historic sites, including St Paul's Cathedral, the Royal Exchange, Mansion House, Guildhall, the Old Bailey, Smithfield Market, the Monument to the Great Fire of London, and the remains of the ancient London Wall.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: City of London",
+     "url": "https://en.wikipedia.org/wiki/City_of_London",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q23311",
+     "url": "https://www.wikidata.org/wiki/Q23311",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "westminster-abbey",
+   "image": {
+    "file": "images/westminster-abbey.jpg",
+    "author": "Σπάρτακος",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Westminster-Abbey.JPG"
+   },
+   "location": {
+    "latitude": 51.4994,
+    "longitude": -0.127367
+   },
+   "category": "church",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "medieval"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "Westminster Abbey",
+     "intro": "Westminster Abbey, formally titled the Collegiate Church of Saint Peter at Westminster, is an Anglican church in the City of Westminster, London, England.",
+     "narration": "Westminster Abbey, formally titled the Collegiate Church of Saint Peter at Westminster, is an Anglican church in the City of Westminster, London, England. Since 1066, it has been the location of the coronations of 40 English and British monarchs and a burial site for 18 English, Scottish, and British monarchs. At least 16 royal weddings have taken place at the abbey since 1100. Although the origins of the church are obscure, an abbey housing Benedictine monks was on the site by the mid-10th century. The church got its first large building from the 1040s, commissioned by King Edward the Confessor, who is buried inside. Construction of the present church began in 1245 on the orders of Henry III.",
+     "longDescription": "Westminster Abbey, formally titled the Collegiate Church of Saint Peter at Westminster, is an Anglican church in the City of Westminster, London, England. Since 1066, it has been the location of the coronations of 40 English and British monarchs and a burial site for 18 English, Scottish, and British monarchs. At least 16 royal weddings have taken place at the abbey since 1100. Although the origins of the church are obscure, an abbey housing Benedictine monks was on the site by the mid-10th century. The church got its first large building from the 1040s, commissioned by King Edward the Confessor, who is buried inside. Construction of the present church began in 1245 on the orders of Henry III. The monastery was dissolved in 1559, and the church was made a royal peculiar – a Church of England church, accountable directly to the sovereign – by Elizabeth I. The abbey, the Palace of Westminster and St Margaret's Church became a UNESCO World Heritage Site in 1987 because of their historic and symbolic significance. The church's Gothic architecture is chiefly inspired by 13th-century French and English styles, although some sections of the church have earlier Romanesque styles or later Baroque and modern styles. The Henry VII Chapel, at the east end of the church, is a typical example of Perpendicular Gothic architecture; antiquarian John Leland called it orbis miraculum. The abbey is the burial site of more than 3,300 people, many prominent in British history: monarchs, prime ministers, poets laureate, actors, musicians, scientists, military leaders, and the Unknown Warrior. Due to the fame of the figures buried there, artist William Morris described the abbey as a \"National Valhalla\".",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Westminster Abbey",
+     "url": "https://en.wikipedia.org/wiki/Westminster_Abbey",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5933",
+     "url": "https://www.wikidata.org/wiki/Q5933",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-paul-s-cathedral",
+   "image": {
+    "file": "images/st-paul-s-cathedral.jpg",
+    "author": "Mark Fosh",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Pauls_aerial_(cropped).jpg"
+   },
+   "location": {
+    "latitude": 51.513777777,
+    "longitude": -0.098305555
+   },
+   "category": "church",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "baroque",
+    "church",
+    "historic",
+    "iconic"
+   ],
+   "area": "City of London",
+   "content": {
+    "en": {
+     "name": "St Paul's Cathedral",
+     "intro": "St Paul's Cathedral, formally the Cathedral Church of St Paul in London, is an Anglican cathedral in London, England, the seat of the bishop of London.",
+     "narration": "St Paul's Cathedral, formally the Cathedral Church of St Paul in London, is an Anglican cathedral in London, England, the seat of the bishop of London. The cathedral serves as the mother church of the Diocese of London in the Church of England. It is on Ludgate Hill at the highest point of the City of London. Its dedication in honour of Paul the Apostle dates back to the original cathedral church on this site, founded in AD 604. The high-domed present structure, which was completed in 1710, is a Grade I listed building that was designed in the English Baroque style by Sir Christopher Wren.",
+     "longDescription": "St Paul's Cathedral, formally the Cathedral Church of St Paul in London, is an Anglican cathedral in London, England, the seat of the bishop of London. The cathedral serves as the mother church of the Diocese of London in the Church of England. It is on Ludgate Hill at the highest point of the City of London. Its dedication in honour of Paul the Apostle dates back to the original cathedral church on this site, founded in AD 604. The high-domed present structure, which was completed in 1710, is a Grade I listed building that was designed in the English Baroque style by Sir Christopher Wren. The cathedral's reconstruction was part of a major rebuilding programme initiated in the aftermath of the Great Fire of London. The earlier Gothic cathedral, largely destroyed in the Great Fire, was a central focus for medieval and early modern London, including Paul's walk and St Paul's Churchyard, being the site of St Paul's Cross. The cathedral is one of the most famous and recognisable sights of London. Its dome, surrounded by the spires of Wren's City churches, has dominated the skyline for more than 300 years. At 365 ft high, it was the tallest building in London from 1710 to 1963. The dome is still one of the highest in the world. St Paul's is the second-largest church building in area in the United Kingdom, after Liverpool Cathedral. Services held in the building finished in 1710 have included the funerals of Admiral Lord Nelson, the Duke of Wellington, Winston Churchill and Margaret Thatcher; a royal thanksgiving service for the union of Great Britain; an inauguration service for the Metropolitan Hospital Sunday Fund; peace services marking the end of the First and Second World Wars; the wedding of Prince Charles and Lady Diana Spencer; and the launch of the Festival of Brita",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St Paul's Cathedral",
+     "url": "https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q173882",
+     "url": "https://www.wikidata.org/wiki/Q173882",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "tower-of-london",
+   "image": {
+    "file": "images/tower-of-london.jpg",
+    "author": "Bob Collowan",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tower_of_London_viewed_from_the_River_Thames.jpg"
+   },
+   "location": {
+    "latitude": 51.5082,
+    "longitude": -0.076198055
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "museum",
+    "river"
+   ],
+   "area": "London Borough of Tower Hamlets",
+   "content": {
+    "en": {
+     "name": "Tower of London",
+     "intro": "The Tower of London, officially His Majesty's Royal Palace and Fortress of the Tower of London, is a historic citadel and castle on the north bank of the River Thames in London, England.",
+     "narration": "The Tower of London, officially His Majesty's Royal Palace and Fortress of the Tower of London, is a historic citadel and castle on the north bank of the River Thames in London, England. It lies within the London Borough of Tower Hamlets, which is separated from the eastern edge of the square mile of the City of London by the open space known as Tower Hill. It was founded toward the end of 1066 as part of the Norman Conquest. The White Tower, which gives the castle its name, was built by William the Conqueror in 1078 and was initially a resented symbol of oppression. A grand palace early in its history, it served as a royal residence.",
+     "longDescription": "The Tower of London, officially His Majesty's Royal Palace and Fortress of the Tower of London, is a historic citadel and castle on the north bank of the River Thames in London, England. It lies within the London Borough of Tower Hamlets, which is separated from the eastern edge of the square mile of the City of London by the open space known as Tower Hill. It was founded toward the end of 1066 as part of the Norman Conquest. The White Tower, which gives the castle its name, was built by William the Conqueror in 1078 and was initially a resented symbol of oppression. A grand palace early in its history, it served as a royal residence. The Tower is a complex of several buildings set within two concentric rings of defensive walls and a moat. There were several phases of expansion, mainly under kings Richard I, Henry III, and Edward I in the 12th and 13th centuries. The Tower of London was besieged several times, and controlling it has been important to controlling the country. The Tower has served as an armoury, a treasury, a menagerie, the home of the Royal Mint, a public record office, and the home of the Crown Jewels of England. From the early 14th century until the reign of Charles II in the 17th century, the monarch would traditionally prepare for several nights at the Tower, and lead a procession from there to Westminster Abbey for their coronation. In the late 15th century, the Princes in the Tower were housed at the castle when they mysteriously disappeared, presumed murdered. Under the Tudors, the Tower was used less as a royal residence, and despite attempts to refortify and repair the castle, its defences lagged behind developments to deal with artillery. The zenith of the castle's use as a prison was the 16th and 17th centuries, when many figures who had falle",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Tower of London",
+     "url": "https://en.wikipedia.org/wiki/Tower_of_London",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q62378",
+     "url": "https://www.wikidata.org/wiki/Q62378",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "tower-bridge",
+   "image": {
+    "file": "images/tower-bridge.jpg",
+    "author": "Barcex",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:London_-_London_Tower_Bridge_-_140806_171049.jpg"
+   },
+   "location": {
+    "latitude": 51.505555555,
+    "longitude": -0.075277777
+   },
+   "category": "monument",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 46,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument",
+    "river"
+   ],
+   "area": "London Borough of Southwark",
+   "content": {
+    "en": {
+     "name": "Tower Bridge",
+     "intro": "Tower Bridge is a Grade I listed combined bascule, suspension, and, until 1960, cantilever bridge in London, built between 1886 and 1894, designed by Horace Jones and engineered by John Wolfe Barry with the help of…",
+     "narration": "Tower Bridge is a Grade I listed combined bascule, suspension, and, until 1960, cantilever bridge in London, built between 1886 and 1894, designed by Horace Jones and engineered by John Wolfe Barry with the help of Henry Marc Brunel. It crosses the River Thames close to the Tower of London and is one of five London bridges owned and maintained by the City Bridge Foundation, a charitable trust founded in 1282. The bridge was constructed to connect the 39% of London's population that lived east of London Bridge, equivalent to the populations of \"Manchester on the one side, and Liverpool on the other\", while allowing shipping to access the Pool of London between the Tower of London and London Bridge.",
+     "longDescription": "Tower Bridge is a Grade I listed combined bascule, suspension, and, until 1960, cantilever bridge in London, built between 1886 and 1894, designed by Horace Jones and engineered by John Wolfe Barry with the help of Henry Marc Brunel. It crosses the River Thames close to the Tower of London and is one of five London bridges owned and maintained by the City Bridge Foundation, a charitable trust founded in 1282. The bridge was constructed to connect the 39% of London's population that lived east of London Bridge, equivalent to the populations of \"Manchester on the one side, and Liverpool on the other\", while allowing shipping to access the Pool of London between the Tower of London and London Bridge. The bridge was opened by Edward, Prince of Wales, and Alexandra, Princess of Wales, on 30 June 1894. The bridge is 940 feet in length including the abutments and consists of two 213-foot bridge towers connected at the upper level by two horizontal walkways, and a central pair of bascules that can open to allow shipping. Originally hydraulically powered, the operating mechanism was converted to an electro-hydraulic system in 1972. The bridge is part of the London Inner Ring Road and thus the boundary of the London congestion charge zone, and remains an important traffic route with 40,000 crossings every day. The bridge deck is freely accessible to both vehicles and pedestrians, whereas the bridge's twin towers, high-level walkways, and Victorian engine rooms form part of the Tower Bridge Exhibition. Tower Bridge has become a recognisable London landmark. It is sometimes confused with London Bridge, about 0.5 miles upstream, which has led to a persistent urban legend about an American purchasing the wrong bridge.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Tower Bridge",
+     "url": "https://en.wikipedia.org/wiki/Tower_Bridge",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q83125",
+     "url": "https://www.wikidata.org/wiki/Q83125",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "british-museum",
+   "image": {
+    "file": "images/british-museum.jpg",
+    "author": "Ham",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Museum_from_NE_2_(cropped).JPG"
+   },
+   "location": {
+    "latitude": 51.519444444,
+    "longitude": -0.126944444
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "museum"
+   ],
+   "area": "London Borough of Camden",
+   "content": {
+    "en": {
+     "name": "British Museum",
+     "intro": "The British Museum is a public museum dedicated to human history, art and culture located in the Bloomsbury area of London.",
+     "narration": "The British Museum is a public museum dedicated to human history, art and culture located in the Bloomsbury area of London. Its permanent collection of eight million artefacts is the largest in the world. It documents the story of human culture from its beginnings to the present. Established in 1753, the British Museum was the world's first public national museum. In 2025, the museum received 6,440,120 visitors and was the second most visited attraction in the United Kingdom. At its beginning, the museum was largely based on the collections of the Anglo-Irish physician and scientist Sir Hans Sloane. It opened to the public in 1759, in Montagu House, on the site of the current building.",
+     "longDescription": "The British Museum is a public museum dedicated to human history, art and culture located in the Bloomsbury area of London. Its permanent collection of eight million artefacts is the largest in the world. It documents the story of human culture from its beginnings to the present. Established in 1753, the British Museum was the world's first public national museum. In 2025, the museum received 6,440,120 visitors and was the second most visited attraction in the United Kingdom. At its beginning, the museum was largely based on the collections of the Anglo-Irish physician and scientist Sir Hans Sloane. It opened to the public in 1759, in Montagu House, on the site of the current building. The museum's expansion over the following 250 years was largely a result of British colonisation and resulted in the creation of several branch institutions, or independent spin-offs, the first being the Natural History Museum in 1881. Some of its best-known acquisitions, such as the Greek Elgin Marbles and the Egyptian Rosetta Stone, are subject to long-term disputes and repatriation claims. In 1973, the British Library Act 1972 detached the library department from the British Museum, but it continued to host the now separated British Library in the same Reading Room and building as the museum until 1997. The museum is a non-departmental public body sponsored by the Department for Culture, Media and Sport. Like all UK national museums, it charges no admission fee except for loan exhibitions.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: British Museum",
+     "url": "https://en.wikipedia.org/wiki/British_Museum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q6373",
+     "url": "https://www.wikidata.org/wiki/Q6373",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "buckingham-palace",
+   "image": {
+    "file": "images/buckingham-palace.jpg",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace,_London_-_April_2009.jpg"
+   },
+   "location": {
+    "latitude": 51.501,
+    "longitude": -0.142
+   },
+   "category": "architecture",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "Buckingham Palace",
+     "intro": "Buckingham Palace is the official residence and administrative headquarters of the monarch of the United Kingdom in London, England.",
+     "narration": "Buckingham Palace is the official residence and administrative headquarters of the monarch of the United Kingdom in London, England. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality. It has been a focal point for the British people at times of national rejoicing and mourning. Originally known as Buckingham House, the building at the core of today's palace was a large townhouse built for the Duke of Buckingham and Normanby in 1703 on a site that had been in private ownership for at least 150 years. It was acquired by George III in 1761 as a private residence for Queen Charlotte and became known as The Queen's House.",
+     "longDescription": "Buckingham Palace is the official residence and administrative headquarters of the monarch of the United Kingdom in London, England. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality. It has been a focal point for the British people at times of national rejoicing and mourning. Originally known as Buckingham House, the building at the core of today's palace was a large townhouse built for the Duke of Buckingham and Normanby in 1703 on a site that had been in private ownership for at least 150 years. It was acquired by George III in 1761 as a private residence for Queen Charlotte and became known as The Queen's House. In the early 19th century it was enlarged by the architects John Nash and Edward Blore, who constructed three wings around a central courtyard. Buckingham Palace became the London residence of the British monarch on the accession of Queen Victoria in June 1837. It was occupied by every subsequent monarch until the accession in 2022 of Charles III, who continues to reside at nearby Clarence House while conducting official duties at the palace. The last major structural additions were made in the late 19th and early 20th centuries, including the East Front, which contains the balcony on which the royal family traditionally appears to greet crowds. A German bomb destroyed the palace chapel during the Second World War; the King's Gallery was built on the site and opened to the public in 1962 to exhibit works of art from the Royal Collection. The original early-19th-century interior designs, many of which survive, include widespread use of brightly coloured scagliola and blue and pink lapis, on the advice of Charles Long. Edward VII oversaw a partial redecoration in a Belle Époque cream and gold colour ",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Buckingham Palace",
+     "url": "https://en.wikipedia.org/wiki/Buckingham_Palace",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q42182",
+     "url": "https://www.wikidata.org/wiki/Q42182",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palace-of-westminster",
+   "image": {
+    "file": "images/palace-of-westminster.jpg",
+    "author": "Terry Ott from Washington, DC Metro Area, United States of America",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Houses_of_Parliament_in_2022_(cropped).jpg"
+   },
+   "location": {
+    "latitude": 51.499444444,
+    "longitude": -0.124166666
+   },
+   "category": "architecture",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "Palace of Westminster",
+     "intro": "The Palace of Westminster is the meeting place of the Parliament of the United Kingdom and is located in London, England.",
+     "narration": "The Palace of Westminster is the meeting place of the Parliament of the United Kingdom and is located in London, England. It is colloquially known as the Houses of Parliament after the House of Commons and the House of Lords, the two legislative chambers which occupy the building. The palace is one of the centres of political life in the United Kingdom; \"Westminster\" has become a metonym for the UK Parliament and government, and the Westminster system of government commemorates the name of the palace. The Elizabeth Tower of the palace houses the bell nicknamed Big Ben and is a landmark of London and the United Kingdom in general.",
+     "longDescription": "The Palace of Westminster is the meeting place of the Parliament of the United Kingdom and is located in London, England. It is colloquially known as the Houses of Parliament after the House of Commons and the House of Lords, the two legislative chambers which occupy the building. The palace is one of the centres of political life in the United Kingdom; \"Westminster\" has become a metonym for the UK Parliament and government, and the Westminster system of government commemorates the name of the palace. The Elizabeth Tower of the palace houses the bell nicknamed Big Ben and is a landmark of London and the United Kingdom in general. The palace has been a Grade I listed building since 1970 and part of a UNESCO World Heritage Site since 1987. The building was originally constructed in the eleventh century as a royal palace and was the primary residence of the kings of England until 1512, when a fire destroyed the royal apartments. The monarch moved to the adjacent Palace of Whitehall, but the remainder of the palace continued to serve as the home of the Parliament of England, which had met there since the 13th century. In 1834 a second, larger fire destroyed the majority of the palace, but the eleventh century Westminster Hall was saved and incorporated into the replacement building. The competition to design the new palace was won by the architect Charles Barry, who chose a Gothic Revival style for the building. Construction started in 1840 and lasted for 30 years, suffering delays, cost overruns, and the deaths of Barry and his assistant, Augustus Pugin. This new palace is notable for its ornate decoration, and contributed to the proliferation of Gothic Revival architecture in other places. The palace contains chambers for the House of Commons, House of Lords, and the mona",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palace of Westminster",
+     "url": "https://en.wikipedia.org/wiki/Palace_of_Westminster",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q62408",
+     "url": "https://www.wikidata.org/wiki/Q62408",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "10-downing-street",
+   "image": {
+    "file": "images/10-downing-street.jpg",
+    "author": "Sergeant Tom Robinson RLC",
+    "license": "OGL v1.0",
+    "licenseUrl": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:10_Downing_Street._MOD_45155532_(cropped).jpg"
+   },
+   "location": {
+    "latitude": 51.503333333,
+    "longitude": -0.127777777
+   },
+   "category": "street",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "iconic",
+    "neighbourhood",
+    "street"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "10 Downing Street",
+     "intro": "10 Downing Street in London is the official residence and office of the prime minister of the United Kingdom, as the first lord of the treasury.",
+     "narration": "10 Downing Street in London is the official residence and office of the prime minister of the United Kingdom, as the first lord of the treasury. Colloquially known as Number 10, the building is located in Downing Street, off Whitehall in the City of Westminster. It is over 300 years old, is a Grade I listed building, and contains approximately 100 rooms. A private residence for the prime minister occupies the third floor and there is a kitchen in the basement. The other floors contain offices and conference, reception, sitting and dining rooms where the prime minister works, and where government ministers, national leaders, and foreign dignitaries are met and hosted.",
+     "longDescription": "10 Downing Street in London is the official residence and office of the prime minister of the United Kingdom, as the first lord of the treasury. Colloquially known as Number 10, the building is located in Downing Street, off Whitehall in the City of Westminster. It is over 300 years old, is a Grade I listed building, and contains approximately 100 rooms. A private residence for the prime minister occupies the third floor and there is a kitchen in the basement. The other floors contain offices and conference, reception, sitting and dining rooms where the prime minister works, and where government ministers, national leaders, and foreign dignitaries are met and hosted. At the rear is an interior courtyard and a terrace overlooking a 1⁄2-acre garden. Number 10 is adjacent to St James's Park, approximately 3⁄4 mile from Buckingham Palace, the official residence of the British monarch in London, and is near the Palace of Westminster, the meeting place of both Houses of Parliament. Originally three houses, Number 10 was offered to Robert Walpole by King George II in 1732. Walpole accepted on the condition that the gift was to the office of First Lord of the Treasury, rather than to himself personally. The post of First Lord of the Treasury has, for much of the 18th and 19th centuries and invariably since 1905, been held by the prime minister. Walpole commissioned William Kent to join the three houses and it is this larger house that is known as Number 10 Downing Street. Despite its size and convenient location near to Parliament, few early prime ministers lived at 10 Downing Street. Costly to maintain, neglected, and run-down, Number 10 was scheduled to be demolished several times, but the property survived and became linked with many statesmen and events in British history. ",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: 10 Downing Street",
+     "url": "https://en.wikipedia.org/wiki/10_Downing_Street",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q169101",
+     "url": "https://www.wikidata.org/wiki/Q169101",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "big-ben",
+   "image": {
+    "file": "images/big-ben.jpg",
+    "author": "Christian David",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster,_London.jpg"
+   },
+   "location": {
+    "latitude": 51.50067,
+    "longitude": -0.12457
+   },
+   "category": "monument",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "medieval",
+    "monument"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "Big Ben",
+     "intro": "Big Ben is the nickname for the Great Bell of the Great Clock of Westminster, and, by extension, for the clock tower that stands at the north end of the Palace of Westminster in London, England.",
+     "narration": "Big Ben is the nickname for the Great Bell of the Great Clock of Westminster, and, by extension, for the clock tower that stands at the north end of the Palace of Westminster in London, England. Originally named the Clock Tower, the structure was renamed the Elizabeth Tower in 2012 to mark the Diamond Jubilee of Queen Elizabeth II. The clock is a striking clock with five bells. The tower was designed by Augustus Pugin and Sir Charles Barry in the Perpendicular Gothic style and was completed in 1859. It is decorated with stone carvings and features symbols related to the four countries of the United Kingdom and the Tudor dynasty.",
+     "longDescription": "Big Ben is the nickname for the Great Bell of the Great Clock of Westminster, and, by extension, for the clock tower that stands at the north end of the Palace of Westminster in London, England. Originally named the Clock Tower, the structure was renamed the Elizabeth Tower in 2012 to mark the Diamond Jubilee of Queen Elizabeth II. The clock is a striking clock with five bells. The tower was designed by Augustus Pugin and Sir Charles Barry in the Perpendicular Gothic style and was completed in 1859. It is decorated with stone carvings and features symbols related to the four countries of the United Kingdom and the Tudor dynasty. A Latin inscription celebrates Queen Victoria, under whose reign the palace was built. It stands 316 feet tall, and the climb from ground level to the belfry is 334 steps. Its base is square, measuring 40 feet on each side. The dials of the clock are 22.5 feet in diameter. The clock uses its original mechanism and was the largest and most accurate four-faced striking and chiming clock in the world upon its completion. It was designed by Edmund Beckett Denison and George Airy, the Astronomer Royal, and constructed by Edward John Dent and Frederick Dent. It is known for its reliability, and can be adjusted by adding or removing pre-decimal pennies to or from the pendulum. The Great Bell was cast by the Whitechapel Bell Foundry and weighs 13.5 long tons. Its nickname, \"Big Ben\", derives from the tall Sir Benjamin Hall, who oversaw its installation. There are four quarter bells, which chime on the quarter hours. Big Ben is a British cultural icon. It is a prominent symbol of Britain and parliamentary democracy, and is often used in the establishing shot of films set in London. The tolling of the bells is broadcast live in the UK on BBC Radio 4 and i",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Big Ben",
+     "url": "https://en.wikipedia.org/wiki/Big_Ben",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q41225",
+     "url": "https://www.wikidata.org/wiki/Q41225",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "leadenhall-market",
+   "image": {
+    "file": "images/leadenhall-market.jpg",
+    "author": "Diliff",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leadenhall_Market_In_London_-_Feb_2006_rotated.jpg"
+   },
+   "location": {
+    "latitude": 51.5127,
+    "longitude": -0.0835
+   },
+   "category": "market",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "historic",
+    "iconic",
+    "market"
+   ],
+   "area": "City of London",
+   "content": {
+    "en": {
+     "name": "Leadenhall Market",
+     "intro": "Leadenhall Market is a covered market in London, England, located on Gracechurch Street.",
+     "narration": "Leadenhall Market is a covered market in London, England, located on Gracechurch Street. It is one of the oldest markets in London, dating from the 14th century, and is located in the historic centre of the City of London financial district.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Leadenhall Market",
+     "url": "https://en.wikipedia.org/wiki/Leadenhall_Market",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q961148",
+     "url": "https://www.wikidata.org/wiki/Q961148",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "clarence-house",
+   "image": {
+    "file": "images/clarence-house.jpg",
+    "author": "ChrisO",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clarence_house.jpg"
+   },
+   "location": {
+    "latitude": 51.504,
+    "longitude": -0.1385
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "Clarence House",
+     "intro": "Clarence House is a royal residence located near The Mall in the City of Westminster.",
+     "narration": "Clarence House is a royal residence located near The Mall in the City of Westminster. It has been the primary London residence of Charles III and Queen Camilla since 2003. Clarence House was built in 1825–1827, adjacent to St James's Palace, for the royal Duke of Clarence, the future King William IV. The four-storey house is faced in pale render. Over the years, it has undergone extensive remodelling and reconstruction, most notably after being heavily damaged in the Second World War by enemy bombing during The Blitz. Little remains of the original structure designed by John Nash. It is Grade I listed on the National Heritage List for England.",
+     "longDescription": "Clarence House is a royal residence located near The Mall in the City of Westminster. It has been the primary London residence of Charles III and Queen Camilla since 2003. Clarence House was built in 1825–1827, adjacent to St James's Palace, for the royal Duke of Clarence, the future King William IV. The four-storey house is faced in pale render. Over the years, it has undergone extensive remodelling and reconstruction, most notably after being heavily damaged in the Second World War by enemy bombing during The Blitz. Little remains of the original structure designed by John Nash. It is Grade I listed on the National Heritage List for England. The house is open to visitors for about one month each summer, usually in August. Like William IV, Charles III remained at Clarence House when he became king. King Charles III and Queen Camilla would continue to reside at Clarence House, while nearby Buckingham Palace serves as the headquarters of the monarchy, where they hold official events. Charles’s mother and grandmother had previously occupied the home. Princess Elizabeth, the future Elizabeth II, had Clarence House as her official residence from 1947 until her accession to the throne in 1952. From 1953 to 2002, it was home to Queen Elizabeth the Queen Mother.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Clarence House",
+     "url": "https://en.wikipedia.org/wiki/Clarence_House",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q565521",
+     "url": "https://www.wikidata.org/wiki/Q565521",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "royal-albert-hall",
+   "image": {
+    "file": "images/royal-albert-hall.jpg",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Albert_Hall,_London_-_Nov_2012.jpg"
+   },
+   "location": {
+    "latitude": 51.50105,
+    "longitude": -0.17748
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "Royal Albert Hall",
+     "intro": "The Royal Albert Hall is a concert hall on the northern edge of South Kensington, London, England.",
+     "narration": "The Royal Albert Hall is a concert hall on the northern edge of South Kensington, London, England. It has a seating capacity of 5,272. Since the hall's opening by Queen Victoria in 1871, the world's leading artists from many performance genres have appeared on its stage. It is the venue for the BBC Proms concerts, which have been held there every summer since 1941. It is host to more than 390 shows in the main auditorium annually, including classical, rock and pop concerts, ballet, opera, film screenings with live orchestral accompaniment, sports, awards ceremonies, school and community events, and charity performances and banquets. A further 1,000 events are held each year in the non-auditorium spaces.",
+     "longDescription": "The Royal Albert Hall is a concert hall on the northern edge of South Kensington, London, England. It has a seating capacity of 5,272. Since the hall's opening by Queen Victoria in 1871, the world's leading artists from many performance genres have appeared on its stage. It is the venue for the BBC Proms concerts, which have been held there every summer since 1941. It is host to more than 390 shows in the main auditorium annually, including classical, rock and pop concerts, ballet, opera, film screenings with live orchestral accompaniment, sports, awards ceremonies, school and community events, and charity performances and banquets. A further 1,000 events are held each year in the non-auditorium spaces. Over its 155-year history, the hall has hosted events of a wide variety, including meetings held by suffragettes; speeches from Winston Churchill, Charles de Gaulle, and Albert Einstein; fights by Lennox Lewis; exhibition bouts by Muhammad Ali; and concerts from regular performers at the venue such as Eric Clapton and Shirley Bassey. The hall was originally to have been called the Central Hall of Arts and Sciences, but the name was changed to the Royal Albert Hall of Arts and Sciences by Queen Victoria upon laying the hall's foundation stone in 1867, in memory of her husband, Prince Albert, who had died six years earlier. It forms the practical part of a memorial to the Prince Consort; the decorative part is the Albert Memorial directly to the north in Kensington Gardens, now separated from the hall by Kensington Gore.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Royal Albert Hall",
+     "url": "https://en.wikipedia.org/wiki/Royal_Albert_Hall",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q193639",
+     "url": "https://www.wikidata.org/wiki/Q193639",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "marble-arch",
+   "image": {
+    "file": "images/marble-arch.jpg",
+    "author": "Chmee2",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marble_Arch_in_London,_spring_2013_(4).JPG"
+   },
+   "location": {
+    "latitude": 51.513055555,
+    "longitude": -0.158888888
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "Marble Arch",
+     "intro": "The Marble Arch is a 19th-century white marble-faced triumphal arch in London, England.",
+     "narration": "The Marble Arch is a 19th-century white marble-faced triumphal arch in London, England. The structure was designed by John Nash in 1827 as the state entrance to the cour d'honneur of Buckingham Palace; it stood near the site of what is today the three-bayed, central projection of the palace containing the well-known balcony. In the 1840s, with a growing family and entourage, Queen Victoria sought to expand Buckingham Palace. A front range was proposed, which would include the site of the Arch. In 1851, on the initiative of architect and urban planner Decimus Burton, a former pupil of John Nash, the arch was relocated to its current site, near the northeast corner of Hyde Park.",
+     "longDescription": "The Marble Arch is a 19th-century white marble-faced triumphal arch in London, England. The structure was designed by John Nash in 1827 as the state entrance to the cour d'honneur of Buckingham Palace; it stood near the site of what is today the three-bayed, central projection of the palace containing the well-known balcony. In the 1840s, with a growing family and entourage, Queen Victoria sought to expand Buckingham Palace. A front range was proposed, which would include the site of the Arch. In 1851, on the initiative of architect and urban planner Decimus Burton, a former pupil of John Nash, the arch was relocated to its current site, near the northeast corner of Hyde Park. The arch gives its name to the area surrounding it, particularly the southern portion of Edgware Road and also to the underground station. The arch is no longer part of the Royal Parks and is maintained by Westminster City Council.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Marble Arch",
+     "url": "https://en.wikipedia.org/wiki/Marble_Arch",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q845529",
+     "url": "https://www.wikidata.org/wiki/Q845529",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "hyde-park-london",
+   "image": {
+    "file": "images/hyde-park-london.jpg",
+    "author": "Alvesgaspar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hyde_Park_July_2015-1.jpg"
+   },
+   "location": {
+    "latitude": 51.508611111,
+    "longitude": -0.163611111
+   },
+   "category": "park",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 46,
+   "visitMinutes": 8,
+   "tags": [
+    "historic",
+    "park",
+    "scenic"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "Hyde Park, London",
+     "intro": "Hyde Park is a 350-acre, historic Grade I-listed urban park in Westminster, Greater London.",
+     "narration": "Hyde Park is a 350-acre, historic Grade I-listed urban park in Westminster, Greater London. A Royal Park, it is the largest of the parks and green spaces that form a chain from Kensington Palace through Kensington Gardens and Hyde Park, via Hyde Park Corner and Green Park, past Buckingham Palace to St James's Park. Hyde Park is divided by the Serpentine and the Long Water lakes. The park was established by Henry VIII in 1536 when he took the land from Westminster Abbey and used it as a hunting ground. It opened to the public in 1637 and quickly became popular, particularly for May Day parades. Major improvements occurred in the early 18th century under the direction of Queen Caroline.",
+     "longDescription": "Hyde Park is a 350-acre, historic Grade I-listed urban park in Westminster, Greater London. A Royal Park, it is the largest of the parks and green spaces that form a chain from Kensington Palace through Kensington Gardens and Hyde Park, via Hyde Park Corner and Green Park, past Buckingham Palace to St James's Park. Hyde Park is divided by the Serpentine and the Long Water lakes. The park was established by Henry VIII in 1536 when he took the land from Westminster Abbey and used it as a hunting ground. It opened to the public in 1637 and quickly became popular, particularly for May Day parades. Major improvements occurred in the early 18th century under the direction of Queen Caroline. The park also became a place for duels during this time, often involving members of the nobility. In the 19th century, the Great Exhibition of 1851 was held in the park, for which The Crystal Palace, designed by Joseph Paxton, was erected. Free speech and demonstrations have been a key feature of Hyde Park since the 19th century. Speakers' Corner has been established as a point of free speech and debate since 1872, while the Chartists, the Reform League, the suffragettes, and the Stop the War Coalition have all held protests there. In the late 20th century, the park was known for holding large-scale free rock music concerts, featuring groups such as Pink Floyd, the Rolling Stones and Queen. Major events in the park have continued into the 21st century, such as Live 8 in 2005, and the annual Hyde Park Winter Wonderland from 2007.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Hyde Park, London",
+     "url": "https://en.wikipedia.org/wiki/Hyde_Park%2C_London",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q123738",
+     "url": "https://www.wikidata.org/wiki/Q123738",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-james-s-palace",
+   "image": {
+    "file": "images/st-james-s-palace.jpg",
+    "author": "Steven Brown",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_James%27s_Palace,_London_-_geograph.org.uk_-_7963883.jpg"
+   },
+   "location": {
+    "latitude": 51.504722222,
+    "longitude": -0.137777777
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "St James's Palace",
+     "intro": "St James's Palace is the most prestigious royal palace in London, England.",
+     "narration": "St James's Palace is the most prestigious royal palace in London, England. The palace gives its name to the Court of St James's, which is the monarch's royal court, and is located in the City of Westminster. Although no longer the principal residence of the monarch, it is the ceremonial meeting place of the Accession Council, the office of the Marshal of the Diplomatic Corps, and the London residence of several members of the royal family. Built by order of King Henry VIII in the 1530s on the site of an isolated leper hospital dedicated to Saint James the Less, the palace was secondary in importance to the Palace of Whitehall for most Tudor and Stuart monarchs.",
+     "longDescription": "St James's Palace is the most prestigious royal palace in London, England. The palace gives its name to the Court of St James's, which is the monarch's royal court, and is located in the City of Westminster. Although no longer the principal residence of the monarch, it is the ceremonial meeting place of the Accession Council, the office of the Marshal of the Diplomatic Corps, and the London residence of several members of the royal family. Built by order of King Henry VIII in the 1530s on the site of an isolated leper hospital dedicated to Saint James the Less, the palace was secondary in importance to the Palace of Whitehall for most Tudor and Stuart monarchs. Initially surrounded by a deer park and gardens, it was generally used as a hunting lodge and as a retreat from the formal court and occasionally as a royal guest house. After the Palace of Whitehall burned down, the palace took on administrative functions for the monarchy. It increased in importance during the reigns of the Hanoverian monarchs but began to be displaced by Buckingham Palace in the early 19th century. After decades of being used increasingly only for formal occasions, the move was formalised by Queen Victoria in 1837. The palace now houses a number of offices and official societies and collections. All ambassadors and high commissioners to the United Kingdom are still accredited to the Court of St James's. The palace's Chapel Royal is still used for functions of the British royal family. Official receptions are also regularly hosted at the palace. The palace was built mainly between 1531 and 1536 in red brick, and its architecture is primarily Tudor in style. The Queen's Chapel was added in the 1620s, and Clarence House was built on palace grounds directly next to the Palace in the 1820s. A fire i",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St James's Palace",
+     "url": "https://en.wikipedia.org/wiki/St_James%27s_Palace",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q272162",
+     "url": "https://www.wikidata.org/wiki/Q272162",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "london-bridge",
+   "image": {
+    "file": "images/london-bridge.jpg",
+    "author": "burge5000",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:London_Bridge_Illuminated.jpg"
+   },
+   "location": {
+    "latitude": 51.508055555,
+    "longitude": -0.087777777
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "medieval",
+    "monument",
+    "river",
+    "roman"
+   ],
+   "area": "London Borough of Southwark",
+   "content": {
+    "en": {
+     "name": "London Bridge",
+     "intro": "Since Roman times, several crossings named London Bridge have spanned the River Thames between the City of London and Southwark in central London.",
+     "narration": "Since Roman times, several crossings named London Bridge have spanned the River Thames between the City of London and Southwark in central London. The current crossing, which opened to traffic in 1973, is a box girder bridge built from concrete and steel. It replaced a 19th-century stone-arched bridge, which in turn superseded a 600-year-old stone-built medieval structure. In addition to the roadway, for much of its history, the broad medieval bridge supported an extensive built up area of homes and businesses, part of the City's Bridge ward, and its southern end in Southwark was guarded by a large stone City gateway.",
+     "longDescription": "Since Roman times, several crossings named London Bridge have spanned the River Thames between the City of London and Southwark in central London. The current crossing, which opened to traffic in 1973, is a box girder bridge built from concrete and steel. It replaced a 19th-century stone-arched bridge, which in turn superseded a 600-year-old stone-built medieval structure. In addition to the roadway, for much of its history, the broad medieval bridge supported an extensive built up area of homes and businesses, part of the City's Bridge ward, and its southern end in Southwark was guarded by a large stone City gateway. The medieval bridge was preceded by a succession of timber bridges, the first of which was built by the Roman founders of London around AD 50. The current bridge stands at the western end of the Pool of London and is positioned 30 metres upstream from the medieval alignment. The approaches to the medieval bridge were marked by the church of St Magnus-the-Martyr on the northern bank and by Southwark Cathedral on the southern shore. Until Putney Bridge opened in 1729, London Bridge was the only road crossing of the Thames downstream of Kingston upon Thames. London Bridge has been depicted in its several forms, in art, literature, and songs, including the nursery rhyme \"London Bridge Is Falling Down\", and the epic poem The Waste Land by T. S. Eliot. The modern bridge is owned and maintained by Bridge House Estates, an independent charity of medieval origin overseen by the City of London Corporation. It carries the A3 road, which is maintained by the Greater London Authority. The crossing also delineates an area along the southern bank of the River Thames, between London Bridge and Tower Bridge, that has been designated as a business improvement district.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: London Bridge",
+     "url": "https://en.wikipedia.org/wiki/London_Bridge",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q130206",
+     "url": "https://www.wikidata.org/wiki/Q130206",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "leicester-square",
+   "image": {
+    "file": "images/leicester-square.jpg",
+    "author": "Romazur",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Redeveloped_Leicester_Square.jpg"
+   },
+   "location": {
+    "latitude": 51.510277777,
+    "longitude": -0.130277777
+   },
+   "category": "square",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "Leicester Square",
+     "intro": "Leicester Square is a pedestrianised square in the West End of London, England, and is the centre of London's entertainment district.",
+     "narration": "Leicester Square is a pedestrianised square in the West End of London, England, and is the centre of London's entertainment district. It was laid out in 1670 as Leicester Fields, which was named after the recently built Leicester House, itself named after Robert Sidney, 2nd Earl of Leicester. The square was originally a gentrified residential area, with tenants including Frederick, Prince of Wales and the artists William Hogarth and Joshua Reynolds. It became more down-market in the late 18th century as Leicester House was demolished and retail developments took place, becoming a centre for entertainment. Major theatres were built in the 19th century, which were converted to cinemas towards the middle of the next.",
+     "longDescription": "Leicester Square is a pedestrianised square in the West End of London, England, and is the centre of London's entertainment district. It was laid out in 1670 as Leicester Fields, which was named after the recently built Leicester House, itself named after Robert Sidney, 2nd Earl of Leicester. The square was originally a gentrified residential area, with tenants including Frederick, Prince of Wales and the artists William Hogarth and Joshua Reynolds. It became more down-market in the late 18th century as Leicester House was demolished and retail developments took place, becoming a centre for entertainment. Major theatres were built in the 19th century, which were converted to cinemas towards the middle of the next. Leicester Square is the location of nationally significant cinemas such as the Odeon Luxe Leicester Square and Empire, Leicester Square, which are often used for film premieres in London. The nearby Prince Charles Cinema is known for its screenings of cult films and marathon film runs. The square remains a tourist attraction which hosts events, including for the Chinese New Year. The square has always had a park in its centre, which was originally common land. The park's fortunes have varied over the centuries, reaching near dilapidation in the mid-19th century after changing ownership several times. It was restored under the direction of Albert Grant, which included the construction of four new statues and a fountain of William Shakespeare. The square was extensively refurbished and remodelled for the 2012 Summer Olympics at a cost of more than £15 million.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Leicester Square",
+     "url": "https://en.wikipedia.org/wiki/Leicester_Square",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q848912",
+     "url": "https://www.wikidata.org/wiki/Q848912",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "barbican-centre",
+   "image": {
+    "file": "images/barbican-centre.jpg",
+    "author": "en:User:Nevilley",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barbican-arts-centre-large.jpg"
+   },
+   "location": {
+    "latitude": 51.5202,
+    "longitude": -0.095
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 34,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "modern",
+    "museum"
+   ],
+   "area": "City of London",
+   "content": {
+    "en": {
+     "name": "Barbican Centre",
+     "intro": "The Barbican Centre is a performing arts centre in the Barbican Estate in the City of London.",
+     "narration": "The Barbican Centre is a performing arts centre in the Barbican Estate in the City of London. The centre hosts classical and contemporary music concerts, theatre performances, film screenings and art exhibitions. It also houses a library, three restaurants, and a conservatory. The Barbican Centre is a member of the Global Cultural Districts Network. The London Symphony Orchestra and the BBC Symphony Orchestra are based in the centre's Concert Hall. In 2013, it once again became the London-based venue of the Royal Shakespeare Company following the company's departure in 2001.",
+     "longDescription": "The Barbican Centre is a performing arts centre in the Barbican Estate in the City of London. The centre hosts classical and contemporary music concerts, theatre performances, film screenings and art exhibitions. It also houses a library, three restaurants, and a conservatory. The Barbican Centre is a member of the Global Cultural Districts Network. The London Symphony Orchestra and the BBC Symphony Orchestra are based in the centre's Concert Hall. In 2013, it once again became the London-based venue of the Royal Shakespeare Company following the company's departure in 2001. It was built as the City of London's gift to the nation at a cost of £161 million, and was officially opened to the public by Queen Elizabeth II on 3 March 1982. Together with the Southbank Centre, a similar arts centre, the Barbican Centre is also known for its brutalist architecture.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Barbican Centre",
+     "url": "https://en.wikipedia.org/wiki/Barbican_Centre",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q653858",
+     "url": "https://www.wikidata.org/wiki/Q653858",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "parliament-square",
+   "image": {
+    "file": "images/parliament-square.jpg",
+    "author": "Department for Culture, Media and Sport",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:March_past_at_Parliament_Square_(52874896756).jpg"
+   },
+   "location": {
+    "latitude": 51.500555555,
+    "longitude": -0.126666666
+   },
+   "category": "square",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "Parliament Square",
+     "intro": "Parliament Square is a square at the northwest end of the Palace of Westminster in the City of Westminster in central London, England.",
+     "narration": "Parliament Square is a square at the northwest end of the Palace of Westminster in the City of Westminster in central London, England. Laid out in the 19th century, it features a large open green area in the centre with trees to its west, and it contains twelve statues of statesmen and other notable individuals. As well as being one of London's tourist attractions, it is also the place where many demonstrations and protests have been held. The square is overlooked by various official buildings: legislature to the east, governmental executive offices to the north, the judiciary to the west, and the church to the south.",
+     "longDescription": "Parliament Square is a square at the northwest end of the Palace of Westminster in the City of Westminster in central London, England. Laid out in the 19th century, it features a large open green area in the centre with trees to its west, and it contains twelve statues of statesmen and other notable individuals. As well as being one of London's tourist attractions, it is also the place where many demonstrations and protests have been held. The square is overlooked by various official buildings: legislature to the east, governmental executive offices to the north, the judiciary to the west, and the church to the south. Parliament Square sometimes features all of the British flags, the flags of the United Kingdom, its four countries, the county flags and the three flags of the Crown Dependencies and the sixteen heraldic shields of the British Overseas Territories. Alongside all of the British flags, Parliament Square also has all of the 56 flags of the Commonwealth of Nations.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Parliament Square",
+     "url": "https://en.wikipedia.org/wiki/Parliament_Square",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1368556",
+     "url": "https://www.wikidata.org/wiki/Q1368556",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "globe-theatre",
+   "image": {
+    "file": "images/globe-theatre.jpg",
+    "author": "Another Believer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:London,_UK_(August_2014)_-_156.JPG"
+   },
+   "location": {
+    "latitude": 51.506666666,
+    "longitude": -0.094722222
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "modern"
+   ],
+   "area": "London Borough of Southwark",
+   "content": {
+    "en": {
+     "name": "Globe Theatre",
+     "intro": "The Globe Theatre was a theatre in London associated with William Shakespeare.",
+     "narration": "The Globe Theatre was a theatre in London associated with William Shakespeare. It was built in 1599 at Southwark, close to the south bank of the Thames, by Shakespeare's playing company, the Lord Chamberlain's Men. It was destroyed by fire on 29 June 1613. A second Globe Theatre was built on the same site by June 1614 and stayed open until the London theatre closures of 1642. As well as plays by Shakespeare, early works by Ben Jonson, Thomas Dekker and John Fletcher were first performed here. A modern reconstruction of the Globe, named \"Shakespeare's Globe\", opened in 1997 approximately 750 feet from the site of the original theatre.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Globe Theatre",
+     "url": "https://en.wikipedia.org/wiki/Globe_Theatre",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q272434",
+     "url": "https://www.wikidata.org/wiki/Q272434",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "house-of-lords",
+   "image": {
+    "file": "images/house-of-lords.jpg",
+    "author": "UK government",
+    "license": "OGL 3",
+    "licenseUrl": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:House_of_Lords_2011.jpg"
+   },
+   "location": {
+    "latitude": 51.49880556,
+    "longitude": -0.12486111
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "London",
+   "content": {
+    "en": {
+     "name": "House of Lords",
+     "intro": "The House of Lords is the upper house of the Parliament of the United Kingdom.",
+     "narration": "The House of Lords is the upper house of the Parliament of the United Kingdom. Like the lower house, the House of Commons, it meets in the Palace of Westminster in London, England. Its origins lie in the early 11th century and the emergence of bicameralism in the 14th century. Unlike the House of Commons, membership of the Lords is not acquired by election. Most members are appointed for life as peers, on either a political or non-political basis. The House of Lords also includes up to 26 archbishops and bishops of the Church of England, known as Lords Spiritual. Since 2014, membership may be voluntarily relinquished or terminated upon expulsion.",
+     "longDescription": "The House of Lords is the upper house of the Parliament of the United Kingdom. Like the lower house, the House of Commons, it meets in the Palace of Westminster in London, England. Its origins lie in the early 11th century and the emergence of bicameralism in the 14th century. Unlike the House of Commons, membership of the Lords is not acquired by election. Most members are appointed for life as peers, on either a political or non-political basis. The House of Lords also includes up to 26 archbishops and bishops of the Church of England, known as Lords Spiritual. Since 2014, membership may be voluntarily relinquished or terminated upon expulsion. For much of its history, hereditary peers were members of the House of Lords, and indeed made up the majority of the body's membership. Between 1999 and 2026, hereditary membership was limited to 92 excepted hereditary peers, then abolished altogether in 2026. As the upper house of Parliament, the House of Lords has many similar functions to the House of Commons. It scrutinises legislation, holds the government to account, and considers and reports upon public policy. Members may also seek to introduce legislation or propose amendments to bills. Although it is unable to prevent bills passing into law except in certain limited circumstances, it may delay the enactment of bills for up to one year. In this capacity, as a body independent from the pressures of the political process, the House of Lords is said to act as a \"revising chamber\" focusing on legislative detail, while occasionally asking the House of Commons to reconsider its plans. Peers may serve as government ministers, but in such cases are typically appointed junior ministers only, except for the leader of the House of Lords. The House of Lords does not control the te",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: House of Lords",
+     "url": "https://en.wikipedia.org/wiki/House_of_Lords",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q11007",
+     "url": "https://www.wikidata.org/wiki/Q11007",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "natural-history-museum-london",
+   "image": null,
+   "location": {
+    "latitude": 51.496111111,
+    "longitude": -0.176111111
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "museum"
+   ],
+   "area": "Royal Borough of Kensington and Chelsea",
+   "content": {
+    "en": {
+     "name": "Natural History Museum, London",
+     "intro": "The Natural History Museum in London, England, is a museum that exhibits a vast range of specimens from various segments of natural history.",
+     "narration": "The Natural History Museum in London, England, is a museum that exhibits a vast range of specimens from various segments of natural history. It is one of three major museums on Exhibition Road in South Kensington, the others being the Science Museum and the Victoria and Albert Museum. The Natural History Museum's main frontage, however, is on Cromwell Road. The museum is home to life and earth science specimens comprising some 80 million items within five main collections: botany, entomology, mineralogy, palaeontology and zoology. The museum is a centre of research specialising in taxonomy, identification and conservation.",
+     "longDescription": "The Natural History Museum in London, England, is a museum that exhibits a vast range of specimens from various segments of natural history. It is one of three major museums on Exhibition Road in South Kensington, the others being the Science Museum and the Victoria and Albert Museum. The Natural History Museum's main frontage, however, is on Cromwell Road. The museum is home to life and earth science specimens comprising some 80 million items within five main collections: botany, entomology, mineralogy, palaeontology and zoology. The museum is a centre of research specialising in taxonomy, identification and conservation. Given the age of the institution, many of the collections have great historical as well as scientific value, such as specimens collected by Charles Darwin. The museum is particularly famous for its exhibition of dinosaur skeletons and ornate architecture—sometimes dubbed a cathedral of nature—both exemplified by the large Diplodocus cast that dominated the vaulted central hall before it was replaced in 2017 with the skeleton of a blue whale hanging from the ceiling. The Natural History Museum Library contains an extensive collection of books, journals, manuscripts, and artwork linked to the work and research of the scientific departments; access to the library is by appointment only. The museum is recognised as the pre-eminent centre of natural history and research of related fields in the world. Although commonly referred to as the Natural History Museum, it was officially known as British Museum until 1992, despite legal separation from the British Museum itself in 1963. Originating from collections within the British Museum, the landmark Alfred Waterhouse building was built and opened by 1881 and later incorporated the Geological Museum. The Darwin",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Natural History Museum, London",
+     "url": "https://en.wikipedia.org/wiki/Natural_History_Museum%2C_London",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q309388",
+     "url": "https://www.wikidata.org/wiki/Q309388",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "camden-town",
+   "image": {
+    "file": "images/camden-town.jpg",
+    "author": "Georgia Pinaud, Lille, France.",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camden_Town_9.jpg"
+   },
+   "location": {
+    "latitude": 51.541,
+    "longitude": -0.1433
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "London Borough of Camden",
+   "content": {
+    "en": {
+     "name": "Camden Town",
+     "intro": "Camden Town is an area in the London Borough of Camden, around 2.5 miles north-northwest of Charing Cross.",
+     "narration": "Camden Town is an area in the London Borough of Camden, around 2.5 miles north-northwest of Charing Cross. Historically in Middlesex, it is identified in the London Plan as one of 34 major centres in Greater London. Laid out as a residential district from 1791 and originally part of the manor of Kentish Town, Camden Town became an important location during the early development of the railways, which reinforced its position on the London canal network. The area's industrial economic base has been replaced by service industries such as retail, tourism and entertainment. The area now hosts street markets and music venues associated with alternative culture.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Camden Town",
+     "url": "https://en.wikipedia.org/wiki/Camden_Town",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q149836",
+     "url": "https://www.wikidata.org/wiki/Q149836",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "national-gallery",
+   "image": {
+    "file": "images/national-gallery.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Galer%C3%ADa_Nacional,_Londres,_Inglaterra,_2014-08-07,_DD_036.JPG"
+   },
+   "location": {
+    "latitude": 51.508888888,
+    "longitude": -0.128333333
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "National Gallery",
+     "intro": "The National Gallery is an art museum in Trafalgar Square in the City of Westminster, in Central London, England.",
+     "narration": "The National Gallery is an art museum in Trafalgar Square in the City of Westminster, in Central London, England. Founded in 1824, it houses a collection of more than 2,300 paintings dating from the mid-13th century to 1900. The current director of the National Gallery is Gabriele Finaldi. The National Gallery is an exempt charity, and a non-departmental public body of the Department for Culture, Media and Sport. Its collection is held in trust by the charity on behalf of the British public, and entry to the main collection is free of charge. Unlike comparable museums in continental Europe, the National Gallery was not formed by nationalising an existing royal or princely art collection.",
+     "longDescription": "The National Gallery is an art museum in Trafalgar Square in the City of Westminster, in Central London, England. Founded in 1824, it houses a collection of more than 2,300 paintings dating from the mid-13th century to 1900. The current director of the National Gallery is Gabriele Finaldi. The National Gallery is an exempt charity, and a non-departmental public body of the Department for Culture, Media and Sport. Its collection is held in trust by the charity on behalf of the British public, and entry to the main collection is free of charge. Unlike comparable museums in continental Europe, the National Gallery was not formed by nationalising an existing royal or princely art collection. It came into being when the British government bought 38 paintings from the heirs of John Julius Angerstein in 1824. After that initial purchase, the gallery was shaped mainly by its early directors, especially Charles Lock Eastlake, and by private donations, which now account for two-thirds of the collection. The collection is smaller than many European national galleries, but encyclopaedic in scope; most major developments in Western painting \"from Giotto to Cézanne\" are represented with important works. It used to be claimed that this was one of the few national galleries that had all its works on permanent exhibition, but this is no longer the case. The present building, the third site to house the National Gallery, was designed by William Wilkins. Building began in 1832 and it opened to the public in 1838. Only the façade onto Trafalgar Square remains essentially unchanged from this time, as the building has been expanded piecemeal throughout its history. Wilkins's building was often criticised for the perceived weaknesses of its design and for its lack of space; the latter problem",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: National Gallery",
+     "url": "https://en.wikipedia.org/wiki/National_Gallery",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q180788",
+     "url": "https://www.wikidata.org/wiki/Q180788",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "primrose-hill",
+   "image": {
+    "file": "images/primrose-hill.jpg",
+    "author": "Louise Ireland",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Primrose_Hill,_London_-16Sept2010.jpg"
+   },
+   "location": {
+    "latitude": 51.5396,
+    "longitude": -0.1608
+   },
+   "category": "viewpoint",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "scenic",
+    "viewpoint"
+   ],
+   "area": "London Borough of Camden",
+   "content": {
+    "en": {
+     "name": "Primrose Hill",
+     "intro": "Primrose Hill is a Grade II listed public park first opened to the public in 1842, immediately north of Regent's Park, a Royal Park in London, England.",
+     "narration": "Primrose Hill is a Grade II listed public park first opened to the public in 1842, immediately north of Regent's Park, a Royal Park in London, England. It was named after the 64 metres hill in the centre of the park, one of the highest points in the London Borough of Camden. The hill's summit has a clear view of central London, as well as Hampstead and Belsize Park to the north, and is adorned by an engraved quotation from William Blake. The park's popularity led to the adjoining district and electoral ward being named Primrose Hill.",
+     "longDescription": "Primrose Hill is a Grade II listed public park first opened to the public in 1842, immediately north of Regent's Park, a Royal Park in London, England. It was named after the 64 metres hill in the centre of the park, one of the highest points in the London Borough of Camden. The hill's summit has a clear view of central London, as well as Hampstead and Belsize Park to the north, and is adorned by an engraved quotation from William Blake. The park's popularity led to the adjoining district and electoral ward being named Primrose Hill. Amenities of the park include an outdoor gym known as the Hill Trim Trail, a children's playground, and toilets, all located on the south side near Primrose Hill bridge which connects to London Zoo and Regent's Park. Primrose Hill park is managed by The Royal Parks.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Primrose Hill",
+     "url": "https://en.wikipedia.org/wiki/Primrose_Hill",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q149942",
+     "url": "https://www.wikidata.org/wiki/Q149942",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "kensington-palace",
+   "image": {
+    "file": "images/kensington-palace.jpg",
+    "author": "Steve Cadman from London, U.K.",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kensington_Palace.jpg"
+   },
+   "location": {
+    "latitude": 51.505277777,
+    "longitude": -0.188333333
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Royal Borough of Kensington and Chelsea",
+   "content": {
+    "en": {
+     "name": "Kensington Palace",
+     "intro": "Kensington Palace is a royal residence situated within Kensington Gardens in the Royal Borough of Kensington and Chelsea in London, England.",
+     "narration": "Kensington Palace is a royal residence situated within Kensington Gardens in the Royal Borough of Kensington and Chelsea in London, England. It has served as a residence for the British royal family since the 17th century and is currently the official London residence of several royals, including the Prince and Princess of Wales, the Duke and Duchess of Gloucester, the Duke of Kent, Prince and Princess Michael of Kent, and Princess Eugenie alongside her husband, Jack Brooksbank. The term \"Kensington Palace\" is often used as a metonym for the offices of the royals who reside there.",
+     "longDescription": "Kensington Palace is a royal residence situated within Kensington Gardens in the Royal Borough of Kensington and Chelsea in London, England. It has served as a residence for the British royal family since the 17th century and is currently the official London residence of several royals, including the Prince and Princess of Wales, the Duke and Duchess of Gloucester, the Duke of Kent, Prince and Princess Michael of Kent, and Princess Eugenie alongside her husband, Jack Brooksbank. The term \"Kensington Palace\" is often used as a metonym for the offices of the royals who reside there. Today, the State Rooms of Kensington Palace are open to the public and are managed by Historic Royal Palaces, an independent charity that operates without public funding. The palace's offices and private living quarters remain the responsibility of the Royal Household. Additionally, Kensington Palace showcases numerous paintings and other artifacts from the Royal Collection.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Kensington Palace",
+     "url": "https://en.wikipedia.org/wiki/Kensington_Palace",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q207385",
+     "url": "https://www.wikidata.org/wiki/Q207385",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "westminster-cathedral",
+   "image": {
+    "file": "images/westminster-cathedral.jpg",
+    "author": "Frank Kovalchek",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Westminster_Cathedral_London,_4th_May_2024_-_53708806889.jpg"
+   },
+   "location": {
+    "latitude": 51.495825,
+    "longitude": -0.139475
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 31,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "Westminster Cathedral",
+     "intro": "The Metropolitan Cathedral of the Most Precious Blood of Our Lord Jesus Christ, informally known as Westminster Cathedral, is the largest Catholic church in England and Wales.",
+     "narration": "The Metropolitan Cathedral of the Most Precious Blood of Our Lord Jesus Christ, informally known as Westminster Cathedral, is the largest Catholic church in England and Wales. It is dedicated to the Blood of Jesus Christ, is the seat of the Archbishop of Westminster and the mother church of the Archdiocese of Westminster. The original site on which the cathedral stands in the City of Westminster was purchased by the Archdiocese of Westminster in 1885, with construction taking place from 1895 to 1903.",
+     "longDescription": "The Metropolitan Cathedral of the Most Precious Blood of Our Lord Jesus Christ, informally known as Westminster Cathedral, is the largest Catholic church in England and Wales. It is dedicated to the Blood of Jesus Christ, is the seat of the Archbishop of Westminster and the mother church of the Archdiocese of Westminster. The original site on which the cathedral stands in the City of Westminster was purchased by the Archdiocese of Westminster in 1885, with construction taking place from 1895 to 1903. Designed by John Francis Bentley in a 9th-century Christian neo-Byzantine style, and accordingly made almost entirely of brick, without steel reinforcements, Sir John Betjeman called it \"a masterpiece in striped brick and stone\" that shows \"the good craftsman has no need of steel or concrete.\" The cathedral received papal visits from Pope John Paul II on 28 May 1982 and from Pope Benedict XVI on 18 September 2010.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Westminster Cathedral",
+     "url": "https://en.wikipedia.org/wiki/Westminster_Cathedral",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q739364",
+     "url": "https://www.wikidata.org/wiki/Q739364",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "abbey-road-studios",
+   "image": {
+    "file": "images/abbey-road-studios.jpg",
+    "author": "portum",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abbey_road_studios.jpg"
+   },
+   "location": {
+    "latitude": 51.531944444,
+    "longitude": -0.178333333
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "Abbey Road Studios",
+     "intro": "Abbey Road Studios is a music recording studio at 3 Abbey Road, St John's Wood, City of Westminster, London.",
+     "narration": "Abbey Road Studios is a music recording studio at 3 Abbey Road, St John's Wood, City of Westminster, London. It was established in November 1931 by the Gramophone Company, a predecessor of British music company EMI, which owned it until Universal Music Group took control of part of it in 2013. It is ultimately owned by UMG's subsidiary Virgin Records. The studio's most notable client was the Beatles, who used the studio – particularly its Studio Two room – as the venue for many of the innovative recording techniques that they adopted throughout the 1960s. In 1976, the studio was renamed from EMI to Abbey Road. In 2009, Abbey Road came under threat of sale to property developers.",
+     "longDescription": "Abbey Road Studios is a music recording studio at 3 Abbey Road, St John's Wood, City of Westminster, London. It was established in November 1931 by the Gramophone Company, a predecessor of British music company EMI, which owned it until Universal Music Group took control of part of it in 2013. It is ultimately owned by UMG's subsidiary Virgin Records. The studio's most notable client was the Beatles, who used the studio – particularly its Studio Two room – as the venue for many of the innovative recording techniques that they adopted throughout the 1960s. In 1976, the studio was renamed from EMI to Abbey Road. In 2009, Abbey Road came under threat of sale to property developers. In response, the British Government protected the site, granting it English Heritage Grade II listed status in 2010, thereby preserving the building from any major alterations.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Abbey Road Studios",
+     "url": "https://en.wikipedia.org/wiki/Abbey_Road_Studios",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q209651",
+     "url": "https://www.wikidata.org/wiki/Q209651",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "tower-hill",
+   "image": {
+    "file": "images/tower-hill.jpg",
+    "author": "Mariordo (MarioRoberto Duran Ortiz)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:London_12_2002_5070.JPG"
+   },
+   "location": {
+    "latitude": 51.5085,
+    "longitude": -0.0782
+   },
+   "category": "viewpoint",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "river",
+    "scenic",
+    "viewpoint"
+   ],
+   "area": "London Borough of Tower Hamlets",
+   "content": {
+    "en": {
+     "name": "Tower Hill",
+     "intro": "Tower Hill is the area surrounding the Tower of London in the London Borough of Tower Hamlets.",
+     "narration": "Tower Hill is the area surrounding the Tower of London in the London Borough of Tower Hamlets. It is infamous for the public execution of high status prisoners from the late 14th to the mid 18th century. The execution site on the higher ground north-west of the Tower of London moat is now occupied by Trinity Square Gardens. Tower Hill rises from the north bank of the River Thames to reach a maximum height of 14.5 metres Ordnance Datum. The land was historically part of the Liberties of the Tower of London, an area the Tower authorities controlled to keep clear of any development which would reduce the defensibility of the Tower.",
+     "longDescription": "Tower Hill is the area surrounding the Tower of London in the London Borough of Tower Hamlets. It is infamous for the public execution of high status prisoners from the late 14th to the mid 18th century. The execution site on the higher ground north-west of the Tower of London moat is now occupied by Trinity Square Gardens. Tower Hill rises from the north bank of the River Thames to reach a maximum height of 14.5 metres Ordnance Datum. The land was historically part of the Liberties of the Tower of London, an area the Tower authorities controlled to keep clear of any development which would reduce the defensibility of the Tower. Building has encroached to a degree, but a legacy of this control is that much of the hill is still open. The hill includes land on either side of the London Wall, a large remnant of which is visible.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Tower Hill",
+     "url": "https://en.wikipedia.org/wiki/Tower_Hill",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q499565",
+     "url": "https://www.wikidata.org/wiki/Q499565",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "temple-church",
+   "image": {
+    "file": "images/temple-church.jpg",
+    "author": "John Salmon",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_Church,_Temple,_London_EC4.jpeg"
+   },
+   "location": {
+    "latitude": 51.5132,
+    "longitude": -0.1104
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "river"
+   ],
+   "area": "City of London",
+   "content": {
+    "en": {
+     "name": "Temple Church",
+     "intro": "The Temple Church, a royal peculiar in the Church of England, is a church in the Inner and Middle Temples located between Fleet Street and the River Thames in London, England.",
+     "narration": "The Temple Church, a royal peculiar in the Church of England, is a church in the Inner and Middle Temples located between Fleet Street and the River Thames in London, England. It was built by the Knights Templar for their English headquarters in the Temple precinct and consecrated on 10 February 1185 by Patriarch Heraclius of Jerusalem. During the reign of King John it served as the royal treasury, supported by the role of the Knights Templar as proto-international bankers. It is now jointly owned by the Inner Temple and Middle Temple Inns of Court, bases of the English legal profession.",
+     "longDescription": "The Temple Church, a royal peculiar in the Church of England, is a church in the Inner and Middle Temples located between Fleet Street and the River Thames in London, England. It was built by the Knights Templar for their English headquarters in the Temple precinct and consecrated on 10 February 1185 by Patriarch Heraclius of Jerusalem. During the reign of King John it served as the royal treasury, supported by the role of the Knights Templar as proto-international bankers. It is now jointly owned by the Inner Temple and Middle Temple Inns of Court, bases of the English legal profession. It is famous for being a round church, a common design feature for Knights Templar churches, and for its 13th- and 14th-century stone effigies. It was heavily damaged by German bombing during World War II and has since been greatly restored and rebuilt. The area around the Temple Church is still known as the Temple. Temple Bar, a jurisdictional gateway, stood in the middle of Fleet Street in the Temple area. Nearby is Temple Underground station.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Temple Church",
+     "url": "https://en.wikipedia.org/wiki/Temple_Church",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1429312",
+     "url": "https://www.wikidata.org/wiki/Q1429312",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "house-of-commons-of-the-united-kingdom",
+   "image": {
+    "file": "images/house-of-commons-of-the-united-kingdom.jpg",
+    "author": "UK Parliament",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:House_of_Commons_Chamber_1.png"
+   },
+   "location": {
+    "latitude": 51.49988889,
+    "longitude": -0.12466667
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 31,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "London",
+   "content": {
+    "en": {
+     "name": "House of Commons of the United Kingdom",
+     "intro": "The House of Commons is the lower house of the Parliament of the United Kingdom.",
+     "narration": "The House of Commons is the lower house of the Parliament of the United Kingdom. Like the upper house, the House of Lords, it meets in the Palace of Westminster in London, England. The House of Commons is an elected body consisting of 650 members known as members of Parliament, who are elected to represent constituencies by the first-past-the-post system and hold their seats until Parliament is dissolved. The House of Commons of England began to evolve in the 13th and 14th centuries.",
+     "longDescription": "The House of Commons is the lower house of the Parliament of the United Kingdom. Like the upper house, the House of Lords, it meets in the Palace of Westminster in London, England. The House of Commons is an elected body consisting of 650 members known as members of Parliament, who are elected to represent constituencies by the first-past-the-post system and hold their seats until Parliament is dissolved. The House of Commons of England began to evolve in the 13th and 14th centuries. In 1707 it became the House of Commons of Great Britain after the political union with Scotland, and from 1801 it also became the House of Commons for Ireland after the political union of Great Britain and Ireland. In 1922, the body became the House of Commons of the United Kingdom of Great Britain and Northern Ireland after the independence of the Irish Free State. Under the Parliament Acts 1911 and 1949, the Lords' power to reject legislation was reduced to a delaying power. The government is solely responsible to the House of Commons and the prime minister stays in office only as long as they retain the confidence of a majority of the Commons.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: House of Commons of the United Kingdom",
+     "url": "https://en.wikipedia.org/wiki/House_of_Commons_of_the_United_Kingdom",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q11005",
+     "url": "https://www.wikidata.org/wiki/Q11005",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "east-end-of-london",
+   "image": {
+    "file": "images/east-end-of-london.jpg",
+    "author": "N Chadwick",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bethnal_Green_Rd_-_geograph.org.uk_-_6662362.jpg"
+   },
+   "location": {
+    "latitude": 51.514166666,
+    "longitude": -0.055
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "medieval",
+    "neighbourhood",
+    "river",
+    "roman"
+   ],
+   "area": "London",
+   "content": {
+    "en": {
+     "name": "East End of London",
+     "intro": "The East End of London, often referred to within the London area simply as the East End, is the historic core of wider East London, east of the Roman and medieval walls of the City of London and north of the River…",
+     "narration": "The East End of London, often referred to within the London area simply as the East End, is the historic core of wider East London, east of the Roman and medieval walls of the City of London and north of the River Thames. It does not have universally accepted boundaries on its northern and eastern sides, though the River Lea is usually seen as the easternmost boundary. Parts of it may be regarded as lying within Central London. The term \"East of Aldgate Pump\" is sometimes used as a synonym for the area.",
+     "longDescription": "The East End of London, often referred to within the London area simply as the East End, is the historic core of wider East London, east of the Roman and medieval walls of the City of London and north of the River Thames. It does not have universally accepted boundaries on its northern and eastern sides, though the River Lea is usually seen as the easternmost boundary. Parts of it may be regarded as lying within Central London. The term \"East of Aldgate Pump\" is sometimes used as a synonym for the area. The East End began to emerge in the Middle Ages with initially slow urban growth outside the eastern walls, which later accelerated, especially in the 19th century, to absorb pre-existing settlements. The first known written record of the East End as a distinct entity, as opposed to its component parts, comes from John Strype's 1720 Survey of London, which describes London as consisting of four parts: the City of London, Westminster, Southwark, and \"That Part beyond the Tower\". The relevance of Strype's reference to the Tower was more than geographical. The East End was the urbanised part of an administrative area called the Tower Division, which had owed military service to the Tower of London since time immemorial. Later, as London grew further, the fully urbanised Tower Division became a byword for wider East London, before East London grew further still, east of the River Lea and into Essex. The area was notorious for its deep poverty, overcrowding and associated social problems. This led to the East End's history of intense political activism and association with some of the country's most influential social reformers. Another major theme of East End history has been migration, both inward and outward. The area had a strong pull on the rural poor from other parts of",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: East End of London",
+     "url": "https://en.wikipedia.org/wiki/East_End_of_London",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q739700",
+     "url": "https://www.wikidata.org/wiki/Q739700",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "grenfell-tower-fire",
+   "image": {
+    "file": "images/grenfell-tower-fire.jpg",
+    "author": "Natalie_Oxford on Twitter",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grenfell_Tower_fire_morning.jpg"
+   },
+   "location": {
+    "latitude": 51.514021,
+    "longitude": -0.215752
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "modern",
+    "monument"
+   ],
+   "area": "London",
+   "content": {
+    "en": {
+     "name": "Grenfell Tower fire",
+     "intro": "On 14 June 2017, a high-rise fire broke out in the 24-storey Grenfell Tower block of flats in North Kensington, West London, England, at 00:54 BST and burned for 60 hours.",
+     "narration": "On 14 June 2017, a high-rise fire broke out in the 24-storey Grenfell Tower block of flats in North Kensington, West London, England, at 00:54 BST and burned for 60 hours. A total of 70 people died at the scene and two other people died later in hospital, with more than 70 injured and 223 escaping. It was the deadliest structural fire in the United Kingdom since the 1988 Piper Alpha oil-platform disaster and the worst UK residential fire since the Blitz of World War II. It also became the deadliest single residential building fire in modern European history.",
+     "longDescription": "On 14 June 2017, a high-rise fire broke out in the 24-storey Grenfell Tower block of flats in North Kensington, West London, England, at 00:54 BST and burned for 60 hours. A total of 70 people died at the scene and two other people died later in hospital, with more than 70 injured and 223 escaping. It was the deadliest structural fire in the United Kingdom since the 1988 Piper Alpha oil-platform disaster and the worst UK residential fire since the Blitz of World War II. It also became the deadliest single residential building fire in modern European history. The fire was declared a major incident, with more than 250 London Fire Brigade firefighters and 70 fire engines from stations across Greater London involved in efforts to control it and rescue residents. More than 100 London Ambulance Service crews on at least 20 ambulances attended, joined by specialist paramedics from the Hazardous Area Response Team. The Metropolitan Police and London's Air Ambulance also assisted. The fire is the subject of multiple complex investigations by the police, a public inquiry, and coroner's inquests. Among the many issues investigated are the management of the building by the Kensington and Chelsea London Borough Council and Kensington and Chelsea TMO, the responses of the Fire Brigade, other government agencies, deregulation policy, building inspections, adequate budgeting, fire safety systems, the materials used, companies installing, selling and manufacturing the cladding, and failures in communications, advice given or decisions made by office holders. Parliament commissioned an independent review of building regulations and fire safety, which published a report in May 2018. In the UK and internationally, governments have investigated tower blocks with similar cladding. Efforts to",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Grenfell Tower fire",
+     "url": "https://en.wikipedia.org/wiki/Grenfell_Tower_fire",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q30274958",
+     "url": "https://www.wikidata.org/wiki/Q30274958",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "imperial-war-museum",
+   "image": {
+    "file": "images/imperial-war-museum.jpg",
+    "author": "Ввласенко",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_War_Museum._London,_UK.jpg"
+   },
+   "location": {
+    "latitude": 51.495833333,
+    "longitude": -0.108611111
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 46,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "modern",
+    "museum"
+   ],
+   "area": "London Borough of Southwark",
+   "content": {
+    "en": {
+     "name": "Imperial War Museum",
+     "intro": "The Imperial War Museum, currently branded \"Imperial War Museums\", is a British national museum.",
+     "narration": "The Imperial War Museum, currently branded \"Imperial War Museums\", is a British national museum. Its headquarters are in London, with five branches in England. Founded as the Imperial War Museum in 1917, it was intended to record the civil and military war effort and sacrifice of the United Kingdom and its Empire during the First World War. The museum's remit has since expanded to include all conflicts in which British or Commonwealth forces have been involved since 1914. As of 2012, the museum aims \"to provide for, and to encourage, the study and understanding of the history of modern war and 'wartime experience'.\" Originally housed in the Crystal Palace at Sydenham Hill, the museum opened to the public in 1920.",
+     "longDescription": "The Imperial War Museum, currently branded \"Imperial War Museums\", is a British national museum. Its headquarters are in London, with five branches in England. Founded as the Imperial War Museum in 1917, it was intended to record the civil and military war effort and sacrifice of the United Kingdom and its Empire during the First World War. The museum's remit has since expanded to include all conflicts in which British or Commonwealth forces have been involved since 1914. As of 2012, the museum aims \"to provide for, and to encourage, the study and understanding of the history of modern war and 'wartime experience'.\" Originally housed in the Crystal Palace at Sydenham Hill, the museum opened to the public in 1920. In 1924, it moved to space in the Imperial Institute in South Kensington and in 1936 it acquired a permanent home at the former Bethlem Royal Hospital in Southwark, which serves as its headquarters. The outbreak of the Second World War saw the museum expand both its collections and its terms of reference, but in the post-war period it entered a period of decline. In 1976 the museum opened IWM Duxford at Duxford airfield in Cambridgeshire, and in 1978 the Royal Navy cruiser HMS Belfast, which is permanently berthed on the River Thames in central London, became a branch of the museum. In 1984, Churchill War Rooms, an underground wartime command centre in Westminster, were opened to the public. In 2002 IWM North opened in Trafford, Greater Manchester, the fifth branch of the museum and the first in the north of England. From the 1980s onwards, the museum's Southwark building underwent a series of multimillion-pound redevelopments, the latest of which was completed in 2022. The museum's collections include archives of personal and official documents, photographs, f",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Imperial War Museum",
+     "url": "https://en.wikipedia.org/wiki/Imperial_War_Museum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q749808",
+     "url": "https://www.wikidata.org/wiki/Q749808",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "russell-square-tube-station",
+   "image": {
+    "file": "images/russell-square-tube-station.jpg",
+    "author": null,
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:RussellSquaretubestation.jpg"
+   },
+   "location": {
+    "latitude": 51.523056,
+    "longitude": -0.124444
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "historic",
+    "modern",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "London Borough of Camden",
+   "content": {
+    "en": {
+     "name": "Russell Square tube station",
+     "intro": "Russell Square is a London Underground station.",
+     "narration": "Russell Square is a London Underground station. It is located near Russell Square on Bernard Street, Bloomsbury, in the London Borough of Camden. The station is on the Piccadilly line, between Holborn and King's Cross St Pancras stations. It is in London fare zone 1. Russell Square is not far from the British Museum, the University of London's main campus, Great Ormond Street Hospital, Russell Square Gardens and the Brunswick Centre. Designed by London architect Leslie Green, the building is an example of the Modern Style, a British variant of Art Nouveau.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Russell Square tube station",
+     "url": "https://en.wikipedia.org/wiki/Russell_Square_tube_station",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1377634",
+     "url": "https://www.wikidata.org/wiki/Q1377634",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "regent-s-park",
+   "image": {
+    "file": "images/regent-s-park.jpg",
+    "author": "Tom Page from London, UK",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Regent%27s_Park_London.jpg"
+   },
+   "location": {
+    "latitude": 51.532222222,
+    "longitude": -0.156666666
+   },
+   "category": "park",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 8,
+   "tags": [
+    "hidden",
+    "historic",
+    "park",
+    "scenic"
+   ],
+   "area": "London Borough of Camden",
+   "content": {
+    "en": {
+     "name": "Regent's Park",
+     "intro": "The Regent's Park is one of the Royal Parks of London.",
+     "narration": "The Regent's Park is one of the Royal Parks of London. It occupies 410 acres in north-west Inner London, administratively split between the City of Westminster and the Borough of Camden. In addition to its large central parkland and ornamental lake, it contains various structures and organizations both public and private, generally on its periphery, including Regent's University and London Zoo. What is now Regent's Park came into possession of the Crown upon the dissolution of the monasteries in the 1500s, and was used for hunting and tenant farming. In the 1810s, the Prince Regent proposed turning it into a pleasure garden. The park was designed by John Nash and James and Decimus Burton.",
+     "longDescription": "The Regent's Park is one of the Royal Parks of London. It occupies 410 acres in north-west Inner London, administratively split between the City of Westminster and the Borough of Camden. In addition to its large central parkland and ornamental lake, it contains various structures and organizations both public and private, generally on its periphery, including Regent's University and London Zoo. What is now Regent's Park came into possession of the Crown upon the dissolution of the monasteries in the 1500s, and was used for hunting and tenant farming. In the 1810s, the Prince Regent proposed turning it into a pleasure garden. The park was designed by John Nash and James and Decimus Burton. Its construction was financed privately by James Burton after the Crown Estate rescinded its pledge to do so, and included development on the periphery of aristocratic townhouses and expensive terrace dwellings. The park is Grade I listed on the Register of Historic Parks and Gardens.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Regent's Park",
+     "url": "https://en.wikipedia.org/wiki/Regent%27s_Park",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q739341",
+     "url": "https://www.wikidata.org/wiki/Q739341",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "london-eye",
+   "image": {
+    "file": "images/london-eye.jpg",
+    "author": "Christian David",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:London_Eye_seen_from_the_north_bank_of_the_Thames,_London.jpg"
+   },
+   "location": {
+    "latitude": 51.503333333,
+    "longitude": -0.119722222
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "river"
+   ],
+   "area": "Lambeth",
+   "content": {
+    "en": {
+     "name": "London Eye",
+     "intro": "The London Eye, originally the Millennium Wheel, is a cantilevered observation wheel on the South Bank of the River Thames in London.",
+     "narration": "The London Eye, originally the Millennium Wheel, is a cantilevered observation wheel on the South Bank of the River Thames in London. It is the world's tallest cantilevered observation wheel, and the most popular paid tourist attraction in the United Kingdom with more than three million visitors annually. It has been featured numerous times in popular culture. The structure is 135 metres tall and the wheel has a diameter of 120 metres. When it opened to the public in 2000 it was the world's tallest Ferris wheel, until the 160-metre Star of Nanchang in China surpassed it in 2006. Unlike taller wheels, the Eye is cantilevered and supported solely by an A-frame on one side.",
+     "longDescription": "The London Eye, originally the Millennium Wheel, is a cantilevered observation wheel on the South Bank of the River Thames in London. It is the world's tallest cantilevered observation wheel, and the most popular paid tourist attraction in the United Kingdom with more than three million visitors annually. It has been featured numerous times in popular culture. The structure is 135 metres tall and the wheel has a diameter of 120 metres. When it opened to the public in 2000 it was the world's tallest Ferris wheel, until the 160-metre Star of Nanchang in China surpassed it in 2006. Unlike taller wheels, the Eye is cantilevered and supported solely by an A-frame on one side. The Eye was the highest public viewing point in London until 2013, when it was surpassed by the 245-metre View from The Shard observation deck. The London Eye adjoins the western end of Jubilee Gardens, on the South Bank of the River Thames between Westminster Bridge and Hungerford Bridge beside County Hall, in the London Borough of Lambeth. The nearest tube station is Waterloo.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: London Eye",
+     "url": "https://en.wikipedia.org/wiki/London_Eye",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q160659",
+     "url": "https://www.wikidata.org/wiki/Q160659",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "tate-britain",
+   "image": {
+    "file": "images/tate-britain.jpg",
+    "author": "Carlos Cunha",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tate_Britain,_Millbank_-_panoramio_(1).jpg"
+   },
+   "location": {
+    "latitude": 51.491111111,
+    "longitude": -0.1275
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "modern",
+    "museum"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "Tate Britain",
+     "intro": "Tate Britain, known from 1897 to 1932 as the National Gallery of British Art and from 1932 to 2000 as the Tate Gallery, is an art museum on Millbank in the City of Westminster in London, England.",
+     "narration": "Tate Britain, known from 1897 to 1932 as the National Gallery of British Art and from 1932 to 2000 as the Tate Gallery, is an art museum on Millbank in the City of Westminster in London, England. It is part of the Tate network of galleries in England, with Tate Modern, Tate Liverpool and Tate St Ives. Founded by Sir Henry Tate, it houses a substantial collection of the art of the United Kingdom since Tudor times, and in particular has large holdings of the works of J. M. W. Turner, who bequeathed all his own collection to the nation. It is one of the largest museums in the country.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Tate Britain",
+     "url": "https://en.wikipedia.org/wiki/Tate_Britain",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q195436",
+     "url": "https://www.wikidata.org/wiki/Q195436",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "british-library",
+   "image": {
+    "file": "images/british-library.jpg",
+    "author": "Patche99z",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Library_%2B_St_Pancras_7527-31hug.jpg"
+   },
+   "location": {
+    "latitude": 51.529444,
+    "longitude": -0.126944
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 33,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "London Borough of Camden",
+   "content": {
+    "en": {
+     "name": "British Library",
+     "intro": "The British Library is the national library of the United Kingdom.",
+     "narration": "The British Library is the national library of the United Kingdom. Based in London, it is one of the largest libraries in the world, with an estimated collection of over 200 million items from multiple countries. As a legal deposit library, it receives copies of all books produced in the United Kingdom and Ireland, as well as a significant proportion of overseas titles distributed in the United Kingdom. The library operates as a non-departmental public body sponsored by the Department for Digital, Culture, Media and Sport.",
+     "longDescription": "The British Library is the national library of the United Kingdom. Based in London, it is one of the largest libraries in the world, with an estimated collection of over 200 million items from multiple countries. As a legal deposit library, it receives copies of all books produced in the United Kingdom and Ireland, as well as a significant proportion of overseas titles distributed in the United Kingdom. The library operates as a non-departmental public body sponsored by the Department for Digital, Culture, Media and Sport. The British Library is a major research library, with items in many languages and in many formats, both print and digital: books, manuscripts, journals, newspapers, magazines, sound and music recordings, videos, play-scripts, patents, databases, maps, stamps, prints, drawings. The Library's collections include around 14 million books, along with substantial holdings of manuscripts and items dating as far back as 2000 BC. The library maintains a programme for content acquisition and adds some three million items each year occupying 9.6 kilometres of new shelf space. The Library's purpose-built building stands next to St Pancras station in London. It was officially opened by Elizabeth II on 25 June 1998, and is classified as a Grade I listed building \"of exceptional interest\" for its architecture and history. Off-site storage is provided at a second site near Boston Spa in Yorkshire.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: British Library",
+     "url": "https://en.wikipedia.org/wiki/British_Library",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q23308",
+     "url": "https://www.wikidata.org/wiki/Q23308",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "albert-memorial",
+   "image": {
+    "file": "images/albert-memorial.jpg",
+    "author": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Memorial_Alberto_(1).jpg"
+   },
+   "location": {
+    "latitude": 51.502413377,
+    "longitude": -0.177742437
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "medieval",
+    "monument"
+   ],
+   "area": "City of Westminster",
+   "content": {
+    "en": {
+     "name": "Albert Memorial",
+     "intro": "The Albert Memorial is a Gothic Revival ciborium in Kensington Gardens, London, designed and dedicated to the memory of Prince Albert of Great Britain.",
+     "narration": "The Albert Memorial is a Gothic Revival ciborium in Kensington Gardens, London, designed and dedicated to the memory of Prince Albert of Great Britain. Located directly north of the Royal Albert Hall, it was commissioned by Queen Victoria in memory of her husband, who died in 1861. Designed by Sir George Gilbert Scott, it takes the form of an ornate canopy or pavilion 176 feet tall over the high altar of a church, sheltering a statue of the prince facing south. It took over ten years to complete, the £120,000 cost met by public subscription. The memorial was opened in July 1872 by Queen Victoria, with the statue of Albert ceremonially \"seated\" in 1876.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Albert Memorial",
+     "url": "https://en.wikipedia.org/wiki/Albert_Memorial",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q281465",
+     "url": "https://www.wikidata.org/wiki/Q281465",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "barbican-estate",
+   "image": {
+    "file": "images/barbican-estate.jpg",
+    "author": "Riodamascus",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barbican_towers.jpg"
+   },
+   "location": {
+    "latitude": 51.519192,
+    "longitude": -0.094607
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "City of London",
+   "content": {
+    "en": {
+     "name": "Barbican Estate",
+     "intro": "The Barbican Estate, or Barbican, is a residential complex of around 2,000 flats, maisonettes and houses in central London, within the City of London.",
+     "narration": "The Barbican Estate, or Barbican, is a residential complex of around 2,000 flats, maisonettes and houses in central London, within the City of London. It is in an area once devastated by World War II bombings and densely populated by financial institutions, 1.4 miles north east of Charing Cross. Originally built as rental housing for middle and upper-middle-class professionals, it remains an upmarket residential estate. It contains, or is adjacent to, the Barbican Centre, the Museum of London, the Guildhall School of Music and Drama, the Barbican public library, the City of London School for Girls and a YMCA, forming the Barbican Complex.",
+     "longDescription": "The Barbican Estate, or Barbican, is a residential complex of around 2,000 flats, maisonettes and houses in central London, within the City of London. It is in an area once devastated by World War II bombings and densely populated by financial institutions, 1.4 miles north east of Charing Cross. Originally built as rental housing for middle and upper-middle-class professionals, it remains an upmarket residential estate. It contains, or is adjacent to, the Barbican Centre, the Museum of London, the Guildhall School of Music and Drama, the Barbican public library, the City of London School for Girls and a YMCA, forming the Barbican Complex. The Barbican Complex is a prominent example of British brutalist architecture and is Grade II listed as a whole, with the exception of the former Milton Court, which once contained a fire station, medical facilities and some flats but was demolished to allow the construction of a new apartment tower—named The Heron—which also provides additional facilities for the Guildhall School of Music and Drama.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Barbican Estate",
+     "url": "https://en.wikipedia.org/wiki/Barbican_Estate",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2319878",
+     "url": "https://www.wikidata.org/wiki/Q2319878",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "lambeth-palace",
+   "image": {
+    "file": "images/lambeth-palace.jpg",
+    "author": null,
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lambeth_Palace_London_240404.jpg"
+   },
+   "location": {
+    "latitude": 51.49556,
+    "longitude": -0.11972
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 23,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "river"
+   ],
+   "area": "London Borough of Lambeth",
+   "content": {
+    "en": {
+     "name": "Lambeth Palace",
+     "intro": "Lambeth Palace is the official London residence of the Archbishop of Canterbury.",
+     "narration": "Lambeth Palace is the official London residence of the Archbishop of Canterbury. It is situated in north Lambeth, London, on the south bank of the River Thames, 400 yards south-east of the Palace of Westminster, which houses Parliament, on the opposite bank. Close to Westminster and the City, the estate was first acquired by the archbishopric for the archbishop around 1200.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Lambeth Palace",
+     "url": "https://en.wikipedia.org/wiki/Lambeth_Palace",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1130266",
+     "url": "https://www.wikidata.org/wiki/Q1130266",
+     "license": "CC0"
+    }
+   ]
+  }
+ ]
+}

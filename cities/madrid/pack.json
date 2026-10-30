@@ -1,0 +1,2295 @@
+{
+ "format": 1,
+ "city": {
+  "id": "madrid",
+  "name": "Madrid",
+  "country": "Spain",
+  "center": {
+   "latitude": 40.416782,
+   "longitude": -3.703507
+  },
+  "bounds": {
+   "south": 40.3119774,
+   "north": 40.6437293,
+   "west": -3.8889539,
+   "east": -3.5183264
+  },
+  "languages": [
+   "en"
+  ],
+  "quality": "generated",
+  "placeCount": 45,
+  "version": 1,
+  "hero": {
+   "file": "images/plaza-mayor-madrid.jpg",
+   "author": "Draceane",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madrid,_Plaza_Mayor,_2016,_(02).jpg"
+  },
+  "packUrl": "cities/madrid/pack.json",
+  "generatedAt": "2026-10-30T15:01:25Z"
+ },
+ "pois": [
+  {
+   "id": "plaza-mayor-madrid",
+   "image": {
+    "file": "images/plaza-mayor-madrid.jpg",
+    "author": "Draceane",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madrid,_Plaza_Mayor,_2016,_(02).jpg"
+   },
+   "location": {
+    "latitude": 40.415455555,
+    "longitude": -3.707380555
+   },
+   "category": "square",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Sol",
+   "content": {
+    "en": {
+     "name": "Plaza Mayor, Madrid",
+     "intro": "The Plaza Mayor is the principal public square in the heart of Madrid, the capital of Spain.",
+     "narration": "The Plaza Mayor is the principal public square in the heart of Madrid, the capital of Spain. It was once the centre of Old Madrid. It was first built during the reign of Philip III. Only a few blocks away is another famous plaza, the Puerta del Sol. The Plaza Mayor is rectangular in shape and is noted for the uniformity of its surrounding architecture. The square measures 129 metres by 94 metres. A total of 237 balconies overlook the square from the residential buildings that enclose it. Access is provided by ten entrances and nine gates, each named according to their historical or geographical significance.",
+     "longDescription": "The Plaza Mayor is the principal public square in the heart of Madrid, the capital of Spain. It was once the centre of Old Madrid. It was first built during the reign of Philip III. Only a few blocks away is another famous plaza, the Puerta del Sol. The Plaza Mayor is rectangular in shape and is noted for the uniformity of its surrounding architecture. The square measures 129 metres by 94 metres. A total of 237 balconies overlook the square from the residential buildings that enclose it. Access is provided by ten entrances and nine gates, each named according to their historical or geographical significance. The entrances are: 7 de Julio, Arco de Triunfo, and Felipe III to the north; Sal, Zaragoza, and Gerona to the east; Botoneras, Toledo, and Cuchilleros to the south; and Ciudad Rodrigo to the west.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Plaza Mayor, Madrid",
+     "url": "https://en.wikipedia.org/wiki/Plaza_Mayor%2C_Madrid",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1123493",
+     "url": "https://www.wikidata.org/wiki/Q1123493",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "museo-del-prado",
+   "image": {
+    "file": "images/museo-del-prado.jpg",
+    "author": "Emilio J. Rodríguez Posada",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_2016_(25185969599).jpg"
+   },
+   "location": {
+    "latitude": 40.413888888,
+    "longitude": -3.692222222
+   },
+   "category": "museum",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "modern",
+    "museum"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Museo del Prado",
+     "intro": "The Museo del Prado, officially known as Museo Nacional del Prado, is the main Spanish national art museum, located in central Madrid.",
+     "narration": "The Museo del Prado, officially known as Museo Nacional del Prado, is the main Spanish national art museum, located in central Madrid. It houses collections of European art, dating from the 12th century to the early 20th century, based on the former Spanish royal collection, and is the single best collection of Spanish art in the world. Founded as a museum of paintings and sculpture in 1819, it also contains important collections of other types of works. The numerous works by Francisco Goya, the single most extensively represented artist, as well as by Hieronymus Bosch, El Greco, Peter Paul Rubens, Titian, and Diego Velázquez, are some of the highlights of the collection.",
+     "longDescription": "The Museo del Prado, officially known as Museo Nacional del Prado, is the main Spanish national art museum, located in central Madrid. It houses collections of European art, dating from the 12th century to the early 20th century, based on the former Spanish royal collection, and is the single best collection of Spanish art in the world. Founded as a museum of paintings and sculpture in 1819, it also contains important collections of other types of works. The numerous works by Francisco Goya, the single most extensively represented artist, as well as by Hieronymus Bosch, El Greco, Peter Paul Rubens, Titian, and Diego Velázquez, are some of the highlights of the collection. Velázquez and his keen eye and sensibility were also responsible for bringing much of the museum's fine collection of Italian masters to Spain, now one of the largest outside of Italy. The collection currently comprises around 8,200 drawings, 7,600 paintings, 4,800 prints, and 1,000 sculptures, in addition to many other works of art and historic documents. As of 2012, the museum displayed about 1,300 works in the main buildings, while around 3,100 works were on temporary loan to various museums and official institutions. The remainder were in storage. The Prado was the 16th most-visited museum in the world in 2020. The Prado and the nearby Thyssen-Bornemisza Museum and the Museo Reina Sofía form Madrid's Golden Triangle of Art along the Paseo del Prado, which was added to the UNESCO World Heritage list in 2021.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Museo del Prado",
+     "url": "https://en.wikipedia.org/wiki/Museo_del_Prado",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q160112",
+     "url": "https://www.wikidata.org/wiki/Q160112",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "royal-palace-of-madrid",
+   "image": {
+    "file": "images/royal-palace-of-madrid.jpg",
+    "author": "Tim Adams",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg"
+   },
+   "location": {
+    "latitude": 40.417955,
+    "longitude": -3.714312
+   },
+   "category": "museum",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 31,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "museum",
+    "river"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Royal Palace of Madrid",
+     "intro": "The Royal Palace of Madrid is the official residence of the Spanish royal family and is used primarily for state ceremonies.",
+     "narration": "The Royal Palace of Madrid is the official residence of the Spanish royal family and is used primarily for state ceremonies. With over 135,000 m2 of floor space and 3,418 rooms, the Royal Palace of Madrid is the largest palace in Western Europe, the largest royal palace in Europe, and among the largest palaces in the world. The palace is located on Bailén Street in the western part of central Madrid, east of the Manzanares River, and is accessible from Ópera metro station.",
+     "longDescription": "The Royal Palace of Madrid is the official residence of the Spanish royal family and is used primarily for state ceremonies. With over 135,000 m2 of floor space and 3,418 rooms, the Royal Palace of Madrid is the largest palace in Western Europe, the largest royal palace in Europe, and among the largest palaces in the world. The palace is located on Bailén Street in the western part of central Madrid, east of the Manzanares River, and is accessible from Ópera metro station. The former Alcázar of Madrid, built on the site of a bygone Muslim-era fortress dating to the 9th century, served both as a secure repository for the royal treasure and as a habitual residence of the Trastámara monarchs in the late Middle Ages. After undergoing substantial expansion works during the 16th century, the Royal Alcázar remained on the site until it burned down on 24 December 1734. A new, larger and more sumptuous palace was then built from scratch on the same site for the Bourbon dynasty. Construction took place between 1738 and 1755, and followed a Berniniesque design by Filippo Juvarra and Giovanni Battista Marchetti, in cooperation with Ventura Rodríguez, Francesco Sabatini, and Martín Sarmiento. During the Second Spanish Republic, the building was known as the Palacio Nacional. The exterior of the palace is characterized by a late Baroque classicism. The main façade, facing the Plaza de la Armería, rises above a rusticated base and is articulated by giant-order columns and pilasters, with a contrast between grey granite and white limestone. The palace is framed by several ceremonial and landscaped spaces, including the Plaza de Oriente, the Sabatini Gardens beside its northern façade, and the Campo del Moro gardens to the west. The interior of the palace is notable for its wealth of ar",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Royal Palace of Madrid",
+     "url": "https://en.wikipedia.org/wiki/Royal_Palace_of_Madrid",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q171517",
+     "url": "https://www.wikidata.org/wiki/Q171517",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "puerta-del-sol",
+   "image": {
+    "file": "images/puerta-del-sol.jpg",
+    "author": "Tomás Fano",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puerta_del_Sol_(Madrid)_10.jpg"
+   },
+   "location": {
+    "latitude": 40.41694,
+    "longitude": -3.70361
+   },
+   "category": "square",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 30,
+   "visitMinutes": 4,
+   "tags": [
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Sol",
+   "content": {
+    "en": {
+     "name": "Puerta del Sol",
+     "intro": "The Puerta del Sol is a public square in Madrid, one of the best known and busiest places in the city.",
+     "narration": "The Puerta del Sol is a public square in Madrid, one of the best known and busiest places in the city. This is the centre of the radial network of Spanish roads. The square also contains the famous clock whose bells mark the traditional eating of the Twelve Grapes and the beginning of a new year. The New Year's celebration has been broadcast live since 31 December 1962 on major radio and television networks including Atresmedia and RTVE.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Puerta del Sol",
+     "url": "https://en.wikipedia.org/wiki/Puerta_del_Sol",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q427163",
+     "url": "https://www.wikidata.org/wiki/Q427163",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "museo-nacional-centro-de-arte-reina-sofia",
+   "image": {
+    "file": "images/museo-nacional-centro-de-arte-reina-sofia.jpg",
+    "author": "Luis García (Zaqarbal)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:MNCARS_05.jpg"
+   },
+   "location": {
+    "latitude": 40.40857143,
+    "longitude": -3.6939961
+   },
+   "category": "museum",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "modern",
+    "museum"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Museo Nacional Centro de Arte Reina Sofía",
+     "intro": "The Museo Nacional Centro de Arte Reina Sofía is Spain's national museum of 20th-century art.",
+     "narration": "The Museo Nacional Centro de Arte Reina Sofía is Spain's national museum of 20th-century art. The museum was officially inaugurated on September 10, 1992, and is named for Queen Sofía. It is located in Madrid, near the Atocha train and metro stations, at the southern end of what is known as the Golden Triangle of Art. The museum is mainly dedicated to Spanish art. Highlights of the museum include collections of Spain's two greatest 20th-century masters, Pablo Picasso and Salvador Dalí. The most famous masterpiece in the museum is Picasso's 1937 painting Guernica.",
+     "longDescription": "The Museo Nacional Centro de Arte Reina Sofía is Spain's national museum of 20th-century art. The museum was officially inaugurated on September 10, 1992, and is named for Queen Sofía. It is located in Madrid, near the Atocha train and metro stations, at the southern end of what is known as the Golden Triangle of Art. The museum is mainly dedicated to Spanish art. Highlights of the museum include collections of Spain's two greatest 20th-century masters, Pablo Picasso and Salvador Dalí. The most famous masterpiece in the museum is Picasso's 1937 painting Guernica. Along with its extensive collection, the museum offers a mixture of national and international temporary exhibitions in its many galleries, making it one of the world's largest museums for modern and contemporary art. In 2025 the museum's main site received 1,601,732 visitors, up 4.2 percent on 2024. It consistently ranks among the world's most-visited museums of modern and contemporary art. It also hosts a free-access library specializing in art, with a collection of over 100,000 books, over 3,500 sound recordings, and almost 1,000 videos.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Museo Nacional Centro de Arte Reina Sofía",
+     "url": "https://en.wikipedia.org/wiki/Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q460889",
+     "url": "https://www.wikidata.org/wiki/Q460889",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "temple-of-debod",
+   "image": {
+    "file": "images/temple-of-debod.jpg",
+    "author": null,
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Templo_de_Debod_Madrid.JPG"
+   },
+   "location": {
+    "latitude": 40.424052777,
+    "longitude": -3.717777777
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "museum",
+    "roman"
+   ],
+   "area": "Moncloa-Aravaca",
+   "content": {
+    "en": {
+     "name": "Temple of Debod",
+     "intro": "The Temple of Debod is an ancient Nubian temple currently located in Madrid, Spain.",
+     "narration": "The Temple of Debod is an ancient Nubian temple currently located in Madrid, Spain. The temple was originally erected in the early 2nd century BC 15 km south of Aswan, Egypt. The Egyptian government donated the temple to Spain in 1968 as a sign of gratitude for their participation in the International Campaign to Save the Monuments of Nubia. It was taken apart, transported, and rebuilt in the Parque de la Montaña in 1970–1972. It is one of the few works of ancient Egyptian architecture relocated outside Egypt and the only one of its kind in Spain.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Temple of Debod",
+     "url": "https://en.wikipedia.org/wiki/Temple_of_Debod",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1140249",
+     "url": "https://www.wikidata.org/wiki/Q1140249",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "congress-of-deputies",
+   "image": {
+    "file": "images/congress-of-deputies.jpg",
+    "author": "Presidencia de la República Mexicana",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sesi%C3%B3n_Solemne_en_el_Congreso_de_los_Diputados.jpg"
+   },
+   "location": {
+    "latitude": 40.41632997,
+    "longitude": -3.696630383
+   },
+   "category": "architecture",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "iconic"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Congress of Deputies",
+     "intro": "The Congress of Deputies is the lower house of the Cortes Generales, Spain's legislative branch, the upper house being the Senate.",
+     "narration": "The Congress of Deputies is the lower house of the Cortes Generales, Spain's legislative branch, the upper house being the Senate. The Congress meets in the Palace of the Parliament in Madrid. Congress has 350 members elected from fifty-two constituencies using closed list D'Hondt proportional representation. Deputies serve four-year terms. The presiding officer and speaker is the President of the Congress of Deputies, who is elected by the members at the first sitting of Congress after an election. The two principal bodies in Congress are parliamentary groups and parliamentary committees. All MPs are required to be members of a parliamentary group, the institutionalised form of political parties. Groups act with one voice represented by their spokesperson.",
+     "longDescription": "The Congress of Deputies is the lower house of the Cortes Generales, Spain's legislative branch, the upper house being the Senate. The Congress meets in the Palace of the Parliament in Madrid. Congress has 350 members elected from fifty-two constituencies using closed list D'Hondt proportional representation. Deputies serve four-year terms. The presiding officer and speaker is the President of the Congress of Deputies, who is elected by the members at the first sitting of Congress after an election. The two principal bodies in Congress are parliamentary groups and parliamentary committees. All MPs are required to be members of a parliamentary group, the institutionalised form of political parties. Groups act with one voice represented by their spokesperson. In other words, the Spanish Parliament is a parliament of groups, not individual MPs who are constrained to act only as part of the group. MPs can only act autonomously when submitting oral or written questions. As a result of the 2019 general election, there were 168 female deputies or 48% of all members, making Spain the European country with the highest percentage of women in parliament, surpassing Sweden and Finland; however, the share decreased to a 44.3% after the elections in 2023.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Congress of Deputies",
+     "url": "https://en.wikipedia.org/wiki/Congress_of_Deputies",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q539149",
+     "url": "https://www.wikidata.org/wiki/Q539149",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "plaza-de-espana-madrid",
+   "image": {
+    "file": "images/plaza-de-espana-madrid.jpg",
+    "author": "Carlos Delgado",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a_de_Madrid_-_02.jpg"
+   },
+   "location": {
+    "latitude": 40.423391666,
+    "longitude": -3.712233333
+   },
+   "category": "square",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 27,
+   "visitMinutes": 4,
+   "tags": [
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Plaza de España, Madrid",
+     "intro": "Plaza de España is a large square and popular tourist destination located in central Madrid, Spain at the western end of the Gran Vía.",
+     "narration": "Plaza de España is a large square and popular tourist destination located in central Madrid, Spain at the western end of the Gran Vía. It features a monument to Miguel de Cervantes Saavedra and is adjacent to two of Madrid's most prominent skyscrapers. Additionally, the Palacio Real is only a short walk south from the plaza. After 2+1⁄2 years of renovation, on 22 November 2021, the square was reopened for pedestrians.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Plaza de España, Madrid",
+     "url": "https://en.wikipedia.org/wiki/Plaza_de_Espa%C3%B1a%2C_Madrid",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1326261",
+     "url": "https://www.wikidata.org/wiki/Q1326261",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "parque-del-buen-retiro",
+   "image": {
+    "file": "images/parque-del-buen-retiro.jpg",
+    "author": "pictures Jettcom",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:June_Parc_Retiro_Madrid_-_Mythos_Spain_Photography_2014_-_panoramio_(8).jpg"
+   },
+   "location": {
+    "latitude": 40.415,
+    "longitude": -3.683888888
+   },
+   "category": "park",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 8,
+   "tags": [
+    "historic",
+    "iconic",
+    "park",
+    "scenic"
+   ],
+   "area": "Jerónimos",
+   "content": {
+    "en": {
+     "name": "Parque del Buen Retiro",
+     "intro": "The Retiro Park, also known as Buen Retiro Park or simply El Retiro, is one of the largest city parks in Madrid, Spain.",
+     "narration": "The Retiro Park, also known as Buen Retiro Park or simply El Retiro, is one of the largest city parks in Madrid, Spain. The park belonged to the Spanish monarchy until 1868, when it became a public park following the Glorious Revolution. The park is located at the edge of the city centre, near both the Alcalá Gate and the Museo del Prado, and covers 1.4 km2. It has gardens, monuments, galleries, an artificial lake, and event-hosting venues. In 2021, Buen Retiro Park became part of a combined UNESCO World Heritage Site that also includes Paseo del Prado.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Parque del Buen Retiro",
+     "url": "https://en.wikipedia.org/wiki/Parque_del_Buen_Retiro",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1131807",
+     "url": "https://www.wikidata.org/wiki/Q1131807",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "plaza-de-cibeles",
+   "image": {
+    "file": "images/plaza-de-cibeles.jpg",
+    "author": "Miguel  Diaz from Boadilla del Monte, España-Spain",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cibeles_desde_el_Ayuntamiento_(Madrid)_(14203354114).jpg"
+   },
+   "location": {
+    "latitude": 40.41917,
+    "longitude": -3.69306
+   },
+   "category": "square",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 4,
+   "tags": [
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Plaza de Cibeles",
+     "intro": "The Plaza de Cibeles is a square with a neo-classical complex of marble sculptures with fountains that has become a symbol for the city of Madrid.",
+     "narration": "The Plaza de Cibeles is a square with a neo-classical complex of marble sculptures with fountains that has become a symbol for the city of Madrid. It sits at the intersection of Calle de Alcalá, Paseo de Recoletos and Paseo del Prado. Plaza de Cibeles was originally named Plaza de Madrid, but in 1900, the City Council named it Plaza de Castelar, which was eventually replaced by its current name. It is currently delimited by four prominent buildings: the Bank of Spain Building, the Palacio de Buenavista, the Palace of Linares, and the Cybele Palace. These constructions are located in four different neighbourhoods from three different adjacent districts: Centro, Retiro, and Salamanca.",
+     "longDescription": "The Plaza de Cibeles is a square with a neo-classical complex of marble sculptures with fountains that has become a symbol for the city of Madrid. It sits at the intersection of Calle de Alcalá, Paseo de Recoletos and Paseo del Prado. Plaza de Cibeles was originally named Plaza de Madrid, but in 1900, the City Council named it Plaza de Castelar, which was eventually replaced by its current name. It is currently delimited by four prominent buildings: the Bank of Spain Building, the Palacio de Buenavista, the Palace of Linares, and the Cybele Palace. These constructions are located in four different neighbourhoods from three different adjacent districts: Centro, Retiro, and Salamanca. Over the years, Cybele Palace and her fountain have become symbolic monuments of the city.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Plaza de Cibeles",
+     "url": "https://en.wikipedia.org/wiki/Plaza_de_Cibeles",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1537446",
+     "url": "https://www.wikidata.org/wiki/Q1537446",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "thyssen-bornemisza-museum",
+   "image": {
+    "file": "images/thyssen-bornemisza-museum.jpg",
+    "author": "Kyle Magnuson from Los Angeles, United States",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Site_of_the_Retiro_and_the_Prado_in_Madrid_49_(29684554308).jpg"
+   },
+   "location": {
+    "latitude": 40.416041,
+    "longitude": -3.694925
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "iconic",
+    "museum"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Thyssen-Bornemisza Museum",
+     "intro": "The Thyssen-Bornemisza National Museum, or simply the Thyssen, is an art museum in Madrid, Spain, located near the Prado Museum on one of the city's main boulevards.",
+     "narration": "The Thyssen-Bornemisza National Museum, or simply the Thyssen, is an art museum in Madrid, Spain, located near the Prado Museum on one of the city's main boulevards. It is known as part of the \"Golden Triangle of Art\", which also includes the Prado and the Reina Sofía national galleries. The Thyssen-Bornemisza fills the historical gaps in its counterparts' collections: Italian primitives and works from the English, Dutch and German schools at the Prado; andImpressionists, Expressionists, and European and American paintings from the 20th century at the Reina Sofía. With over 1,600 paintings, it was once the second largest private collection in the world after the British Royal Collection.",
+     "longDescription": "The Thyssen-Bornemisza National Museum, or simply the Thyssen, is an art museum in Madrid, Spain, located near the Prado Museum on one of the city's main boulevards. It is known as part of the \"Golden Triangle of Art\", which also includes the Prado and the Reina Sofía national galleries. The Thyssen-Bornemisza fills the historical gaps in its counterparts' collections: Italian primitives and works from the English, Dutch and German schools at the Prado; andImpressionists, Expressionists, and European and American paintings from the 20th century at the Reina Sofía. With over 1,600 paintings, it was once the second largest private collection in the world after the British Royal Collection. A competition was held to house the core of the collection in 1987–88 after Baron Thyssen, having unsuccessfully sought permission to enlarge his museum in Lugano, searched for a better-suited location elsewhere in Europe.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Thyssen-Bornemisza Museum",
+     "url": "https://en.wikipedia.org/wiki/Thyssen-Bornemisza_Museum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q176251",
+     "url": "https://www.wikidata.org/wiki/Q176251",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "almudena-cathedral",
+   "image": {
+    "file": "images/almudena-cathedral.jpg",
+    "author": "Fernando",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Almudena_2022_-_overview.jpg"
+   },
+   "location": {
+    "latitude": 40.415556,
+    "longitude": -3.714444
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 28,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "roman"
+   ],
+   "area": "Palacio",
+   "content": {
+    "en": {
+     "name": "Almudena Cathedral",
+     "intro": "The Cathedral of Saint Mary the Royal of the Almudena, commonly known as the Almudena Cathedral, is a Catholic cathedral in Madrid, Spain.",
+     "narration": "The Cathedral of Saint Mary the Royal of the Almudena, commonly known as the Almudena Cathedral, is a Catholic cathedral in Madrid, Spain. It is the seat of the Archdiocese of Madrid. Its construction began in 1883 and finished over a century later, when it was consecrated by Pope John Paul II in 1993. It is located opposite the Royal Palace and much of its final appearance was defined considering this regal surrounding.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Almudena Cathedral",
+     "url": "https://en.wikipedia.org/wiki/Almudena_Cathedral",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q849711",
+     "url": "https://www.wikidata.org/wiki/Q849711",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palace-of-moncloa",
+   "image": null,
+   "location": {
+    "latitude": 40.44361111,
+    "longitude": -3.73694444
+   },
+   "category": "architecture",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Palace of Moncloa",
+     "intro": "The Palace of Moncloa, also known as Moncloa Palace or La Moncloa, is the official residence and workplace of the prime minister of Spain.",
+     "narration": "The Palace of Moncloa, also known as Moncloa Palace or La Moncloa, is the official residence and workplace of the prime minister of Spain. It is located on Puerta de Hierro Avenue in the Moncloa-Aravaca district of Madrid. It has been the official residence of the Prime Minister since 1977, when Adolfo Suárez moved the residence from the Palace of Villamejor. The Palace of Moncloa is part of the Moncloa Complex, which includes 16 buildings, a bunker and a hospital. The Ministry of the Presidency, the Deputy Prime Minister's Office, the Cabinet Office, the Chief of Staff's Office and the Press Office are all located at this complex.",
+     "longDescription": "The Palace of Moncloa, also known as Moncloa Palace or La Moncloa, is the official residence and workplace of the prime minister of Spain. It is located on Puerta de Hierro Avenue in the Moncloa-Aravaca district of Madrid. It has been the official residence of the Prime Minister since 1977, when Adolfo Suárez moved the residence from the Palace of Villamejor. The Palace of Moncloa is part of the Moncloa Complex, which includes 16 buildings, a bunker and a hospital. The Ministry of the Presidency, the Deputy Prime Minister's Office, the Cabinet Office, the Chief of Staff's Office and the Press Office are all located at this complex. The weekly meetings of the Council of Ministers are also held at the complex, in the Council Building. In Spain, 'Moncloa' is sometimes used as a metonym for the central government, especially when contrasting with the governments of the Autonomous Communities.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palace of Moncloa",
+     "url": "https://en.wikipedia.org/wiki/Palace_of_Moncloa",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1367970",
+     "url": "https://www.wikidata.org/wiki/Q1367970",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "senate-of-spain",
+   "image": {
+    "file": "images/senate-of-spain.jpg",
+    "author": "Miguel Ángel García.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Senado_-_sala_de_plenos.jpg"
+   },
+   "location": {
+    "latitude": 40.42055556,
+    "longitude": -3.71277778
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 34,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Senate of Spain",
+     "intro": "The Senate is the upper house of the Cortes Generales, the bicameral parliament of the Kingdom of Spain.",
+     "narration": "The Senate is the upper house of the Cortes Generales, the bicameral parliament of the Kingdom of Spain. The Congress of Deputies is the lower house. The Senate meets in the Palace of the Senate in Madrid. The presiding officer of the Senate is the president of the Senate, who is elected by the members at the first sitting after each national election. The composition of the Senate is established in Part III of the Spanish Constitution. Each senator represents a province, an autonomous city or an autonomous community.",
+     "longDescription": "The Senate is the upper house of the Cortes Generales, the bicameral parliament of the Kingdom of Spain. The Congress of Deputies is the lower house. The Senate meets in the Palace of the Senate in Madrid. The presiding officer of the Senate is the president of the Senate, who is elected by the members at the first sitting after each national election. The composition of the Senate is established in Part III of the Spanish Constitution. Each senator represents a province, an autonomous city or an autonomous community. Each mainland province, regardless of its population size, is equally represented by four senators; in the insular provinces, the larger islands are represented by three senators and the minor islands are represented by a single senator. Likewise, the autonomous cities of Ceuta and Melilla elect two senators each. This direct election results in the election of 208 senators by the citizens. In addition, the regional legislatures also designate their own representatives, one senator for each autonomous community and another for every million residents, resulting in a total of 58 additional senators. The Spanish Senate is constitutionally described as a territorial chamber. Consequently, although in general its powers are similar to those of the Congress of Deputies, it is endowed with exceptional powers such as authorising the Government to apply direct rule to a region or to dissolve local government councils. Intensive debates about reforming the Senate's function and purpose have been going on for many years without any resolution.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Senate of Spain",
+     "url": "https://en.wikipedia.org/wiki/Senate_of_Spain",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q855343",
+     "url": "https://www.wikidata.org/wiki/Q855343",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "las-ventas",
+   "image": {
+    "file": "images/las-ventas.jpg",
+    "author": "Luis García (Zaqarbal)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_Toros_de_Las_Ventas_(Madrid)_04.jpg"
+   },
+   "location": {
+    "latitude": 40.432083,
+    "longitude": -3.663278
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "moorish"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Las Ventas",
+     "intro": "The Plaza de Toros de Las Ventas, known simply as Las Ventas [laz ˈβentas], is the largest bullfighting ring in Spain, located in the Guindalera quarter of the Salamanca district of Madrid.",
+     "narration": "The Plaza de Toros de Las Ventas, known simply as Las Ventas [laz ˈβentas], is the largest bullfighting ring in Spain, located in the Guindalera quarter of the Salamanca district of Madrid. It was inaugurated on June 17, 1931. Its seating capacity of 23,798, makes it the third-largest bullfighting ring in the world, after bullrings in Mexico and Venezuela. After the federal ban of bullfighting in Plaza México, Las Ventas is the second largest bullring in the world still in operation for its original intention. This bullring was designed by the architect José Espeliú in the Neo-Mudéjar style with ceramic incrustations. The seats are situated in ten \"tendidos\".",
+     "longDescription": "The Plaza de Toros de Las Ventas, known simply as Las Ventas [laz ˈβentas], is the largest bullfighting ring in Spain, located in the Guindalera quarter of the Salamanca district of Madrid. It was inaugurated on June 17, 1931. Its seating capacity of 23,798, makes it the third-largest bullfighting ring in the world, after bullrings in Mexico and Venezuela. After the federal ban of bullfighting in Plaza México, Las Ventas is the second largest bullring in the world still in operation for its original intention. This bullring was designed by the architect José Espeliú in the Neo-Mudéjar style with ceramic incrustations. The seats are situated in ten \"tendidos\". The price of the seats depends upon how close they are to the arena and whether they are in the sun or the shade. The bullfighting season starts in March and ends in October; bullfights are held every day during the San Isidro Fiesta, and every Sunday or holiday during the season. Bullfights start at 6 or 7pm and last for two to three hours.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Las Ventas",
+     "url": "https://en.wikipedia.org/wiki/Las_Ventas",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q756621",
+     "url": "https://www.wikidata.org/wiki/Q756621",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "teatro-real",
+   "image": {
+    "file": "images/teatro-real.jpg",
+    "author": "Fernando",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teatro_Real_de_Madrid_2025.jpg"
+   },
+   "location": {
+    "latitude": 40.41824,
+    "longitude": -3.71037
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "Palacio",
+   "content": {
+    "en": {
+     "name": "Teatro Real",
+     "intro": "The Teatro Real is an opera house in Madrid, Spain.",
+     "narration": "The Teatro Real is an opera house in Madrid, Spain. Located at the Plaza de Oriente, opposite the Royal Palace, and known colloquially as \"El Real\". it is considered the top institution of the performing and musical arts in the country and one of the most prestigious opera houses in Europe. The groundbreaking of the Teatro Real was on 23 April 1818, under the reign of King Ferdinand VII, and it was formally opened by his daughter Queen Isabella II on 19 November 1850. It closed in 1925 due to damage to the building and reopened on 13 October 1966 as a symphonic music venue.",
+     "longDescription": "The Teatro Real is an opera house in Madrid, Spain. Located at the Plaza de Oriente, opposite the Royal Palace, and known colloquially as \"El Real\". it is considered the top institution of the performing and musical arts in the country and one of the most prestigious opera houses in Europe. The groundbreaking of the Teatro Real was on 23 April 1818, under the reign of King Ferdinand VII, and it was formally opened by his daughter Queen Isabella II on 19 November 1850. It closed in 1925 due to damage to the building and reopened on 13 October 1966 as a symphonic music venue. Beginning in 1991, it underwent major refurbishment and renovation works and finally reopened as an opera house on 11 October 1997. It has a floor area of 78,210 square metres and a maximum capacity of 1,958 seats. Since 1995, the theatre is managed by a public foundation in whose Board of Trustees are represented the Ministry of Culture of the Government of Spain, the Government of the Community of Madrid and the City Council of Madrid. Since 1998, its principal orchestra is the Orquesta Sinfónica de Madrid. In addition to its regular annual program of opera, dance, concerts and recitals, the theatre has hosted other special events throughout its history, such as the 14th Eurovision Song Contest in 1969, the 25th Goya Awards in 2011 or the Lotería Nacional's Christmas special draw since 2012. The Royal Opera received the \"Opera Company of the Year\" award at the 2020/21 International Opera Awards. The building is listed as a Bien de Interés Cultural since 1993.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Teatro Real",
+     "url": "https://en.wikipedia.org/wiki/Teatro_Real",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q211250",
+     "url": "https://www.wikidata.org/wiki/Q211250",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "salamanca-madrid",
+   "image": {
+    "file": "images/salamanca-madrid.jpg",
+    "author": "Brian Adamson",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madrid_-_40888267763_(cropped).jpg"
+   },
+   "location": {
+    "latitude": 40.43,
+    "longitude": -3.677778
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 30,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "neighbourhood"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Salamanca (Madrid)",
+     "intro": "Salamanca is one of the 21 districts that form the city of Madrid, Spain.",
+     "narration": "Salamanca is one of the 21 districts that form the city of Madrid, Spain. Salamanca is located to the northeast of the historical center of Madrid. Salamanca lies east of the district of Chamberí, south of Chamartín, and north of Retiro. Salamanca has about 150,000 inhabitants. The district takes its name from the 1st Marquess of Salamanca, José de Salamanca y Mayol, a powerful businessman who was one of the richest men in the world during the mid-nineteenth century.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Salamanca (Madrid)",
+     "url": "https://en.wikipedia.org/wiki/Salamanca_%28Madrid%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1773521",
+     "url": "https://www.wikidata.org/wiki/Q1773521",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "national-museum-of-archaeology-madrid",
+   "image": {
+    "file": "images/national-museum-of-archaeology-madrid.jpg",
+    "author": "Emilio J. Rodríguez Posada",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museo_Arqueol%C3%B3gico_Nacional_(35039235760).jpg"
+   },
+   "location": {
+    "latitude": 40.423645,
+    "longitude": -3.689422
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "museum"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "National Museum of Archaeology (Madrid)",
+     "intro": "The National Museum of Archaeology is a archaeology museum in Madrid, Spain.",
+     "narration": "The National Museum of Archaeology is a archaeology museum in Madrid, Spain. It is located on Calle de Serrano beside the Plaza de Colón, sharing its building with the National Library of Spain. It is one of the National Museums of Spain and it is attached to the Ministry of Culture.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: National Museum of Archaeology (Madrid)",
+     "url": "https://en.wikipedia.org/wiki/National_Museum_of_Archaeology_%28Madrid%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1352282",
+     "url": "https://www.wikidata.org/wiki/Q1352282",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "royal-spanish-academy",
+   "image": {
+    "file": "images/royal-spanish-academy.jpg",
+    "author": "Real Academia Española",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fachada_de_la_Real_Academia_Espa%C3%B1ola.jpg"
+   },
+   "location": {
+    "latitude": 40.41502,
+    "longitude": -3.69091
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "museum"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Royal Spanish Academy",
+     "intro": "The Royal Spanish Academy is Spain's official royal institution with a mission to ensure the stability of the Spanish language.",
+     "narration": "The Royal Spanish Academy is Spain's official royal institution with a mission to ensure the stability of the Spanish language. This is the official language regulating organ of Spain. It is based in Madrid, Spain, and is affiliated with national language academies in 22 other Hispanophone nations through the Association of Academies of the Spanish Language. The RAE dedicates itself to language planning by applying linguistic prescription aimed at promoting linguistic unity within and between various territories, to ensure a common standard. The proposed language guidelines are shown in a number of works.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Royal Spanish Academy",
+     "url": "https://en.wikipedia.org/wiki/Royal_Spanish_Academy",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q11993457",
+     "url": "https://www.wikidata.org/wiki/Q11993457",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "gran-via-madrid",
+   "image": {
+    "file": "images/gran-via-madrid.jpg",
+    "author": "Felipe Gabaldón",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gran_V%C3%ADa_(Madrid)_1.jpg"
+   },
+   "location": {
+    "latitude": 40.42,
+    "longitude": -3.70361
+   },
+   "category": "street",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 4,
+   "tags": [
+    "modern",
+    "neighbourhood",
+    "street"
+   ],
+   "area": "Justicia",
+   "content": {
+    "en": {
+     "name": "Gran Vía, Madrid",
+     "intro": "The Gran Vía is a street in central Madrid, Spain.",
+     "narration": "The Gran Vía is a street in central Madrid, Spain. It leads from Calle de Alcalá, close to Plaza de Cibeles, to Plaza de España. The street, sometimes referred to as the \"Spanish Broadway\", is one of the city's most important shopping areas, with a large number of hotels and large movie theatres. However, since the late 2000s, many of these theatres have been replaced by shopping centres. The Gran Vía serves as a showcase of early 20th-century revival architecture, with architectural styles ranging from Vienna Secession style, Plateresque, Neo-Mudéjar, and Art Deco, among others.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Gran Vía, Madrid",
+     "url": "https://en.wikipedia.org/wiki/Gran_V%C3%ADa%2C_Madrid",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1324163",
+     "url": "https://www.wikidata.org/wiki/Q1324163",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "paseo-del-prado",
+   "image": {
+    "file": "images/paseo-del-prado.jpg",
+    "author": "Martin Snopek from Prague (Czech Republic)",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paseo_del_Prado_(Madrid)_01.jpg"
+   },
+   "location": {
+    "latitude": 40.41417,
+    "longitude": -3.69361
+   },
+   "category": "street",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 29,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "neighbourhood",
+    "street"
+   ],
+   "area": "Retiro",
+   "content": {
+    "en": {
+     "name": "Paseo del Prado",
+     "intro": "The Paseo del Prado is one of the main boulevards in Madrid, Spain.",
+     "narration": "The Paseo del Prado is one of the main boulevards in Madrid, Spain. It runs north–south between the Plaza de Cibeles and the Plaza del Emperador Carlos V, with the Plaza de Cánovas del Castillo lying approximately in the middle. The Paseo del Prado forms the southern end of the city's central axis. It enjoys the status of Bien de Interés Cultural, and as part of a combined UNESCO World Heritage Site with Buen Retiro Park.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Paseo del Prado",
+     "url": "https://en.wikipedia.org/wiki/Paseo_del_Prado",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2079615",
+     "url": "https://www.wikidata.org/wiki/Q2079615",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "puente-de-vallecas",
+   "image": {
+    "file": "images/puente-de-vallecas.jpg",
+    "author": "RubenHood from Madrid (Spain)",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vista_de_Madrid_desde_el_sureste_01.jpg"
+   },
+   "location": {
+    "latitude": 40.398204,
+    "longitude": -3.669059
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "neighbourhood"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Puente de Vallecas",
+     "intro": "Puente de Vallecas is one of the 21 districts of the city of Madrid, Spain.",
+     "narration": "Puente de Vallecas is one of the 21 districts of the city of Madrid, Spain. It forms, with the district of Villa de Vallecas, the geographical area of Vallecas.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Puente de Vallecas",
+     "url": "https://en.wikipedia.org/wiki/Puente_de_Vallecas",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2003054",
+     "url": "https://www.wikidata.org/wiki/Q2003054",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "chamberi",
+   "image": {
+    "file": "images/chamberi.jpg",
+    "author": "Enrique Dans from Madrid (Spain).",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nuevos_Ministerios_(Madrid)_01.jpg"
+   },
+   "location": {
+    "latitude": 40.432791666,
+    "longitude": -3.697186111
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "historic",
+    "neighbourhood"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Chamberí",
+     "intro": "Chamberí is a district of Madrid, Spain.",
+     "narration": "Chamberí is a district of Madrid, Spain. It is further subdivided into six neighborhoods. The district junta is headquartered at the plaza de Chamberí. The current urban outline was born as part of the Ensanche plan drafted by Carlos María de Castro.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Chamberí",
+     "url": "https://en.wikipedia.org/wiki/Chamber%C3%AD",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1763370",
+     "url": "https://www.wikidata.org/wiki/Q1763370",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "retiro-madrid",
+   "image": {
+    "file": "images/retiro-madrid.jpg",
+    "author": "Emilio J. Rodríguez Posada",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_2016_(25185969599).jpg"
+   },
+   "location": {
+    "latitude": 40.408072,
+    "longitude": -3.676729
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "neighbourhood"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Retiro (Madrid)",
+     "intro": "Retiro is a district located at the southeast of the city centre of Madrid, Spain.",
+     "narration": "Retiro is a district located at the southeast of the city centre of Madrid, Spain. Its area is of 5.38 square kilometres, the number of houses is 46,512 and the population, as of 2005, was of 126,058.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Retiro (Madrid)",
+     "url": "https://en.wikipedia.org/wiki/Retiro_%28Madrid%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2002296",
+     "url": "https://www.wikidata.org/wiki/Q2002296",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "centro-madrid",
+   "image": {
+    "file": "images/centro-madrid.jpg",
+    "author": "Jim Anzalone from Odessa, Texas, USA",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madrid_MG_0514_(39365149022).jpg"
+   },
+   "location": {
+    "latitude": 40.415277777,
+    "longitude": -3.7075
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 23,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "historic",
+    "neighbourhood"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Centro (Madrid)",
+     "intro": "Centro is a district of Madrid, Spain.",
+     "narration": "Centro is a district of Madrid, Spain. It is approximately 5.23 km2 in size. It has a population of 149,718 people and a population density of 28,587 people/km2. It roughly corresponds to the bulk of the housing formerly enclosed by the so-called Walls of Philip IV. The district is made up of the neighbourhoods of Cortes, Embajadores, Justicia, Universidad, Palacio and Sol.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Centro (Madrid)",
+     "url": "https://en.wikipedia.org/wiki/Centro_%28Madrid%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1763376",
+     "url": "https://www.wikidata.org/wiki/Q1763376",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "casa-de-campo",
+   "image": {
+    "file": "images/casa-de-campo.jpg",
+    "author": "Håkan Svensson Xauxa",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa_de_Campo_Lago_y_vista.jpg"
+   },
+   "location": {
+    "latitude": 40.42291,
+    "longitude": -3.75595
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Casa de Campo",
+     "intro": "The Casa de Campo is the largest public park in Madrid.",
+     "narration": "The Casa de Campo is the largest public park in Madrid. It is situated west of central Madrid, Spain. It gets its name 'Country House' because it was once a royal hunting estate, located just west of the Royal Palace of Madrid. It was created in the early 16th century for use by the royal family and nobility, and was opened to the public in 1931 when it became a public park. Today, it is a popular green space and weekend destination for Madrid residents. Its area is 1,722.6 hectares, about five times the size of New York City's Central Park or twice the size of Paris' Bois de Boulogne.",
+     "longDescription": "The Casa de Campo is the largest public park in Madrid. It is situated west of central Madrid, Spain. It gets its name 'Country House' because it was once a royal hunting estate, located just west of the Royal Palace of Madrid. It was created in the early 16th century for use by the royal family and nobility, and was opened to the public in 1931 when it became a public park. Today, it is a popular green space and weekend destination for Madrid residents. Its area is 1,722.6 hectares, about five times the size of New York City's Central Park or twice the size of Paris' Bois de Boulogne. The Casa de Campo is linked to the Parque del Oeste by the Teleférico de Madrid, a gondola lift. The complex was declared in 2010 an Asset of Cultural Interest by the Community of Madrid. Per the regulations of the General Urban Planning Plan of the Madrid City Council of 1997, it's classified as a historic park.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Casa de Campo",
+     "url": "https://en.wikipedia.org/wiki/Casa_de_Campo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1046524",
+     "url": "https://www.wikidata.org/wiki/Q1046524",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "torre-picasso",
+   "image": {
+    "file": "images/torre-picasso.jpg",
+    "author": "Carlos Delgado",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torre_Picasso_-_01.jpg"
+   },
+   "location": {
+    "latitude": 40.450277777,
+    "longitude": -3.6925
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 25,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden"
+   ],
+   "area": "Cuatro Caminos",
+   "content": {
+    "en": {
+     "name": "Torre Picasso",
+     "intro": "Torre Picasso is a skyscraper in Madrid, Spain designed by Minoru Yamasaki.",
+     "narration": "Torre Picasso is a skyscraper in Madrid, Spain designed by Minoru Yamasaki. From 1988 until 2007 it was the tallest building in Madrid, measuring 515 ft and with 43 floors. Torre Picasso is located next to the Pablo Picasso Square, within the commercial complex AZCA along the Paseo de la Castellana. The building is currently the fifth-largest in Madrid and the tenth-tallest building in Spain.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Torre Picasso",
+     "url": "https://en.wikipedia.org/wiki/Torre_Picasso",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1364394",
+     "url": "https://www.wikidata.org/wiki/Q1364394",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "chueca-madrid",
+   "image": {
+    "file": "images/chueca-madrid.jpg",
+    "author": null,
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chueca.jpg"
+   },
+   "location": {
+    "latitude": 40.421666666,
+    "longitude": -3.698055555
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 29,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "Justicia",
+   "content": {
+    "en": {
+     "name": "Chueca, Madrid",
+     "intro": "Chueca is an area of central Madrid, named after its main square, Plaza de Chueca.",
+     "narration": "Chueca is an area of central Madrid, named after its main square, Plaza de Chueca. It is known as Madrid's gay neighbourhood. Plaza de Chueca was named after Spanish composer and author Federico Chueca. It is located in the administrative ward in the central Madrid neighbourhood of Justicia. Chueca is very lively, with many street cafes and boutique shops. Lonely Planet describes it as \"extravagantly gay, lively young, and always inclusive regardless of your sexual orientation.\"",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Chueca, Madrid",
+     "url": "https://en.wikipedia.org/wiki/Chueca%2C_Madrid",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q284642",
+     "url": "https://www.wikidata.org/wiki/Q284642",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "real-jardin-botanico-de-madrid",
+   "image": {
+    "file": "images/real-jardin-botanico-de-madrid.jpg",
+    "author": "Håkan Svensson (Xauxa)",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:RealJardinBotanico_Puerta_del_Rey.jpg"
+   },
+   "location": {
+    "latitude": 40.41087,
+    "longitude": -3.691398
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Real Jardín Botánico de Madrid",
+     "intro": "Real Jardín Botánico de Madrid is an 8 hectares botanical garden in Madrid.",
+     "narration": "Real Jardín Botánico de Madrid is an 8 hectares botanical garden in Madrid. The public entrance is located at Plaza de Murillo, next to the Prado Museum.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Real Jardín Botánico de Madrid",
+     "url": "https://en.wikipedia.org/wiki/Real_Jard%C3%ADn_Bot%C3%A1nico_de_Madrid",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1794858",
+     "url": "https://www.wikidata.org/wiki/Q1794858",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "carabanchel",
+   "image": {
+    "file": "images/carabanchel.jpg",
+    "author": "Tim Adams",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:(Carabanchel)_Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg"
+   },
+   "location": {
+    "latitude": 40.383669444,
+    "longitude": -3.727988888
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Carabanchel",
+     "intro": "Carabanchel is a district of Madrid, Spain.",
+     "narration": "Carabanchel is a district of Madrid, Spain. It lies on the southern bank of the Manzanares, spanning southward down to the M-40 ring road. The district is made up of the neighbourhoods of Abrantes, Comillas, Opañel, Puerta Bonita, San Isidro and Vista Alegre.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Carabanchel",
+     "url": "https://en.wikipedia.org/wiki/Carabanchel",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1001991",
+     "url": "https://www.wikidata.org/wiki/Q1001991",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "royal-alcazar-of-madrid",
+   "image": {
+    "file": "images/royal-alcazar-of-madrid.jpg",
+    "author": "Malopez 21",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Real_Alc%C3%A1zar_de_Madrid,_maqueta_en_el_Museo_de_Historia_de_Madrid.JPG"
+   },
+   "location": {
+    "latitude": 40.4181,
+    "longitude": -3.71417
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Royal Alcázar of Madrid",
+     "intro": "The Royal Alcázar of Madrid was a fortress located at the site of today's Royal Palace of Madrid, Madrid, Spain.",
+     "narration": "The Royal Alcázar of Madrid was a fortress located at the site of today's Royal Palace of Madrid, Madrid, Spain. The structure was originally built in the second half of the ninth century by the Muslims, then extended and enlarged over the centuries, particularly after 1560. It was at this time that the fortress was converted into a royal palace, and Madrid became the capital of the Spanish Empire. Despite being a palace, the great building kept its original Arabic title of Alcázar. The first extension to the building was commissioned by King Charles I and completed in 1537. Its exterior was constructed by the architect Juan Gómez de Mora in 1636 on a commission from King Philip IV.",
+     "longDescription": "The Royal Alcázar of Madrid was a fortress located at the site of today's Royal Palace of Madrid, Madrid, Spain. The structure was originally built in the second half of the ninth century by the Muslims, then extended and enlarged over the centuries, particularly after 1560. It was at this time that the fortress was converted into a royal palace, and Madrid became the capital of the Spanish Empire. Despite being a palace, the great building kept its original Arabic title of Alcázar. The first extension to the building was commissioned by King Charles I and completed in 1537. Its exterior was constructed by the architect Juan Gómez de Mora in 1636 on a commission from King Philip IV. As famous for its artistic treasures as it is for its unusual architecture, it was the residence of the Spanish royal family and home of the court, until its destruction by fire during the reign of King Philip V, on Christmas Eve 1734. Many artistic treasures were lost, including over 500 paintings. Other works, such as the painting Las Meninas by Velázquez, were saved.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Royal Alcázar of Madrid",
+     "url": "https://en.wikipedia.org/wiki/Royal_Alc%C3%A1zar_of_Madrid",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2832241",
+     "url": "https://www.wikidata.org/wiki/Q2832241",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "sorolla-museum",
+   "image": {
+    "file": "images/sorolla-museum.jpg",
+    "author": "Luis García (Zaqarbal)",
+    "license": "CC BY-SA 3.0 es",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/es/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museo_Sorolla_(Madrid)_07.jpg"
+   },
+   "location": {
+    "latitude": 40.435404,
+    "longitude": -3.692539
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 33,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "modern",
+    "museum"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Sorolla Museum",
+     "intro": "The Sorolla Museum is a single-artist museum in Madrid, Spain, devoted to the work and life of Joaquín Sorolla and the members of his family, such as his wife Clotilde and daughter Elena.",
+     "narration": "The Sorolla Museum is a single-artist museum in Madrid, Spain, devoted to the work and life of Joaquín Sorolla and the members of his family, such as his wife Clotilde and daughter Elena. The museum is located in the house that was the artist's home and workshop. At the beginning of the 20th century Sorolla was in a strong financial position and he commissioned a new home from Enrique María Repullés who had designed Madrid's Stock Exchange. It includes a large working area on the ground floor.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Sorolla Museum",
+     "url": "https://en.wikipedia.org/wiki/Sorolla_Museum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1592523",
+     "url": "https://www.wikidata.org/wiki/Q1592523",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "royal-academy-of-fine-arts-of-san-fernando",
+   "image": {
+    "file": "images/royal-academy-of-fine-arts-of-san-fernando.jpg",
+    "author": "Carlos Delgado",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_de_Goyeneche_-_Real_Academia_de_Bellas_Artes_de_San_Fernando.jpg"
+   },
+   "location": {
+    "latitude": 40.41779,
+    "longitude": -3.70071
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Royal Academy of Fine Arts of San Fernando",
+     "intro": "The Real Academia de Bellas Artes de San Fernando, located on the Calle de Alcalá in the centre of Madrid, currently functions as a museum and gallery.",
+     "narration": "The Real Academia de Bellas Artes de San Fernando, located on the Calle de Alcalá in the centre of Madrid, currently functions as a museum and gallery. A public law corporation, it is integrated together with other Spanish royal academies in the Instituto de España.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Royal Academy of Fine Arts of San Fernando",
+     "url": "https://en.wikipedia.org/wiki/Royal_Academy_of_Fine_Arts_of_San_Fernando",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1322403",
+     "url": "https://www.wikidata.org/wiki/Q1322403",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "plaza-de-colon",
+   "image": {
+    "file": "images/plaza-de-colon.jpg",
+    "author": "Enrique Dans from Madrid (Spain).",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_Col%C3%B3n_(Madrid)_06.jpg"
+   },
+   "location": {
+    "latitude": 40.424925,
+    "longitude": -3.689438888
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "discoveries",
+    "hidden",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Almagro",
+   "content": {
+    "en": {
+     "name": "Plaza de Colón",
+     "intro": "Plaza de Colón is located in the encounter of Chamberí, Centro and Salamanca districts of Madrid, Spain.",
+     "narration": "Plaza de Colón is located in the encounter of Chamberí, Centro and Salamanca districts of Madrid, Spain. This plaza and its fountain commemorate the explorer Christopher Columbus, whose name in Spanish was Cristóbal Colón, whose voyages to the Americas would lead to the creation of the Spanish Empire.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Plaza de Colón",
+     "url": "https://en.wikipedia.org/wiki/Plaza_de_Col%C3%B3n",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q970525",
+     "url": "https://www.wikidata.org/wiki/Q970525",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palacio-de-cristal-del-retiro",
+   "image": {
+    "file": "images/palacio-de-cristal-del-retiro.jpg",
+    "author": "vpogarcia",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_de_Cristal,_Retiro,_Madrid.jpg"
+   },
+   "location": {
+    "latitude": 40.413556,
+    "longitude": -3.682056
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Palacio de Cristal del Retiro",
+     "intro": "The Palacio de Cristal is a 19th-century conservatory located in the Buen Retiro Park in Madrid, Spain.",
+     "narration": "The Palacio de Cristal is a 19th-century conservatory located in the Buen Retiro Park in Madrid, Spain. It is currently used for art exhibitions. The Palacio de Cristal, in the shape of a Greek cross, is made almost entirely of glass set in an iron framework on a brick base, which is decorated with ceramics. Its cupola makes the structure over 22 metres high. When it was erected, glass and iron construction on a large scale was already to be seen in Madrid at Delicias station, the work of a French architect; however, the curved architecture of the Palacio de Cristal is more comparable to the techniques pioneered by the British architects Joseph Paxton and Decimus Burton.",
+     "longDescription": "The Palacio de Cristal is a 19th-century conservatory located in the Buen Retiro Park in Madrid, Spain. It is currently used for art exhibitions. The Palacio de Cristal, in the shape of a Greek cross, is made almost entirely of glass set in an iron framework on a brick base, which is decorated with ceramics. Its cupola makes the structure over 22 metres high. When it was erected, glass and iron construction on a large scale was already to be seen in Madrid at Delicias station, the work of a French architect; however, the curved architecture of the Palacio de Cristal is more comparable to the techniques pioneered by the British architects Joseph Paxton and Decimus Burton. The Palacio de Cristal was, alongside the Pabellón Central, one of the main venues of the 1887 Philippines Exposition. The cast-iron frame was manufactured in Bilbao. The structure was designed in a way that would allow it to be re-erected on another site. However, the building has remained on the original site, next to a lake, and has been restored to its original appearance. It is no longer used as a greenhouse, and is currently used for art exhibits.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palacio de Cristal del Retiro",
+     "url": "https://en.wikipedia.org/wiki/Palacio_de_Cristal_del_Retiro",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2420025",
+     "url": "https://www.wikidata.org/wiki/Q2420025",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "el-rastro",
+   "image": {
+    "file": "images/el-rastro.jpg",
+    "author": null,
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rastro_de_Madrid_(Espa%C3%B1a)_7.jpg"
+   },
+   "location": {
+    "latitude": 40.40888889,
+    "longitude": -3.7075
+   },
+   "category": "market",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 28,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "market"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "El Rastro",
+     "intro": "El Rastro de Madrid or simply el Rastro is the most popular open air flea market in Madrid.",
+     "narration": "El Rastro de Madrid or simply el Rastro is the most popular open air flea market in Madrid. It is held every Sunday and public holiday during the year and is located along Plaza de Cascorro and Ribera de Curtidores, between Calle Embajadores and the Ronda de Toledo. A great variety of products can be found at el Rastro. A number of antique shops in the local area are also open on Sunday.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: El Rastro",
+     "url": "https://en.wikipedia.org/wiki/El_Rastro",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2916187",
+     "url": "https://www.wikidata.org/wiki/Q2916187",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "moncloa-aravaca",
+   "image": {
+    "file": "images/moncloa-aravaca.jpg",
+    "author": "Taken by w:es:Usuario:Barcex",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madrid_-_Plaza_de_Moncloa_-_20050220.jpg"
+   },
+   "location": {
+    "latitude": 40.435151,
+    "longitude": -3.718765
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Moncloa-Aravaca",
+     "intro": "Moncloa-Aravaca is a district of the municipality of Madrid, Spain.",
+     "narration": "Moncloa-Aravaca is a district of the municipality of Madrid, Spain. It is located to the northwest of the city centre, spanning across both banks of the Manzanares. It is made up of the neighborhoods of Aravaca, Argüelles, Casa de Campo, Ciudad Universitaria, El Plantío, Valdemarín and Valdezarza. Moncloa-Aravaca is one of the 21 districts of Madrid, Spain, located in the northwestern part of the city. It is characterized by its blend of urban areas, extensive green spaces, and significant educational and governmental institutions. The district's varied landscape includes dense residential neighborhoods, sprawling university campuses, and large natural parks, making it one of Madrid's most diverse and significant districts [1, 5].",
+     "longDescription": "Moncloa-Aravaca is a district of the municipality of Madrid, Spain. It is located to the northwest of the city centre, spanning across both banks of the Manzanares. It is made up of the neighborhoods of Aravaca, Argüelles, Casa de Campo, Ciudad Universitaria, El Plantío, Valdemarín and Valdezarza. Moncloa-Aravaca is one of the 21 districts of Madrid, Spain, located in the northwestern part of the city. It is characterized by its blend of urban areas, extensive green spaces, and significant educational and governmental institutions. The district's varied landscape includes dense residential neighborhoods, sprawling university campuses, and large natural parks, making it one of Madrid's most diverse and significant districts [1, 5]. Geography and Layout Moncloa-Aravaca spans both banks of the Manzanares River, with the river acting as a natural boundary within parts of the district. It borders the districts of Centro, Chamberí, Tetuán, Fuencarral-El Pardo, and Latina, as well as the municipalities of Pozuelo de Alarcón and Majadahonda to the west. The district’s terrain includes urban cores, leafy The Palace of Moncloa, located in Ciudad Universitaria, is the residence of the Spanish Prime Minister.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Moncloa-Aravaca",
+     "url": "https://en.wikipedia.org/wiki/Moncloa-Aravaca",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2017682",
+     "url": "https://www.wikidata.org/wiki/Q2017682",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "biblioteca-nacional-de-espana",
+   "image": {
+    "file": "images/biblioteca-nacional-de-espana.jpg",
+    "author": "Jean-Pierre Dalbéra",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Biblioteca_Nacional_de_Espa%C3%B1a_(Madrid)_09.jpg"
+   },
+   "location": {
+    "latitude": 40.423822,
+    "longitude": -3.690215
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 24,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Biblioteca Nacional de España",
+     "intro": "The Biblioteca Nacional de España is the national library of Spain.",
+     "narration": "The Biblioteca Nacional de España is the national library of Spain. It is the largest public library in the country, and one of the largest in the world. Founded in 1711, it is an autonomous agency attached to the Ministry of Culture since 1990. Its headquarters is located on the Paseo de Recoletos in Madrid, sharing the building with the National Archaeological Museum.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Biblioteca Nacional de España",
+     "url": "https://en.wikipedia.org/wiki/Biblioteca_Nacional_de_Espa%C3%B1a",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q750403",
+     "url": "https://www.wikidata.org/wiki/Q750403",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "statue-of-the-bear-and-the-strawberry-tree",
+   "image": {
+    "file": "images/statue-of-the-bear-and-the-strawberry-tree.jpg",
+    "author": "Carlos Delgado",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_oso_y_el_madro%C3%B1o_-_02.jpg"
+   },
+   "location": {
+    "latitude": 40.416977,
+    "longitude": -3.702464
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 23,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "modern",
+    "monument"
+   ],
+   "area": "Sol",
+   "content": {
+    "en": {
+     "name": "Statue of the Bear and the Strawberry Tree",
+     "intro": "The Statue of the Bear and the Strawberry Tree is a sculpture from the second half of the 20th century, situated in the Spanish capital, Madrid.",
+     "narration": "The Statue of the Bear and the Strawberry Tree is a sculpture from the second half of the 20th century, situated in the Spanish capital, Madrid. It represents the coat of arms of Madrid and is found on the east side of the Puerta del Sol, between Calle de Alcalá and Carrera de San Jerónimo, in the historical centre of the capital.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Statue of the Bear and the Strawberry Tree",
+     "url": "https://en.wikipedia.org/wiki/Statue_of_the_Bear_and_the_Strawberry_Tree",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q3887613",
+     "url": "https://www.wikidata.org/wiki/Q3887613",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "plaza-de-oriente",
+   "image": {
+    "file": "images/plaza-de-oriente.jpg",
+    "author": "Oliver Gargan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madrid_-_Royal_Palace_of_Madrid_-_20171027160239.jpg"
+   },
+   "location": {
+    "latitude": 40.41806,
+    "longitude": -3.71222
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "historic",
+    "medieval",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Plaza de Oriente",
+     "intro": "The Plaza de Oriente is a square in the historic center of Madrid, Spain.",
+     "narration": "The Plaza de Oriente is a square in the historic center of Madrid, Spain. Rectangular in shape and monumental in character, it was designed in 1844 by Narciso Pascual y Colomer. The square was propagated by King Joseph I, who ordered the demolition of the medieval houses on the site. It is located between some important landmarks in Madrid: To the west is the Royal Palace, the Teatro Real to the east, and the Royal Monastery of the Incarnation to the north. The plaza has statues of 44 Spanish kings from the medieval period, including: Alfonso I of Asturias Alfonso II of Asturias Euric",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Plaza de Oriente",
+     "url": "https://en.wikipedia.org/wiki/Plaza_de_Oriente",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2193218",
+     "url": "https://www.wikidata.org/wiki/Q2193218",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palacio-de-cibeles",
+   "image": {
+    "file": "images/palacio-de-cibeles.jpg",
+    "author": "Carlos Delgado",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_de_Comunicaciones_-_47.jpg"
+   },
+   "location": {
+    "latitude": 40.418611,
+    "longitude": -3.691667
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 25,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Palacio de Cibeles",
+     "intro": "Cibeles Palace, formally known as Palacio de Comunicaciones and Palacio de Telecomunicaciones until 2011, is a complex composed of two buildings with white facades and is located in one of the historical centres of…",
+     "narration": "Cibeles Palace, formally known as Palacio de Comunicaciones and Palacio de Telecomunicaciones until 2011, is a complex composed of two buildings with white facades and is located in one of the historical centres of Madrid, Spain. Formerly the city's main post office and telegraph and telephone headquarters, it is now occupied by City Council of Madrid, serving as the city hall, and the public cultural centre CentroCentro.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palacio de Cibeles",
+     "url": "https://en.wikipedia.org/wiki/Palacio_de_Cibeles",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1849031",
+     "url": "https://www.wikidata.org/wiki/Q1849031",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "convent-of-las-descalzas-reales",
+   "image": {
+    "file": "images/convent-of-las-descalzas-reales.jpg",
+    "author": "Luis García (Zaqarbal)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monasterio_de_las_Descalzas_Reales_(Madrid)_07.jpg"
+   },
+   "location": {
+    "latitude": 40.418267,
+    "longitude": -3.706192
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Convent of Las Descalzas Reales",
+     "intro": "The Convent of Las Descalzas Reales is a royal monastery situated in Madrid, Spain, administered by the Patrimonio Nacional.",
+     "narration": "The Convent of Las Descalzas Reales is a royal monastery situated in Madrid, Spain, administered by the Patrimonio Nacional.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Convent of Las Descalzas Reales",
+     "url": "https://en.wikipedia.org/wiki/Convent_of_Las_Descalzas_Reales",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2268271",
+     "url": "https://www.wikidata.org/wiki/Q2268271",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "museo-de-america",
+   "image": {
+    "file": "images/museo-de-america.jpg",
+    "author": "Carlos Delgado",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museo_de_Am%C3%A9rica_de_Madrid_-_01.jpg"
+   },
+   "location": {
+    "latitude": 40.438131,
+    "longitude": -3.722069
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Museo de América",
+     "intro": "The Museo de América is an art, archaeology, and ethnography museum in Madrid, Spain, devoted to the whole of the Americas from the Paleolithic period to the present day.",
+     "narration": "The Museo de América is an art, archaeology, and ethnography museum in Madrid, Spain, devoted to the whole of the Americas from the Paleolithic period to the present day. It is one of the National Museums of Spain and it is attached to the Ministry of Culture. The museum was established by the Spanish State and its initial pieces came from the former collection of American archaeological and ethnographic artifacts from the National Archaeological Museum, Madrid and the Prado Museum, as well as exhibiting a number of unrelated donations, deposits and purchases. It has a major collection of 18th c. casta paintings, one by Miguel Cabrera, who created a set of 16 large format casta paintings.",
+     "longDescription": "The Museo de América is an art, archaeology, and ethnography museum in Madrid, Spain, devoted to the whole of the Americas from the Paleolithic period to the present day. It is one of the National Museums of Spain and it is attached to the Ministry of Culture. The museum was established by the Spanish State and its initial pieces came from the former collection of American archaeological and ethnographic artifacts from the National Archaeological Museum, Madrid and the Prado Museum, as well as exhibiting a number of unrelated donations, deposits and purchases. It has a major collection of 18th c. casta paintings, one by Miguel Cabrera, who created a set of 16 large format casta paintings. The museum's most famous painting is by Mexican artist, Luis de Mena, of the Virgin of Guadalupe and castas on a single canvas.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Museo de América",
+     "url": "https://en.wikipedia.org/wiki/Museo_de_Am%C3%A9rica",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2568412",
+     "url": "https://www.wikidata.org/wiki/Q2568412",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "plaza-de-la-villa",
+   "image": {
+    "file": "images/plaza-de-la-villa.jpg",
+    "author": "Anagoria",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2012-04-30_Plaza_de_la_Villa_Madrid_anagoria_01.JPG"
+   },
+   "location": {
+    "latitude": 40.41527778,
+    "longitude": -3.71055556
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Palacio",
+   "content": {
+    "en": {
+     "name": "Plaza de la Villa",
+     "intro": "The plaza de la Villa is an urban square in central Madrid, Spain.",
+     "narration": "The plaza de la Villa is an urban square in central Madrid, Spain. The square, bordering the Calle Mayor, houses some of the oldest buildings still around in the city.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Plaza de la Villa",
+     "url": "https://en.wikipedia.org/wiki/Plaza_de_la_Villa",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2711992",
+     "url": "https://www.wikidata.org/wiki/Q2711992",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "royal-basilica-of-saint-francis-the-great",
+   "image": {
+    "file": "images/royal-basilica-of-saint-francis-the-great.jpg",
+    "author": "Jl FilpoC",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:P%C3%BAlpito_de_la_Real_bas%C3%ADlica_de_San_Francisco_el_Grande,_Madrid.jpg"
+   },
+   "location": {
+    "latitude": 40.410478,
+    "longitude": -3.714391
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "roman"
+   ],
+   "area": "Madrid",
+   "content": {
+    "en": {
+     "name": "Royal Basilica of Saint Francis the Great",
+     "intro": "The Royal Basilica of Saint Francis the Great is a Roman Catholic basilica in central Madrid, Spain, located in the neighborhood of Palacio.",
+     "narration": "The Royal Basilica of Saint Francis the Great is a Roman Catholic basilica in central Madrid, Spain, located in the neighborhood of Palacio.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Royal Basilica of Saint Francis the Great",
+     "url": "https://en.wikipedia.org/wiki/Royal_Basilica_of_Saint_Francis_the_Great",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2473884",
+     "url": "https://www.wikidata.org/wiki/Q2473884",
+     "license": "CC0"
+    }
+   ]
+  }
+ ]
+}

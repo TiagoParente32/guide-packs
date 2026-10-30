@@ -1,0 +1,2339 @@
+{
+ "format": 1,
+ "city": {
+  "id": "rome",
+  "name": "Rome",
+  "country": "Italy",
+  "center": {
+   "latitude": 41.8933203,
+   "longitude": 12.4829321
+  },
+  "bounds": {
+   "south": 41.6556417,
+   "north": 42.1410285,
+   "west": 12.2344416,
+   "east": 12.8557603
+  },
+  "languages": [
+   "en"
+  ],
+  "quality": "generated",
+  "placeCount": 45,
+  "version": 1,
+  "hero": {
+   "file": "images/colosseum.jpg",
+   "author": "FeaturedPics",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg"
+  },
+  "packUrl": "cities/rome/pack.json",
+  "generatedAt": "2026-10-30T14:42:24Z"
+ },
+ "pois": [
+  {
+   "id": "colosseum",
+   "image": {
+    "file": "images/colosseum.jpg",
+    "author": "FeaturedPics",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg"
+   },
+   "location": {
+    "latitude": 41.890277777,
+    "longitude": 12.492222222
+   },
+   "category": "archaeology",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "archaeology",
+    "hidden",
+    "historic",
+    "iconic",
+    "roman"
+   ],
+   "area": "Roma Capitale",
+   "content": {
+    "en": {
+     "name": "Colosseum",
+     "intro": "The Colosseum is an elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum.",
+     "narration": "The Colosseum is an elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is the largest standing amphitheatre in the world. Construction began under the Emperor Vespasian in 72 and was completed in AD 80 under his successor and heir, Titus. Further modifications were made during the reign of Domitian. The three emperors who were patrons of the work are known as the Flavian dynasty, and the amphitheatre was named the Flavian Amphitheatre by later classicists and archaeologists for its association with their family name. The Colosseum is built of travertine, Roman concrete, and tuff.",
+     "longDescription": "The Colosseum is an elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is the largest standing amphitheatre in the world. Construction began under the Emperor Vespasian in 72 and was completed in AD 80 under his successor and heir, Titus. Further modifications were made during the reign of Domitian. The three emperors who were patrons of the work are known as the Flavian dynasty, and the amphitheatre was named the Flavian Amphitheatre by later classicists and archaeologists for its association with their family name. The Colosseum is built of travertine, Roman concrete, and tuff. It could hold an estimated 50,000 to 80,000 spectators at various points in its history, having an average audience of some 65,000; it was used for gladiatorial contests and public spectacles including animal hunts, executions, re-enactments of famous battles, dramas based on Roman mythology, and briefly mock sea battles. The building ceased to be used for entertainment in the early medieval era. It was later reused for such purposes as housing, workshops, quarters for a religious order, a fortress, a quarry, and a Christian shrine. Although substantially ruined by earthquakes and stone robbers taking spolia, the Colosseum is still a renowned symbol of Imperial Rome and was listed as one of the New 7 Wonders of the World. It is one of Rome's most popular tourist attractions and each Good Friday the Pope leads a torchlit Catholic \"Way of the Cross\" procession that starts in the area around the Colosseum. The Colosseum is depicted on the Italian version of the 5 euro cent coin.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Colosseum",
+     "url": "https://en.wikipedia.org/wiki/Colosseum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q10285",
+     "url": "https://www.wikidata.org/wiki/Q10285",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "roman-forum",
+   "image": {
+    "file": "images/roman-forum.jpg",
+    "author": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here are not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Foro_Romano_Musei_Capitolini_Roma.jpg"
+   },
+   "location": {
+    "latitude": 41.8922,
+    "longitude": 12.4852
+   },
+   "category": "square",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "iconic",
+    "neighbourhood",
+    "roman",
+    "square"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Roman Forum",
+     "intro": "The Roman Forum, also known by its Latin name Forum Romanum, is a rectangular forum surrounded by the ruins of several important ancient government buildings at the centre of the city of Rome.",
+     "narration": "The Roman Forum, also known by its Latin name Forum Romanum, is a rectangular forum surrounded by the ruins of several important ancient government buildings at the centre of the city of Rome. Citizens of the ancient city referred to this space, originally a marketplace, as the Forum Magnum, or simply the Forum. For centuries, the Forum was the centre of day-to-day life in Rome: the site of triumphal processions and elections; the venue for public speeches, criminal trials and gladiatorial matches; and the nucleus of commercial and legal affairs. Here statues and monuments commemorated the city's leaders. The heart of ancient Rome, it has been called the most celebrated meeting place in the world, and in all history.",
+     "longDescription": "The Roman Forum, also known by its Latin name Forum Romanum, is a rectangular forum surrounded by the ruins of several important ancient government buildings at the centre of the city of Rome. Citizens of the ancient city referred to this space, originally a marketplace, as the Forum Magnum, or simply the Forum. For centuries, the Forum was the centre of day-to-day life in Rome: the site of triumphal processions and elections; the venue for public speeches, criminal trials and gladiatorial matches; and the nucleus of commercial and legal affairs. Here statues and monuments commemorated the city's leaders. The heart of ancient Rome, it has been called the most celebrated meeting place in the world, and in all history. Located in the small valley between the Palatine and Capitoline Hills, the Forum today is a sprawling ruin of architectural fragments and intermittent archaeological excavations attracting 4.5 million or more sightseers yearly. Many of the oldest and most important structures of the ancient city were located on or near the Forum. The Roman Kingdom's earliest shrines and temples were located on the southeastern edge. These included the ancient former royal residence, the Regia, and the Temple of Vesta, as well as the surrounding complex of the Vestal Virgins, all of which were rebuilt after the rise of imperial Rome. Other archaic shrines to the northwest, such as the Umbilicus Urbis and the Vulcanal, developed into the Republic's formal Comitium. This is where the Senate—as well as Republican government itself—began. The Senate House, government offices, tribunals, temples, memorials and statues gradually cluttered the area. Over time, the archaic Comitium was replaced by the larger adjacent Forum, and the focus of judicial activity moved to the new Basilic",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Roman Forum",
+     "url": "https://en.wikipedia.org/wiki/Roman_Forum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q180212",
+     "url": "https://www.wikidata.org/wiki/Q180212",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "pantheon-rome",
+   "image": {
+    "file": "images/pantheon-rome.jpg",
+    "author": "NikonZ7II",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Right_side_and_front.jpg"
+   },
+   "location": {
+    "latitude": 41.898611111,
+    "longitude": 12.476944444
+   },
+   "category": "church",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "roman"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Pantheon, Rome",
+     "intro": "The Pantheon is an ancient Polytheist temple in Rome, Italy, originally built under Roman emperor Augustus and reconstructed under Hadrian.",
+     "narration": "The Pantheon is an ancient Polytheist temple in Rome, Italy, originally built under Roman emperor Augustus and reconstructed under Hadrian. Since AD 609, it has served as the Roman Catholic Basilica of Saint Mary and the Holy Martyrs with the special Pontifical privilege of immemorial status. The Pantheon was built on the site of an earlier temple, which had been commissioned by Marcus Vipsanius Agrippa during the reign of Augustus. After the original burnt down, the present building was completed by the emperor Hadrian and probably dedicated c. AD 126. Its date of construction is uncertain, because Hadrian chose to re-inscribe the new temple with Agrippa's original date inscription from the older temple.",
+     "longDescription": "The Pantheon is an ancient Polytheist temple in Rome, Italy, originally built under Roman emperor Augustus and reconstructed under Hadrian. Since AD 609, it has served as the Roman Catholic Basilica of Saint Mary and the Holy Martyrs with the special Pontifical privilege of immemorial status. The Pantheon was built on the site of an earlier temple, which had been commissioned by Marcus Vipsanius Agrippa during the reign of Augustus. After the original burnt down, the present building was completed by the emperor Hadrian and probably dedicated c. AD 126. Its date of construction is uncertain, because Hadrian chose to re-inscribe the new temple with Agrippa's original date inscription from the older temple. The building is round in plan, except for the portico with large granite Corinthian columns under a pediment. A rectangular vestibule links the porch to the rotunda, which is under a coffered concrete dome made from Roman concrete, with a central opening to the sky. Almost two thousand years after it was built, the Pantheon's dome is still the world's largest unreinforced concrete dome. The height to the oculus and the diameter of the interior circle are the same, 43 metres. It is one of the best-preserved of all Ancient Roman buildings, in large part because it has been in continuous use throughout its history. Since the 7th century, it has been a church dedicated to St. Mary and the Martyrs, known as \"Santa Maria Rotonda\". The square in front of the Pantheon is called Piazza della Rotonda. The Pantheon is a state property, managed by Italy's Ministry of Cultural Heritage and Activities and Tourism through the Polo Museale del Lazio. The Pantheon's large circular domed cella, with a conventional temple portico front, was unique in Roman architecture. Nevertheless, it ",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Pantheon, Rome",
+     "url": "https://en.wikipedia.org/wiki/Pantheon%2C_Rome",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q99309",
+     "url": "https://www.wikidata.org/wiki/Q99309",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "capitoline-hill",
+   "image": {
+    "file": "images/capitoline-hill.jpg",
+    "author": "Ricardo André Frantz (User:Tetraktys)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aracoeli-fachada.jpg"
+   },
+   "location": {
+    "latitude": 41.893333333,
+    "longitude": 12.483055555
+   },
+   "category": "viewpoint",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "iconic",
+    "roman",
+    "scenic",
+    "viewpoint"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Capitoline Hill",
+     "intro": "The Capitolium or Capitoline Hill, between the Forum and the Campus Martius, is one of the Seven Hills of Rome.",
+     "narration": "The Capitolium or Capitoline Hill, between the Forum and the Campus Martius, is one of the Seven Hills of Rome. The hill was earlier known as Mons Saturnius, dedicated to the god Saturn. The word Capitolium first referred to the Temple of Jupiter Optimus Maximus which was located on the hill; however, the meaning evolved to refer to the whole hill and even other temples of Jupiter on other hills. In an etymological myth, ancient sources connect the name to caput because of a tale that stated that when the foundations for the temple were being laid, a man's head was found. The Capitolium was regarded by the Romans as indestructible, and was adopted as a symbol of eternity.",
+     "longDescription": "The Capitolium or Capitoline Hill, between the Forum and the Campus Martius, is one of the Seven Hills of Rome. The hill was earlier known as Mons Saturnius, dedicated to the god Saturn. The word Capitolium first referred to the Temple of Jupiter Optimus Maximus which was located on the hill; however, the meaning evolved to refer to the whole hill and even other temples of Jupiter on other hills. In an etymological myth, ancient sources connect the name to caput because of a tale that stated that when the foundations for the temple were being laid, a man's head was found. The Capitolium was regarded by the Romans as indestructible, and was adopted as a symbol of eternity. The word Capitolium is a precursor to the English word capitol, and Capitol Hill in Washington, D.C. is widely assumed to be named after the Capitoline Hill.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Capitoline Hill",
+     "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q34925",
+     "url": "https://www.wikidata.org/wiki/Q34925",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-peter-s-basilica",
+   "image": {
+    "file": "images/st-peter-s-basilica.jpg",
+    "author": "Alvesgaspar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg"
+   },
+   "location": {
+    "latitude": 41.902222222,
+    "longitude": 12.453416666
+   },
+   "category": "church",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 34,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "roman"
+   ],
+   "area": "Vatican City",
+   "content": {
+    "en": {
+     "name": "St. Peter's Basilica",
+     "intro": "The Papal Basilica of Saint Peter in the Vatican, or simply St.",
+     "narration": "The Papal Basilica of Saint Peter in the Vatican, or simply St. Peter's Basilica, is a church of the Italian Renaissance located in Vatican City, an independent microstate enclaved within the city of Rome, Italy. It was initially planned in the 15th century by Pope Nicholas V and then Pope Julius II to replace the ageing Old St. Peter's Basilica, which was built in the fourth century by Roman emperor Constantine the Great. Construction of the present basilica began on 18 April 1506 and was completed on 18 November 1626.",
+     "longDescription": "The Papal Basilica of Saint Peter in the Vatican, or simply St. Peter's Basilica, is a church of the Italian Renaissance located in Vatican City, an independent microstate enclaved within the city of Rome, Italy. It was initially planned in the 15th century by Pope Nicholas V and then Pope Julius II to replace the ageing Old St. Peter's Basilica, which was built in the fourth century by Roman emperor Constantine the Great. Construction of the present basilica began on 18 April 1506 and was completed on 18 November 1626. Designed principally by Donato Bramante, Michelangelo, and Carlo Maderno, with piazza and fittings by Gian Lorenzo Bernini, Saint Peter's is one of the most renowned works of Italian Renaissance architecture and is the largest church in the world by interior measure. While it is neither the mother church of the Catholic Church nor the cathedral of the Diocese of Rome, Saint Peter's is regarded as one of the holiest Catholic shrines. It has been described as \"holding a unique position in the Christian world\", and as \"the greatest of all churches of Christendom\". Catholic tradition holds that the basilica is the burial site of Saint Peter, chief among Jesus's apostles and also the first Bishop of Rome. Saint Peter's tomb is directly below the high altar of the basilica, also known as the Altar of the Confession. For this reason, many popes, cardinals and bishops have been interred at St. Peter's since the Early Christian period. St. Peter's is famous as a place of pilgrimage and for its liturgical functions. The pope presides at a number of liturgies throughout the year both within the basilica or the adjoining St. Peter's Square; these liturgies draw audiences numbering from 15,000 to over 80,000 people. St. Peter's has many historical associations, with ",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St. Peter's Basilica",
+     "url": "https://en.wikipedia.org/wiki/St._Peter%27s_Basilica",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q12512",
+     "url": "https://www.wikidata.org/wiki/Q12512",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "aventine-hill",
+   "image": {
+    "file": "images/aventine-hill.jpg",
+    "author": "user:Lalupa",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ripa_-_Aventino_-_CavalieriDiMalta.JPG"
+   },
+   "location": {
+    "latitude": 41.883333333,
+    "longitude": 12.483333333
+   },
+   "category": "viewpoint",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "iconic",
+    "modern",
+    "roman",
+    "scenic",
+    "viewpoint"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Aventine Hill",
+     "intro": "The Aventine Hill is one of the Seven Hills on which ancient Rome was built.",
+     "narration": "The Aventine Hill is one of the Seven Hills on which ancient Rome was built. It belongs to Ripa, the modern twelfth rione, or ward, of Rome.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Aventine Hill",
+     "url": "https://en.wikipedia.org/wiki/Aventine_Hill",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q194103",
+     "url": "https://www.wikidata.org/wiki/Q194103",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "vatican-hill",
+   "image": {
+    "file": "images/vatican-hill.jpg",
+    "author": "Workshop of Pieter van Aelst / After Raphael",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vatican_hill.jpg"
+   },
+   "location": {
+    "latitude": 41.903611111,
+    "longitude": 12.450277777
+   },
+   "category": "viewpoint",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "iconic",
+    "river",
+    "scenic",
+    "viewpoint"
+   ],
+   "area": "Vatican City",
+   "content": {
+    "en": {
+     "name": "Vatican Hill",
+     "intro": "Vatican Hill is a hill in Rome, located on the right bank of Tiber river, opposite to the traditional seven hills of Rome.",
+     "narration": "Vatican Hill is a hill in Rome, located on the right bank of Tiber river, opposite to the traditional seven hills of Rome. The hill also gave the name to Vatican City. It is the location of St. Peter's Basilica.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Vatican Hill",
+     "url": "https://en.wikipedia.org/wiki/Vatican_Hill",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1053000",
+     "url": "https://www.wikidata.org/wiki/Q1053000",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "victor-emmanuel-ii-monument",
+   "image": {
+    "file": "images/victor-emmanuel-ii-monument.jpg",
+    "author": "ThePhotografer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Altare_della_Patria_(Roma).jpg"
+   },
+   "location": {
+    "latitude": 41.894722222,
+    "longitude": 12.483055555
+   },
+   "category": "monument",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 34,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "modern",
+    "monument"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Victor Emmanuel II Monument",
+     "intro": "The Victor Emmanuel II National Monument, also known as the Vittoriano or for synecdoche Altare della Patria, is a large national monument built between 1885 and 1935 to honour Victor Emmanuel II, the first king of a…",
+     "narration": "The Victor Emmanuel II National Monument, also known as the Vittoriano or for synecdoche Altare della Patria, is a large national monument built between 1885 and 1935 to honour Victor Emmanuel II, the first king of a unified Italy, in Rome, Italy. It occupies a site between the Piazza Venezia and the Capitoline Hill. The monument was realized by Giuseppe Sacconi. From an architectural perspective, it was conceived as a modern forum, an agora on three levels connected by stairways and dominated by a portico characterized by a colonnade.",
+     "longDescription": "The Victor Emmanuel II National Monument, also known as the Vittoriano or for synecdoche Altare della Patria, is a large national monument built between 1885 and 1935 to honour Victor Emmanuel II, the first king of a unified Italy, in Rome, Italy. It occupies a site between the Piazza Venezia and the Capitoline Hill. The monument was realized by Giuseppe Sacconi. From an architectural perspective, it was conceived as a modern forum, an agora on three levels connected by stairways and dominated by a portico characterized by a colonnade. The complex process of national unity and liberation from foreign domination carried out by King Victor Emmanuel II of Savoy, to whom the monument is dedicated, has a great symbolic and representative value, being architecturally and artistically centred on the unification of Italy—for this reason the Vittoriano is considered one of the national symbols of Italy. It also preserves the Altar of the Fatherland, first an altar of the goddess Roma, then also a shrine of the Italian Unknown Soldier, thus adopting the function of a secular temple consecrated to Italy. Because of its great representative value, the entire Vittoriano is often called the Altare della Patria, although the latter constitutes only a part of the monument. It is currently managed by the Polo Museale del Lazio and is owned by the Ministry of Cultural Heritage and Activities.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Victor Emmanuel II Monument",
+     "url": "https://en.wikipedia.org/wiki/Victor_Emmanuel_II_Monument",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q506234",
+     "url": "https://www.wikidata.org/wiki/Q506234",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "trajan-s-forum",
+   "image": {
+    "file": "images/trajan-s-forum.jpg",
+    "author": "Samanthamalgieri",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trajan_forum.jpg"
+   },
+   "location": {
+    "latitude": 41.895417,
+    "longitude": 12.485869
+   },
+   "category": "square",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "iconic",
+    "neighbourhood",
+    "roman",
+    "square"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Trajan's Forum",
+     "intro": "Trajan's Forum was the last of the Imperial fora to be constructed in ancient Rome.",
+     "narration": "Trajan's Forum was the last of the Imperial fora to be constructed in ancient Rome. The architect Apollodorus of Damascus oversaw its construction.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Trajan's Forum",
+     "url": "https://en.wikipedia.org/wiki/Trajan%27s_Forum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q211295",
+     "url": "https://www.wikidata.org/wiki/Q211295",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "castel-sant-angelo",
+   "image": {
+    "file": "images/castel-sant-angelo.jpg",
+    "author": "Livioandronico2013",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castel_Sant%27Angelo_at_Night.jpg"
+   },
+   "location": {
+    "latitude": 41.903044,
+    "longitude": 12.466307
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 25,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "museum",
+    "roman"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Castel Sant'Angelo",
+     "intro": "Castel Sant'Angelo, also known as Mausoleum of Hadrian, is a towering rotunda in Parco Adriano, Rome, Italy.",
+     "narration": "Castel Sant'Angelo, also known as Mausoleum of Hadrian, is a towering rotunda in Parco Adriano, Rome, Italy. It was initially commissioned by the Roman Emperor Hadrian as a mausoleum for himself and his family. The popes later used the building as a fortress and castle dedicated to Saint Michael the Archangel, and it is now a museum. The structure was once the tallest building in Rome.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Castel Sant'Angelo",
+     "url": "https://en.wikipedia.org/wiki/Castel_Sant%27Angelo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q486382",
+     "url": "https://www.wikidata.org/wiki/Q486382",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "archbasilica-of-saint-john-lateran",
+   "image": {
+    "file": "images/archbasilica-of-saint-john-lateran.jpg",
+    "author": "NikonZ7II",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Giovanni_in_Laterano_2021.jpg"
+   },
+   "location": {
+    "latitude": 41.885905555,
+    "longitude": 12.506155555
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "roman"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Archbasilica of Saint John Lateran",
+     "intro": "The Archbasilica of Saint John Lateran, commonly known as the Lateran Basilica or Saint John Lateran, is the Catholic cathedral of the Diocese of Rome in the city of Rome, Italy.",
+     "narration": "The Archbasilica of Saint John Lateran, commonly known as the Lateran Basilica or Saint John Lateran, is the Catholic cathedral of the Diocese of Rome in the city of Rome, Italy. It serves as the seat of the bishop of Rome and head of the worldwide Catholic Church: the pope. The only \"archbasilica\" in the world, it lies outside of Vatican City proper, which is located approximately four kilometres northwest. Nevertheless, as properties of the Holy See, the archbasilica and its adjoining edifices enjoy an extraterritorial status from Italy, pursuant to the terms of the Lateran Treaty of 1929.",
+     "longDescription": "The Archbasilica of Saint John Lateran, commonly known as the Lateran Basilica or Saint John Lateran, is the Catholic cathedral of the Diocese of Rome in the city of Rome, Italy. It serves as the seat of the bishop of Rome and head of the worldwide Catholic Church: the pope. The only \"archbasilica\" in the world, it lies outside of Vatican City proper, which is located approximately four kilometres northwest. Nevertheless, as properties of the Holy See, the archbasilica and its adjoining edifices enjoy an extraterritorial status from Italy, pursuant to the terms of the Lateran Treaty of 1929. Dedicated to Christ the Saviour, in honor of John the Baptist and John the Evangelist, the place name – Laterano – comes from an ancient Roman family, whose palace grounds occupied the site. The adjacent Lateran Palace was the primary residence of the pope until the Middle Ages. The church is the oldest of the four major papal basilicas, and it is one of the Seven Pilgrim Churches of Rome. Founded in 324, it is the oldest public church in the city of Rome, and the oldest basilica in the Western world. It houses the cathedra of the Roman bishop, and it has the title of ecumenical mother church of the Catholic faithful. The building deteriorated during the Middle Ages and was badly damaged by two fires in the 14th century. It was rebuilt in the late 16th century during the reign of Pope Sixtus V. The new structure's interior was renovated in the late 17th century, and its façade was completed in 1735 under Pope Clement XII. The current Rector is Cardinal Archpriest Baldassare Reina, Vicar General for the Diocese of Rome since 6 October 2024. The president of the French Republic, currently Emmanuel Macron, is ex officio the \"First and Only Honorary Canon\" of the archbasilica, a title t",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Archbasilica of Saint John Lateran",
+     "url": "https://en.wikipedia.org/wiki/Archbasilica_of_Saint_John_Lateran",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q84090",
+     "url": "https://www.wikidata.org/wiki/Q84090",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "pieta-michelangelo",
+   "image": {
+    "file": "images/pieta-michelangelo.jpg",
+    "author": "Stanislav Traykov",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Michelangelo%27s_Pieta_5450_cropncleaned_edit.jpg"
+   },
+   "location": {
+    "latitude": 41.902222222,
+    "longitude": 12.453333333
+   },
+   "category": "monument",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Pietà (Michelangelo)",
+     "intro": "The Pietà is a Carrara marble sculpture of Jesus and Mary at Mount Golgotha representing the \"Sixth Sorrow\" of the Virgin Mary by Michelangelo Buonarroti, in Saint Peter's Basilica, Vatican City, for which it was made.",
+     "narration": "The Pietà is a Carrara marble sculpture of Jesus and Mary at Mount Golgotha representing the \"Sixth Sorrow\" of the Virgin Mary by Michelangelo Buonarroti, in Saint Peter's Basilica, Vatican City, for which it was made. It is a key work of Italian Renaissance sculpture and often taken as the start of the High Renaissance. The sculpture captures the moment when Jesus, taken down from the cross, is given to his mother Mary. Mary looks younger than Jesus; art historians believe Michelangelo was inspired by a passage in Dante Alighieri's Divine Comedy: \"O virgin mother, daughter of your Son [...] your merit so ennobled human nature that its divine Creator did not hesitate to become its creature\".",
+     "longDescription": "The Pietà is a Carrara marble sculpture of Jesus and Mary at Mount Golgotha representing the \"Sixth Sorrow\" of the Virgin Mary by Michelangelo Buonarroti, in Saint Peter's Basilica, Vatican City, for which it was made. It is a key work of Italian Renaissance sculpture and often taken as the start of the High Renaissance. The sculpture captures the moment when Jesus, taken down from the cross, is given to his mother Mary. Mary looks younger than Jesus; art historians believe Michelangelo was inspired by a passage in Dante Alighieri's Divine Comedy: \"O virgin mother, daughter of your Son [...] your merit so ennobled human nature that its divine Creator did not hesitate to become its creature\". Michelangelo's aesthetic interpretation of the Pietà is unprecedented in Italian sculpture because it balances early forms of naturalism with the Renaissance ideals of classical beauty. The statue was originally commissioned by a French cardinal, Jean Bilhères de Lagraulas, then French ambassador in Rome. The sculpture was made, probably as an altarpiece, for the cardinal's funeral chapel in Old St Peter's. When this was demolished it was preserved, and later took its current location, the first chapel on the north side after the entrance of the new basilica, in the 18th century. It is the only piece Michelangelo ever signed. The statue had to be restored after the figure of Mary was vandalized on Pentecost Sunday of 1972; after the incident, the statue was protected by a bulletproof glass screen that was replaced and modernized in November 2024 in preparation for the 2025 Jubilee.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Pietà (Michelangelo)",
+     "url": "https://en.wikipedia.org/wiki/Piet%C3%A0_%28Michelangelo%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q235242",
+     "url": "https://www.wikidata.org/wiki/Q235242",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "arch-of-constantine",
+   "image": {
+    "file": "images/arch-of-constantine.jpg",
+    "author": "NikonZ7II (Paris Orlando)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arch_of_Constantine_(Rome)_-_South_side,_from_Via_triumphalis.jpg"
+   },
+   "location": {
+    "latitude": 41.889828,
+    "longitude": 12.490605
+   },
+   "category": "archaeology",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "archaeology",
+    "hidden",
+    "historic",
+    "iconic",
+    "roman"
+   ],
+   "area": "Celio",
+   "content": {
+    "en": {
+     "name": "Arch of Constantine",
+     "intro": "The Arch of Constantine is a triumphal arch in Rome dedicated to the emperor Constantine the Great.",
+     "narration": "The Arch of Constantine is a triumphal arch in Rome dedicated to the emperor Constantine the Great. The arch was commissioned by the Roman Senate to commemorate Constantine's victory over Maxentius at the Battle of the Milvian Bridge in AD 312. Situated between the Colosseum and the Palatine Hill, the arch spans the Via Triumphalis, the route taken by victorious military leaders when they entered the city in a triumphal procession. Dedicated in 315, it is the largest Roman triumphal arch, with overall dimensions of 21 m high, 25.9 m wide and 7.4 m deep. It has three bays, the central one being 11.5 m high and 6.5 m wide and the laterals 7.4 m by 3.4 m each.",
+     "longDescription": "The Arch of Constantine is a triumphal arch in Rome dedicated to the emperor Constantine the Great. The arch was commissioned by the Roman Senate to commemorate Constantine's victory over Maxentius at the Battle of the Milvian Bridge in AD 312. Situated between the Colosseum and the Palatine Hill, the arch spans the Via Triumphalis, the route taken by victorious military leaders when they entered the city in a triumphal procession. Dedicated in 315, it is the largest Roman triumphal arch, with overall dimensions of 21 m high, 25.9 m wide and 7.4 m deep. It has three bays, the central one being 11.5 m high and 6.5 m wide and the laterals 7.4 m by 3.4 m each. The arch is constructed of brick-faced concrete covered in marble. The three-bay design with detached columns was first used for the Arch of Septimius Severus in the Roman Forum and repeated in several other arches now lost. Though dedicated to Constantine, much of the sculptural decoration consists of reliefs and statues removed from earlier triumphal monuments dedicated to Trajan, Hadrian and Marcus Aurelius, with the portrait heads replaced with his own. The resulting mixture of sculptural styles has given rise to much discussion among art historians.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Arch of Constantine",
+     "url": "https://en.wikipedia.org/wiki/Arch_of_Constantine",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5786",
+     "url": "https://www.wikidata.org/wiki/Q5786",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "santa-maria-maggiore",
+   "image": {
+    "file": "images/santa-maria-maggiore.jpg",
+    "author": "NikonZ7II",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilica_di_Santa_Maria_Maggiore_-_Roma.jpg"
+   },
+   "location": {
+    "latitude": 41.8975,
+    "longitude": 12.498611111
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "roman"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Santa Maria Maggiore",
+     "intro": "The Papal Basilica of Saint Mary the Great, also informally known as the Basilica of Saint Mary Major, is a Roman Catholic Papal Basilica and one of the Seven Pilgrim Churches of Rome.",
+     "narration": "The Papal Basilica of Saint Mary the Great, also informally known as the Basilica of Saint Mary Major, is a Roman Catholic Papal Basilica and one of the Seven Pilgrim Churches of Rome. The largest Marian church in Rome, it is regarded as the first Marian sanctuary and the mother of all Marian shrines. The shrine is dedicated to the Blessed Virgin Mary under the title of Our Lady of the Snow. The Papal basilica is located in Piazza dell'Esquilino at the 15th administrative Rione district. Pursuant to the Lateran Treaty of 1929 between the Holy See and Italy, the basilica is in Italy and not Vatican City.",
+     "longDescription": "The Papal Basilica of Saint Mary the Great, also informally known as the Basilica of Saint Mary Major, is a Roman Catholic Papal Basilica and one of the Seven Pilgrim Churches of Rome. The largest Marian church in Rome, it is regarded as the first Marian sanctuary and the mother of all Marian shrines. The shrine is dedicated to the Blessed Virgin Mary under the title of Our Lady of the Snow. The Papal basilica is located in Piazza dell'Esquilino at the 15th administrative Rione district. Pursuant to the Lateran Treaty of 1929 between the Holy See and Italy, the basilica is in Italy and not Vatican City. However, as a property of the Holy See, Italy is obliged to protect its ownership and to concede to it \"the immunity granted by international law to the headquarters of the diplomatic agents of foreign states\". The shrine is designated a basilica by the privilege of immemorial status. The basilica enshrines several notable Christian relics, most notably the holy crib of the Child Jesus and the venerated image of Salus Populi Romani, depicting the Madonna and Child as both the patroness and protectress of the Roman peoples. Pope Gregory XVI granted the image a Pontifical decree of canonical coronation via the Papal bull Cælestis Regina Maxima in 15 August 1838.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Santa Maria Maggiore",
+     "url": "https://en.wikipedia.org/wiki/Santa_Maria_Maggiore",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q186282",
+     "url": "https://www.wikidata.org/wiki/Q186282",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "piazza-navona",
+   "image": {
+    "file": "images/piazza-navona.jpg",
+    "author": "Bargioni",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:PiazzaNavonaPanoramicaVerticale.jpg"
+   },
+   "location": {
+    "latitude": 41.89871,
+    "longitude": 12.47316
+   },
+   "category": "square",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 34,
+   "visitMinutes": 4,
+   "tags": [
+    "baroque",
+    "neighbourhood",
+    "roman",
+    "square"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Piazza Navona",
+     "intro": "Piazza Navona is a public open space in Rome, Italy.",
+     "narration": "Piazza Navona is a public open space in Rome, Italy. It is built on the site of the 1st century AD Stadium of Domitian and follows the form of the open space of the stadium in an elongated oval. The ancient Romans went there to watch the agones, and hence it was known as \"Circus Agonalis\". In the 17th century it became a showcase for Baroque design, with work by Bernini and Borromini among others. The Fontana dei Quattro Fiumi stands in front of the Church of Sant'Agnese in Agone.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Piazza Navona",
+     "url": "https://en.wikipedia.org/wiki/Piazza_Navona",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q463400",
+     "url": "https://www.wikidata.org/wiki/Q463400",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "janiculum",
+   "image": {
+    "file": "images/janiculum.jpg",
+    "author": null,
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Janiculum.jpg"
+   },
+   "location": {
+    "latitude": 41.891666666,
+    "longitude": 12.461111111
+   },
+   "category": "viewpoint",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 21,
+   "visitMinutes": 6,
+   "tags": [
+    "modern",
+    "river",
+    "roman",
+    "scenic",
+    "viewpoint"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Janiculum",
+     "intro": "The Janiculum, occasionally known as the Janiculan Hill, is a hill in western Rome, Italy.",
+     "narration": "The Janiculum, occasionally known as the Janiculan Hill, is a hill in western Rome, Italy. Although it is the second-tallest hill in the contemporary city of Rome, the Janiculum is not considered among the proverbial Seven Hills of Rome, as it is west of the Tiber river and outside the boundaries of the ancient city.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Janiculum",
+     "url": "https://en.wikipedia.org/wiki/Janiculum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q303001",
+     "url": "https://www.wikidata.org/wiki/Q303001",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "aurelian-walls",
+   "image": {
+    "file": "images/aurelian-walls.jpg",
+    "author": "user:Lalupa",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Celio_-_le_mura_tra_porta_san_Sebastiano_e_porta_Ardeatina_1974.JPG"
+   },
+   "location": {
+    "latitude": 41.873292,
+    "longitude": 12.498955
+   },
+   "category": "archaeology",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 6,
+   "tags": [
+    "archaeology",
+    "hidden",
+    "historic",
+    "river",
+    "roman"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Aurelian Walls",
+     "intro": "The Aurelian Walls are a line of city walls built between AD 271 and AD 275 in Rome, Italy, during the reign of the Roman Emperor Aurelian.",
+     "narration": "The Aurelian Walls are a line of city walls built between AD 271 and AD 275 in Rome, Italy, during the reign of the Roman Emperor Aurelian. They superseded the earlier Servian Wall built during the 4th century BC. The walls enclosed all the seven hills of Rome plus the Campus Martius and, on the right bank of the Tiber, the Trastevere district. The river banks within the city limits appear to have been left unfortified, although they were fortified along the Campus Martius. The size of the entire enclosed area is 1,400 hectares. The wall cut through populated areas: in reality the city at the time embraced 2,400 hectares.",
+     "longDescription": "The Aurelian Walls are a line of city walls built between AD 271 and AD 275 in Rome, Italy, during the reign of the Roman Emperor Aurelian. They superseded the earlier Servian Wall built during the 4th century BC. The walls enclosed all the seven hills of Rome plus the Campus Martius and, on the right bank of the Tiber, the Trastevere district. The river banks within the city limits appear to have been left unfortified, although they were fortified along the Campus Martius. The size of the entire enclosed area is 1,400 hectares. The wall cut through populated areas: in reality the city at the time embraced 2,400 hectares. Pliny the Elder in the first century AD suggested that the densely populated areas, extrema tectorum extended 2.8 kilometres from the Golden Milestone in the Forum.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Aurelian Walls",
+     "url": "https://en.wikipedia.org/wiki/Aurelian_Walls",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q625149",
+     "url": "https://www.wikidata.org/wiki/Q625149",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "domus-aurea",
+   "image": {
+    "file": "images/domus-aurea.jpg",
+    "author": "Rabax63",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:EingangDomusAurea.jpg"
+   },
+   "location": {
+    "latitude": 41.891388888,
+    "longitude": 12.495277777
+   },
+   "category": "archaeology",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 22,
+   "visitMinutes": 6,
+   "tags": [
+    "archaeology",
+    "hidden",
+    "historic",
+    "roman"
+   ],
+   "area": "Roma Capitale",
+   "content": {
+    "en": {
+     "name": "Domus Aurea",
+     "intro": "The Domus Aurea was a vast landscaped complex built by the Emperor Nero largely on the Oppian Hill in the heart of ancient Rome after the great fire in 64 AD had destroyed a large part of the city.",
+     "narration": "The Domus Aurea was a vast landscaped complex built by the Emperor Nero largely on the Oppian Hill in the heart of ancient Rome after the great fire in 64 AD had destroyed a large part of the city. It replaced and extended his Domus Transitoria that he had built as his first palace complex on the site.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Domus Aurea",
+     "url": "https://en.wikipedia.org/wiki/Domus_Aurea",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q622438",
+     "url": "https://www.wikidata.org/wiki/Q622438",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "fontana-dei-quattro-fiumi",
+   "image": {
+    "file": "images/fontana-dei-quattro-fiumi.jpg",
+    "author": "Bargioni",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:PiazzaNavonaPanoramicaVerticale.jpg"
+   },
+   "location": {
+    "latitude": 41.898953,
+    "longitude": 12.473075
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Fontana dei Quattro Fiumi",
+     "intro": "Fontana dei Quattro Fiumi is a fountain in the Piazza Navona in Rome, Italy.",
+     "narration": "Fontana dei Quattro Fiumi is a fountain in the Piazza Navona in Rome, Italy. It was designed in 1651 by Gian Lorenzo Bernini for Pope Innocent X whose family palace, the Palazzo Pamphili, faced onto the piazza as did the church of Sant'Agnese in Agone of which Innocent was the sponsor.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Fontana dei Quattro Fiumi",
+     "url": "https://en.wikipedia.org/wiki/Fontana_dei_Quattro_Fiumi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q655470",
+     "url": "https://www.wikidata.org/wiki/Q655470",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "trevi-fountain",
+   "image": {
+    "file": "images/trevi-fountain.jpg",
+    "author": "NikonZ7II",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trevi_Fountain_-_Roma.jpg"
+   },
+   "location": {
+    "latitude": 41.900932251,
+    "longitude": 12.483312638
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "baroque",
+    "historic",
+    "monument"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Trevi Fountain",
+     "intro": "The Trevi Fountain is an 18th-century fountain in the Trevi district in Rome, Italy, designed by Italian architect Nicola Salvi and completed by Giuseppe Pannini in 1762.",
+     "narration": "The Trevi Fountain is an 18th-century fountain in the Trevi district in Rome, Italy, designed by Italian architect Nicola Salvi and completed by Giuseppe Pannini in 1762. Standing 26.3 metres high and 49.15 metres wide, it is the largest Baroque fountain in the world and one of the most famous fountains in the world.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Trevi Fountain",
+     "url": "https://en.wikipedia.org/wiki/Trevi_Fountain",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q185382",
+     "url": "https://www.wikidata.org/wiki/Q185382",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "quirinal-hill",
+   "image": {
+    "file": "images/quirinal-hill.jpg",
+    "author": "Adrian Pingstone (Arpingstone)",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quirinal.palace.in.rome.arp.jpg"
+   },
+   "location": {
+    "latitude": 41.901111111,
+    "longitude": 12.488333333
+   },
+   "category": "viewpoint",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 23,
+   "visitMinutes": 6,
+   "tags": [
+    "medieval",
+    "scenic",
+    "viewpoint"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Quirinal Hill",
+     "intro": "The Quirinal Hill is one of the seven hills of Rome, at the north-east of the city center.",
+     "narration": "The Quirinal Hill is one of the seven hills of Rome, at the north-east of the city center. It is the location of the official residence of the Italian head of state, who resides in the Quirinal Palace. Other names have included the Quirinal, also referring to the Italian president, and Monte Cavallo, between the Middle Ages and the 19th century.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Quirinal Hill",
+     "url": "https://en.wikipedia.org/wiki/Quirinal_Hill",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q207896",
+     "url": "https://www.wikidata.org/wiki/Q207896",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-peter-s-square",
+   "image": {
+    "file": "images/st-peter-s-square.jpg",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Peter%27s_Square,_Vatican_City_-_April_2007.jpg"
+   },
+   "location": {
+    "latitude": 41.902183055,
+    "longitude": 12.457238888
+   },
+   "category": "square",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 4,
+   "tags": [
+    "neighbourhood",
+    "roman",
+    "square"
+   ],
+   "area": "Vatican City",
+   "content": {
+    "en": {
+     "name": "St. Peter's Square",
+     "intro": "St.",
+     "narration": "St. Peter's Square is a large plaza located directly in front of St. Peter's Basilica in Vatican City, the papal enclave in Rome, directly west of the neighborhood of Borgo. Both the square and the basilica are named after Saint Peter, an apostle of Jesus whom Catholics consider the first pope. At the centre of the square is the Vatican obelisk, an ancient Egyptian obelisk erected at the current site in 1586. Gian Lorenzo Bernini designed the square almost 100 years later, including the massive Tuscan colonnades, four columns deep, which embrace visitors in \"the maternal arms of Mother Church\". A granite fountain constructed by Bernini in 1675 matches another fountain designed by Carlo Maderno in 1613.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St. Peter's Square",
+     "url": "https://en.wikipedia.org/wiki/St._Peter%27s_Square",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q83425",
+     "url": "https://www.wikidata.org/wiki/Q83425",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "pyramid-of-cestius",
+   "image": {
+    "file": "images/pyramid-of-cestius.jpg",
+    "author": "Livioandronico2013",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piramide_Cestia.jpg"
+   },
+   "location": {
+    "latitude": 41.876388888,
+    "longitude": 12.480833333
+   },
+   "category": "archaeology",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 6,
+   "tags": [
+    "archaeology",
+    "hidden",
+    "historic",
+    "modern",
+    "roman"
+   ],
+   "area": "Roma Capitale",
+   "content": {
+    "en": {
+     "name": "Pyramid of Cestius",
+     "intro": "The pyramid of Cestius is an ancient Roman pyramid in Rome, Italy, near the Porta San Paolo and the Protestant Cemetery.",
+     "narration": "The pyramid of Cestius is an ancient Roman pyramid in Rome, Italy, near the Porta San Paolo and the Protestant Cemetery. It was built in the style of the Nubian pyramids as a tomb for Gaius Cestius, a member of the Epulones religious corporation. It stands at a fork between two ancient roads, the Via Ostiensis and another road that ran west to the Tiber along the approximate line of the modern Via Marmorata. Due to its incorporation into the city's fortifications, it is today one of the best-preserved ancient buildings in Rome.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Pyramid of Cestius",
+     "url": "https://en.wikipedia.org/wiki/Pyramid_of_Cestius",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q725404",
+     "url": "https://www.wikidata.org/wiki/Q725404",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "esquiline-hill",
+   "image": {
+    "file": "images/esquiline-hill.jpg",
+    "author": "Internet Archive Book Images",
+    "license": "No restrictions",
+    "licenseUrl": "https://www.flickr.com/commons/usage/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_handbook_of_Rome_and_the_Campagna_(1899)_(14762604401).jpg"
+   },
+   "location": {
+    "latitude": 41.895555555,
+    "longitude": 12.496666666
+   },
+   "category": "viewpoint",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "roman",
+    "scenic",
+    "viewpoint"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Esquiline Hill",
+     "intro": "The Esquiline Hill is one of the Seven Hills of Rome.",
+     "narration": "The Esquiline Hill is one of the Seven Hills of Rome. Its southernmost cusp is the Oppius. The area was favoured by the Roman aristocracy for their houses throughout the Roman period.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Esquiline Hill",
+     "url": "https://en.wikipedia.org/wiki/Esquiline_Hill",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q211233",
+     "url": "https://www.wikidata.org/wiki/Q211233",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "basilica-of-saint-paul-outside-the-walls",
+   "image": {
+    "file": "images/basilica-of-saint-paul-outside-the-walls.jpg",
+    "author": "StPaul.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:StPaul.jpg"
+   },
+   "location": {
+    "latitude": 41.858611111,
+    "longitude": 12.477222222
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic"
+   ],
+   "area": "Roma Capitale",
+   "content": {
+    "en": {
+     "name": "Basilica of Saint Paul Outside the Walls",
+     "intro": "The Papal Basilica of Saint Paul Outside the Walls is one of Rome's four major papal basilicas, along with the basilicas of Saint John in the Lateran, Saint Peter's, and Saint Mary Major, as well as one of the city's…",
+     "narration": "The Papal Basilica of Saint Paul Outside the Walls is one of Rome's four major papal basilicas, along with the basilicas of Saint John in the Lateran, Saint Peter's, and Saint Mary Major, as well as one of the city's Seven Pilgrim Churches. The basilica is the conventual church of the adjacent Benedictine abbey. It lies within Italian territory, but the Holy See owns the basilica and it is part of the Vatican's extraterritoriality. One of the oldest church sites in Rome, it was constructed outside the city's Aurelian Walls at what tradition holds to be the burial site of Saint Paul. It suffered a catastrophic fire in the 19th century and the present building was completed in 1840.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Basilica of Saint Paul Outside the Walls",
+     "url": "https://en.wikipedia.org/wiki/Basilica_of_Saint_Paul_Outside_the_Walls",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q231699",
+     "url": "https://www.wikidata.org/wiki/Q231699",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "baths-of-caracalla",
+   "image": {
+    "file": "images/baths-of-caracalla.jpg",
+    "author": "Ethan Doyle White",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baths_of_Caracalla,_facing_Caldarium.jpg"
+   },
+   "location": {
+    "latitude": 41.880264,
+    "longitude": 12.492764
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 46,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "modern",
+    "museum",
+    "roman"
+   ],
+   "area": "Roma Capitale",
+   "content": {
+    "en": {
+     "name": "Baths of Caracalla",
+     "intro": "The Baths of Caracalla in Rome, Italy, were the city's second largest Roman public bath complex, or thermae, after the Baths of Diocletian.",
+     "narration": "The Baths of Caracalla in Rome, Italy, were the city's second largest Roman public bath complex, or thermae, after the Baths of Diocletian. The baths were likely built between AD 212 and 216/217, during the reigns of emperors Septimius Severus and Caracalla. They were in operation until the 530s and then fell into disuse and ruin. Both during and since their operation as baths, they served as inspiration for many other notable buildings, ancient and modern, such as the Baths of Diocletian, the Basilica of Maxentius, the original Pennsylvania Station in New York City, Chicago Union Station and the Senate of Canada Building. Artworks recovered from the ruins include famous sculptures such as the Farnese Bull and the Farnese Hercules.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Baths of Caracalla",
+     "url": "https://en.wikipedia.org/wiki/Baths_of_Caracalla",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q502098",
+     "url": "https://www.wikidata.org/wiki/Q502098",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "forum-of-caesar",
+   "image": {
+    "file": "images/forum-of-caesar.jpg",
+    "author": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here are not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Foro_di_Cesare_a_Roma.jpg"
+   },
+   "location": {
+    "latitude": 41.894008,
+    "longitude": 12.484936
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "historic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Forum of Caesar",
+     "intro": "The Forum of Caesar, also known by the Latin Forum Iulium or Forum Julium, Forum Caesaris, was a forum built by Julius Caesar near the Forum Romanum in Rome in 46 BC.",
+     "narration": "The Forum of Caesar, also known by the Latin Forum Iulium or Forum Julium, Forum Caesaris, was a forum built by Julius Caesar near the Forum Romanum in Rome in 46 BC.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Forum of Caesar",
+     "url": "https://en.wikipedia.org/wiki/Forum_of_Caesar",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q856968",
+     "url": "https://www.wikidata.org/wiki/Q856968",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "sistine-chapel",
+   "image": {
+    "file": "images/sistine-chapel.jpg",
+    "author": "The original uploader was Snowdog at Italian Wikipedia.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sistina-interno.jpg"
+   },
+   "location": {
+    "latitude": 41.902956,
+    "longitude": 12.454433
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Vatican City",
+   "content": {
+    "en": {
+     "name": "Sistine Chapel",
+     "intro": "The Sistine Chapel is a chapel in the Apostolic Palace, the pope's official residence in Vatican City.",
+     "narration": "The Sistine Chapel is a chapel in the Apostolic Palace, the pope's official residence in Vatican City. Originally known as the Cappella Magna, it takes its name from Pope Sixtus IV, who had it built between 1473 and 1481. Since that time, it has served as a place of both religious and functionary papal activity. Today, it is the site of the papal conclave, the process by which a new pope is selected. The chapel's fame lies mainly in the frescoes that decorate its interior, most particularly the Sistine Chapel ceiling and The Last Judgment, both by Michelangelo.",
+     "longDescription": "The Sistine Chapel is a chapel in the Apostolic Palace, the pope's official residence in Vatican City. Originally known as the Cappella Magna, it takes its name from Pope Sixtus IV, who had it built between 1473 and 1481. Since that time, it has served as a place of both religious and functionary papal activity. Today, it is the site of the papal conclave, the process by which a new pope is selected. The chapel's fame lies mainly in the frescoes that decorate its interior, most particularly the Sistine Chapel ceiling and The Last Judgment, both by Michelangelo. During the reign of Sixtus IV, a team of Renaissance painters including Sandro Botticelli, Pietro Perugino, Pinturicchio, Domenico Ghirlandaio and Cosimo Rosselli, created a series of frescoes depicting the Life of Moses and the Life of Christ, offset by papal portraits above and trompe-l'œil drapery below. They were completed in 1482, and on 15 August 1483 Sixtus IV celebrated the first mass in the Sistine Chapel for the Feast of the Assumption, during which the chapel was consecrated and dedicated to the Virgin Mary. Between 1508 and 1512, under the patronage of Pope Julius II, Michelangelo painted the chapel's ceiling, a project that changed the course of Western art and is regarded as one of the major artistic accomplishments of human civilization. In a different political climate, after the Sack of Rome, he returned and, between 1535 and 1541, painted The Last Judgment for popes Clement VII and Paul III. The fame of Michelangelo's paintings has drawn multitudes of visitors to the chapel since they were revealed five centuries ago.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Sistine Chapel",
+     "url": "https://en.wikipedia.org/wiki/Sistine_Chapel",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2943",
+     "url": "https://www.wikidata.org/wiki/Q2943",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "piazza-del-popolo",
+   "image": {
+    "file": "images/piazza-del-popolo.jpg",
+    "author": "DellaGherardesca",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:PIAZZA_DEL_POPOLO_VISTA_AEREA.jpg"
+   },
+   "location": {
+    "latitude": 41.910714,
+    "longitude": 12.476317
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "historic",
+    "modern",
+    "neighbourhood",
+    "roman",
+    "square"
+   ],
+   "area": "Municipio I",
+   "content": {
+    "en": {
+     "name": "Piazza del Popolo",
+     "intro": "Piazza del Popolo is a large urban square in Rome.",
+     "narration": "Piazza del Popolo is a large urban square in Rome. The name in modern Italian literally means \"People's Square\", but historically it derives from the poplars after which the church of Santa Maria del Popolo, in the northeast corner of the piazza, takes its name. The piazza lies inside the northern gate in the Aurelian Walls, once the Porta Flaminia of ancient Rome, and now called the Porta del Popolo. This was the starting point of the Via Flaminia, the road to Ariminum and the most important route to the north. At the same time, before the age of railroads, it was the traveller's first view of Rome upon arrival.",
+     "longDescription": "Piazza del Popolo is a large urban square in Rome. The name in modern Italian literally means \"People's Square\", but historically it derives from the poplars after which the church of Santa Maria del Popolo, in the northeast corner of the piazza, takes its name. The piazza lies inside the northern gate in the Aurelian Walls, once the Porta Flaminia of ancient Rome, and now called the Porta del Popolo. This was the starting point of the Via Flaminia, the road to Ariminum and the most important route to the north. At the same time, before the age of railroads, it was the traveller's first view of Rome upon arrival. For centuries, the Piazza del Popolo was a place for public executions, the last of which took place in 1826.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Piazza del Popolo",
+     "url": "https://en.wikipedia.org/wiki/Piazza_del_Popolo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q824997",
+     "url": "https://www.wikidata.org/wiki/Q824997",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "sistine-chapel-ceiling",
+   "image": {
+    "file": "images/sistine-chapel-ceiling.jpg",
+    "author": "Michelangelo",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:CAPPELLA_SISTINA_Ceiling.jpg"
+   },
+   "location": {
+    "latitude": 41.902777777,
+    "longitude": 12.454166666
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Sistine Chapel ceiling",
+     "intro": "The Sistine Chapel ceiling, painted in fresco by Michelangelo between 1508 and 1512, is a cornerstone work of High Renaissance art.",
+     "narration": "The Sistine Chapel ceiling, painted in fresco by Michelangelo between 1508 and 1512, is a cornerstone work of High Renaissance art. The Sistine Chapel is the large papal chapel built within the Vatican between 1477 and 1480 by Pope Sixtus IV, for whom the chapel is named. The ceiling was painted at the commission of Pope Julius II. The ceiling's various painted elements form part of a larger scheme of decoration within the chapel. Prior to Michelangelo's contribution, the walls were painted by several leading artists of the late 15th century including Sandro Botticelli, Domenico Ghirlandaio, and Pietro Perugino. After the ceiling was painted, Raphael created a set of large tapestries to cover the lower portion of the wall.",
+     "longDescription": "The Sistine Chapel ceiling, painted in fresco by Michelangelo between 1508 and 1512, is a cornerstone work of High Renaissance art. The Sistine Chapel is the large papal chapel built within the Vatican between 1477 and 1480 by Pope Sixtus IV, for whom the chapel is named. The ceiling was painted at the commission of Pope Julius II. The ceiling's various painted elements form part of a larger scheme of decoration within the chapel. Prior to Michelangelo's contribution, the walls were painted by several leading artists of the late 15th century including Sandro Botticelli, Domenico Ghirlandaio, and Pietro Perugino. After the ceiling was painted, Raphael created a set of large tapestries to cover the lower portion of the wall. Michelangelo returned to the chapel to create The Last Judgment, a large wall fresco situated behind the altar. The chapel's decoration illustrates much of the doctrine of the Catholic Church, serving as the setting for papal conclaves and many other important services. Central to the ceiling decoration are nine scenes from the Book of Genesis, including The Creation of Adam. The complex design includes several sets of figures, some clothed and some nude, allowing Michelangelo to demonstrate his skill in depicting the human figure in a variety of poses. The ceiling was immediately well-received and imitated by other artists, continuing to the present. It has been restored several times, most recently from 1980 to 1994.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Sistine Chapel ceiling",
+     "url": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q844675",
+     "url": "https://www.wikidata.org/wiki/Q844675",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "circus-maximus",
+   "image": {
+    "file": "images/circus-maximus.jpg",
+    "author": "Rione Colonna",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Circus_Maximus_2025.jpg"
+   },
+   "location": {
+    "latitude": 41.8859,
+    "longitude": 12.4857
+   },
+   "category": "archaeology",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 30,
+   "visitMinutes": 6,
+   "tags": [
+    "archaeology",
+    "hidden",
+    "historic",
+    "roman"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Circus Maximus",
+     "intro": "The Circus Maximus is an ancient Roman chariot-racing stadium and mass entertainment venue in Rome, Italy.",
+     "narration": "The Circus Maximus is an ancient Roman chariot-racing stadium and mass entertainment venue in Rome, Italy. In the valley between the Aventine and Palatine hills, it was the first and largest stadium in ancient Rome and its later Empire. It measured 621 m in length and 118 m in width and could accommodate over 150,000 spectators. In its fully developed form, it became the model for circuses throughout the Roman Empire. The site is now a public park.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Circus Maximus",
+     "url": "https://en.wikipedia.org/wiki/Circus_Maximus",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q207808",
+     "url": "https://www.wikidata.org/wiki/Q207808",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "galleria-borghese",
+   "image": {
+    "file": "images/galleria-borghese.jpg",
+    "author": "Blackcat",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roma_Museo_Borghese.jpg"
+   },
+   "location": {
+    "latitude": 41.91421,
+    "longitude": 12.492144
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Roma Capitale",
+   "content": {
+    "en": {
+     "name": "Galleria Borghese",
+     "intro": "The Galleria Borghese or Borghese Gallery is an art gallery in Rome, Italy, housed in the former Villa Borghese Pinciana.",
+     "narration": "The Galleria Borghese or Borghese Gallery is an art gallery in Rome, Italy, housed in the former Villa Borghese Pinciana. At the outset, the gallery building was integrated with its gardens, but nowadays the Villa Borghese gardens are considered a separate tourist attraction. The Galleria Borghese houses a substantial part of the Borghese Collection of paintings, sculpture and antiquities, begun by Cardinal Scipione Borghese, the nephew of Pope Paul V. The building was constructed by the architect Flaminio Ponzio, developing sketches by Scipione Borghese himself, who used it as a villa suburbana, a country villa at the edge of Rome.",
+     "longDescription": "The Galleria Borghese or Borghese Gallery is an art gallery in Rome, Italy, housed in the former Villa Borghese Pinciana. At the outset, the gallery building was integrated with its gardens, but nowadays the Villa Borghese gardens are considered a separate tourist attraction. The Galleria Borghese houses a substantial part of the Borghese Collection of paintings, sculpture and antiquities, begun by Cardinal Scipione Borghese, the nephew of Pope Paul V. The building was constructed by the architect Flaminio Ponzio, developing sketches by Scipione Borghese himself, who used it as a villa suburbana, a country villa at the edge of Rome. The gallery displays one of the most prestigious art collections in the world, with masterpieces by artists such as Caravaggio, Bernini, Canova, Raphael and Titian. Scipione Borghese was an early patron of Bernini and an avid collector of works by Caravaggio, who is well represented in the collection by his Boy with a Basket of Fruit, St Jerome Writing, Sick Bacchus and others. Additional paintings of note include Titian's Sacred and Profane Love, Raphael's Entombment of Christ and works by Peter Paul Rubens and Federico Barocci. Considered among the greatest masterpieces of Italian art, some of these works show the evolution of art between the Renaissance, the Baroque and the Neoclassicism, artistic movements born in the Italian peninsula and subsequently spread throughout Europe.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Galleria Borghese",
+     "url": "https://en.wikipedia.org/wiki/Galleria_Borghese",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q841506",
+     "url": "https://www.wikidata.org/wiki/Q841506",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ecstasy-of-saint-teresa",
+   "image": {
+    "file": "images/ecstasy-of-saint-teresa.jpg",
+    "author": "Gian Lorenzo Bernini",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ecstasy_of_Saint_Teresa_September_2015-2a.jpg"
+   },
+   "location": {
+    "latitude": 41.904722222,
+    "longitude": 12.494166666
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Ecstasy of Saint Teresa",
+     "intro": "The Ecstasy of Saint Teresa is a sculptural altarpiece group in white marble set in an elevated aedicule in the Cornaro Chapel of the church of Santa Maria della Vittoria in Rome.",
+     "narration": "The Ecstasy of Saint Teresa is a sculptural altarpiece group in white marble set in an elevated aedicule in the Cornaro Chapel of the church of Santa Maria della Vittoria in Rome. It was designed and carved by Gian Lorenzo Bernini, the leading sculptor of his day, who also designed the setting of the chapel in marble, stucco and paint. The commission was completed in 1652. The ensemble includes at the sides two sets of donor portraits of members of the Cornaro family, who watch the main central group as though in boxes in a theatre. The group is generally considered to be one of the sculptural masterpieces of the High Roman Baroque.",
+     "longDescription": "The Ecstasy of Saint Teresa is a sculptural altarpiece group in white marble set in an elevated aedicule in the Cornaro Chapel of the church of Santa Maria della Vittoria in Rome. It was designed and carved by Gian Lorenzo Bernini, the leading sculptor of his day, who also designed the setting of the chapel in marble, stucco and paint. The commission was completed in 1652. The ensemble includes at the sides two sets of donor portraits of members of the Cornaro family, who watch the main central group as though in boxes in a theatre. The group is generally considered to be one of the sculptural masterpieces of the High Roman Baroque. The sculpture over the altar shows Saint Teresa of Ávila, a Spanish Carmelite nun, swooning in a state of religious ecstasy, while an angel holding a spear stands over her, following her own account of a vision she had.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Ecstasy of Saint Teresa",
+     "url": "https://en.wikipedia.org/wiki/Ecstasy_of_Saint_Teresa",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1333433",
+     "url": "https://www.wikidata.org/wiki/Q1333433",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "basilica-of-maxentius",
+   "image": {
+    "file": "images/basilica-of-maxentius.jpg",
+    "author": "Hiro-o",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilica_of_Maxentius2.jpg"
+   },
+   "location": {
+    "latitude": 41.891944444,
+    "longitude": 12.488333333
+   },
+   "category": "archaeology",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "archaeology",
+    "hidden",
+    "historic",
+    "roman"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Basilica of Maxentius",
+     "intro": "The Basilica of Maxentius, sometimes known by its original Latin name, Basilica Nova or, less commonly, the Basilica of Constantine, was a civic basilica in the Roman Forum.",
+     "narration": "The Basilica of Maxentius, sometimes known by its original Latin name, Basilica Nova or, less commonly, the Basilica of Constantine, was a civic basilica in the Roman Forum. At the time of its construction, it was the largest building in the Forum, and the last Roman basilica built in the city.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Basilica of Maxentius",
+     "url": "https://en.wikipedia.org/wiki/Basilica_of_Maxentius",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q371921",
+     "url": "https://www.wikidata.org/wiki/Q371921",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "baths-of-diocletian",
+   "image": {
+    "file": "images/baths-of-diocletian.jpg",
+    "author": null,
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baths_of_Diocletian-Antmoose1.jpg"
+   },
+   "location": {
+    "latitude": 41.90277778,
+    "longitude": 12.49833333
+   },
+   "category": "archaeology",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 6,
+   "tags": [
+    "archaeology",
+    "hidden",
+    "historic",
+    "roman"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Baths of Diocletian",
+     "intro": "The Baths of Diocletian were public baths in ancient Rome.",
+     "narration": "The Baths of Diocletian were public baths in ancient Rome. Named after emperor Diocletian and built from AD 298 to 306, they were the largest of the imperial baths. The project was originally commissioned by Maximian upon his return to Rome in the autumn of 298 and was continued after his and Diocletian's abdication under Constantius, father of Constantine.The site houses the Basilica of Santa Maria degli Angeli e dei Martiri, built within the ruins in the 16th century, the Church of San Bernardo alle Terme, and part of the National Roman Museum.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Baths of Diocletian",
+     "url": "https://en.wikipedia.org/wiki/Baths_of_Diocletian",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q836108",
+     "url": "https://www.wikidata.org/wiki/Q836108",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "arch-of-titus",
+   "image": {
+    "file": "images/arch-of-titus.jpg",
+    "author": "Jebulon",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arch_Titus,_Forum_Romanum,_Rome,_Italy.jpg"
+   },
+   "location": {
+    "latitude": 41.890717,
+    "longitude": 12.488585
+   },
+   "category": "archaeology",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 6,
+   "tags": [
+    "archaeology",
+    "hidden",
+    "historic",
+    "roman"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Arch of Titus",
+     "intro": "The Arch of Titus is a 1st-century AD honorific arch, located on the Via Sacra, Rome, just to the south-east of the Roman Forum.",
+     "narration": "The Arch of Titus is a 1st-century AD honorific arch, located on the Via Sacra, Rome, just to the south-east of the Roman Forum. It was constructed in c. 81 AD by Emperor Domitian shortly after the death of his older brother Titus to commemorate Titus's official deification or consecratio and the victory of Titus together with their father, Vespasian, over the Jewish rebellion in Judaea. The arch contains panels depicting the triumphal procession celebrated in 71 AD after the Roman victory culminating in the fall of Jerusalem, and provides one of the few contemporary depictions of artifacts from Herod's Temple.",
+     "longDescription": "The Arch of Titus is a 1st-century AD honorific arch, located on the Via Sacra, Rome, just to the south-east of the Roman Forum. It was constructed in c. 81 AD by Emperor Domitian shortly after the death of his older brother Titus to commemorate Titus's official deification or consecratio and the victory of Titus together with their father, Vespasian, over the Jewish rebellion in Judaea. The arch contains panels depicting the triumphal procession celebrated in 71 AD after the Roman victory culminating in the fall of Jerusalem, and provides one of the few contemporary depictions of artifacts from Herod's Temple. Although the panels are not explicitly stated as illustrating this event, they closely parallel the narrative of the Roman procession described a decade prior in Josephus's The Jewish War. It became a symbol of the Jewish diaspora, and the menorah depicted on the arch served as the model for the menorah used as the emblem of the State of Israel. The arch has provided the general model for many triumphal arches erected since the 16th century. It is the inspiration for the Arc de Triomphe in Paris. It holds an important place in art history, being the focus of Franz Wickhoff's appreciation of Roman art in contrast to the then-prevailing view.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Arch of Titus",
+     "url": "https://en.wikipedia.org/wiki/Arch_of_Titus",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q723887",
+     "url": "https://www.wikidata.org/wiki/Q723887",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "laocoon-and-his-sons",
+   "image": {
+    "file": "images/laocoon-and-his-sons.jpg",
+    "author": "Wilfredor",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laoco%C3%B6n_and_his_sons_group.jpg"
+   },
+   "location": {
+    "latitude": 41.89205278,
+    "longitude": 12.50031111
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument",
+    "roman"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Laocoön and His Sons",
+     "intro": "The statue of Laocoön and His Sons, also called the Laocoön Group, has been one of the most famous ancient sculptures since it was excavated in Rome in 1506 and put on public display in the Vatican Museums, where it…",
+     "narration": "The statue of Laocoön and His Sons, also called the Laocoön Group, has been one of the most famous ancient sculptures since it was excavated in Rome in 1506 and put on public display in the Vatican Museums, where it remains today. The statue is very likely the same one praised in the highest terms by Pliny the Elder, the main Roman writer on art, who attributed it to Greek sculptors but did not say when it was created. The figures are nearly life-sized, with the entire group measuring just over 2 m in height. The sculpture depicts the Trojan priest Laocoön and his sons Antiphantes and Thymbraeus being attacked by sea serpents.",
+     "longDescription": "The statue of Laocoön and His Sons, also called the Laocoön Group, has been one of the most famous ancient sculptures since it was excavated in Rome in 1506 and put on public display in the Vatican Museums, where it remains today. The statue is very likely the same one praised in the highest terms by Pliny the Elder, the main Roman writer on art, who attributed it to Greek sculptors but did not say when it was created. The figures are nearly life-sized, with the entire group measuring just over 2 m in height. The sculpture depicts the Trojan priest Laocoön and his sons Antiphantes and Thymbraeus being attacked by sea serpents. The Laocoön Group has been called \"the prototypical icon of human agony\" in Western art. Unlike the agony often portrayed in Christian art depicting the Passion of Jesus and martyrs, the suffering here suggests neither redemption nor reward. The agony is conveyed through the contorted facial expressions, particularly Laocoön's bulging eyebrows, which were noted by Guillaume Duchenne de Boulogne as physiologically impossible. These expressions are mirrored in the struggling bodies, especially Laocoön's, with every part of his body shown straining. Pliny attributed the work, then in the palace of Emperor Titus, to three Greek sculptors from the island of Rhodes: Agesander, Athenodoros, and Polydorus, but he did not mention the date or patron. In style it is considered \"one of the finest examples of the Hellenistic baroque\" and certainly in the Greek tradition. However, its origin is uncertain, as it is not known if it is an original work or a copy of an earlier bronze sculpture. Some believe it to be a copy of a work from the early Imperial period, while others think it to be an original work from the later period, continuing the Pergamene style of ",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Laocoön and His Sons",
+     "url": "https://en.wikipedia.org/wiki/Laoco%C3%B6n_and_His_Sons",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q465762",
+     "url": "https://www.wikidata.org/wiki/Q465762",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "capitoline-museums",
+   "image": {
+    "file": "images/capitoline-museums.jpg",
+    "author": "Tournasol7",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_dei_Conservatori_in_Rome_(2).jpg"
+   },
+   "location": {
+    "latitude": 41.893055555,
+    "longitude": 12.482777777
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 46,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum",
+    "roman"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Capitoline Museums",
+     "intro": "The Capitoline Museums are a group of art and archaeological museums located on the Capitoline Hill in Rome, Italy, and constitute the main civic museum complex of the city.",
+     "narration": "The Capitoline Museums are a group of art and archaeological museums located on the Capitoline Hill in Rome, Italy, and constitute the main civic museum complex of the city. Their principal buildings are the Palazzo dei Conservatori and the Palazzo Nuovo, which face each other across Piazza del Campidoglio, the square designed by Michelangelo in 1536 and completed over the course of the following centuries. The museums are primarily dedicated to the art and history of ancient Rome, with a particular emphasis on Roman sculpture. The collection include celebrated works such as the Equestrian Statue of Marcus Aurelius, the Capitoline Wolf and the Dying Gaul, alongside inscriptions, coins, and other artifacts illustrating the civic and religious life of the city.",
+     "longDescription": "The Capitoline Museums are a group of art and archaeological museums located on the Capitoline Hill in Rome, Italy, and constitute the main civic museum complex of the city. Their principal buildings are the Palazzo dei Conservatori and the Palazzo Nuovo, which face each other across Piazza del Campidoglio, the square designed by Michelangelo in 1536 and completed over the course of the following centuries. The museums are primarily dedicated to the art and history of ancient Rome, with a particular emphasis on Roman sculpture. The collection include celebrated works such as the Equestrian Statue of Marcus Aurelius, the Capitoline Wolf and the Dying Gaul, alongside inscriptions, coins, and other artifacts illustrating the civic and religious life of the city. The museums also include Renaissance and Baroque paintings, as well as the richly frescoed walls of the Conservators' Apartment in the Palazzo dei Conservatori, which depict scenes from Rome's early history. The Capitoline Museums traces the collection's origins to 1471, when Pope Sixtus IV donated to the people of Rome a collection of ancient bronzes from the Lateran. In 1734 Pope Clement XII opened the museum to the public, making them among the earliest museums in the world accessible to all citizens. Today, the Capitoline Museums continue to attract visitors from around the world, hosting temporary exhibitions alongside their permanent collections and serving as a major cultural landmark in Rome.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Capitoline Museums",
+     "url": "https://en.wikipedia.org/wiki/Capitoline_Museums",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q333906",
+     "url": "https://www.wikidata.org/wiki/Q333906",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "mamertine-prison",
+   "image": {
+    "file": "images/mamertine-prison.jpg",
+    "author": "ThePhotografer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Giuseppe_dei_Falegnami_(Roma)_-_Facciata_(Mamertinum).jpg"
+   },
+   "location": {
+    "latitude": 41.892456,
+    "longitude": 12.485367
+   },
+   "category": "archaeology",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 32,
+   "visitMinutes": 6,
+   "tags": [
+    "archaeology",
+    "hidden",
+    "historic",
+    "roman"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Mamertine Prison",
+     "intro": "The Mamertine Prison, in antiquity the Tullianum, was a prison with a dungeon located in the Comitium in ancient Rome.",
+     "narration": "The Mamertine Prison, in antiquity the Tullianum, was a prison with a dungeon located in the Comitium in ancient Rome. It is said to have been built in the 7th century BC and was situated on the northeastern slope of the Capitoline Hill, facing the Curia and the imperial forums of Nerva, Vespasian, and Augustus. Located between it and the Tabularium were the Gemonian stairs leading to the Arx of the Capitoline. The church of San Giuseppe dei Falegnami now stands above the Mamertine.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Mamertine Prison",
+     "url": "https://en.wikipedia.org/wiki/Mamertine_Prison",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1035634",
+     "url": "https://www.wikidata.org/wiki/Q1035634",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ponte-sant-angelo",
+   "image": {
+    "file": "images/ponte-sant-angelo.jpg",
+    "author": "Blackcat",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roma_-_Ponte_s._Angelo.jpg"
+   },
+   "location": {
+    "latitude": 41.901803,
+    "longitude": 12.46645
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument",
+    "river",
+    "roman"
+   ],
+   "area": "Roma Capitale",
+   "content": {
+    "en": {
+     "name": "Ponte Sant'Angelo",
+     "intro": "Ponte Sant'Angelo, originally the Aelian Bridge or Pons Aelius, is a Roman bridge in Rome, Italy, completed in 134 AD by Roman Emperor Hadrian, to span the Tiber from the city centre to his newly constructed…",
+     "narration": "Ponte Sant'Angelo, originally the Aelian Bridge or Pons Aelius, is a Roman bridge in Rome, Italy, completed in 134 AD by Roman Emperor Hadrian, to span the Tiber from the city centre to his newly constructed mausoleum, now the towering Castel Sant'Angelo. The bridge is faced with travertine marble and spans the Tiber with five arches, three of which are Roman; it was approached by means of a ramp from the river. The bridge is now solely pedestrian and provides a scenic view of Castel Sant'Angelo. It links the rioni of Ponte, and Borgo, to which the bridge administratively belongs.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Ponte Sant'Angelo",
+     "url": "https://en.wikipedia.org/wiki/Ponte_Sant%27Angelo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q870476",
+     "url": "https://www.wikidata.org/wiki/Q870476",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "church-of-the-gesu",
+   "image": {
+    "file": "images/church-of-the-gesu.jpg",
+    "author": "Rione Colonna",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jesus_Church.jpg"
+   },
+   "location": {
+    "latitude": 41.895833333,
+    "longitude": 12.479722222
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "baroque",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Church of the Gesù",
+     "intro": "The Church of the Gesù, officially named Chiesa del Santissimo Nome di Gesù, is a church located at Piazza del Gesù in the Pigna rione of Rome, Italy.",
+     "narration": "The Church of the Gesù, officially named Chiesa del Santissimo Nome di Gesù, is a church located at Piazza del Gesù in the Pigna rione of Rome, Italy. It is the mother church of the Society of Jesus. With its façade, described as \"the first truly baroque façade\", the church served as a model for innumerable Jesuit churches all over the world, especially in Central Europe and in Portuguese colonies. Its paintings in the nave, crossing, and side chapels became models for art in Jesuit churches throughout Italy and Europe, as well as those of other orders.",
+     "longDescription": "The Church of the Gesù, officially named Chiesa del Santissimo Nome di Gesù, is a church located at Piazza del Gesù in the Pigna rione of Rome, Italy. It is the mother church of the Society of Jesus. With its façade, described as \"the first truly baroque façade\", the church served as a model for innumerable Jesuit churches all over the world, especially in Central Europe and in Portuguese colonies. Its paintings in the nave, crossing, and side chapels became models for art in Jesuit churches throughout Italy and Europe, as well as those of other orders. The Church of the Gesù is one of the great 17th-century preaching churches built by Counter-Reformation orders like the Jesuits in the Centro Storico of Rome – the others being Sant'Ignazio, also of the Jesuits, San Carlo ai Catinari of the Barnabites, Sant'Andrea della Valle of the Theatines, and the Chiesa Nuova of the Oratorians. First conceived in 1551 by Saint Ignatius of Loyola, the Spanish founder of the Society of Jesus active during the Protestant Reformation and the subsequent Catholic Counter-Reformation, the Gesù was also the home of the Superior General of the Society of Jesus until the wide suppression of the order in 1773. The church having been subsequently regained by the Jesuits, the adjacent palazzo is now a residence for Jesuit scholars from around the world studying at the Gregorian University in preparation for ordination to the priesthood.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Church of the Gesù",
+     "url": "https://en.wikipedia.org/wiki/Church_of_the_Ges%C3%B9",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q719794",
+     "url": "https://www.wikidata.org/wiki/Q719794",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "campo-de-fiori",
+   "image": {
+    "file": "images/campo-de-fiori.jpg",
+    "author": "Carlat82",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Il_Valle_delle_Rose_....JPG"
+   },
+   "location": {
+    "latitude": 41.895663775,
+    "longitude": 12.472046538
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "medieval",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Campo de' Fiori",
+     "intro": "Campo de' Fiori is a rectangular square south of Piazza Navona in Rome, Italy, at the border between the rioni Parione and Regola.",
+     "narration": "Campo de' Fiori is a rectangular square south of Piazza Navona in Rome, Italy, at the border between the rioni Parione and Regola. It is diagonally southeast of the Palazzo della Cancelleria and one block northeast of the Palazzo Farnese. The name dates to the Middle Ages when the area was a meadow.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Campo de' Fiori",
+     "url": "https://en.wikipedia.org/wiki/Campo_de%27_Fiori",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q28303",
+     "url": "https://www.wikidata.org/wiki/Q28303",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "quirinal-palace",
+   "image": {
+    "file": "images/quirinal-palace.jpg",
+    "author": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here are not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quirinale_palazzo_e_obelisco_con_dioscuri_Roma.jpg"
+   },
+   "location": {
+    "latitude": 41.9,
+    "longitude": 12.4875
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Quirinal Palace",
+     "intro": "The Quirinal Palace is a historic building in Rome, Italy, the main official residence of the president of the Italian Republic, together with Villa Rosebery in Naples and the Tenuta di Castelporziano, an estate on…",
+     "narration": "The Quirinal Palace is a historic building in Rome, Italy, the main official residence of the president of the Italian Republic, together with Villa Rosebery in Naples and the Tenuta di Castelporziano, an estate on the outskirts of Rome, some 25 km from the centre of the city. It is located on the Quirinal Hill, the highest of the seven hills of Rome in an area colloquially called Monte Cavallo. It has served as the residence for thirty popes, four kings of Italy and twelve presidents of the Italian Republic. The Quirinal Palace, originally a papal residence built by Pope Gregory XIII, was selected by Napoleon to be his residence par excellence as emperor.",
+     "longDescription": "The Quirinal Palace is a historic building in Rome, Italy, the main official residence of the president of the Italian Republic, together with Villa Rosebery in Naples and the Tenuta di Castelporziano, an estate on the outskirts of Rome, some 25 km from the centre of the city. It is located on the Quirinal Hill, the highest of the seven hills of Rome in an area colloquially called Monte Cavallo. It has served as the residence for thirty popes, four kings of Italy and twelve presidents of the Italian Republic. The Quirinal Palace, originally a papal residence built by Pope Gregory XIII, was selected by Napoleon to be his residence par excellence as emperor. However, he never stayed there because of the French defeat in 1814 and the subsequent European Restoration. The palace extends for an area of 110,500 square metres and is the eleventh-largest palace in the world.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Quirinal Palace",
+     "url": "https://en.wikipedia.org/wiki/Quirinal_Palace",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q223079",
+     "url": "https://www.wikidata.org/wiki/Q223079",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "mausoleum-of-augustus",
+   "image": {
+    "file": "images/mausoleum-of-augustus.jpg",
+    "author": "MumblerJamie",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Photographs_of_the_Mausoleum_of_Augustus_14_(cropped).jpg"
+   },
+   "location": {
+    "latitude": 41.90611,
+    "longitude": 12.47639
+   },
+   "category": "archaeology",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "archaeology",
+    "hidden",
+    "historic",
+    "roman"
+   ],
+   "area": "Campo Marzio",
+   "content": {
+    "en": {
+     "name": "Mausoleum of Augustus",
+     "intro": "The Mausoleum of Augustus is a large tomb built by the Roman emperor Augustus in 28 BC on the Campus Martius in Rome, Italy.",
+     "narration": "The Mausoleum of Augustus is a large tomb built by the Roman emperor Augustus in 28 BC on the Campus Martius in Rome, Italy. The mausoleum is located on the Piazza Augusto Imperatore, near the corner with Via di Ripetta as it runs along the Tiber. The grounds cover an area equivalent to a few city blocks nestled between the church of San Carlo al Corso and the Museum of the Ara Pacis. After being closed for fourteen years for restoration work, the mausoleum was temporarily reopened to the public in March 2021. However, the mausoleum has been temporarily closed from June 2022 due to the renovation work in Piazza Augusto Imperatore.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Mausoleum of Augustus",
+     "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Augustus",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q770847",
+     "url": "https://www.wikidata.org/wiki/Q770847",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "trajan-s-column",
+   "image": {
+    "file": "images/trajan-s-column.jpg",
+    "author": "Alvesgaspar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trajan_column_(Rome)_September_2015-2.jpg"
+   },
+   "location": {
+    "latitude": 41.895833333,
+    "longitude": 12.484166666
+   },
+   "category": "archaeology",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 6,
+   "tags": [
+    "archaeology",
+    "hidden",
+    "historic",
+    "roman"
+   ],
+   "area": "Rome",
+   "content": {
+    "en": {
+     "name": "Trajan's Column",
+     "intro": "Trajan's Column is a Roman triumphal column in Rome, Italy, that commemorates Roman emperor Trajan's victory in the Dacian Wars.",
+     "narration": "Trajan's Column is a Roman triumphal column in Rome, Italy, that commemorates Roman emperor Trajan's victory in the Dacian Wars. It was probably constructed under the supervision of the architect Apollodorus of Damascus at the order of the Roman Senate. It is located in Trajan's Forum, north of the Roman Forum. Completed and dedicated on 12 May 113 AD, the freestanding column is most famous for its spiral bas relief, which depicts the wars between the Romans and Dacians. Its design has inspired numerous victory columns, both ancient and modern. The structure is about 30 metres in height, 35 metres including its large pedestal.",
+     "longDescription": "Trajan's Column is a Roman triumphal column in Rome, Italy, that commemorates Roman emperor Trajan's victory in the Dacian Wars. It was probably constructed under the supervision of the architect Apollodorus of Damascus at the order of the Roman Senate. It is located in Trajan's Forum, north of the Roman Forum. Completed and dedicated on 12 May 113 AD, the freestanding column is most famous for its spiral bas relief, which depicts the wars between the Romans and Dacians. Its design has inspired numerous victory columns, both ancient and modern. The structure is about 30 metres in height, 35 metres including its large pedestal. The shaft is made from a series of 20 colossal Carrara marble drums, each weighing about 32 tons, with a diameter of 3.7 metres. The 190-metre frieze winds around the shaft 23 times. Inside the shaft, a spiral staircase of 185 steps provides access to a viewing deck at the top. The capital block of the column weighs 53.3 tons and had to be lifted to a height of about 34 metres. Ancient coins indicate preliminary plans to top the column with a statue of a bird, probably an eagle. After construction, a statue of Trajan was put in place; this disappeared in the Middle Ages. On December 4, 1587, the top was crowned by Pope Sixtus V with a bronze figure of Saint Peter. Trajan's Column was originally flanked by two sections of the Ulpian Library, a Greek chamber and a Latin chamber, which faced each other and had walls lined with niches and wooden bookcases for scrolls. The Latin chamber likely contained Trajan's lost commentary on the Dacian Wars, the Dacica, which most scholars agree was intended to be echoed in the spiralling, sculpted narrative design of the column.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Trajan's Column",
+     "url": "https://en.wikipedia.org/wiki/Trajan%27s_Column",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q192784",
+     "url": "https://www.wikidata.org/wiki/Q192784",
+     "license": "CC0"
+    }
+   ]
+  }
+ ]
+}

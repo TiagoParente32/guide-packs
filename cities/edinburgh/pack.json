@@ -1,0 +1,2303 @@
+{
+ "format": 1,
+ "city": {
+  "id": "edinburgh",
+  "name": "Edinburgh",
+  "country": "United Kingdom",
+  "center": {
+   "latitude": 55.9533456,
+   "longitude": -3.1883749
+  },
+  "bounds": {
+   "south": 55.8187919,
+   "north": 56.0040837,
+   "west": -3.4495326,
+   "east": -3.0749528
+  },
+  "languages": [
+   "en"
+  ],
+  "quality": "generated",
+  "placeCount": 45,
+  "version": 1,
+  "hero": {
+   "file": "images/edinburgh-castle.jpg",
+   "author": "Stephencdickson",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_from_the_Grassmarket.jpg"
+  },
+  "packUrl": "cities/edinburgh/pack.json",
+  "generatedAt": "2026-10-30T15:01:09Z"
+ },
+ "pois": [
+  {
+   "id": "edinburgh-castle",
+   "image": {
+    "file": "images/edinburgh-castle.jpg",
+    "author": "Stephencdickson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_from_the_Grassmarket.jpg"
+   },
+   "location": {
+    "latitude": 55.9487,
+    "longitude": -3.20073
+   },
+   "category": "museum",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "museum"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Edinburgh Castle",
+     "intro": "Edinburgh Castle is a historic castle in Edinburgh, Scotland.",
+     "narration": "Edinburgh Castle is a historic castle in Edinburgh, Scotland. It stands on Castle Rock, which has been occupied by humans since at least the Iron Age. There has been a royal castle on the rock since the reign of Malcolm III in the 11th century, and the castle continued to be a royal residence until 1633. From the 15th century, the castle's residential role declined, and by the 17th century it was principally used as a military garrison. Its importance as a part of Scotland's national heritage was recognised increasingly from the early 19th century onwards, and various restoration programmes have been carried out since the middle of the 19th century.",
+     "longDescription": "Edinburgh Castle is a historic castle in Edinburgh, Scotland. It stands on Castle Rock, which has been occupied by humans since at least the Iron Age. There has been a royal castle on the rock since the reign of Malcolm III in the 11th century, and the castle continued to be a royal residence until 1633. From the 15th century, the castle's residential role declined, and by the 17th century it was principally used as a military garrison. Its importance as a part of Scotland's national heritage was recognised increasingly from the early 19th century onwards, and various restoration programmes have been carried out since the middle of the 19th century. Edinburgh Castle has played a prominent role in Scottish history, and has served variously as a royal residence, an arsenal, a treasury, a national archive, a mint, a prison, a military fortress, and the home of the Honours of Scotland – the Scottish regalia. As one of the most important strongholds in the Kingdom of Scotland, the castle was involved in many historical conflicts from the Wars of Scottish Independence in the 14th century to the Jacobite rising of 1745. Research undertaken in 2014 identified 26 sieges in its 1,100-year history, giving it a claim to having been \"the most besieged place in Great Britain and one of the most attacked in the world\". Few of the present buildings pre-date the Lang Siege of 1573, when the medieval defences were largely destroyed by artillery bombardment. The most notable exceptions are St Margaret's Chapel from the early 12th century, which is regarded as the oldest building in Edinburgh, the Royal Palace, and the early 16th-century Great Hall. The castle is the site of the Scottish National War Memorial and the National War Museum. The British Army is still responsible for some parts",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Edinburgh Castle",
+     "url": "https://en.wikipedia.org/wiki/Edinburgh_Castle",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q212065",
+     "url": "https://www.wikidata.org/wiki/Q212065",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "holyrood-palace",
+   "image": {
+    "file": "images/holyrood-palace.jpg",
+    "author": "瑞丽江的河水",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Holyrood_Palace_-_aerial_-_2025-04-19_04.jpg"
+   },
+   "location": {
+    "latitude": 55.9527,
+    "longitude": -3.17229
+   },
+   "category": "architecture",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Holyrood Palace",
+     "intro": "The Palace of Holyroodhouse, also known as Holyrood Palace, is the official residence of the monarch of the United Kingdom in Scotland.",
+     "narration": "The Palace of Holyroodhouse, also known as Holyrood Palace, is the official residence of the monarch of the United Kingdom in Scotland. Located at the bottom of the Royal Mile in Edinburgh, at the opposite end to Edinburgh Castle, Holyrood has served as the principal royal residence in Scotland since the 16th century, and is a setting for state occasions and official entertaining. The palace adjoins Holyrood Abbey, and the gardens are set within Holyrood Park. The King's Gallery was converted from existing buildings at the western entrance to the palace and was opened in 2002 to exhibit works of art from the Royal Collection.",
+     "longDescription": "The Palace of Holyroodhouse, also known as Holyrood Palace, is the official residence of the monarch of the United Kingdom in Scotland. Located at the bottom of the Royal Mile in Edinburgh, at the opposite end to Edinburgh Castle, Holyrood has served as the principal royal residence in Scotland since the 16th century, and is a setting for state occasions and official entertaining. The palace adjoins Holyrood Abbey, and the gardens are set within Holyrood Park. The King's Gallery was converted from existing buildings at the western entrance to the palace and was opened in 2002 to exhibit works of art from the Royal Collection. King Charles III spends one week in residence at Holyrood at the beginning of summer, where he carries out a range of official engagements and ceremonies. The 16th-century historic apartments of Mary, Queen of Scots, and the State Apartments, used for official and state entertaining, are open to the public throughout the year, except when members of the royal family are in residence. The palace also serves as the official residence of the Lord High Commissioner to the General Assembly of the Church of Scotland during the annual meeting of the General Assembly.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Holyrood Palace",
+     "url": "https://en.wikipedia.org/wiki/Holyrood_Palace",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q505950",
+     "url": "https://www.wikidata.org/wiki/Q505950",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-giles-cathedral",
+   "image": {
+    "file": "images/st-giles-cathedral.jpg",
+    "author": "瑞丽江的河水",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Giles%27_Cathedral_-_aerial_-_2025-04-19_04.jpg"
+   },
+   "location": {
+    "latitude": 55.949444444,
+    "longitude": -3.190833333
+   },
+   "category": "church",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "modern"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "St Giles' Cathedral",
+     "intro": "St Giles' Cathedral, also known as the High Kirk of Edinburgh, is one of three cathedrals in Edinburgh, Scotland.",
+     "narration": "St Giles' Cathedral, also known as the High Kirk of Edinburgh, is one of three cathedrals in Edinburgh, Scotland. The existing building was begun in the 14th century and extended until the early 16th century; significant alterations were undertaken in the 19th and 20th centuries, including the addition of the Thistle Chapel. St Giles' is closely associated with many events and figures in Scottish history, including John Knox, who served as the church's minister after the Scottish Reformation. The cathedral is administered by the Church of Scotland. It was probably founded in the 12th century and dedicated to Saint Giles. The church was elevated to collegiate status by Pope Paul II in 1467.",
+     "longDescription": "St Giles' Cathedral, also known as the High Kirk of Edinburgh, is one of three cathedrals in Edinburgh, Scotland. The existing building was begun in the 14th century and extended until the early 16th century; significant alterations were undertaken in the 19th and 20th centuries, including the addition of the Thistle Chapel. St Giles' is closely associated with many events and figures in Scottish history, including John Knox, who served as the church's minister after the Scottish Reformation. The cathedral is administered by the Church of Scotland. It was probably founded in the 12th century and dedicated to Saint Giles. The church was elevated to collegiate status by Pope Paul II in 1467. In 1559, the church became Protestant with John Knox, the foremost figure of the Scottish Reformation, as its minister. After the Reformation, St Giles' was internally partitioned to serve multiple congregations as well as secular purposes, such as a prison and as a meeting place for the Parliament of Scotland. In 1633, Charles I made St Giles' the cathedral of the newly created Diocese of Edinburgh. Charles' attempt to impose doctrinal changes on the presbyterian Scottish Kirk, including a Prayer Book causing a riot in St Giles' on 23 July 1637, which precipitated the formation of the Covenanters and the beginnings of the Wars of the Three Kingdoms. St Giles' role in the Scottish Reformation and the Covenanters' Rebellion has led to its being called \"the Mother Church of World Presbyterianism\". St Giles' is one of Scotland's most important medieval parish church buildings. The first church of St Giles' was a small Romanesque building of which only fragments remain. In the 14th century, this was replaced by the current building which was enlarged between the late 14th and early 16th c",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St Giles' Cathedral",
+     "url": "https://en.wikipedia.org/wiki/St_Giles%27_Cathedral",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1547466",
+     "url": "https://www.wikidata.org/wiki/Q1547466",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "new-town-edinburgh",
+   "image": {
+    "file": "images/new-town-edinburgh.jpg",
+    "author": "Erath at English Wikipedia",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_New_Town_from_Edinburgh_Castle.jpg"
+   },
+   "location": {
+    "latitude": 55.956247222,
+    "longitude": -3.198927777
+   },
+   "category": "neighbourhood",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 32,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "iconic",
+    "neighbourhood"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "New Town, Edinburgh",
+     "intro": "The New Town is a central area of Edinburgh, the capital of Scotland.",
+     "narration": "The New Town is a central area of Edinburgh, the capital of Scotland. It was built in stages between 1767 and around 1850, and retains much of its original neo-classical and Georgian architecture. Its best-known street is Princes Street, facing Edinburgh Castle and the Old Town across the geological depression of the former Nor Loch. The area's New Town Gardens received a heritage designation in 2001. The combined New Town, Old Town, and West End were designated a UNESCO World Heritage Site in 1995.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: New Town, Edinburgh",
+     "url": "https://en.wikipedia.org/wiki/New_Town%2C_Edinburgh",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q590710",
+     "url": "https://www.wikidata.org/wiki/Q590710",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "holyrood-abbey",
+   "image": {
+    "file": "images/holyrood-abbey.jpg",
+    "author": "LASZLO ILYES from Cleveland, Ohio, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Holyrood_Abbey_-_Edinburgh.jpg"
+   },
+   "location": {
+    "latitude": 55.953161111,
+    "longitude": -3.171575
+   },
+   "category": "archaeology",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 6,
+   "tags": [
+    "archaeology",
+    "hidden",
+    "historic",
+    "iconic"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Holyrood Abbey",
+     "intro": "Holyrood Abbey is a ruined abbey of the Canons Regular in Edinburgh, Scotland.",
+     "narration": "Holyrood Abbey is a ruined abbey of the Canons Regular in Edinburgh, Scotland. The abbey was founded in 1128 by David I of Scotland. During the 15th century, the abbey guesthouse was developed into a royal residence, and after the Scottish Reformation the Palace of Holyroodhouse was expanded further. The abbey church was used as a parish church until the 17th century, and has been ruined since the 18th century. The remaining walls of the abbey lie adjacent to the palace, at the eastern end of Edinburgh's Royal Mile. The site of the abbey is protected as a scheduled monument.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Holyrood Abbey",
+     "url": "https://en.wikipedia.org/wiki/Holyrood_Abbey",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q966862",
+     "url": "https://www.wikidata.org/wiki/Q966862",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "scottish-national-gallery",
+   "image": {
+    "file": "images/scottish-national-gallery.jpg",
+    "author": "瑞丽江的河水",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scottish_National_Gallery_-_aerial_-_2025-04-19_01.jpg"
+   },
+   "location": {
+    "latitude": 55.950902,
+    "longitude": -3.195686
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "modern",
+    "museum"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Scottish National Gallery",
+     "intro": "The National is the national art gallery of Scotland.",
+     "narration": "The National is the national art gallery of Scotland. It is located on The Mound in central Edinburgh, close to Princes Street. The building was designed in a neoclassical style by William Henry Playfair, and first opened to the public in 1859. The gallery houses Scotland's national collection of fine art, spanning Scottish and international art from the beginning of the Renaissance up to the start of the 20th century. The National is run by National Galleries Scotland, a public body that also owns the Scottish National Gallery of Modern Art and the Scottish National Portrait Gallery.",
+     "longDescription": "The National is the national art gallery of Scotland. It is located on The Mound in central Edinburgh, close to Princes Street. The building was designed in a neoclassical style by William Henry Playfair, and first opened to the public in 1859. The gallery houses Scotland's national collection of fine art, spanning Scottish and international art from the beginning of the Renaissance up to the start of the 20th century. The National is run by National Galleries Scotland, a public body that also owns the Scottish National Gallery of Modern Art and the Scottish National Portrait Gallery. Because of its architectural similarity, the National is frequently confused by visitors with the neighbouring Royal Scottish Academy Building, a separate institution which works closely with the National.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Scottish National Gallery",
+     "url": "https://en.wikipedia.org/wiki/Scottish_National_Gallery",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q942713",
+     "url": "https://www.wikidata.org/wiki/Q942713",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "scott-monument",
+   "image": {
+    "file": "images/scott-monument.jpg",
+    "author": "No machine-readable author provided. Schatir assumed (based on copyright claims).",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schottland-Edinburgh-Sir_Walter_Scott_Monument.JPG"
+   },
+   "location": {
+    "latitude": 55.952416666,
+    "longitude": -3.193277777
+   },
+   "category": "monument",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 23,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "medieval",
+    "monument"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Scott Monument",
+     "intro": "The Scott Monument is a Victorian Gothic monument to Scottish author Sir Walter Scott.",
+     "narration": "The Scott Monument is a Victorian Gothic monument to Scottish author Sir Walter Scott. It is the second-largest monument to a writer in the world after the José Martí monument in Havana. It stands in Princes Street Gardens in Edinburgh, opposite the former Jenners building on Princes Street and near Edinburgh Waverley Railway Station, which is named after Scott's Waverley novels.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Scott Monument",
+     "url": "https://en.wikipedia.org/wiki/Scott_Monument",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2502213",
+     "url": "https://www.wikidata.org/wiki/Q2502213",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "old-town-edinburgh",
+   "image": {
+    "file": "images/old-town-edinburgh.jpg",
+    "author": "David Monniaux",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_Cockburn_St_dsc06789.jpg"
+   },
+   "location": {
+    "latitude": 55.947572222,
+    "longitude": -3.191630555
+   },
+   "category": "neighbourhood",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "iconic",
+    "medieval",
+    "neighbourhood"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Old Town, Edinburgh",
+     "intro": "The Old Town is the oldest part of Scotland's capital city of Edinburgh.",
+     "narration": "The Old Town is the oldest part of Scotland's capital city of Edinburgh. The area has preserved much of its medieval street plan and many Reformation-era buildings. Together with the 18th/19th-century New Town, it forms part of a protected UNESCO World Heritage Site. Significant buildings in the Old Town include St. Giles' Cathedral, the General Assembly Hall of the Church of Scotland, the National Museum of Scotland, the Old College of the University of Edinburgh, Parliament House and the Scottish Parliament Building. The area contains underground vaults and hidden passages that are relics of previous phases of construction.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Old Town, Edinburgh",
+     "url": "https://en.wikipedia.org/wiki/Old_Town%2C_Edinburgh",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q591133",
+     "url": "https://www.wikidata.org/wiki/Q591133",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "national-museum-of-scotland",
+   "image": {
+    "file": "images/national-museum-of-scotland.jpg",
+    "author": "No machine-readable author provided. Maccoinnich~commonswiki assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_of_Scotland.jpg"
+   },
+   "location": {
+    "latitude": 55.946944,
+    "longitude": -3.19
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "iconic",
+    "museum"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "National Museum of Scotland",
+     "intro": "The National Museum of Scotland in Edinburgh, Scotland, is a museum of Scottish history and culture.",
+     "narration": "The National Museum of Scotland in Edinburgh, Scotland, is a museum of Scottish history and culture. It was formed in 2006 with the merger of the new Museum of Scotland, with collections relating to Scottish antiquities, culture and history, and the adjacent Royal Scottish Museum, with international collections covering science and technology, natural history, and world cultures. The two connected buildings stand beside each other on Chambers Street, by the junction with the George IV Bridge, in central Edinburgh. The museum is part of National Museums Scotland and admission is free.",
+     "longDescription": "The National Museum of Scotland in Edinburgh, Scotland, is a museum of Scottish history and culture. It was formed in 2006 with the merger of the new Museum of Scotland, with collections relating to Scottish antiquities, culture and history, and the adjacent Royal Scottish Museum, with international collections covering science and technology, natural history, and world cultures. The two connected buildings stand beside each other on Chambers Street, by the junction with the George IV Bridge, in central Edinburgh. The museum is part of National Museums Scotland and admission is free. The two buildings retain distinctive characters: the Museum of Scotland is housed in a modern building opened in 1998, while the former Royal Museum building was begun in 1861 and partially opened in 1866, with a Victorian Venetian Renaissance façade and a grand central hall of cast iron construction that rises the full height of the building, designed by Francis Fowke and Robert Matheson. This building underwent a major refurbishment and reopened on 29 July 2011 after a three-year, £47 million project to restore and extend the building led by Gareth Hoskins Architects along with the concurrent redesign of the exhibitions by Ralph Appelbaum Associates. The National Museum incorporates the collections of the former National Museum of Antiquities of Scotland. As well as the national collections of Scottish archaeological finds and medieval objects, the museum contains artefacts from around the world, encompassing geology, archaeology, natural history, science, technology, art, and world cultures. The sixteen new galleries reopened in 2011 include 8,000 objects, 80% of which were not previously on display. One of the more notable exhibits is the stuffed body of Dolly the sheep, the first succe",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: National Museum of Scotland",
+     "url": "https://en.wikipedia.org/wiki/National_Museum_of_Scotland",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1633842",
+     "url": "https://www.wikidata.org/wiki/Q1633842",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "tynecastle-park",
+   "image": {
+    "file": "images/tynecastle-park.jpg",
+    "author": "daniel0685",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tynecastle_before_the_Sky_Sports_Cup_Final_-_53607560077.jpg"
+   },
+   "location": {
+    "latitude": 55.939055555,
+    "longitude": -3.232444444
+   },
+   "category": "park",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 34,
+   "visitMinutes": 8,
+   "tags": [
+    "historic",
+    "iconic",
+    "park",
+    "scenic"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Tynecastle Park",
+     "intro": "Tynecastle Park, also known as Tynecastle Stadium or colloquially as Tynie, is a football stadium in the Gorgie area of Edinburgh, which is the home ground of Scottish Professional Football League club Heart of…",
+     "narration": "Tynecastle Park, also known as Tynecastle Stadium or colloquially as Tynie, is a football stadium in the Gorgie area of Edinburgh, which is the home ground of Scottish Professional Football League club Heart of Midlothian. A UEFA category four stadium, it has also hosted Scotland international matches, and been used as a neutral venue for Scottish Cup and Scottish League Cup semi-finals. Tynecastle has a seating capacity of 19,852, which makes it the sixth-largest football stadium in Scotland. Hearts have played at the present site of Tynecastle since 1886.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Tynecastle Park",
+     "url": "https://en.wikipedia.org/wiki/Tynecastle_Park",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1326446",
+     "url": "https://www.wikidata.org/wiki/Q1326446",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "royal-mile",
+   "image": {
+    "file": "images/royal-mile.jpg",
+    "author": "Kim Traynor",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:High_Street,_Edinburgh.JPG"
+   },
+   "location": {
+    "latitude": 55.950555555,
+    "longitude": -3.185555555
+   },
+   "category": "street",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 4,
+   "tags": [
+    "iconic",
+    "modern",
+    "neighbourhood",
+    "street"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Royal Mile",
+     "intro": "The Royal Mile is a series of streets forming the main thoroughfare of the Old Town of Edinburgh, Scotland.",
+     "narration": "The Royal Mile is a series of streets forming the main thoroughfare of the Old Town of Edinburgh, Scotland. The term originated in the early 20th century and has since entered popular usage. The Royal Mile runs between Edinburgh Castle and Holyrood Palace, two significant locations in the royal history of Scotland, and is almost exactly one mile long. From west to east, and running downhill, it comprises the Castle Esplanade and the public streets of Castlehill, the Lawnmarket, the High Street, the Canongate and Abbey Strand. It is the busiest tourist street in the Old Town. The Royal Mile contains shops, restaurants, public houses, and visitor attractions.",
+     "longDescription": "The Royal Mile is a series of streets forming the main thoroughfare of the Old Town of Edinburgh, Scotland. The term originated in the early 20th century and has since entered popular usage. The Royal Mile runs between Edinburgh Castle and Holyrood Palace, two significant locations in the royal history of Scotland, and is almost exactly one mile long. From west to east, and running downhill, it comprises the Castle Esplanade and the public streets of Castlehill, the Lawnmarket, the High Street, the Canongate and Abbey Strand. It is the busiest tourist street in the Old Town. The Royal Mile contains shops, restaurants, public houses, and visitor attractions. During the annual Edinburgh Fringe, the High Street becomes crowded with tourists, entertainers, and buskers. Parliament Square is at the heart of Scotland's legal system, being the home of both the High Court of Justiciary and the Court of Session.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Royal Mile",
+     "url": "https://en.wikipedia.org/wiki/Royal_Mile",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q852908",
+     "url": "https://www.wikidata.org/wiki/Q852908",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "national-monument-of-scotland",
+   "image": {
+    "file": "images/national-monument-of-scotland.jpg",
+    "author": "Colin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tourists_posing_at_the_National_Monument_of_Scotland.jpg"
+   },
+   "location": {
+    "latitude": 55.954743422,
+    "longitude": -3.181909277
+   },
+   "category": "monument",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "National Monument of Scotland",
+     "intro": "The National Monument of Scotland, on Calton Hill in Edinburgh, is Scotland's national memorial to the Scottish soldiers and sailors who died fighting in the Napoleonic Wars.",
+     "narration": "The National Monument of Scotland, on Calton Hill in Edinburgh, is Scotland's national memorial to the Scottish soldiers and sailors who died fighting in the Napoleonic Wars. It was intended, according to the inscription, to be \"A Memorial of the Past and Incentive to the Future Heroism of the Men of Scotland\". The monument dominates the top of Calton Hill, just to the east of Princes Street. It was designed during 1823–1826 by Charles Robert Cockerell and William Henry Playfair and is modeled upon the Parthenon in Athens. Construction started in 1826 and, due to the lack of funds, was left unfinished in 1829.",
+     "longDescription": "The National Monument of Scotland, on Calton Hill in Edinburgh, is Scotland's national memorial to the Scottish soldiers and sailors who died fighting in the Napoleonic Wars. It was intended, according to the inscription, to be \"A Memorial of the Past and Incentive to the Future Heroism of the Men of Scotland\". The monument dominates the top of Calton Hill, just to the east of Princes Street. It was designed during 1823–1826 by Charles Robert Cockerell and William Henry Playfair and is modeled upon the Parthenon in Athens. Construction started in 1826 and, due to the lack of funds, was left unfinished in 1829. This circumstance gave rise to various nicknames such as \"Scotland's Folly\", \"Edinburgh's Disgrace\", \"Scotland's Pride and Poverty\" and \"Edinburgh's Folly\".",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: National Monument of Scotland",
+     "url": "https://en.wikipedia.org/wiki/National_Monument_of_Scotland",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q6974379",
+     "url": "https://www.wikidata.org/wiki/Q6974379",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "grassmarket",
+   "image": {
+    "file": "images/grassmarket.jpg",
+    "author": "Kim Traynor",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shadow_of_the_gibbet,_Grassmarket_Edinburgh.jpg"
+   },
+   "location": {
+    "latitude": 55.9475,
+    "longitude": -3.196111111
+   },
+   "category": "square",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Grassmarket",
+     "intro": "The Grassmarket is a historic market place, street and event space in the Old Town of Edinburgh, Scotland.",
+     "narration": "The Grassmarket is a historic market place, street and event space in the Old Town of Edinburgh, Scotland. It is located at the south-west foot of the Castle Rock, lying in a valley, considerably below the surrounding area.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Grassmarket",
+     "url": "https://en.wikipedia.org/wiki/Grassmarket",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1543570",
+     "url": "https://www.wikidata.org/wiki/Q1543570",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "royal-botanic-garden-edinburgh",
+   "image": {
+    "file": "images/royal-botanic-garden-edinburgh.jpg",
+    "author": "Steve nova at English Wikipedia.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palmhouse.jpg"
+   },
+   "location": {
+    "latitude": 55.96507,
+    "longitude": -3.2085295
+   },
+   "category": "park",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 8,
+   "tags": [
+    "historic",
+    "park",
+    "scenic"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Royal Botanic Garden Edinburgh",
+     "intro": "The Royal Botanic Garden Edinburgh is a scientific centre for the study of plants, their diversity and conservation, as well as a popular visitor attraction.",
+     "narration": "The Royal Botanic Garden Edinburgh is a scientific centre for the study of plants, their diversity and conservation, as well as a popular visitor attraction. Founded in 1670 as a physic garden to grow medicinal plants, today it occupies four sites across Scotland—Edinburgh, Dawyck, Logan and Benmore—each with its own specialist collection. The RBGE's living collection consists of more than 13,302 plant species, whilst the herbarium contains in excess of 3 million preserved specimens. The Royal Botanic Garden Edinburgh is an executive non-departmental public body of the Scottish Government. The Edinburgh site is the main garden and the headquarters of the public body, which is led by Regius Keeper Dr Julia Knights.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Royal Botanic Garden Edinburgh",
+     "url": "https://en.wikipedia.org/wiki/Royal_Botanic_Garden_Edinburgh",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1807521",
+     "url": "https://www.wikidata.org/wiki/Q1807521",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "craigmillar-castle",
+   "image": {
+    "file": "images/craigmillar-castle.jpg",
+    "author": "Gunther Tschuch",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Craigmillar_Castle_1.jpg"
+   },
+   "location": {
+    "latitude": 55.9257,
+    "longitude": -3.14089
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "medieval",
+    "modern",
+    "monument"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Craigmillar Castle",
+     "intro": "Craigmillar Castle is a ruined medieval castle in Edinburgh, Scotland.",
+     "narration": "Craigmillar Castle is a ruined medieval castle in Edinburgh, Scotland. It is three miles south-east of the city centre, on a low hill to the south of the modern suburb of Craigmillar. The Preston family of Craigmillar, the local feudal barons, began building the castle in the late 14th century and building works continued through the 15th and 16th centuries. In 1660, the castle was sold to Sir John Gilmour, Lord President of the Court of Session, who breathed new life into the ageing castle. The Gilmours left Craigmillar in the 18th century for a more modern residence, nearby Inch House, and the castle fell into ruin.",
+     "longDescription": "Craigmillar Castle is a ruined medieval castle in Edinburgh, Scotland. It is three miles south-east of the city centre, on a low hill to the south of the modern suburb of Craigmillar. The Preston family of Craigmillar, the local feudal barons, began building the castle in the late 14th century and building works continued through the 15th and 16th centuries. In 1660, the castle was sold to Sir John Gilmour, Lord President of the Court of Session, who breathed new life into the ageing castle. The Gilmours left Craigmillar in the 18th century for a more modern residence, nearby Inch House, and the castle fell into ruin. It is now in the care of Historic Environment Scotland as a scheduled monument, and is open to the public. Craigmillar Castle is best known for its association with Mary, Queen of Scots. Following an illness after the birth of her son, the future James VI, Mary arrived at Craigmillar on 20 November 1566 to convalesce. Before she left on 7 December 1566, a pact known as the \"Craigmillar Bond\" was made, with or without her knowledge, to dispose of her husband Henry Stuart, Lord Darnley. Craigmillar is one of the best-preserved medieval castles in Scotland. The central tower house, or keep, is surrounded by a 15th-century courtyard wall with \"particularly fine\" defensive features. Within this are additional ranges, and the whole is enclosed by an outer courtyard wall containing a chapel and a doocot.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Craigmillar Castle",
+     "url": "https://en.wikipedia.org/wiki/Craigmillar_Castle",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q432422",
+     "url": "https://www.wikidata.org/wiki/Q432422",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "mercat-cross-edinburgh",
+   "image": {
+    "file": "images/mercat-cross-edinburgh.jpg",
+    "author": "User:Kim Traynor",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercat_Cross,_Edinburgh.jpg"
+   },
+   "location": {
+    "latitude": 55.9496,
+    "longitude": -3.1902
+   },
+   "category": "market",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "historic",
+    "market"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Mercat Cross, Edinburgh",
+     "intro": "The Mercat Cross of Edinburgh is a market cross, which stands in Parliament Square next to St Giles' Cathedral, facing the High Street in the Old Town of Edinburgh.",
+     "narration": "The Mercat Cross of Edinburgh is a market cross, which stands in Parliament Square next to St Giles' Cathedral, facing the High Street in the Old Town of Edinburgh.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Mercat Cross, Edinburgh",
+     "url": "https://en.wikipedia.org/wiki/Mercat_Cross%2C_Edinburgh",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q6818041",
+     "url": "https://www.wikidata.org/wiki/Q6818041",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "scottish-national-portrait-gallery",
+   "image": {
+    "file": "images/scottish-national-portrait-gallery.jpg",
+    "author": "Kenneth C. Zirkel",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_Scottish_National_Portrait_Gallery.jpg"
+   },
+   "location": {
+    "latitude": 55.955511213,
+    "longitude": -3.193608578
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "medieval",
+    "museum"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Scottish National Portrait Gallery",
+     "intro": "National Galleries Scotland: Portrait is an art museum on Queen Street, Edinburgh.",
+     "narration": "National Galleries Scotland: Portrait is an art museum on Queen Street, Edinburgh. Portrait holds the national collections of portraits, all of which are of, but not necessarily by, Scots. It also holds the Scottish National Photography Collection. Since 1889 it has been housed in its red sandstone Gothic revival building, designed by Robert Rowand Anderson and built between 1885 and 1890 to accommodate the gallery and the museum collection of the Society of Antiquaries of Scotland. The building was donated by John Ritchie Findlay, owner of The Scotsman newspaper. In 1985 the National Museum of Antiquities of Scotland was amalgamated with the Royal Scottish Museum, and later moved to Chambers Street as part of the National Museum of Scotland.",
+     "longDescription": "National Galleries Scotland: Portrait is an art museum on Queen Street, Edinburgh. Portrait holds the national collections of portraits, all of which are of, but not necessarily by, Scots. It also holds the Scottish National Photography Collection. Since 1889 it has been housed in its red sandstone Gothic revival building, designed by Robert Rowand Anderson and built between 1885 and 1890 to accommodate the gallery and the museum collection of the Society of Antiquaries of Scotland. The building was donated by John Ritchie Findlay, owner of The Scotsman newspaper. In 1985 the National Museum of Antiquities of Scotland was amalgamated with the Royal Scottish Museum, and later moved to Chambers Street as part of the National Museum of Scotland. The Scottish National Portrait Gallery expanded to take over the whole building, and reopened on 1 December 2011 as \"Portrait\" after being closed since April 2009 for the first comprehensive refurbishment in its history, carried out by Page\\Park Architects. Portrait is part of National Galleries Scotland, a public body that also owns the Scottish National Gallery of Modern Art and the Scottish National Gallery in Edinburgh.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Scottish National Portrait Gallery",
+     "url": "https://en.wikipedia.org/wiki/Scottish_National_Portrait_Gallery",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2441562",
+     "url": "https://www.wikidata.org/wiki/Q2441562",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "blackford-hill",
+   "image": {
+    "file": "images/blackford-hill.jpg",
+    "author": "Kim Traynor",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Blackford_Hill_(composite).jpg"
+   },
+   "location": {
+    "latitude": 55.9230568,
+    "longitude": -3.1946835
+   },
+   "category": "viewpoint",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "scenic",
+    "viewpoint"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Blackford Hill",
+     "intro": "Blackford Hill 164 metres is a hill in Edinburgh, the capital city of Scotland.",
+     "narration": "Blackford Hill 164 metres is a hill in Edinburgh, the capital city of Scotland. It is in the area of Blackford, between Morningside, and the Braid Hills. Together with the Hermitage of Braid, it comprises the 60.3 hectares Hermitage of Braid and Blackford Hill Local Nature Reserve, within which lies Hermitage House.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Blackford Hill",
+     "url": "https://en.wikipedia.org/wiki/Blackford_Hill",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q3915784",
+     "url": "https://www.wikidata.org/wiki/Q3915784",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "holyrood-edinburgh",
+   "image": {
+    "file": "images/holyrood-edinburgh.jpg",
+    "author": "Saffron Blaze",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Holyrood_Palace_Abbey_Calton_Hill.jpg"
+   },
+   "location": {
+    "latitude": 55.95083333,
+    "longitude": -3.18055556
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "modern",
+    "neighbourhood"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Holyrood, Edinburgh",
+     "intro": "Holyrood is an area in Edinburgh, the capital of Scotland, lying east of the city centre, at the foot of the Royal Mile.",
+     "narration": "Holyrood is an area in Edinburgh, the capital of Scotland, lying east of the city centre, at the foot of the Royal Mile. The area takes its name from Holyrood Abbey, which was the Church of the Holy Rude. Holyrood includes the following sites: The modern Scottish Parliament Building. For this reason \"Holyrood\" is often used in contemporary media as a metonym for the Scottish Government. The Palace of Holyroodhouse, the official residence of the monarch in Scotland. The ruins of Holyrood Abbey Holyrood Park, an expansive royal park to the south and east of the palace. The Queen's Gallery, part of the Holyroodhouse complex formerly a church and now an art gallery.",
+     "longDescription": "Holyrood is an area in Edinburgh, the capital of Scotland, lying east of the city centre, at the foot of the Royal Mile. The area takes its name from Holyrood Abbey, which was the Church of the Holy Rude. Holyrood includes the following sites: The modern Scottish Parliament Building. For this reason \"Holyrood\" is often used in contemporary media as a metonym for the Scottish Government. The Palace of Holyroodhouse, the official residence of the monarch in Scotland. The ruins of Holyrood Abbey Holyrood Park, an expansive royal park to the south and east of the palace. The Queen's Gallery, part of the Holyroodhouse complex formerly a church and now an art gallery. Dynamic Earth, visitor attraction and science centre which is Scotland's largest interactive museum. A number of residential, light commercial, and government properties.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Holyrood, Edinburgh",
+     "url": "https://en.wikipedia.org/wiki/Holyrood%2C_Edinburgh",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1625364",
+     "url": "https://www.wikidata.org/wiki/Q1625364",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-mary-s-cathedral-edinburgh-episcopal",
+   "image": {
+    "file": "images/st-mary-s-cathedral-edinburgh-episcopal.jpg",
+    "author": "Farwestern Photo by Gregg M. Erickson",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Mary%27s_Cathedral,_Edinburgh.jpg"
+   },
+   "location": {
+    "latitude": 55.9484,
+    "longitude": -3.21661
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "St Mary's Cathedral, Edinburgh (Episcopal)",
+     "intro": "The Cathedral Church of Saint Mary the Virgin, commonly known as St Mary's Episcopal Cathedral, is a cathedral of the Scottish Episcopal Church in the West End of Edinburgh, Scotland; part of the worldwide Anglican…",
+     "narration": "The Cathedral Church of Saint Mary the Virgin, commonly known as St Mary's Episcopal Cathedral, is a cathedral of the Scottish Episcopal Church in the West End of Edinburgh, Scotland; part of the worldwide Anglican Communion. Its foundation stone was laid in Palmerston Place on 21 May 1874 by the Duke of Buccleuch and Queensberry. The building was consecrated on 30 October 1879. St Mary's Episcopal Cathedral is the mother church of all Scottish Episcopal churches in the Edinburgh diocese, which stretches from the Firth of Forth down to the English border. There are seven dioceses in Scotland. St Mary's is the see of the Bishop of Edinburgh, one of the seven bishops of the Scottish Episcopal Church.",
+     "longDescription": "The Cathedral Church of Saint Mary the Virgin, commonly known as St Mary's Episcopal Cathedral, is a cathedral of the Scottish Episcopal Church in the West End of Edinburgh, Scotland; part of the worldwide Anglican Communion. Its foundation stone was laid in Palmerston Place on 21 May 1874 by the Duke of Buccleuch and Queensberry. The building was consecrated on 30 October 1879. St Mary's Episcopal Cathedral is the mother church of all Scottish Episcopal churches in the Edinburgh diocese, which stretches from the Firth of Forth down to the English border. There are seven dioceses in Scotland. St Mary's is the see of the Bishop of Edinburgh, one of the seven bishops of the Scottish Episcopal Church. The cathedral was designed in a Victorian Gothic revival style by architect Sir George Gilbert Scott. It has attained Category A listed building status, and is part of the Old Town and New Town of Edinburgh World Heritage Site. The cathedral is one of only three in the United Kingdom that feature three spires, the other two being Lichfield and Truro cathedrals. The main spire is 90 metres tall, making the building the tallest in the Edinburgh urban area. The Song School and the Chapter House were also added in years following consecration – the Chapter house in 1880. The two west spires – \"Barbara\" and \"Mary\" – were completed in 1917.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St Mary's Cathedral, Edinburgh (Episcopal)",
+     "url": "https://en.wikipedia.org/wiki/St_Mary%27s_Cathedral%2C_Edinburgh_%28Episcopal%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2324015",
+     "url": "https://www.wikidata.org/wiki/Q2324015",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "national-library-of-scotland",
+   "image": {
+    "file": "images/national-library-of-scotland.jpg",
+    "author": "Marcok",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Library_of_Scotland_2018-08-21_by_Marcok.jpg"
+   },
+   "location": {
+    "latitude": 55.948696,
+    "longitude": -3.19173
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture"
+   ],
+   "area": "Edinburgh",
+   "content": {
+    "en": {
+     "name": "National Library of Scotland",
+     "intro": "The National Library of Scotland is one of Scotland's National Collections.",
+     "narration": "The National Library of Scotland is one of Scotland's National Collections. It is one of the largest libraries in the United Kingdom. As well as a public programme of exhibitions, events, workshops, and tours, the National Library of Scotland has reading rooms where visitors can access the collections. It is the legal deposit library of Scotland and is a member of Research Libraries UK and the Consortium of European Research Libraries. There are over 24 million items held at the library in various formats including books, annotated manuscripts and first-drafts, postcards, photographs, and newspapers. The library is also home to Scotland's Moving Image Archive, a collection of over 46,000 videos and films.",
+     "longDescription": "The National Library of Scotland is one of Scotland's National Collections. It is one of the largest libraries in the United Kingdom. As well as a public programme of exhibitions, events, workshops, and tours, the National Library of Scotland has reading rooms where visitors can access the collections. It is the legal deposit library of Scotland and is a member of Research Libraries UK and the Consortium of European Research Libraries. There are over 24 million items held at the library in various formats including books, annotated manuscripts and first-drafts, postcards, photographs, and newspapers. The library is also home to Scotland's Moving Image Archive, a collection of over 46,000 videos and films. Notable items amongst the collection include copies of the Gutenberg Bible, Charles Darwin's letter with which he submitted the manuscript of On the Origin of Species, the First Folio of Shakespeare, the Glenriddell Manuscripts, and the last letter written by Mary Queen of Scots. It has the largest collection of Scottish Gaelic material of any library in the world.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: National Library of Scotland",
+     "url": "https://en.wikipedia.org/wiki/National_Library_of_Scotland",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1670994",
+     "url": "https://www.wikidata.org/wiki/Q1670994",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-mary-s-cathedral-edinburgh-catholic",
+   "image": {
+    "file": "images/st-mary-s-cathedral-edinburgh-catholic.jpg",
+    "author": "Ad Meskens",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Mary%27s_Roman_Catholic_Cathedral_Edinburgh_2.JPG"
+   },
+   "location": {
+    "latitude": 55.9562,
+    "longitude": -3.18786
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 32,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "roman"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "St Mary's Cathedral, Edinburgh (Catholic)",
+     "intro": "The Metropolitan Cathedral of Our Lady of the Assumption, also known as St Mary's Metropolitan Cathedral, is a Roman Catholic church in Edinburgh, Scotland.",
+     "narration": "The Metropolitan Cathedral of Our Lady of the Assumption, also known as St Mary's Metropolitan Cathedral, is a Roman Catholic church in Edinburgh, Scotland. It is the seat of the Archbishop of Saint Andrews and Edinburgh and is the mother church of the Archdiocese of St Andrews and Edinburgh. The cathedral is located in the section of Broughton Street between York Place and Leith Street in the East End of the New Town in the city centre. It is a category B listed building.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St Mary's Cathedral, Edinburgh (Catholic)",
+     "url": "https://en.wikipedia.org/wiki/St_Mary%27s_Cathedral%2C_Edinburgh_%28Catholic%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q519072",
+     "url": "https://www.wikidata.org/wiki/Q519072",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "princes-street",
+   "image": {
+    "file": "images/princes-street.jpg",
+    "author": "瑞丽江的河水",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Princes_Street_-_aerial_-_2025-04-19.jpg"
+   },
+   "location": {
+    "latitude": 55.951313888,
+    "longitude": -3.200877777
+   },
+   "category": "street",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 4,
+   "tags": [
+    "neighbourhood",
+    "street"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Princes Street",
+     "intro": "Princes Street is one of the major thoroughfares in central Edinburgh, Scotland, and the main shopping street in the capital.",
+     "narration": "Princes Street is one of the major thoroughfares in central Edinburgh, Scotland, and the main shopping street in the capital. It is the southernmost street of Edinburgh's New Town, stretching around 1.2 km from Lothian Road in the west, to Leith Street in the east. The street has few buildings on the south side and looks over Princes Street Gardens with panoramic views of the Old Town and Edinburgh Castle beyond. Most of the street is limited to trams, buses and taxis with only the east end open to all traffic.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Princes Street",
+     "url": "https://en.wikipedia.org/wiki/Princes_Street",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1548664",
+     "url": "https://www.wikidata.org/wiki/Q1548664",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "nelson-monument-edinburgh",
+   "image": {
+    "file": "images/nelson-monument-edinburgh.jpg",
+    "author": "Kim Traynor",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nelson_Monument,_Calton_Hill,_Edinburgh.JPG"
+   },
+   "location": {
+    "latitude": 55.954333333,
+    "longitude": -3.182583333
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument",
+    "river"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Nelson Monument, Edinburgh",
+     "intro": "The Nelson Monument is a commemorative tower dedicated in honour of British Vice Admiral Horatio Nelson located in Edinburgh, Scotland, United Kingdom.",
+     "narration": "The Nelson Monument is a commemorative tower dedicated in honour of British Vice Admiral Horatio Nelson located in Edinburgh, Scotland, United Kingdom. It is situated on top of the Calton Hill at the end of Princes Street. The monument was built between 1807 and 1816 to commemorate Nelson's victory over the French and Spanish fleets at the Battle of Trafalgar in 1805, and his own death at the same battle. In 1852 a mechanized time ball was added, as a time signal to shipping in Leith harbour. The time ball is synchronized with the One O'Clock Gun firing from Edinburgh Castle. The monument was restored in 2009.",
+     "longDescription": "The Nelson Monument is a commemorative tower dedicated in honour of British Vice Admiral Horatio Nelson located in Edinburgh, Scotland, United Kingdom. It is situated on top of the Calton Hill at the end of Princes Street. The monument was built between 1807 and 1816 to commemorate Nelson's victory over the French and Spanish fleets at the Battle of Trafalgar in 1805, and his own death at the same battle. In 1852 a mechanized time ball was added, as a time signal to shipping in Leith harbour. The time ball is synchronized with the One O'Clock Gun firing from Edinburgh Castle. The monument was restored in 2009. The British Royal Navy's White Ensign and signal flags spelling out Nelson's famous message \"England expects that every man will do his duty\" are flown from the monument on Trafalgar Day each year on the 21st October.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Nelson Monument, Edinburgh",
+     "url": "https://en.wikipedia.org/wiki/Nelson_Monument%2C_Edinburgh",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q11838983",
+     "url": "https://www.wikidata.org/wiki/Q11838983",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "scottish-national-gallery-of-modern-art",
+   "image": {
+    "file": "images/scottish-national-gallery-of-modern-art.jpg",
+    "author": "John R. from Scotland, Britain.",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SNGMA_The_Building.jpg"
+   },
+   "location": {
+    "latitude": 55.950924,
+    "longitude": -3.22784
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 29,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "modern",
+    "museum"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Scottish National Gallery of Modern Art",
+     "intro": "National Galleries Scotland: Modern is part of National Galleries Scotland, which is based in Edinburgh, Scotland.",
+     "narration": "National Galleries Scotland: Modern is part of National Galleries Scotland, which is based in Edinburgh, Scotland. The Modern houses the collection of modern and contemporary art dating from about 1900 to the present in two buildings, Modern One and Modern Two, that face each other on Belford Road to the west of the city centre. The Modern has a collection of more than 6000 paintings, sculptures, installations, video work, prints and drawings and also stages major exhibitions.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Scottish National Gallery of Modern Art",
+     "url": "https://en.wikipedia.org/wiki/Scottish_National_Gallery_of_Modern_Art",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1889944",
+     "url": "https://www.wikidata.org/wiki/Q1889944",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "scottish-parliament-building",
+   "image": {
+    "file": "images/scottish-parliament-building.jpg",
+    "author": "瑞丽江的河水",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scottish_Parliament_Building_-_aerial_-_2025-04-18.jpg"
+   },
+   "location": {
+    "latitude": 55.952222222,
+    "longitude": -3.174722222
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Scottish Parliament Building",
+     "intro": "The Scottish Parliament Building is the home of the Scottish Parliament at Holyrood in central Edinburgh.",
+     "narration": "The Scottish Parliament Building is the home of the Scottish Parliament at Holyrood in central Edinburgh. Construction of the building commenced in June 1999 and the Members of the Scottish Parliament held their first debate in the new building on 7 September 2004. The formal opening by Queen Elizabeth II took place on 9 October 2004. Enric Miralles, the controversial Spanish architect who designed the building, died before its completion. From 1999 until the opening of the new building in 2004, committee rooms and the debating chamber of the Scottish Parliament were housed in the General Assembly Hall of the Church of Scotland located on The Mound in Edinburgh.",
+     "longDescription": "The Scottish Parliament Building is the home of the Scottish Parliament at Holyrood in central Edinburgh. Construction of the building commenced in June 1999 and the Members of the Scottish Parliament held their first debate in the new building on 7 September 2004. The formal opening by Queen Elizabeth II took place on 9 October 2004. Enric Miralles, the controversial Spanish architect who designed the building, died before its completion. From 1999 until the opening of the new building in 2004, committee rooms and the debating chamber of the Scottish Parliament were housed in the General Assembly Hall of the Church of Scotland located on The Mound in Edinburgh. Office and administrative accommodation in support of the Parliament were provided in buildings leased from the City of Edinburgh Council. The new Scottish Parliament Building brought together these different elements into one purpose-built parliamentary complex, housing 129 MSPs and more than 1,000 staff and civil servants. From the outset, the building and its construction have been controversial. The choices of location, architect, design and construction company were all criticised by politicians, the media and the Scottish public. Scheduled to open in 2001, it did so in 2004, more than three years late with an estimated final cost of £414 million, many times higher than initial estimates of between £10m and £40m. A major public inquiry into the handling of the construction, chaired by the former Lord Advocate, Lord Fraser of Carmyllie, was established in 2003. The inquiry concluded in September 2004, and criticised the management of the whole project from the realisation of cost increases, down to the way in which major design changes were implemented. The original lintel from Parliament House which housed ",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Scottish Parliament Building",
+     "url": "https://en.wikipedia.org/wiki/Scottish_Parliament_Building",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2746031",
+     "url": "https://www.wikidata.org/wiki/Q2746031",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-margaret-s-chapel-edinburgh",
+   "image": {
+    "file": "images/st-margaret-s-chapel-edinburgh.jpg",
+    "author": "Jonathan Oldenbuck",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Margarets_Chapel.JPG"
+   },
+   "location": {
+    "latitude": 55.948722222,
+    "longitude": -3.200111111
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 22,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "medieval"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "St Margaret's Chapel, Edinburgh",
+     "intro": "St Margaret's Chapel, in Edinburgh Castle, is the oldest surviving building in Edinburgh, Scotland.",
+     "narration": "St Margaret's Chapel, in Edinburgh Castle, is the oldest surviving building in Edinburgh, Scotland. An example of Romanesque architecture, it is a category A listed building. It was constructed in the 12th century, but fell into disuse after the Reformation. In the 19th century the chapel was restored and today is cared for by the St Margaret's Chapel Guild.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St Margaret's Chapel, Edinburgh",
+     "url": "https://en.wikipedia.org/wiki/St_Margaret%27s_Chapel%2C_Edinburgh",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2061784",
+     "url": "https://www.wikidata.org/wiki/Q2061784",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "bute-house",
+   "image": {
+    "file": "images/bute-house.jpg",
+    "author": "Scottish Government",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bute_House.jpg"
+   },
+   "location": {
+    "latitude": 55.9526,
+    "longitude": -3.20806
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Bute House",
+     "intro": "Bute House is the official residence and workplace of the First Minister of Scotland.",
+     "narration": "Bute House is the official residence and workplace of the First Minister of Scotland. Located at 6 Charlotte Square in the New Town of Edinburgh, it is the central house on the north side of the square and was designed by Robert Adam. It has served as the official residence of every first minister since Donald Dewar in 1999, and prior to that, the Secretary of State for Scotland who headed the Scotland Office, from the 1970s until 1999. Bute House was conveyed to the National Trust for Scotland by the 6th Marquess of Bute in 1966. The house is a Category A listed building and is constructed in an 18th century town house Neoclassical style, using sandstone materials.",
+     "longDescription": "Bute House is the official residence and workplace of the First Minister of Scotland. Located at 6 Charlotte Square in the New Town of Edinburgh, it is the central house on the north side of the square and was designed by Robert Adam. It has served as the official residence of every first minister since Donald Dewar in 1999, and prior to that, the Secretary of State for Scotland who headed the Scotland Office, from the 1970s until 1999. Bute House was conveyed to the National Trust for Scotland by the 6th Marquess of Bute in 1966. The house is a Category A listed building and is constructed in an 18th century town house Neoclassical style, using sandstone materials. Designed by Robert Adam, Charlotte Square was designed by Adam as a single scheme, and it was part of architect James Craig’s First \"New Town plan\" which was unveiled in 1767, with Adam being commissioned in 1791 to design unified frontages for Charlotte Square. Together with Charlotte Square as a whole, Bute House has been described as \"perhaps the finest architectural achievement of Georgian Edinburgh\". Alongside two other personal offices at the Scottish Parliament Building and St. Andrew's House, Bute House also contains a smaller office used by the first minister when in official residence. As well as serving as the official residence of the first minister, Bute House is frequently used by the First Minister to hold press conferences, media briefings, meetings of the cabinet of the Scottish Government and appointing members to the Scottish Cabinet. The four-storey house contains the Cabinet Room, where the Scottish Cabinet meets each Tuesday, governmental and ministerial offices, conference, reception, sitting and dining rooms where the first minister works and where Scottish Government ministers, offic",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Bute House",
+     "url": "https://en.wikipedia.org/wiki/Bute_House",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2928830",
+     "url": "https://www.wikidata.org/wiki/Q2928830",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "usher-hall",
+   "image": {
+    "file": "images/usher-hall.jpg",
+    "author": "Jo Spiller",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Usherhall_Staircase.jpg"
+   },
+   "location": {
+    "latitude": 55.94727,
+    "longitude": -3.20502
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Usher Hall",
+     "intro": "The Usher Hall is a concert hall in the West End of Edinburgh, Scotland.",
+     "narration": "The Usher Hall is a concert hall in the West End of Edinburgh, Scotland. The hall is owned and managed by the City of Edinburgh Council, and has hosted concerts and events since its construction in 1914, with capacity for approximately 2,200 people in the auditorium. In March 1972, the Eurovision Song Contest was held at the Hall and compèred by Moira Shearer. This marked the first time that the Eurovision Song Contest had been held in Scotland. It was also the venue of Eurovision Young Musicians in August 2018. In 1986, the Commonwealth Games was hosted by Edinburgh, with the Usher Hall providing the venue for the boxing tournament.",
+     "longDescription": "The Usher Hall is a concert hall in the West End of Edinburgh, Scotland. The hall is owned and managed by the City of Edinburgh Council, and has hosted concerts and events since its construction in 1914, with capacity for approximately 2,200 people in the auditorium. In March 1972, the Eurovision Song Contest was held at the Hall and compèred by Moira Shearer. This marked the first time that the Eurovision Song Contest had been held in Scotland. It was also the venue of Eurovision Young Musicians in August 2018. In 1986, the Commonwealth Games was hosted by Edinburgh, with the Usher Hall providing the venue for the boxing tournament. The Hall is flanked by The Royal Lyceum Theatre to the south and The Traverse Theatre to the north, and has received Category A Listed Building status by Historic Environment Scotland.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Usher Hall",
+     "url": "https://en.wikipedia.org/wiki/Usher_Hall",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1636910",
+     "url": "https://www.wikidata.org/wiki/Q1636910",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "greyfriars-bobby-fountain",
+   "image": {
+    "file": "images/greyfriars-bobby-fountain.jpg",
+    "author": "Rock drum",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greyfriars_Bobby_Fountain,_2014-07-06.jpg"
+   },
+   "location": {
+    "latitude": 55.9469,
+    "longitude": -3.19133
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Greyfriars Bobby Fountain",
+     "intro": "The Greyfriars Bobby Fountain is a granite fountain in Edinburgh, surmounted by a bronze life-size statue of Greyfriars Bobby, a Skye Terrier or Dandie Dinmont Terrier who became known in 19th-century Edinburgh for…",
+     "narration": "The Greyfriars Bobby Fountain is a granite fountain in Edinburgh, surmounted by a bronze life-size statue of Greyfriars Bobby, a Skye Terrier or Dandie Dinmont Terrier who became known in 19th-century Edinburgh for supposedly spending 14 years guarding the grave of his owner John Gray, until the dog himself died on 14 January 1872. The fountain is located at the southern end of George IV Bridge, to the immediate east of Greyfriars Kirkyard and adjacent to the National Museum of Scotland. It was unveiled on 15 November 1873 and is Edinburgh's smallest listed building.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Greyfriars Bobby Fountain",
+     "url": "https://en.wikipedia.org/wiki/Greyfriars_Bobby_Fountain",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q17570789",
+     "url": "https://www.wikidata.org/wiki/Q17570789",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "greyfriars-kirk",
+   "image": {
+    "file": "images/greyfriars-kirk.jpg",
+    "author": "Otter",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greyfriars%27_Kirk_Edinburgh_20100920_north_side.jpg"
+   },
+   "location": {
+    "latitude": 55.9466,
+    "longitude": -3.1922
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Greyfriars Kirk",
+     "intro": "Greyfriars Kirk is a parish church of the Church of Scotland, located in the Old Town of Edinburgh, Scotland.",
+     "narration": "Greyfriars Kirk is a parish church of the Church of Scotland, located in the Old Town of Edinburgh, Scotland. It is surrounded by Greyfriars Kirkyard. Greyfriars traces its origin to the south-west parish of Edinburgh, founded in 1598. Initially, this congregation met in the western portion of St Giles'. The church is named for the Franciscans or \"Grey Friars,\" who arrived in Edinburgh from the Netherlands in the mid-15th century and were granted land for a Catholic friary at the south-western edge of the burgh. In the wake of the Scottish Reformation, the grounds of the abandoned friary were repurposed as a cemetery, in which the current church was constructed between 1602 and 1620.",
+     "longDescription": "Greyfriars Kirk is a parish church of the Church of Scotland, located in the Old Town of Edinburgh, Scotland. It is surrounded by Greyfriars Kirkyard. Greyfriars traces its origin to the south-west parish of Edinburgh, founded in 1598. Initially, this congregation met in the western portion of St Giles'. The church is named for the Franciscans or \"Grey Friars,\" who arrived in Edinburgh from the Netherlands in the mid-15th century and were granted land for a Catholic friary at the south-western edge of the burgh. In the wake of the Scottish Reformation, the grounds of the abandoned friary were repurposed as a cemetery, in which the current church was constructed between 1602 and 1620. In 1638, the National Covenant was first signed in the Kirk. The church was damaged during the Protectorate, when it was used as barracks by troops under Oliver Cromwell. In 1718, an explosion destroyed the church tower. During the reconstruction, the church was partitioned to hold two congregations: Old Greyfriars and New Greyfriars. In 1845, fire ravaged Old Greyfriars. After its reconstruction, the minister, Robert Lee, introduced the first organ and stained glass windows in a Scottish parish church since the Reformation. In 1929, Old and New Greyfriars united and the church was restored as one sanctuary. In the following years, the depopulation of the Old Town saw Greyfriars unite with a number of neighbouring congregations. The church of Greyfriars is a simple aisled nave of eight bays; the style is Survival Gothic fused with Baroque elements. The church initially consisted of six bays and a west tower. After the explosion of 1718 destroyed the tower, Alexander McGill added two new bays and a Palladian north porch to create one building divided into two churches of four bays each. Afte",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Greyfriars Kirk",
+     "url": "https://en.wikipedia.org/wiki/Greyfriars_Kirk",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2113456",
+     "url": "https://www.wikidata.org/wiki/Q2113456",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "stockbridge-edinburgh",
+   "image": {
+    "file": "images/stockbridge-edinburgh.jpg",
+    "author": "Stephencdickson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Stephens_Street_(east),_Edinburgh.JPG"
+   },
+   "location": {
+    "latitude": 55.9588,
+    "longitude": -3.21016
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Stockbridge, Edinburgh",
+     "intro": "Stockbridge is a district of Edinburgh, located north of the city centre, bounded by the New Town and by Comely Bank.",
+     "narration": "Stockbridge is a district of Edinburgh, located north of the city centre, bounded by the New Town and by Comely Bank. The name is Scots stock brig from Anglic stocc brycg, meaning a timber bridge. Originally a small outlying village, it was incorporated into the City of Edinburgh in the 19th century. The current \"Stock Bridge\", built in 1801, is a stone structure spanning the Water of Leith. The painter Henry Raeburn owned two adjoining estates, Deanhaugh and St Bernard's, which he developed with the assistance of the architect James Milne. Milne was also responsible for the fine St Bernard's Church in Saxe Coburg Street.",
+     "longDescription": "Stockbridge is a district of Edinburgh, located north of the city centre, bounded by the New Town and by Comely Bank. The name is Scots stock brig from Anglic stocc brycg, meaning a timber bridge. Originally a small outlying village, it was incorporated into the City of Edinburgh in the 19th century. The current \"Stock Bridge\", built in 1801, is a stone structure spanning the Water of Leith. The painter Henry Raeburn owned two adjoining estates, Deanhaugh and St Bernard's, which he developed with the assistance of the architect James Milne. Milne was also responsible for the fine St Bernard's Church in Saxe Coburg Street. Ann Street, designed by Raeburn and named after his wife, is a rare early example of a New Town street with private front gardens.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Stockbridge, Edinburgh",
+     "url": "https://en.wikipedia.org/wiki/Stockbridge%2C_Edinburgh",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q7617942",
+     "url": "https://www.wikidata.org/wiki/Q7617942",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-andrew-square-edinburgh",
+   "image": {
+    "file": "images/st-andrew-square-edinburgh.jpg",
+    "author": "Richard Webb",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:George_Street_from_St_Andrew%27s_Square_-_geograph.org.uk_-_1116148.jpg"
+   },
+   "location": {
+    "latitude": 55.9542,
+    "longitude": -3.19306
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "St Andrew Square, Edinburgh",
+     "intro": "St Andrew Square is a garden square in Edinburgh, Scotland, located at the east end of George Street.",
+     "narration": "St Andrew Square is a garden square in Edinburgh, Scotland, located at the east end of George Street. The construct of St Andrew Square began in 1772, as the first part of the New Town, designed by James Craig. Within six years of its completion St Andrew Square became one of the most desirable and most fashionable residential areas in the city. As the 19th century came to a close, St Andrew Square evolved into the commercial centre of the city. Most of the square used to be made up of major offices of banks and insurance companies, making it one of the major financial centres in Scotland.",
+     "longDescription": "St Andrew Square is a garden square in Edinburgh, Scotland, located at the east end of George Street. The construct of St Andrew Square began in 1772, as the first part of the New Town, designed by James Craig. Within six years of its completion St Andrew Square became one of the most desirable and most fashionable residential areas in the city. As the 19th century came to a close, St Andrew Square evolved into the commercial centre of the city. Most of the square used to be made up of major offices of banks and insurance companies, making it one of the major financial centres in Scotland. At one time, St Andrew Square could claim to be the richest area of its size in the whole of Scotland. The gardens are owned by a number of private parties and belong to the collection of New Town Gardens. They were made open to the public in 2008 and are managed by Essential Edinburgh. The square has several shops, including the department store Harvey Nichols and the designer precinct Multrees Walk. It is also home to The Edinburgh Grand Hotel and apartments, as well as a series of London chain restaurants and bars on its south side, such as Hawksmoor, Drake & Morgan, Dishoom and The Ivy.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St Andrew Square, Edinburgh",
+     "url": "https://en.wikipedia.org/wiki/St_Andrew_Square%2C_Edinburgh",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q7592419",
+     "url": "https://www.wikidata.org/wiki/Q7592419",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "edinburgh-zoo",
+   "image": {
+    "file": "images/edinburgh-zoo.jpg",
+    "author": "billfromesm",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pygoscelis_papua_-Edinburgh_Zoo_-Scotland-8a.jpg"
+   },
+   "location": {
+    "latitude": 55.9425,
+    "longitude": -3.27
+   },
+   "category": "park",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 8,
+   "tags": [
+    "hidden",
+    "park",
+    "scenic"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Edinburgh Zoo",
+     "intro": "Edinburgh Zoo, formerly the Scottish National Zoological Park, is an 82-acre non-profit zoological park in the Corstorphine area of Edinburgh, Scotland.",
+     "narration": "Edinburgh Zoo, formerly the Scottish National Zoological Park, is an 82-acre non-profit zoological park in the Corstorphine area of Edinburgh, Scotland. The zoo is positioned on the south-facing slopes of Corstorphine Hill, giving extensive views of the city. Established in 1913, and owned by the Royal Zoological Society of Scotland, it receives over 600,000 visitors a year, which makes it one of Scotland's most popular paid-for tourist attractions. As well as catering for tourists and locals, the zoo is involved in many scientific pursuits, such as captive breeding of endangered animals, researching into animal behaviour, and active participation in various conservation programmes around the world. Edinburgh Zoo was the first zoo in the world to house and breed penguins.",
+     "longDescription": "Edinburgh Zoo, formerly the Scottish National Zoological Park, is an 82-acre non-profit zoological park in the Corstorphine area of Edinburgh, Scotland. The zoo is positioned on the south-facing slopes of Corstorphine Hill, giving extensive views of the city. Established in 1913, and owned by the Royal Zoological Society of Scotland, it receives over 600,000 visitors a year, which makes it one of Scotland's most popular paid-for tourist attractions. As well as catering for tourists and locals, the zoo is involved in many scientific pursuits, such as captive breeding of endangered animals, researching into animal behaviour, and active participation in various conservation programmes around the world. Edinburgh Zoo was the first zoo in the world to house and breed penguins. It is the only zoo in Britain to house Queensland koalas and, until December 2023, giant pandas. The zoo is a member of the British and Irish Association of Zoos and Aquariums, the European Association of Zoos and Aquaria, the World Association of Zoos and Aquariums, and the Association of Scottish Visitor Attractions. It has also been granted four stars by the Scottish Tourism Board. The zoo gardens boast one of the most diverse tree collections in the Lothians.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Edinburgh Zoo",
+     "url": "https://en.wikipedia.org/wiki/Edinburgh_Zoo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1284778",
+     "url": "https://www.wikidata.org/wiki/Q1284778",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "dugald-stewart-monument",
+   "image": {
+    "file": "images/dugald-stewart-monument.jpg",
+    "author": "Carlos Delgado",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dugald_Stewart_Monument_-_05.jpg"
+   },
+   "location": {
+    "latitude": 55.9545,
+    "longitude": -3.18448
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Dugald Stewart Monument",
+     "intro": "The Dugald Stewart Monument is a memorial to the Scottish Enlightenment philosopher Dugald Stewart.",
+     "narration": "The Dugald Stewart Monument is a memorial to the Scottish Enlightenment philosopher Dugald Stewart. It is situated on Calton Hill overlooking the city of Edinburgh and was designed by Scottish architect William Henry Playfair.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Dugald Stewart Monument",
+     "url": "https://en.wikipedia.org/wiki/Dugald_Stewart_Monument",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5312471",
+     "url": "https://www.wikidata.org/wiki/Q5312471",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "the-hub-edinburgh",
+   "image": {
+    "file": "images/the-hub-edinburgh.jpg",
+    "author": null,
+    "license": "CC BY-SA 2.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_Royal_Mile01.jpg"
+   },
+   "location": {
+    "latitude": 55.9489,
+    "longitude": -3.19515
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "medieval"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "The Hub, Edinburgh",
+     "intro": "The Hub is a public arts and events building in the centre of Edinburgh, Scotland.",
+     "narration": "The Hub is a public arts and events building in the centre of Edinburgh, Scotland. Located at the top of the Royal Mile, it is a prominent landmark as its tall Gothic spire is the highest point in central Edinburgh, and towers over the surrounding buildings below Edinburgh Castle. It was the Highland Tolbooth St John's Church. The building is a notable example of Gothic Revival architecture and was designed by architects J Gillespie Graham and Augustus Pugin. Constructed between 1842 and 1845, it was originally designed as a meeting hall for the General Assembly of the Church of Scotland. From 1929 the building was used as a church until the mid-1980s.",
+     "longDescription": "The Hub is a public arts and events building in the centre of Edinburgh, Scotland. Located at the top of the Royal Mile, it is a prominent landmark as its tall Gothic spire is the highest point in central Edinburgh, and towers over the surrounding buildings below Edinburgh Castle. It was the Highland Tolbooth St John's Church. The building is a notable example of Gothic Revival architecture and was designed by architects J Gillespie Graham and Augustus Pugin. Constructed between 1842 and 1845, it was originally designed as a meeting hall for the General Assembly of the Church of Scotland. From 1929 the building was used as a church until the mid-1980s. Today it is the home of the Edinburgh International Festival and is used as a ticket office, information centre and performance venue. The General Assembly of the Church of Scotland continues to meet here each May.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: The Hub, Edinburgh",
+     "url": "https://en.wikipedia.org/wiki/The_Hub%2C_Edinburgh",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1453649",
+     "url": "https://www.wikidata.org/wiki/Q1453649",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-andrew-s-house",
+   "image": {
+    "file": "images/st-andrew-s-house.jpg",
+    "author": "瑞丽江的河水",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Andrew%27s_House_-_aerial_-_2025-04-18_02.jpg"
+   },
+   "location": {
+    "latitude": 55.9535,
+    "longitude": -3.184
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "modern"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "St Andrew's House",
+     "intro": "St Andrew's House, on the southern flank of Calton Hill in central Edinburgh, is an art deco government building which serves as the headquarters of the Scottish Government.",
+     "narration": "St Andrew's House, on the southern flank of Calton Hill in central Edinburgh, is an art deco government building which serves as the headquarters of the Scottish Government. The building houses offices for the First Minister and Deputy First Minister, as well as the Permanent Secretary to the Scottish Government. When completed in 1939, the building was the largest metal-framed building in Europe, and was the first time government departments serving Scotland were brought under the same space in Edinburgh. Built on the site of the old Calton Jail, the graves of ten murderers who were housed within Calton Jail remain buried beneath the car park for St Andrew's House.",
+     "longDescription": "St Andrew's House, on the southern flank of Calton Hill in central Edinburgh, is an art deco government building which serves as the headquarters of the Scottish Government. The building houses offices for the First Minister and Deputy First Minister, as well as the Permanent Secretary to the Scottish Government. When completed in 1939, the building was the largest metal-framed building in Europe, and was the first time government departments serving Scotland were brought under the same space in Edinburgh. Built on the site of the old Calton Jail, the graves of ten murderers who were housed within Calton Jail remain buried beneath the car park for St Andrew's House. The turreted Governor's House is the only remaining part of the Calton Jail to remain in existence following the construction of St Andrew's House. The building accommodates 1,600 civil servants from the Scottish Government over six floors within the building.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St Andrew's House",
+     "url": "https://en.wikipedia.org/wiki/St_Andrew%27s_House",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q7592399",
+     "url": "https://www.wikidata.org/wiki/Q7592399",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "40-george-square",
+   "image": {
+    "file": "images/40-george-square.jpg",
+    "author": "Enric",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_-_40_George_Square,_University_Of_Edinburgh,_Arts_Faculty,_David_Hume_Tower_(block_A)_And_Lecture_Block_(block_B)_Including_Steppe_-_20140421174922.jpg"
+   },
+   "location": {
+    "latitude": 55.9432,
+    "longitude": -3.18665
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "food",
+    "hidden",
+    "historic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "40 George Square",
+     "intro": "40 George Square is a tower block in Edinburgh, Scotland forming part of the University of Edinburgh.",
+     "narration": "40 George Square is a tower block in Edinburgh, Scotland forming part of the University of Edinburgh. Until September 2020 the tower was named David Hume Tower. The building contains lecture theatres, teaching spaces, offices, a café and a shop.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: 40 George Square",
+     "url": "https://en.wikipedia.org/wiki/40_George_Square",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q17570463",
+     "url": "https://www.wikidata.org/wiki/Q17570463",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "north-bridge-edinburgh",
+   "image": {
+    "file": "images/north-bridge-edinburgh.jpg",
+    "author": "G Laird",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_Bridge_-_geograph.org.uk_-_922338.jpg"
+   },
+   "location": {
+    "latitude": 55.9519,
+    "longitude": -3.1884
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 22,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "North Bridge, Edinburgh",
+     "intro": "North Bridge is a road bridge and street in Edinburgh linking the High Street with Princes Street, and the Old Town with the New Town.",
+     "narration": "North Bridge is a road bridge and street in Edinburgh linking the High Street with Princes Street, and the Old Town with the New Town. The current bridge was built between 1894 and 1897. A previous North Bridge, built between 1763 and 1772, stood until 1896. Significant works to refurbish the bridge were carried out between 2018 and 2026.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: North Bridge, Edinburgh",
+     "url": "https://en.wikipedia.org/wiki/North_Bridge%2C_Edinburgh",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q3753005",
+     "url": "https://www.wikidata.org/wiki/Q3753005",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "holyrood-park",
+   "image": {
+    "file": "images/holyrood-park.jpg",
+    "author": "David Monniaux",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_Arthur_Seat_dsc06165.jpg"
+   },
+   "location": {
+    "latitude": 55.950911111,
+    "longitude": -3.168016666
+   },
+   "category": "archaeology",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "archaeology",
+    "hidden",
+    "historic"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Holyrood Park",
+     "intro": "Holyrood Park is a public park in central Edinburgh, Scotland about 1 mile to the east of Edinburgh Castle.",
+     "narration": "Holyrood Park is a public park in central Edinburgh, Scotland about 1 mile to the east of Edinburgh Castle. It has an array of hills, lochs, glens, ridges, basalt cliffs, and patches of gorse, providing a wild piece of highland landscape within its 650-acre area. The park is associated with the Palace of Holyroodhouse and was formerly a royal hunting estate. The park was created in 1541 when James V had the ground \"circulit about Arthurs Sett, Salisborie and Duddingston craggis\" enclosed by a stone wall. Arthur's Seat, an extinct volcano and the highest point in Edinburgh, is at the centre of the park, with the cliffs of Salisbury Crags to the west.",
+     "longDescription": "Holyrood Park is a public park in central Edinburgh, Scotland about 1 mile to the east of Edinburgh Castle. It has an array of hills, lochs, glens, ridges, basalt cliffs, and patches of gorse, providing a wild piece of highland landscape within its 650-acre area. The park is associated with the Palace of Holyroodhouse and was formerly a royal hunting estate. The park was created in 1541 when James V had the ground \"circulit about Arthurs Sett, Salisborie and Duddingston craggis\" enclosed by a stone wall. Arthur's Seat, an extinct volcano and the highest point in Edinburgh, is at the centre of the park, with the cliffs of Salisbury Crags to the west. There are three lochs: St Margaret's Loch, Dunsapie Loch, and Duddingston Loch. The ruins of St Anthony's Chapel stand above St Margaret's Loch. Queen's Drive is the main route for motor traffic through the Park. St Margaret's Well and St Anthony's Well are both natural springs within the park. Holyrood Park is located to the south-east of the Old Town, at the edge of the city centre. Abbeyhill is to the north, and Duddingston village to the east. The University of Edinburgh's Pollock Halls of Residence are to the south-west, and Dumbiedykes is to the west. Holyrood Park is owned by the Scottish Ministers, apart from the roads which are classed as Crown Property, the whole being managed by Historic Environment Scotland. The whole of Holyrood Park with the exception of the occupied buildings, including the lodges, was made a scheduled monument in 2013. Although various archaeological surveys have taken place across the site, the archaeology is still not fully understood in great detail.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Holyrood Park",
+     "url": "https://en.wikipedia.org/wiki/Holyrood_Park",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2640532",
+     "url": "https://www.wikidata.org/wiki/Q2640532",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "corstorphine-hill",
+   "image": {
+    "file": "images/corstorphine-hill.jpg",
+    "author": "Stephencdickson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_avenue_of_trees_leading_to_Corstorphine_Hill_Cemetery.JPG"
+   },
+   "location": {
+    "latitude": 55.9517,
+    "longitude": -3.27167
+   },
+   "category": "viewpoint",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "scenic",
+    "viewpoint"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Corstorphine Hill",
+     "intro": "Corstorphine Hill is a low ridge-shaped hill rising above the western suburbs of Edinburgh, Scotland.",
+     "narration": "Corstorphine Hill is a low ridge-shaped hill rising above the western suburbs of Edinburgh, Scotland. Although there has been residential and commercial development on its lower slopes, especially in the south and west, most of the hill is occupied by a local nature reserve, consisting of extensive broadleaf woodland, accessible to the public. The hill, which is composed largely of dolerite, was formed by the west-to-east movement of glaciers during the Pleistocene period. There is evidence of prehistoric settlement. Today the hill is popular with walkers, dog-walkers and joggers. Among its interesting features are a 19th-century tower, a walled garden and a Cold War bunker.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Corstorphine Hill",
+     "url": "https://en.wikipedia.org/wiki/Corstorphine_Hill",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5173199",
+     "url": "https://www.wikidata.org/wiki/Q5173199",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "princes-street-gardens",
+   "image": {
+    "file": "images/princes-street-gardens.jpg",
+    "author": "Mike McBey",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh,_Scotland_(39616917631).jpg"
+   },
+   "location": {
+    "latitude": 55.95005,
+    "longitude": -3.202994444
+   },
+   "category": "park",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 8,
+   "tags": [
+    "hidden",
+    "medieval",
+    "park",
+    "scenic"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Princes Street Gardens",
+     "intro": "Princes Street Gardens are two adjacent public parks in the centre of Edinburgh, Scotland, lying in the shadow of Edinburgh Castle.",
+     "narration": "Princes Street Gardens are two adjacent public parks in the centre of Edinburgh, Scotland, lying in the shadow of Edinburgh Castle. The Gardens were created in the 1820s following the long draining of the Nor Loch and building of the New Town, beginning in the 1760s. The loch, situated on the north side of the town, was originally an artificial creation forming part of its medieval defences and made expansion northwards difficult. The water was habitually polluted from sewage draining downhill from the Old Town. The gardens run along the south side of Princes Street and are divided by The Mound, on which the National Gallery of Scotland and the Royal Scottish Academy buildings are located.",
+     "longDescription": "Princes Street Gardens are two adjacent public parks in the centre of Edinburgh, Scotland, lying in the shadow of Edinburgh Castle. The Gardens were created in the 1820s following the long draining of the Nor Loch and building of the New Town, beginning in the 1760s. The loch, situated on the north side of the town, was originally an artificial creation forming part of its medieval defences and made expansion northwards difficult. The water was habitually polluted from sewage draining downhill from the Old Town. The gardens run along the south side of Princes Street and are divided by The Mound, on which the National Gallery of Scotland and the Royal Scottish Academy buildings are located. East Princes Street Gardens run from The Mound to Waverley Bridge, and cover 8.5 acres. The larger West Princes Street Gardens cover 29 acres and extend to the adjacent churches of St. John's and St. Cuthbert's, near Lothian Road in the west. In 1846 the railway was built in the valley to connect the Edinburgh-Glasgow line at Haymarket with the new northern terminus of the North British line from Berwick-upon-Tweed at Waverley Station. The Gardens are the best known parks in Edinburgh, having the highest awareness and visitor figures for both residents and visitors to the city.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Princes Street Gardens",
+     "url": "https://en.wikipedia.org/wiki/Princes_Street_Gardens",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q980646",
+     "url": "https://www.wikidata.org/wiki/Q980646",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "charlotte-square",
+   "image": {
+    "file": "images/charlotte-square.jpg",
+    "author": "Callum Black",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlotte_Square_-_geograph.org.uk_-_105918.jpg"
+   },
+   "location": {
+    "latitude": 55.951765,
+    "longitude": -3.207686
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 22,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Charlotte Square",
+     "intro": "Charlotte Square is a garden square in Edinburgh, Scotland, part of the New Town, designated a UNESCO World Heritage Site.",
+     "narration": "Charlotte Square is a garden square in Edinburgh, Scotland, part of the New Town, designated a UNESCO World Heritage Site. The square is located at the west end of George Street and was intended to mirror St. Andrew Square in the east. The gardens, one of the collection of New Town Gardens, are private and not publicly accessible.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Charlotte Square",
+     "url": "https://en.wikipedia.org/wiki/Charlotte_Square",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5086152",
+     "url": "https://www.wikidata.org/wiki/Q5086152",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "melville-monument",
+   "image": {
+    "file": "images/melville-monument.jpg",
+    "author": "Gareth Davies",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henry_Dundas_Melville_Monument.jpg"
+   },
+   "location": {
+    "latitude": 55.9542,
+    "longitude": -3.19317
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Melville Monument",
+     "intro": "The Melville Monument is a large column in St Andrew Square, Edinburgh constructed between 1821 and 1827 as a memorial to Scottish statesman Henry Dundas, 1st Viscount Melville.",
+     "narration": "The Melville Monument is a large column in St Andrew Square, Edinburgh constructed between 1821 and 1827 as a memorial to Scottish statesman Henry Dundas, 1st Viscount Melville. Dundas, one of the most prominent Scotsmen of his day, was a dominant figure in British politics during much of the late 18th century. Plans to construct a memorial to him began soon after his death in 1811 and were largely driven by Royal Navy officers, especially Sir William Johnstone Hope. After a successful campaign for subscriptions, construction of the monument began in 1821 but time and costs soon spiralled out of control. The project was not completed until 1827 and not paid off until 1837.",
+     "longDescription": "The Melville Monument is a large column in St Andrew Square, Edinburgh constructed between 1821 and 1827 as a memorial to Scottish statesman Henry Dundas, 1st Viscount Melville. Dundas, one of the most prominent Scotsmen of his day, was a dominant figure in British politics during much of the late 18th century. Plans to construct a memorial to him began soon after his death in 1811 and were largely driven by Royal Navy officers, especially Sir William Johnstone Hope. After a successful campaign for subscriptions, construction of the monument began in 1821 but time and costs soon spiralled out of control. The project was not completed until 1827 and not paid off until 1837. In the 21st century, the monument became the subject of increasing controversy as a result of claims that Dundas had delayed the abolition of the slave trade in the British Empire. In the wake of protests following the murder of George Floyd in 2020, the City of Edinburgh Council affixed a plaque to the monument blaming Dundas for \"deferring the abolition of the Atlantic slave trade\" as well as \"imposing colonial rule on indigenous peoples\", in accordance with the recommendations of the Edinburgh Slavery and Colonialism Legacy Review. Installation of the plaque was completed in October 2021. In March 2023, the council's planning committee voted to remove the contentious plaque, but the council later stated that it did not intend to do so. Designed by William Burn, the column is modelled after Trajan's Column in Rome. Robert Stevenson provided additional engineering advice during construction. The column is topped by a 4.2 m tall statue of Dundas designed by Francis Leggatt Chantrey and carved by Robert Forrest. The total height of the monument is about 45 m. It is one of Edinburgh's most prominent lan",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Melville Monument",
+     "url": "https://en.wikipedia.org/wiki/Melville_Monument",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q17570686",
+     "url": "https://www.wikidata.org/wiki/Q17570686",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "parliament-house-edinburgh",
+   "image": {
+    "file": "images/parliament-house-edinburgh.jpg",
+    "author": "Kim Traynor",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parliament_Square,_Edinburgh.JPG"
+   },
+   "location": {
+    "latitude": 55.949166666,
+    "longitude": -3.190555555
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "City of Edinburgh",
+   "content": {
+    "en": {
+     "name": "Parliament House, Edinburgh",
+     "intro": "Parliament House, located in the Old Town in Edinburgh, Scotland, is a historic parliament and court building containing several buildings which now houses the Supreme Courts of Scotland, the Scottish Land Court and…",
+     "narration": "Parliament House, located in the Old Town in Edinburgh, Scotland, is a historic parliament and court building containing several buildings which now houses the Supreme Courts of Scotland, the Scottish Land Court and the Lands Tribunal for Scotland. The oldest part of the complex, known as Parliament Hall, was home to the Parliament of Scotland from 1639 to 1707, and was the world's first purpose-built parliament building. The complex is spread across seven floors, and contains 700 rooms, with the original building first designed and built by James Murray and completed in 1639, costing £10,555 which was paid for by Edinburgh Town Council.",
+     "longDescription": "Parliament House, located in the Old Town in Edinburgh, Scotland, is a historic parliament and court building containing several buildings which now houses the Supreme Courts of Scotland, the Scottish Land Court and the Lands Tribunal for Scotland. The oldest part of the complex, known as Parliament Hall, was home to the Parliament of Scotland from 1639 to 1707, and was the world's first purpose-built parliament building. The complex is spread across seven floors, and contains 700 rooms, with the original building first designed and built by James Murray and completed in 1639, costing £10,555 which was paid for by Edinburgh Town Council. Prior to the construction of Parliament House, the Parliament of Scotland, the Court of Session and the Privy Council of Scotland all shared the same building which was located in the Tolbooth in Edinburgh. By 1632, it had become clear that the sharing of space between the three was inadequate, with Charles I demanding that Edinburgh Town Council provide a \"suitable alternative\". As a result, the town council proposed plans to create a new purpose-built parliament building which would also house the Court of Session on the same site, but faced difficulties in securing funds for the construction. The estimated cost was £11,630 sterling, or £127,000 Scots, the equivalent of £30 million by recent times. It was paid for by a number of subscriptions from Edinburgh residents, as well as a series of loans which \"remained a burden on Edinburgh's finances for many years\". The first meeting of the Parliament of Scotland to be held within the new Parliament House was held on 12 August 1639. Following the ratification of the Acts of Union which resulted in the Parliament of Scotland being subsumed into the Parliament of Great Britain, the last meet",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Parliament House, Edinburgh",
+     "url": "https://en.wikipedia.org/wiki/Parliament_House%2C_Edinburgh",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q7138911",
+     "url": "https://www.wikidata.org/wiki/Q7138911",
+     "license": "CC0"
+    }
+   ]
+  }
+ ]
+}

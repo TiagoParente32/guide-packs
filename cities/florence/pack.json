@@ -1,0 +1,2321 @@
+{
+ "format": 1,
+ "city": {
+  "id": "florence",
+  "name": "Florence",
+  "country": "Italy",
+  "center": {
+   "latitude": 43.7697955,
+   "longitude": 11.2556404
+  },
+  "bounds": {
+   "south": 43.7258716,
+   "north": 43.8354631,
+   "west": 11.1497598,
+   "east": 11.3389044
+  },
+  "languages": [
+   "en"
+  ],
+  "quality": "generated",
+  "placeCount": 45,
+  "version": 1,
+  "hero": {
+   "file": "images/florence-cathedral.jpg",
+   "author": "Petar Milošević",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Florence_Duomo_from_Michelangelo_hill.jpg"
+  },
+  "packUrl": "cities/florence/pack.json",
+  "generatedAt": "2026-10-30T14:44:01Z"
+ },
+ "pois": [
+  {
+   "id": "florence-cathedral",
+   "image": {
+    "file": "images/florence-cathedral.jpg",
+    "author": "Petar Milošević",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Florence_Duomo_from_Michelangelo_hill.jpg"
+   },
+   "location": {
+    "latitude": 43.773055555,
+    "longitude": 11.256944444
+   },
+   "category": "church",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "medieval"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Florence Cathedral",
+     "intro": "Florence Cathedral, formally the Cathedral of Saint Mary of the Flower, is the cathedral of the Catholic Archdiocese of Florence in Florence, Italy.",
+     "narration": "Florence Cathedral, formally the Cathedral of Saint Mary of the Flower, is the cathedral of the Catholic Archdiocese of Florence in Florence, Italy. Commenced in 1296 in the Gothic style to a design of Arnolfo di Cambio and completed by 1436 with a dome engineered by Filippo Brunelleschi, the basilica's exterior is faced with polychrome marble panels in various shades of green and pink, alternated by white, and features an elaborate 19th-century Gothic Revival western façade by Emilio De Fabris. The cathedral complex, in Piazza del Duomo, includes the Florence Baptistery and Giotto's Campanile. These three buildings are part of the UNESCO World Heritage Site covering the historic centre of Florence and are a major tourist attraction of Tuscany.",
+     "longDescription": "Florence Cathedral, formally the Cathedral of Saint Mary of the Flower, is the cathedral of the Catholic Archdiocese of Florence in Florence, Italy. Commenced in 1296 in the Gothic style to a design of Arnolfo di Cambio and completed by 1436 with a dome engineered by Filippo Brunelleschi, the basilica's exterior is faced with polychrome marble panels in various shades of green and pink, alternated by white, and features an elaborate 19th-century Gothic Revival western façade by Emilio De Fabris. The cathedral complex, in Piazza del Duomo, includes the Florence Baptistery and Giotto's Campanile. These three buildings are part of the UNESCO World Heritage Site covering the historic centre of Florence and are a major tourist attraction of Tuscany. The basilica is one of world's largest churches and its dome is still the largest masonry dome ever constructed. The cathedral is the mother church and seat of the Archdiocese of Florence, whose archbishop is Gherardo Gambelli.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Florence Cathedral",
+     "url": "https://en.wikipedia.org/wiki/Florence_Cathedral",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q191739",
+     "url": "https://www.wikidata.org/wiki/Q191739",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "david-michelangelo",
+   "image": {
+    "file": "images/david-michelangelo.jpg",
+    "author": "Jörg Bittner Unna",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%27David%27_by_Michelangelo_Fir_JBU004.jpg"
+   },
+   "location": {
+    "latitude": 43.776702777,
+    "longitude": 11.25945
+   },
+   "category": "monument",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "David (Michelangelo)",
+     "intro": "David is a masterpiece of Italian Renaissance sculpture in marble created from 1501 to 1504 by Michelangelo.",
+     "narration": "David is a masterpiece of Italian Renaissance sculpture in marble created from 1501 to 1504 by Michelangelo. With a height of 5.17 metres, the David was not only the first colossal marble statue made in the High Renaissance, but also the first since classical antiquity, setting a precedent for the 16th century and beyond. David was originally commissioned as one of a series of statues of twelve prophets to be positioned along the roofline of the east end of Florence Cathedral, but was instead placed in the public square in front of the Piazza della Signoria, the seat of civic government in Florence, where it was unveiled on 8 September 1504.",
+     "longDescription": "David is a masterpiece of Italian Renaissance sculpture in marble created from 1501 to 1504 by Michelangelo. With a height of 5.17 metres, the David was not only the first colossal marble statue made in the High Renaissance, but also the first since classical antiquity, setting a precedent for the 16th century and beyond. David was originally commissioned as one of a series of statues of twelve prophets to be positioned along the roofline of the east end of Florence Cathedral, but was instead placed in the public square in front of the Piazza della Signoria, the seat of civic government in Florence, where it was unveiled on 8 September 1504. In 1873, the statue was moved to the Galleria dell'Accademia, Florence. In 1910 a replica was installed at the original site on the public square. The biblical figure David was a favoured subject in the art of Florence. Because of the nature of the figure it represented, the statue soon came to symbolize the defence of civil liberties embodied in the 1494 constitution of the Republic of Florence, an independent city-state threatened on all sides by more powerful rival states and by the political aspirations of the Medici family.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: David (Michelangelo)",
+     "url": "https://en.wikipedia.org/wiki/David_%28Michelangelo%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q179900",
+     "url": "https://www.wikidata.org/wiki/Q179900",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ponte-vecchio",
+   "image": {
+    "file": "images/ponte-vecchio.jpg",
+    "author": "Ingo Mehling",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_from_Ponte_alle_Grazie.jpg"
+   },
+   "location": {
+    "latitude": 43.767988888,
+    "longitude": 11.253191666
+   },
+   "category": "monument",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "medieval",
+    "monument"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Ponte Vecchio",
+     "intro": "The Ponte Vecchio is a medieval stone closed-spandrel segmental arch bridge over the Arno, in Florence, Italy.",
+     "narration": "The Ponte Vecchio is a medieval stone closed-spandrel segmental arch bridge over the Arno, in Florence, Italy. The only bridge in Florence spared from destruction during World War II, it is noted for the shops built along it; building shops on such bridges was once a common practice. Butchers, tanners, and farmers initially occupied the shops; the present tenants are jewellers, art dealers, and souvenir sellers. The Ponte Vecchio's two neighbouring bridges are the Ponte Santa Trinita and the Ponte alle Grazie. The bridge connects Via Por Santa Maria to Via de' Guicciardini.",
+     "longDescription": "The Ponte Vecchio is a medieval stone closed-spandrel segmental arch bridge over the Arno, in Florence, Italy. The only bridge in Florence spared from destruction during World War II, it is noted for the shops built along it; building shops on such bridges was once a common practice. Butchers, tanners, and farmers initially occupied the shops; the present tenants are jewellers, art dealers, and souvenir sellers. The Ponte Vecchio's two neighbouring bridges are the Ponte Santa Trinita and the Ponte alle Grazie. The bridge connects Via Por Santa Maria to Via de' Guicciardini. The name was given to what was the oldest Florentine bridge when the Ponte alla Carraia was built, then called Ponte Nuovo in contrast to the old one. Beyond the historical value, the bridge over time has played a central role in the city road system, starting from when it connected the Roman Florentia with the Via Cassia Nova commissioned by the emperor Hadrian in 123 AD. In contemporary times, despite being closed to vehicular traffic, the bridge is crossed by a considerable pedestrian flow generated both by its fame and by the fact that it connects places of high tourist interest on the two banks of the river: Piazza del Duomo, Piazza della Signoria on one side with the area of Palazzo Pitti and Santo Spirito in the Oltrarno. The bridge appears in the list drawn up in 1901 by the General Directorate of Antiquities and Fine Arts, as a monumental building to be considered having national artistic heritage.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Ponte Vecchio",
+     "url": "https://en.wikipedia.org/wiki/Ponte_Vecchio",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q208633",
+     "url": "https://www.wikidata.org/wiki/Q208633",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palazzo-vecchio",
+   "image": {
+    "file": "images/palazzo-vecchio.jpg",
+    "author": "Francesco Bini",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piazza_della_signoria,_palazzo_vecchio,_veduta_01.jpg"
+   },
+   "location": {
+    "latitude": 43.769444444,
+    "longitude": 11.256111111
+   },
+   "category": "museum",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "museum"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Palazzo Vecchio",
+     "intro": "The Palazzo Vecchio is the town hall of Florence, Italy.",
+     "narration": "The Palazzo Vecchio is the town hall of Florence, Italy. It overlooks the Piazza della Signoria, which holds a copy of Michelangelo's David statue, and the gallery of statues in the adjacent Loggia dei Lanzi. Originally called the Palazzo della Signoria, after the Signoria of Florence, the ruling body of the Republic of Florence, this building was also known by several other names: Palazzo del Popolo, Palazzo dei Priori, and Palazzo Ducale, in accordance with the varying use of the palace during its long history. The building acquired its current name when the Medici duke's residence was moved across the Arno River to the Palazzo Pitti.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palazzo Vecchio",
+     "url": "https://en.wikipedia.org/wiki/Palazzo_Vecchio",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q271928",
+     "url": "https://www.wikidata.org/wiki/Q271928",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "piazza-della-signoria",
+   "image": {
+    "file": "images/piazza-della-signoria.jpg",
+    "author": "Giuseppe Zocchi",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giuseppe_Zocchi_-_The_Piazza_della_Signoria_in_Florence_-_WGA25992.jpg"
+   },
+   "location": {
+    "latitude": 43.769722222,
+    "longitude": 11.255555555
+   },
+   "category": "square",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 4,
+   "tags": [
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Piazza della Signoria",
+     "intro": "Piazza della Signoria is a W-shaped square in front of the Palazzo Vecchio in Florence, Central Italy.",
+     "narration": "Piazza della Signoria is a W-shaped square in front of the Palazzo Vecchio in Florence, Central Italy. It was named after the Palazzo della Signoria, also called Palazzo Vecchio. It is the main point of the origin and history of the Florentine Republic and still maintains its reputation as the political focus of the city. It is the meeting place of Florentines as well as the numerous tourists, located near Palazzo Vecchio and Piazza del Duomo, and gateway to the Uffizi Gallery. Designated a UNESCO World Heritage Site in 1982, Florence's Historic Centre is anchored by the iconic Piazza della Signoria, one of its most historically significant squares.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Piazza della Signoria",
+     "url": "https://en.wikipedia.org/wiki/Piazza_della_Signoria",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q849846",
+     "url": "https://www.wikidata.org/wiki/Q849846",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palazzo-pitti",
+   "image": {
+    "file": "images/palazzo-pitti.jpg",
+    "author": "Almaak",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Pitti_nel_tardo_pomeriggio.jpg"
+   },
+   "location": {
+    "latitude": 43.765153,
+    "longitude": 11.250008
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "museum",
+    "river"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Palazzo Pitti",
+     "intro": "The Palazzo Pitti, in English sometimes called the Pitti Palace, is a vast, mainly in the Renaissance style, palace in Florence, Italy.",
+     "narration": "The Palazzo Pitti, in English sometimes called the Pitti Palace, is a vast, mainly in the Renaissance style, palace in Florence, Italy. It is situated on the south side of the River Arno, a short distance from the Ponte Vecchio. The core of the present palazzo dates from 1458 and was originally the town residence of Luca Pitti, an ambitious Florentine banker. The palace was bought by the Medici family in 1549 and became the chief residence of the ruling family of the Grand Duchy of Tuscany. It grew as a great treasure house, for generations amassing paintings, plates, jewelry and luxurious possessions. The Medici also added the extensive Boboli Gardens to the palace estate.",
+     "longDescription": "The Palazzo Pitti, in English sometimes called the Pitti Palace, is a vast, mainly in the Renaissance style, palace in Florence, Italy. It is situated on the south side of the River Arno, a short distance from the Ponte Vecchio. The core of the present palazzo dates from 1458 and was originally the town residence of Luca Pitti, an ambitious Florentine banker. The palace was bought by the Medici family in 1549 and became the chief residence of the ruling family of the Grand Duchy of Tuscany. It grew as a great treasure house, for generations amassing paintings, plates, jewelry and luxurious possessions. The Medici also added the extensive Boboli Gardens to the palace estate. In the late 18th century, the palazzo was used as a power base by Napoleon during his conquests of Europe. For a brief period, it later served as the principal royal palace of the newly united Italy under the House of Savoy. The palace and its contents were donated to the Italian people by King Victor Emmanuel III in 1919. The palazzo is now the largest museum complex in Florence. The principal palazzo block, often in a building of this design known as the corps de logis, is 32,000 square metres. It is divided into several principal galleries or museums detailed below. The Palazzo Pitti is an integral part of the Historic Centre of Florence, which was inscribed as a UNESCO World Heritage Site in 1982. The palace exemplifies Florence's Renaissance heritage and urban continuity.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palazzo Pitti",
+     "url": "https://en.wikipedia.org/wiki/Palazzo_Pitti",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q29286",
+     "url": "https://www.wikidata.org/wiki/Q29286",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "santa-croce-florence",
+   "image": {
+    "file": "images/santa-croce-florence.jpg",
+    "author": "Grueslayer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ITA_Firenze_Basilica_di_Santa_Croce_2.jpg"
+   },
+   "location": {
+    "latitude": 43.76845,
+    "longitude": 11.26274
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 32,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Santa Croce, Florence",
+     "intro": "The Basilica di Santa Croce is a minor basilica and the principal Franciscan church of Florence, Italy.",
+     "narration": "The Basilica di Santa Croce is a minor basilica and the principal Franciscan church of Florence, Italy. It is situated on the Piazza di Santa Croce, about 800 metres southeast of the Duomo, on what was once marshland beyond the city walls. Being the burial place of notable Italians, including those from the Italian Renaissance such as Michelangelo, Galileo, and Machiavelli, as well as the poet Foscolo, political philosopher Gentile and the composer Rossini, it is also known as the Temple of the Italian Glories.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Santa Croce, Florence",
+     "url": "https://en.wikipedia.org/wiki/Santa_Croce%2C_Florence",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q51177",
+     "url": "https://www.wikidata.org/wiki/Q51177",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "santa-maria-novella",
+   "image": {
+    "file": "images/santa-maria-novella.jpg",
+    "author": "Commonists",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santa_Maria_Novella_(Florence).jpg"
+   },
+   "location": {
+    "latitude": 43.7743,
+    "longitude": 11.249367
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "medieval"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Santa Maria Novella",
+     "intro": "Santa Maria Novella is a Dominican church in Florence.",
+     "narration": "Santa Maria Novella is a Dominican church in Florence. It is considered the most important Romano-Gothic church in Tuscany and is a World Heritage Site. Its construction started in 1290 and it took almost 200 years to be completed. It was consecrated in 1420. Its distinctive façade has geometric patterns made from white and green marble. The Florentine Renaissance architect Leon Battista designed the upper part of the façade, finished in 1470. Its two most famous artworks are Giotto's Crucifix, that changed the way that Christ had been represented in the cross for two centuries, and Masaccio's Holy Trinity, the first monumental Renaissance painting to utilize linear perspective.",
+     "longDescription": "Santa Maria Novella is a Dominican church in Florence. It is considered the most important Romano-Gothic church in Tuscany and is a World Heritage Site. Its construction started in 1290 and it took almost 200 years to be completed. It was consecrated in 1420. Its distinctive façade has geometric patterns made from white and green marble. The Florentine Renaissance architect Leon Battista designed the upper part of the façade, finished in 1470. Its two most famous artworks are Giotto's Crucifix, that changed the way that Christ had been represented in the cross for two centuries, and Masaccio's Holy Trinity, the first monumental Renaissance painting to utilize linear perspective. Its building and decoration was financed by rich Florentine families, several of which were granted the privilege of funerary chapels inside the church.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Santa Maria Novella",
+     "url": "https://en.wikipedia.org/wiki/Santa_Maria_Novella",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q51175",
+     "url": "https://www.wikidata.org/wiki/Q51175",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "florence-baptistery",
+   "image": {
+    "file": "images/florence-baptistery.jpg",
+    "author": "Zairon",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Firenze_Battistero_di_San_Giovanni_Esterno_04.jpg"
+   },
+   "location": {
+    "latitude": 43.773055555,
+    "longitude": 11.255
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Florence Baptistery",
+     "intro": "The Florence Baptistery, also known as the Baptistery of Saint John, is a religious building in Florence, Italy.",
+     "narration": "The Florence Baptistery, also known as the Baptistery of Saint John, is a religious building in Florence, Italy. Dedicated to the patron saint of the city, John the Baptist, it has been a focus of religious, civic, and artistic life since its completion. The octagonal baptistery stands in both the Piazza del Duomo and the Piazza San Giovanni, between Florence Cathedral and the Archbishop's Palace. Florentine infants were originally baptized in large groups on Holy Saturday and Pentecost in a five-basin baptismal font located at the center of the building. Over the course of the 13th century, individual baptisms soon after birth became common, so less apparatus was necessary.",
+     "longDescription": "The Florence Baptistery, also known as the Baptistery of Saint John, is a religious building in Florence, Italy. Dedicated to the patron saint of the city, John the Baptist, it has been a focus of religious, civic, and artistic life since its completion. The octagonal baptistery stands in both the Piazza del Duomo and the Piazza San Giovanni, between Florence Cathedral and the Archbishop's Palace. Florentine infants were originally baptized in large groups on Holy Saturday and Pentecost in a five-basin baptismal font located at the center of the building. Over the course of the 13th century, individual baptisms soon after birth became common, so less apparatus was necessary. Around 1370 a small font was commissioned, which is still in use today. The original font, disused, was dismantled in 1577 by Francesco I de' Medici to make room for grand-ducal celebrations, an act deplored by Florentines at the time. The Baptistery serves as a focus for the city's most important religious celebrations, including the Festival of Saint John held on June 24, still a legal holiday in Florence. In the past the Baptistery housed the insignia of Florence and the towns it conquered and offered a venue to honor individual achievement like victory in festival horse races. Dante Alighieri was baptized there and hoped, in vain, that he would \"return as poet and put on, at my baptismal font, the laurel crown.\" The city walls begun in 1285 may have been designed so that the baptistery would be at the exact center of Florence, like the temple at the center of the New Jerusalem prophesied by Ezekiel. The architecture of the Baptistery takes inspiration from the Pantheon, an ancient Roman temple, as observers have noted for at least 700 years, and yet it is also a highly original artistic achievem",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Florence Baptistery",
+     "url": "https://en.wikipedia.org/wiki/Florence_Baptistery",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q732511",
+     "url": "https://www.wikidata.org/wiki/Q732511",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "galleria-dell-accademia",
+   "image": {
+    "file": "images/galleria-dell-accademia.jpg",
+    "author": "Robot8A",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Florence_13_09_07_817000.jpeg"
+   },
+   "location": {
+    "latitude": 43.776944444,
+    "longitude": 11.258888888
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "museum"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Galleria dell'Accademia",
+     "intro": "The Galleria dell'Accademia di Firenze is an art museum in Florence, in Tuscany in central Italy.",
+     "narration": "The Galleria dell'Accademia di Firenze is an art museum in Florence, in Tuscany in central Italy. It houses the Michelangelo sculpture David and other sculptures by Michelangelo, and a large collection of paintings by Florentine artists, mostly from the period 1300–1600. It is smaller and more specialised than the Uffizi, the main art museum in Florence. It adjoins the Accademia di Belle Arti or academy of fine arts of Florence, but despite the name has no other connection with it. In 2016, it had 1.46 million visitors, making it the second-most-visited art museum in Italy after the Uffizi.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Galleria dell'Accademia",
+     "url": "https://en.wikipedia.org/wiki/Galleria_dell%27Accademia",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q10855544",
+     "url": "https://www.wikidata.org/wiki/Q10855544",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "basilica-of-san-lorenzo-florence",
+   "image": {
+    "file": "images/basilica-of-san-lorenzo-florence.jpg",
+    "author": "Nelson Pérez",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Florencia,_Italia_-_panoramio_(2).jpg"
+   },
+   "location": {
+    "latitude": 43.775,
+    "longitude": 11.253888888
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Basilica of San Lorenzo, Florence",
+     "intro": "The Basilica di San Lorenzo is one of the largest churches of Florence, Italy, situated at the centre of the main market district of the city, and it is the burial place of all the principal members of the Medici…",
+     "narration": "The Basilica di San Lorenzo is one of the largest churches of Florence, Italy, situated at the centre of the main market district of the city, and it is the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III. It is one of several churches that claim to be the oldest in Florence, having been consecrated in 393 AD, at which time it stood outside the city walls. For three hundred years it was the city's cathedral, before the official seat of the bishop was transferred to Santa Reparata. San Lorenzo was the parish church of the Medici family.",
+     "longDescription": "The Basilica di San Lorenzo is one of the largest churches of Florence, Italy, situated at the centre of the main market district of the city, and it is the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III. It is one of several churches that claim to be the oldest in Florence, having been consecrated in 393 AD, at which time it stood outside the city walls. For three hundred years it was the city's cathedral, before the official seat of the bishop was transferred to Santa Reparata. San Lorenzo was the parish church of the Medici family. In 1419, Giovanni di Bicci de' Medici offered to finance a new church to replace an eleventh-century Romanesque rebuilding. Filippo Brunelleschi, the leading Renaissance architect of the first half of the fifteenth century, was commissioned to design it, but the building, with alterations, was not completed until after his death. The church is part of a larger monastic complex that contains other important architectural and artistic works: the Old Sacristy by Brunelleschi, which has interior decoration and sculpture by Donatello; the Laurentian Library by Michelangelo; the Medici Chapels, two structures that include the New Sacristy based on Michelangelo's designs; and the larger Cappella dei Principi being a collaboration between the family and architects.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Basilica of San Lorenzo, Florence",
+     "url": "https://en.wikipedia.org/wiki/Basilica_of_San_Lorenzo%2C_Florence",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q573881",
+     "url": "https://www.wikidata.org/wiki/Q573881",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palazzo-medici-riccardi",
+   "image": {
+    "file": "images/palazzo-medici-riccardi.jpg",
+    "author": "Sailko",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Medici_Riccardi.JPG"
+   },
+   "location": {
+    "latitude": 43.775288,
+    "longitude": 11.255986
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "museum"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Palazzo Medici Riccardi",
+     "intro": "The Palazzo Medici, also called the Palazzo Medici Riccardi after the later family that acquired and expanded it, is a 15th-century Renaissance palace in Florence, Italy.",
+     "narration": "The Palazzo Medici, also called the Palazzo Medici Riccardi after the later family that acquired and expanded it, is a 15th-century Renaissance palace in Florence, Italy. It was built for the Medici family, who dominated the politics of the Republic of Florence. It is now the seat of the administration of the Metropolitan City of Florence and a museum. The palace was designed by Michelozzo di Bartolomeo for Cosimo de' Medici, head of the Medici banking family, and was built between 1444 and 1484. It was well known for its stone masonry, which includes architectural elements of rustication and ashlar. The tripartite elevation used here expresses the Renaissance spirit of rationality, order, and classicism on human scale.",
+     "longDescription": "The Palazzo Medici, also called the Palazzo Medici Riccardi after the later family that acquired and expanded it, is a 15th-century Renaissance palace in Florence, Italy. It was built for the Medici family, who dominated the politics of the Republic of Florence. It is now the seat of the administration of the Metropolitan City of Florence and a museum. The palace was designed by Michelozzo di Bartolomeo for Cosimo de' Medici, head of the Medici banking family, and was built between 1444 and 1484. It was well known for its stone masonry, which includes architectural elements of rustication and ashlar. The tripartite elevation used here expresses the Renaissance spirit of rationality, order, and classicism on human scale. This tripartite division is emphasized by horizontal stringcourses that divide the building into stories of decreasing height. The transition from the rusticated masonry of the ground floor to the more delicately refined stonework of the third floor makes the building seem lighter and taller as the eye moves upward to the massive cornice that caps and clearly defines the building's outline. Michelozzo was influenced in his design of the palace by both classical Roman and Brunelleschian principles. During the Renaissance revival of classical culture, ancient Roman elements were often replicated in architecture, both built and imagined in paintings. In the Palazzo Medici Riccardi, the rusticated masonry and the cornice had precedents in Roman practice, yet in totality it looks distinctly Florentine, unlike any known Roman building. Similarly, the early Renaissance architect Brunelleschi used Roman techniques and influenced Michelozzo. The open colonnaded court that is at the center of the palazzo plan has roots in the cloisters that developed from Roman pe",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palazzo Medici Riccardi",
+     "url": "https://en.wikipedia.org/wiki/Palazzo_Medici_Riccardi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q911047",
+     "url": "https://www.wikidata.org/wiki/Q911047",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "vasari-corridor",
+   "image": {
+    "file": "images/vasari-corridor.jpg",
+    "author": "sailko",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boboli,_corridoio_vasariano.JPG"
+   },
+   "location": {
+    "latitude": 43.768997,
+    "longitude": 11.256379
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "museum",
+    "river"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Vasari Corridor",
+     "intro": "The Vasari Corridor is a 16th-century elevated enclosed passageway in Florence, connecting the Palazzo Vecchio with the Palazzo Pitti.",
+     "narration": "The Vasari Corridor is a 16th-century elevated enclosed passageway in Florence, connecting the Palazzo Vecchio with the Palazzo Pitti. It was designed by, and named for, architect Giorgio Vasari to allow Duke Cosimo I de' Medici to move undisturbed between both palaces. Beginning on the south side of the Palazzo Vecchio, the corridor joins the Uffizi Gallery and leaves on its south side, crossing the Lungarno degli Archibusieri, then follows the north bank of the river Arno until it crosses the river at Ponte Vecchio. The corridor winds around the Torre dei Mannelli using brackets, and conceals part of the façade of the Church of Santa Felicità.",
+     "longDescription": "The Vasari Corridor is a 16th-century elevated enclosed passageway in Florence, connecting the Palazzo Vecchio with the Palazzo Pitti. It was designed by, and named for, architect Giorgio Vasari to allow Duke Cosimo I de' Medici to move undisturbed between both palaces. Beginning on the south side of the Palazzo Vecchio, the corridor joins the Uffizi Gallery and leaves on its south side, crossing the Lungarno degli Archibusieri, then follows the north bank of the river Arno until it crosses the river at Ponte Vecchio. The corridor winds around the Torre dei Mannelli using brackets, and conceals part of the façade of the Church of Santa Felicità. It then snakes its way over rows of houses in the Oltrarno district, becoming narrower, to finally join the Palazzo Pitti on its eastern side, in view of the Boboli Gardens. The corridor's full length is approximately one kilometer.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Vasari Corridor",
+     "url": "https://en.wikipedia.org/wiki/Vasari_Corridor",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q913058",
+     "url": "https://www.wikidata.org/wiki/Q913058",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "uffizi",
+   "image": {
+    "file": "images/uffizi.jpg",
+    "author": "Arek N.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Florence,_Italy_-_panoramio_(125).jpg"
+   },
+   "location": {
+    "latitude": 43.768333333,
+    "longitude": 11.255277777
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "museum"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Uffizi",
+     "intro": "The Uffizi Gallery is an art museum adjacent to the Piazza della Signoria in the Historic Centre of Florence in the region of Tuscany, Italy.",
+     "narration": "The Uffizi Gallery is an art museum adjacent to the Piazza della Signoria in the Historic Centre of Florence in the region of Tuscany, Italy. It is one of the most visited museums in Italy and among the most important worldwide for its Italian Renaissance art collection. After the ruling House of Medici died out, their art collections were given to the city of Florence under the famous Patto di famiglia negotiated by Anna Maria Luisa, the last Medici heiress. The Uffizi is one of the first modern museums. The gallery had been open to visitors by request since the sixteenth century, and in 1769 it was officially opened to the public, formally becoming a museum in 1865.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Uffizi",
+     "url": "https://en.wikipedia.org/wiki/Uffizi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q51252",
+     "url": "https://www.wikidata.org/wiki/Q51252",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "giotto-s-campanile",
+   "image": {
+    "file": "images/giotto-s-campanile.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral,_Florencia,_Italia,_2022-09-19,_DD_95.jpg"
+   },
+   "location": {
+    "latitude": 43.772805555,
+    "longitude": 11.255805555
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "medieval",
+    "monument"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Giotto's Campanile",
+     "intro": "Giotto's Campanile is a free-standing campanile that is part of the complex of buildings that make up Florence Cathedral on the Piazza del Duomo in Florence, Italy.",
+     "narration": "Giotto's Campanile is a free-standing campanile that is part of the complex of buildings that make up Florence Cathedral on the Piazza del Duomo in Florence, Italy. Standing adjacent to the Basilica of Santa Maria del Fiore and the Baptistry of St. John, the tower is one of the showpieces of Florentine Gothic architecture with its design by Giotto, its rich sculptural decorations and its polychrome marble encrustations. The slender structure is square in plan with 14.45 metre sides. It is 84.7 metres tall and has polygonal buttresses at each corner. The tower is divided horizontally into five stages.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Giotto's Campanile",
+     "url": "https://en.wikipedia.org/wiki/Giotto%27s_Campanile",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1140023",
+     "url": "https://www.wikidata.org/wiki/Q1140023",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "bargello",
+   "image": {
+    "file": "images/bargello.jpg",
+    "author": "Sailko",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_del_bargello_visto_da_piazza_san_firenze.JPG"
+   },
+   "location": {
+    "latitude": 43.770398,
+    "longitude": 11.258008
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "medieval",
+    "museum"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Bargello",
+     "intro": "The Bargello, also known as the Palazzo del Bargello or Palazzo del Popolo, is a former public building and police headquarters, later a prison, in Florence, Italy.",
+     "narration": "The Bargello, also known as the Palazzo del Bargello or Palazzo del Popolo, is a former public building and police headquarters, later a prison, in Florence, Italy. Mostly built in the 13th century, since 1865 it has housed the Museo Nazionale del Bargello, a national art museum. It is the primary national collection for Italian Renaissance sculpture, of which its collection of Florentine works is unequalled, and for the decorative arts of Florence, especially from the Renaissance period. There are also works from earlier and later periods. The medieval building is relatively well preserved, and includes the Cappella della Maddalena with extensive but damaged frescos by Giotto, including a full-length portrait of Dante.",
+     "longDescription": "The Bargello, also known as the Palazzo del Bargello or Palazzo del Popolo, is a former public building and police headquarters, later a prison, in Florence, Italy. Mostly built in the 13th century, since 1865 it has housed the Museo Nazionale del Bargello, a national art museum. It is the primary national collection for Italian Renaissance sculpture, of which its collection of Florentine works is unequalled, and for the decorative arts of Florence, especially from the Renaissance period. There are also works from earlier and later periods. The medieval building is relatively well preserved, and includes the Cappella della Maddalena with extensive but damaged frescos by Giotto, including a full-length portrait of Dante. In 2023 it was the 12th most visited museum in Italy, with 610,203 visitors; it generally lacks the long queues to enter the Uffizi.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Bargello",
+     "url": "https://en.wikipedia.org/wiki/Bargello",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q388448",
+     "url": "https://www.wikidata.org/wiki/Q388448",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "boboli-gardens",
+   "image": {
+    "file": "images/boboli-gardens.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_de_B%C3%B3boli,_Florencia,_Italia,_2022-09-19,_DD_26.jpg"
+   },
+   "location": {
+    "latitude": 43.7618,
+    "longitude": 11.24661
+   },
+   "category": "park",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "historic",
+    "park",
+    "scenic"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Boboli Gardens",
+     "intro": "The Boboli Gardens is a large park in Florence, originally designed as the garden of the Medici family's Pitti Palace in the mid-16th century.",
+     "narration": "The Boboli Gardens is a large park in Florence, originally designed as the garden of the Medici family's Pitti Palace in the mid-16th century. It is an important early Italian garden which influenced aristocratic gardens across Europe. It houses statues of various styles and periods, large fountains, and artificial grottoes.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Boboli Gardens",
+     "url": "https://en.wikipedia.org/wiki/Boboli_Gardens",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q888825",
+     "url": "https://www.wikidata.org/wiki/Q888825",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "laurentian-library",
+   "image": {
+    "file": "images/laurentian-library.jpg",
+    "author": "No machine-readable author provided. Richardfabi~commonswiki assumed (based on copyright claims).",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Medicibib.jpg"
+   },
+   "location": {
+    "latitude": 43.774656,
+    "longitude": 11.254536
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Laurentian Library",
+     "intro": "The Laurentian Library is a historic library in Florence, Italy, containing more than 11,000 manuscripts and 4,500 early printed books.",
+     "narration": "The Laurentian Library is a historic library in Florence, Italy, containing more than 11,000 manuscripts and 4,500 early printed books. Built in a cloister of the Medicean Basilica di San Lorenzo di Firenze under the patronage of the Medici pope Clement VII, the library was built to emphasize that the Medici were no longer just merchants but members of intelligent and ecclesiastical society. It contains the manuscripts and books belonging to the private library of the Medici family. The library building is renowned for its architecture that was designed by Michelangelo and is an example of Mannerism. All of the book-bound manuscripts in the library are identified in its Codex Laurentianus.",
+     "longDescription": "The Laurentian Library is a historic library in Florence, Italy, containing more than 11,000 manuscripts and 4,500 early printed books. Built in a cloister of the Medicean Basilica di San Lorenzo di Firenze under the patronage of the Medici pope Clement VII, the library was built to emphasize that the Medici were no longer just merchants but members of intelligent and ecclesiastical society. It contains the manuscripts and books belonging to the private library of the Medici family. The library building is renowned for its architecture that was designed by Michelangelo and is an example of Mannerism. All of the book-bound manuscripts in the library are identified in its Codex Laurentianus. The library conserves the Littera Florentina, the Vergilius Mediceus, the Nahuatl Florentine Codex, the Rabula Gospels, the Codex Amiatinus, the Squarcialupi Codex, and the fragmentary Erinna papyrus that contains part of her Distaff.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Laurentian Library",
+     "url": "https://en.wikipedia.org/wiki/Laurentian_Library",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q856419",
+     "url": "https://www.wikidata.org/wiki/Q856419",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "historic-centre-of-florence",
+   "image": {
+    "file": "images/historic-centre-of-florence.jpg",
+    "author": "Amada44",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_001.jpg"
+   },
+   "location": {
+    "latitude": 43.77306,
+    "longitude": 11.25611111
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "historic",
+    "neighbourhood"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Historic Centre of Florence",
+     "intro": "The historic centre of Florence is part of quartiere 1 of the Italian city of Florence.",
+     "narration": "The historic centre of Florence is part of quartiere 1 of the Italian city of Florence. This quarter was named a World Heritage Site by UNESCO in 1982. Built on the site of an Etruscan settlement, Florence, the symbol of the Renaissance, rose to economic and cultural pre-eminence under the Medici in the 15th and 16th centuries. Its 600 years of extraordinary artistic activity can be seen above all in the 13th-century cathedral, the Church of Santa Croce, the Uffizi and the Pitti Palace, the work of great masters such as Giotto, Filippo Brunelleschi, Sandro Botticelli and Michelangelo.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Historic Centre of Florence",
+     "url": "https://en.wikipedia.org/wiki/Historic_Centre_of_Florence",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2707802",
+     "url": "https://www.wikidata.org/wiki/Q2707802",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "loggia-dei-lanzi",
+   "image": {
+    "file": "images/loggia-dei-lanzi.jpg",
+    "author": "Francesco Bini",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Firenze,_loggia_dei_lanzi_(2020)_01.jpg"
+   },
+   "location": {
+    "latitude": 43.76920278,
+    "longitude": 11.25565833
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Loggia dei Lanzi",
+     "intro": "The Loggia dei Lanzi, also called the Loggia della Signoria, is a building on the south corner of the Piazza della Signoria in Florence, Italy, adjoining the Uffizi Gallery, and diagonally to the east the Palazzo…",
+     "narration": "The Loggia dei Lanzi, also called the Loggia della Signoria, is a building on the south corner of the Piazza della Signoria in Florence, Italy, adjoining the Uffizi Gallery, and diagonally to the east the Palazzo della Signoria, the political center of the city. The loggia consists of three very high and wide arches open to the Piazza and on its east side to the Uffizi. The arches rest on cluster columns with Corinthian capitals. The wide arches appealed so much to the Florentines that Michelangelo proposed that they should be continued all around the Piazza della Signoria.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Loggia dei Lanzi",
+     "url": "https://en.wikipedia.org/wiki/Loggia_dei_Lanzi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q839746",
+     "url": "https://www.wikidata.org/wiki/Q839746",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "santo-spirito-florence",
+   "image": {
+    "file": "images/santo-spirito-florence.jpg",
+    "author": "Lucarelli",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chiesa_Santo_Spirito,_Firenze.jpg"
+   },
+   "location": {
+    "latitude": 43.76722222,
+    "longitude": 11.24777778
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Santo Spirito, Florence",
+     "intro": "The Basilica di Santo Spirito is a church in Florence, Italy.",
+     "narration": "The Basilica di Santo Spirito is a church in Florence, Italy. Usually referred to simply as Santo Spirito, it is located in the Oltrarno quarter, facing the square with the same name. The interior of the building – internal length 97 m – is one of the preeminent examples of Renaissance architecture.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Santo Spirito, Florence",
+     "url": "https://en.wikipedia.org/wiki/Santo_Spirito%2C_Florence",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1519975",
+     "url": "https://www.wikidata.org/wiki/Q1519975",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "brancacci-chapel",
+   "image": {
+    "file": "images/brancacci-chapel.jpg",
+    "author": "Masaccio, Masolino und Fra Filippo Lippi",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cappella_brancacci_03.JPG"
+   },
+   "location": {
+    "latitude": 43.7677682,
+    "longitude": 11.24370253
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Brancacci Chapel",
+     "intro": "The Brancacci Chapel is a chapel in the Church of Santa Maria del Carmine in Florence, central Italy.",
+     "narration": "The Brancacci Chapel is a chapel in the Church of Santa Maria del Carmine in Florence, central Italy. It is sometimes called the \"Sistine Chapel of the early Renaissance\" for its painting cycle, among the most famous and influential of the period. Construction of the chapel was commissioned by Felice Brancacci and began in 1422. The paintings were executed over the years 1425 to 1427. Public access is currently gained via the neighbouring convent, designed by Brunelleschi. The patron of the pictorial decoration was Felice Brancacci, descendant of Pietro, who had served as the Florentine ambassador to Cairo until 1423. Upon his return to Florence, he hired Masolino da Panicale to paint his chapel.",
+     "longDescription": "The Brancacci Chapel is a chapel in the Church of Santa Maria del Carmine in Florence, central Italy. It is sometimes called the \"Sistine Chapel of the early Renaissance\" for its painting cycle, among the most famous and influential of the period. Construction of the chapel was commissioned by Felice Brancacci and began in 1422. The paintings were executed over the years 1425 to 1427. Public access is currently gained via the neighbouring convent, designed by Brunelleschi. The patron of the pictorial decoration was Felice Brancacci, descendant of Pietro, who had served as the Florentine ambassador to Cairo until 1423. Upon his return to Florence, he hired Masolino da Panicale to paint his chapel. Masolino's associate, 21-year-old Masaccio, 18 years younger than Masolino, assisted, but during painting Masolino left to Hungary, where he was painter to the king, and the commission was given to Masaccio. By the time Masolino returned he was learning from his talented former student. However, Masaccio was called to Rome before he could finish the chapel, and died in Rome at the age of 27. Portions of the chapel were completed later by Filippino Lippi. During the Baroque period some of the paintings were seen as unfashionable and a tomb was placed in front of them.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Brancacci Chapel",
+     "url": "https://en.wikipedia.org/wiki/Brancacci_Chapel",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1996075",
+     "url": "https://www.wikidata.org/wiki/Q1996075",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "medici-chapels",
+   "image": {
+    "file": "images/medici-chapels.jpg",
+    "author": "No machine-readable author provided. Richardfabi~commonswiki assumed (based on copyright claims).",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Medicibib.jpg"
+   },
+   "location": {
+    "latitude": 43.775204,
+    "longitude": 11.253117
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Medici Chapels",
+     "intro": "The Medici Chapels are two chapels built between the 16th and 17th centuries as an extension to the Basilica of San Lorenzo, in the Italian city of Florence.",
+     "narration": "The Medici Chapels are two chapels built between the 16th and 17th centuries as an extension to the Basilica of San Lorenzo, in the Italian city of Florence. They are the Sagrestia Nuova, designed by Michelangelo, and the larger Cappella dei Principi, a collaboration between the Medici family and architects. The purpose of the chapels was to celebrate the Medici family, patrons of the church and Grand Dukes of Tuscany. These are not to be confused with the Magi Chapel in the Palazzo Medici Riccardi, then the main Medici home, that houses a famous cycle of frescoes by Benozzo Gozzoli, painted around 1459.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Medici Chapels",
+     "url": "https://en.wikipedia.org/wiki/Medici_Chapels",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1357573",
+     "url": "https://www.wikidata.org/wiki/Q1357573",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palazzo-strozzi",
+   "image": {
+    "file": "images/palazzo-strozzi.jpg",
+    "author": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_Strozzi_-_Florence_(IT52)_-_2022-08-31_-_1.jpg"
+   },
+   "location": {
+    "latitude": 43.771304,
+    "longitude": 11.252393
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Palazzo Strozzi",
+     "intro": "Palazzo Strozzi is a palace in Florence, Italy.",
+     "narration": "Palazzo Strozzi is a palace in Florence, Italy. It is located in the historic centre between the homonymous Via Strozzi and Piazza Strozzi, and Via Tornabuoni.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palazzo Strozzi",
+     "url": "https://en.wikipedia.org/wiki/Palazzo_Strozzi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q521619",
+     "url": "https://www.wikidata.org/wiki/Q521619",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "galleria-palatina",
+   "image": {
+    "file": "images/galleria-palatina.jpg",
+    "author": "Almaak",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Pitti_nel_tardo_pomeriggio.jpg"
+   },
+   "location": {
+    "latitude": 43.7652,
+    "longitude": 11.25
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "museum",
+    "river"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Galleria Palatina",
+     "intro": "The Palazzo Pitti, in English sometimes called the Pitti Palace, is a vast, mainly in the Renaissance style, palace in Florence, Italy.",
+     "narration": "The Palazzo Pitti, in English sometimes called the Pitti Palace, is a vast, mainly in the Renaissance style, palace in Florence, Italy. It is situated on the south side of the River Arno, a short distance from the Ponte Vecchio. The core of the present palazzo dates from 1458 and was originally the town residence of Luca Pitti, an ambitious Florentine banker. The palace was bought by the Medici family in 1549 and became the chief residence of the ruling family of the Grand Duchy of Tuscany. It grew as a great treasure house, for generations amassing paintings, plates, jewelry and luxurious possessions. The Medici also added the extensive Boboli Gardens to the palace estate.",
+     "longDescription": "The Palazzo Pitti, in English sometimes called the Pitti Palace, is a vast, mainly in the Renaissance style, palace in Florence, Italy. It is situated on the south side of the River Arno, a short distance from the Ponte Vecchio. The core of the present palazzo dates from 1458 and was originally the town residence of Luca Pitti, an ambitious Florentine banker. The palace was bought by the Medici family in 1549 and became the chief residence of the ruling family of the Grand Duchy of Tuscany. It grew as a great treasure house, for generations amassing paintings, plates, jewelry and luxurious possessions. The Medici also added the extensive Boboli Gardens to the palace estate. In the late 18th century, the palazzo was used as a power base by Napoleon during his conquests of Europe. For a brief period, it later served as the principal royal palace of the newly united Italy under the House of Savoy. The palace and its contents were donated to the Italian people by King Victor Emmanuel III in 1919. The palazzo is now the largest museum complex in Florence. The principal palazzo block, often in a building of this design known as the corps de logis, is 32,000 square metres. It is divided into several principal galleries or museums detailed below. The Palazzo Pitti is an integral part of the Historic Centre of Florence, which was inscribed as a UNESCO World Heritage Site in 1982. The palace exemplifies Florence's Renaissance heritage and urban continuity.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Galleria Palatina",
+     "url": "https://en.wikipedia.org/wiki/Galleria_Palatina",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q866498",
+     "url": "https://www.wikidata.org/wiki/Q866498",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "santissima-annunziata-florence",
+   "image": {
+    "file": "images/santissima-annunziata-florence.jpg",
+    "author": "Francesco Bini",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_budini_gattai,_vista_verso_piazza_santissima_annunziata,_basilica_04.jpg"
+   },
+   "location": {
+    "latitude": 43.7769,
+    "longitude": 11.26128
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "roman"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Santissima Annunziata, Florence",
+     "intro": "The Basilica della Santissima Annunziata is a Renaissance-style, Catholic minor basilica in Florence, region of Tuscany, Italy.",
+     "narration": "The Basilica della Santissima Annunziata is a Renaissance-style, Catholic minor basilica in Florence, region of Tuscany, Italy. This is considered the mother church of the Servite Order. It is located at the northeastern side of the Piazza Santissima Annunziata near the city center.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Santissima Annunziata, Florence",
+     "url": "https://en.wikipedia.org/wiki/Santissima_Annunziata%2C_Florence",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2287001",
+     "url": "https://www.wikidata.org/wiki/Q2287001",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "perseus-with-the-head-of-medusa",
+   "image": {
+    "file": "images/perseus-with-the-head-of-medusa.jpg",
+    "author": "Dimitris Kamaras from Athens, Greece",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Perseus_with_the_Head_of_Medusa_(Perseo_con_la_testa_di_Medusa),_Loggia_dei_Lanzi,_Florence_(26072265963).jpg"
+   },
+   "location": {
+    "latitude": 43.7692,
+    "longitude": 11.2558
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Perseus with the Head of Medusa",
+     "intro": "Perseus with the Head of Medusa is a bronze sculpture made by Benvenuto Cellini in the period 1545–1554.",
+     "narration": "Perseus with the Head of Medusa is a bronze sculpture made by Benvenuto Cellini in the period 1545–1554. The sculpture stands on a square base which has bronze relief panels depicting the story of Perseus and Andromeda, similar to a predella on an altarpiece. It is located in the Loggia dei Lanzi in the Piazza della Signoria in Florence, Italy. The second Florentine duke, Cosimo I de' Medici, commissioned the work with specific political connections to the other sculptural works in the piazza. When the piece was revealed to the public on 27 April 1554, Michelangelo's David, Bandinelli's Hercules and Cacus, and Donatello's Judith and Holofernes were already installed in the piazza.",
+     "longDescription": "Perseus with the Head of Medusa is a bronze sculpture made by Benvenuto Cellini in the period 1545–1554. The sculpture stands on a square base which has bronze relief panels depicting the story of Perseus and Andromeda, similar to a predella on an altarpiece. It is located in the Loggia dei Lanzi in the Piazza della Signoria in Florence, Italy. The second Florentine duke, Cosimo I de' Medici, commissioned the work with specific political connections to the other sculptural works in the piazza. When the piece was revealed to the public on 27 April 1554, Michelangelo's David, Bandinelli's Hercules and Cacus, and Donatello's Judith and Holofernes were already installed in the piazza. The subject matter of the work is the mythological story of Perseus beheading Medusa, a hideous woman-faced Gorgon whose hair had been turned to snakes; anyone who looked at her was turned to stone. Perseus stands naked except for a sash and winged sandals, triumphant on top of the body of Medusa with her head, crowned with writhing snakes, in his raised hand. Blood spews from Medusa's severed neck. The bronze sculpture, in which Medusa's head turns men to stone, is appropriately surrounded by three huge marble statues of men: Hercules, David, and later Neptune. Cellini's use of bronze in Perseus and the head of Medusa, and the motifs he used to respond to the previous sculpture in the piazza, were highly innovative. Examining the sculpture from the back, one can see a self-portrait of the sculptor Cellini on the back of Perseus's helmet.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Perseus with the Head of Medusa",
+     "url": "https://en.wikipedia.org/wiki/Perseus_with_the_Head_of_Medusa",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q599034",
+     "url": "https://www.wikidata.org/wiki/Q599034",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "san-miniato-al-monte",
+   "image": {
+    "file": "images/san-miniato-al-monte.jpg",
+    "author": null,
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sanminiato.jpg"
+   },
+   "location": {
+    "latitude": 43.759444,
+    "longitude": 11.265
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 23,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "medieval"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "San Miniato al Monte",
+     "intro": "San Miniato al Monte is a basilica in Florence, central Italy, standing atop one of the highest points in the city.",
+     "narration": "San Miniato al Monte is a basilica in Florence, central Italy, standing atop one of the highest points in the city. It has been described as one of the finest Romanesque structures in Tuscany and one of the most scenic churches in Italy. There is an adjoining Olivetan monastery, seen to the right of the basilica when ascending the stairs.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: San Miniato al Monte",
+     "url": "https://en.wikipedia.org/wiki/San_Miniato_al_Monte",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q844337",
+     "url": "https://www.wikidata.org/wiki/Q844337",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "museo-dell-opera-del-duomo-florence",
+   "image": {
+    "file": "images/museo-dell-opera-del-duomo-florence.jpg",
+    "author": "Giovanni Serafini",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_Facade_Opera_del_Duomo_2015.jpg"
+   },
+   "location": {
+    "latitude": 43.7727,
+    "longitude": 11.255817
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "borough 1",
+   "content": {
+    "en": {
+     "name": "Museo dell'Opera del Duomo (Florence)",
+     "intro": "The Museo dell'Opera del Duomo in Florence, Italy is a museum containing many of the original works of art created for Florence Cathedral, including the adjacent Florence Baptistery and Giotto's campanile.",
+     "narration": "The Museo dell'Opera del Duomo in Florence, Italy is a museum containing many of the original works of art created for Florence Cathedral, including the adjacent Florence Baptistery and Giotto's campanile. Most of the exterior sculptures have been removed from these buildings, usually replaced by replica pieces, with the museum conserving the originals. The museum is located opposite the east end of the Duomo, with its trilobate apse. It occupies the area of the original cathedral works where much of the sculpture it houses was originally carved, as well as pieces such as Michelangelo's David, which was initially commissioned by the cathedral works as a buttress figure, but was installed in front of the Palazzo della Signoria.",
+     "longDescription": "The Museo dell'Opera del Duomo in Florence, Italy is a museum containing many of the original works of art created for Florence Cathedral, including the adjacent Florence Baptistery and Giotto's campanile. Most of the exterior sculptures have been removed from these buildings, usually replaced by replica pieces, with the museum conserving the originals. The museum is located opposite the east end of the Duomo, with its trilobate apse. It occupies the area of the original cathedral works where much of the sculpture it houses was originally carved, as well as pieces such as Michelangelo's David, which was initially commissioned by the cathedral works as a buttress figure, but was installed in front of the Palazzo della Signoria. It opened as a museum in 1891, and now houses what has been called \"one of the world's most important collections of sculpture.\" Between 2009 and 2015 the museum considerably expanded, taking over the adjacent old Teatro Nuovo building. This allowed the construction of large display frameworks copying the outline of the old façade of the cathedral, into which the museum's originals are placed at their appropriate positions. As of April 2023, the director of the museum is Fr. Timothy Verdon, an American priest who has held the position since 2011.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Museo dell'Opera del Duomo (Florence)",
+     "url": "https://en.wikipedia.org/wiki/Museo_dell%27Opera_del_Duomo_%28Florence%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1200696",
+     "url": "https://www.wikidata.org/wiki/Q1200696",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "museo-nazionale-di-san-marco",
+   "image": {
+    "file": "images/museo-nazionale-di-san-marco.jpg",
+    "author": "Sailko",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Firenze,_chiesa_e_convento_di_san_marco,_facciata_01.jpg"
+   },
+   "location": {
+    "latitude": 43.778198,
+    "longitude": 11.259329
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "medieval"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Museo Nazionale di San Marco",
+     "intro": "Museo Nazionale di San Marco is an art museum housed in the monumental section of the medieval Dominican convent of San Marco dedicated to St Mark, situated on the present-day Piazza San Marco, in Florence, a region…",
+     "narration": "Museo Nazionale di San Marco is an art museum housed in the monumental section of the medieval Dominican convent of San Marco dedicated to St Mark, situated on the present-day Piazza San Marco, in Florence, a region of Tuscany, Italy. The museum, a masterpiece in its own right by the fifteenth-century architect Michelozzo, is a building of first historical importance for the city and contains the most extensive collection in the world of the works of Fra Angelico, who spent several years of his life there as a member of the Dominican community. The works are both paintings on wood and frescoes.",
+     "longDescription": "Museo Nazionale di San Marco is an art museum housed in the monumental section of the medieval Dominican convent of San Marco dedicated to St Mark, situated on the present-day Piazza San Marco, in Florence, a region of Tuscany, Italy. The museum, a masterpiece in its own right by the fifteenth-century architect Michelozzo, is a building of first historical importance for the city and contains the most extensive collection in the world of the works of Fra Angelico, who spent several years of his life there as a member of the Dominican community. The works are both paintings on wood and frescoes. The museum also contains other works by artists such as Fra Bartolomeo, Domenico Ghirlandaio, Alesso Baldovinetti, Jacopo Vignali, Bernardino Poccetti and Giovanni Antonio Sogliani. San Marco is known as the seat of Girolamo Savonarola's discourses during his short spiritual rule in Florence in the late 15th century. Also housed at the convent is a famous collection of manuscripts in a library built by Michelozzo.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Museo Nazionale di San Marco",
+     "url": "https://en.wikipedia.org/wiki/Museo_Nazionale_di_San_Marco",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q13453137",
+     "url": "https://www.wikidata.org/wiki/Q13453137",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "santa-trinita",
+   "image": {
+    "file": "images/santa-trinita.jpg",
+    "author": "LivornoDP",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilica_di_Santa_Trinita,_Florence.jpg"
+   },
+   "location": {
+    "latitude": 43.770153,
+    "longitude": 11.250719
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 25,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "river",
+    "roman"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Santa Trinita",
+     "intro": "Santa Trinita is a Roman Catholic church located in front of the piazza of the same name, traversed by Via de' Tornabuoni, in central Florence, Tuscany, Italy.",
+     "narration": "Santa Trinita is a Roman Catholic church located in front of the piazza of the same name, traversed by Via de' Tornabuoni, in central Florence, Tuscany, Italy. It is the mother church of the Vallumbrosan Order of Monks, founded in 1092 by a Florentine nobleman. South on Via de' Tornabuoni is the Ponte Santa Trinita over the river Arno; across the street is the Palazzo Spini Feroni.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Santa Trinita",
+     "url": "https://en.wikipedia.org/wiki/Santa_Trinita",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1062114",
+     "url": "https://www.wikidata.org/wiki/Q1062114",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "santa-maria-del-carmine-florence",
+   "image": {
+    "file": "images/santa-maria-del-carmine-florence.jpg",
+    "author": "Francesco Bini",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piazza_del_Carmine,_veduta_sulla_chiesa_del_carmine.jpg"
+   },
+   "location": {
+    "latitude": 43.767777777,
+    "longitude": 11.243611111
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Santa Maria del Carmine, Florence",
+     "intro": "Santa Maria del Carmine is a church of the Carmelite Order, in the Oltrarno district of Florence, in Tuscany, Italy.",
+     "narration": "Santa Maria del Carmine is a church of the Carmelite Order, in the Oltrarno district of Florence, in Tuscany, Italy. It is famous as the location of the Brancacci Chapel housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Santa Maria del Carmine, Florence",
+     "url": "https://en.wikipedia.org/wiki/Santa_Maria_del_Carmine%2C_Florence",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1042634",
+     "url": "https://www.wikidata.org/wiki/Q1042634",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "museo-galileo",
+   "image": {
+    "file": "images/museo-galileo.jpg",
+    "author": "Ebonaiuti",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Castellani_esterno.jpg"
+   },
+   "location": {
+    "latitude": 43.767681,
+    "longitude": 11.256023
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum",
+    "river"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Museo Galileo",
+     "intro": "Museo Galileo is located in Florence, Italy, in Piazza dei Giudici, along the River Arno and close to the Uffizi Gallery.",
+     "narration": "Museo Galileo is located in Florence, Italy, in Piazza dei Giudici, along the River Arno and close to the Uffizi Gallery. The museum, dedicated to astronomer and scientist Galileo Galilei, is housed in Palazzo Castellani, an 11th-century building which was then known as the Castello d'Altafronte. Museo Galileo owns one of the world's major collection of scientific instruments, which bears evidence of the role that the Medici and Lorraine Grand Dukes attached to science and scientists. The Museo di Storia della Scienza re-opened to the public with the new name Museo Galileo in June 2010, after a two-year closure due to redesigning and renovation work.",
+     "longDescription": "Museo Galileo is located in Florence, Italy, in Piazza dei Giudici, along the River Arno and close to the Uffizi Gallery. The museum, dedicated to astronomer and scientist Galileo Galilei, is housed in Palazzo Castellani, an 11th-century building which was then known as the Castello d'Altafronte. Museo Galileo owns one of the world's major collection of scientific instruments, which bears evidence of the role that the Medici and Lorraine Grand Dukes attached to science and scientists. The Museo di Storia della Scienza re-opened to the public with the new name Museo Galileo in June 2010, after a two-year closure due to redesigning and renovation work. Its name change celebrates the 400-year anniversary of Galileo's Sidereus Nuncius, first published in March of 1610.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Museo Galileo",
+     "url": "https://en.wikipedia.org/wiki/Museo_Galileo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1668196",
+     "url": "https://www.wikidata.org/wiki/Q1668196",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "national-central-library-florence",
+   "image": {
+    "file": "images/national-central-library-florence.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Biblioteca_Nacional,_Florencia,_Italia,_2022-09-19,_DD_01.jpg"
+   },
+   "location": {
+    "latitude": 43.7670813,
+    "longitude": 11.2623479
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "National Central Library (Florence)",
+     "intro": "The National Central Library of Florence is a public national library in Florence, the largest in Italy and one of the most important in Europe.",
+     "narration": "The National Central Library of Florence is a public national library in Florence, the largest in Italy and one of the most important in Europe. It is one of the two central libraries of Italy, along with the Biblioteca Nazionale Centrale di Roma.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: National Central Library (Florence)",
+     "url": "https://en.wikipedia.org/wiki/National_Central_Library_%28Florence%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q460907",
+     "url": "https://www.wikidata.org/wiki/Q460907",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "piazza-del-duomo-florence",
+   "image": {
+    "file": "images/piazza-del-duomo-florence.jpg",
+    "author": "User:MatthiasKabel",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Florence_Baptistery_and_Florence_Cathedral_360_panorama_small.jpg"
+   },
+   "location": {
+    "latitude": 43.772866429,
+    "longitude": 11.256556531
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Piazza del Duomo, Florence",
+     "intro": "Piazza del Duomo is located in Florence, Tuscany, Italy.",
+     "narration": "Piazza del Duomo is located in Florence, Tuscany, Italy. It is one of the most visited places in Europe and the world and in Florence, the most visited area of the city. The Piazza del Duomo is part of the Historic Centre of Florence, which was inscribed as a UNESCO World Heritage Site in 1982. The designation recognizes the square's outstanding value for its concentration of religious and civic monuments—including the Florence Cathedral, the Baptistery of San Giovanni, and Giotto's Campanile—which reflect the political, economic, and artistic achievements of Florence during the Renaissance.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Piazza del Duomo, Florence",
+     "url": "https://en.wikipedia.org/wiki/Piazza_del_Duomo%2C_Florence",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2252810",
+     "url": "https://www.wikidata.org/wiki/Q2252810",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "abduction-of-a-sabine-woman",
+   "image": {
+    "file": "images/abduction-of-a-sabine-woman.jpg",
+    "author": "No machine-readable author provided. Thermos assumed (based on copyright claims).",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giambologna_sabine.jpg"
+   },
+   "location": {
+    "latitude": 43.7693,
+    "longitude": 11.2555
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Abduction of a Sabine Woman",
+     "intro": "Abduction of a Sabine Woman is a large and complex marble statue by the Flemish sculptor and architect Giambologna.",
+     "narration": "Abduction of a Sabine Woman is a large and complex marble statue by the Flemish sculptor and architect Giambologna. It was completed between 1579 and 1583 for Francesco I de' Medici, Grand Duke of Tuscany. Giambologna achieved widespread fame in his lifetime, and this work is often considered his masterpiece. It has been in the Loggia dei Lanzi, Florence, since August 1582. The statue is composed in the figura serpentinata style. It depicts three figures: a young man in the centre who has seemingly taken a woman from the despairing older man below him.",
+     "longDescription": "Abduction of a Sabine Woman is a large and complex marble statue by the Flemish sculptor and architect Giambologna. It was completed between 1579 and 1583 for Francesco I de' Medici, Grand Duke of Tuscany. Giambologna achieved widespread fame in his lifetime, and this work is often considered his masterpiece. It has been in the Loggia dei Lanzi, Florence, since August 1582. The statue is composed in the figura serpentinata style. It depicts three figures: a young man in the centre who has seemingly taken a woman from the despairing older man below him. It is ostensibly based on the \"rape of the Sabine Women\", a legend from the early history of Rome when the city contained relatively few women, leading to their men committing a raptio of young women from nearby Sabina. It was the first of Giambologna's statues for Francesco de’ Medici of Tuscany, and is produced in the Mannerist style associated with the Italian High Renaissance. It consists of three full figures and was carved from a single block of white marble. It was not given a title until after it was completed. Giambologna was typically non-committal about the subject matter of his work and in this instance, wanted to produce a large, monumental sculpture that would display his virtuosity. Between the time it was finished and Francesco had it installed at the Loggia dei Lanzi, Vincenzo Borghini suggested the title The Rape of the Sabines, and a bronze relief was added to the pedestal to link it to the Roman myth.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Abduction of a Sabine Woman",
+     "url": "https://en.wikipedia.org/wiki/Abduction_of_a_Sabine_Woman",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q3545179",
+     "url": "https://www.wikidata.org/wiki/Q3545179",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "galleria-d-arte-moderna-florence",
+   "image": {
+    "file": "images/galleria-d-arte-moderna-florence.jpg",
+    "author": "Seauton, 23 April 2019",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_pitti_galleria_arte_moderna_1.jpg"
+   },
+   "location": {
+    "latitude": 43.76525,
+    "longitude": 11.249758
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum",
+    "river"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Galleria d'Arte Moderna, Florence",
+     "intro": "The Palazzo Pitti, in English sometimes called the Pitti Palace, is a vast, mainly in the Renaissance style, palace in Florence, Italy.",
+     "narration": "The Palazzo Pitti, in English sometimes called the Pitti Palace, is a vast, mainly in the Renaissance style, palace in Florence, Italy. It is situated on the south side of the River Arno, a short distance from the Ponte Vecchio. The core of the present palazzo dates from 1458 and was originally the town residence of Luca Pitti, an ambitious Florentine banker. The palace was bought by the Medici family in 1549 and became the chief residence of the ruling family of the Grand Duchy of Tuscany. It grew as a great treasure house, for generations amassing paintings, plates, jewelry and luxurious possessions. The Medici also added the extensive Boboli Gardens to the palace estate.",
+     "longDescription": "The Palazzo Pitti, in English sometimes called the Pitti Palace, is a vast, mainly in the Renaissance style, palace in Florence, Italy. It is situated on the south side of the River Arno, a short distance from the Ponte Vecchio. The core of the present palazzo dates from 1458 and was originally the town residence of Luca Pitti, an ambitious Florentine banker. The palace was bought by the Medici family in 1549 and became the chief residence of the ruling family of the Grand Duchy of Tuscany. It grew as a great treasure house, for generations amassing paintings, plates, jewelry and luxurious possessions. The Medici also added the extensive Boboli Gardens to the palace estate. In the late 18th century, the palazzo was used as a power base by Napoleon during his conquests of Europe. For a brief period, it later served as the principal royal palace of the newly united Italy under the House of Savoy. The palace and its contents were donated to the Italian people by King Victor Emmanuel III in 1919. The palazzo is now the largest museum complex in Florence. The principal palazzo block, often in a building of this design known as the corps de logis, is 32,000 square metres. It is divided into several principal galleries or museums detailed below. The Palazzo Pitti is an integral part of the Historic Centre of Florence, which was inscribed as a UNESCO World Heritage Site in 1982. The palace exemplifies Florence's Renaissance heritage and urban continuity.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Galleria d'Arte Moderna, Florence",
+     "url": "https://en.wikipedia.org/wiki/Galleria_d%27Arte_Moderna%2C_Florence",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q3094628",
+     "url": "https://www.wikidata.org/wiki/Q3094628",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ospedale-degli-innocenti",
+   "image": {
+    "file": "images/ospedale-degli-innocenti.jpg",
+    "author": "sailko",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spedale_innocenti,_veduta_01.JPG"
+   },
+   "location": {
+    "latitude": 43.776388888,
+    "longitude": 11.261111111
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum",
+    "river"
+   ],
+   "area": "borough 1",
+   "content": {
+    "en": {
+     "name": "Ospedale degli Innocenti",
+     "intro": "The Ospedale degli Innocenti, also known in old Tuscan dialect as the Spedale degli Innocenti, is a historic building in Florence, Italy.",
+     "narration": "The Ospedale degli Innocenti, also known in old Tuscan dialect as the Spedale degli Innocenti, is a historic building in Florence, Italy. It was designed by Filippo Brunelleschi, who received the commission in 1419 from the Arte della Seta. It was originally a foundling hospital. It is regarded as a notable example of early Italian Renaissance architecture. The hospital, which features a nine bay loggia facing the Piazza SS. Annunziata, was built and managed by the Arte della Seta or Silk Guild of Florence. That guild was one of the wealthiest in the city and, like most guilds, took upon itself philanthropic duties.",
+     "longDescription": "The Ospedale degli Innocenti, also known in old Tuscan dialect as the Spedale degli Innocenti, is a historic building in Florence, Italy. It was designed by Filippo Brunelleschi, who received the commission in 1419 from the Arte della Seta. It was originally a foundling hospital. It is regarded as a notable example of early Italian Renaissance architecture. The hospital, which features a nine bay loggia facing the Piazza SS. Annunziata, was built and managed by the Arte della Seta or Silk Guild of Florence. That guild was one of the wealthiest in the city and, like most guilds, took upon itself philanthropic duties. Since 1988 and as of March 2026 the building serves as the base of operations for the UNICEF Innocenti Research Centre, and also houses an art museum.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Ospedale degli Innocenti",
+     "url": "https://en.wikipedia.org/wiki/Ospedale_degli_Innocenti",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1257947",
+     "url": "https://www.wikidata.org/wiki/Q1257947",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "casa-buonarroti",
+   "image": {
+    "file": "images/casa-buonarroti.jpg",
+    "author": "Giovanni Dall'Orto",
+    "license": "Attribution",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:3035_-_Firenze_-_Busto_sopra_l%27ingresso_di_Casa_Buonarroti_-_Foto_Giovanni_Dall%27Orto,_28-Oct-2007.jpg"
+   },
+   "location": {
+    "latitude": 43.76981,
+    "longitude": 11.263593
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Casa Buonarroti",
+     "intro": "Casa Buonarroti is a museum in Florence, Italy that is situated on property owned by the sculptor Michelangelo that he left to his nephew, Leonardo Buonarroti.",
+     "narration": "Casa Buonarroti is a museum in Florence, Italy that is situated on property owned by the sculptor Michelangelo that he left to his nephew, Leonardo Buonarroti. The complex of buildings was converted into a museum dedicated to the artist by his great nephew, Michelangelo Buonarroti the Younger. Its collections include two of Michelangelo's earliest marble sculptures, the Madonna of the Stairs and the Battle of the Centaurs. A ten-thousand book library includes the family archive and some of Michelangelo's letters and drawings. The Galleria is decorated with paintings commissioned by Buonarroti the Younger and was created by Artemisia Gentileschi and other early seventeenth-century Italian artists.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Casa Buonarroti",
+     "url": "https://en.wikipedia.org/wiki/Casa_Buonarroti",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2418618",
+     "url": "https://www.wikidata.org/wiki/Q2418618",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "piazza-della-repubblica-florence",
+   "image": {
+    "file": "images/piazza-della-repubblica-florence.jpg",
+    "author": "Дмитрий Мозжухин",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%A4%D0%BB%D0%BE%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F._-_panoramio_(17).jpg"
+   },
+   "location": {
+    "latitude": 43.77138889,
+    "longitude": 11.25388889
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 4,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Piazza della Repubblica, Florence",
+     "intro": "Piazza della Repubblica is a city square in Florence, Italy.",
+     "narration": "Piazza della Repubblica is a city square in Florence, Italy. It was originally the site of the city's forum; then of its old Jewish ghetto, which was swept away during the improvement works, or Risanamento, initiated during the brief period when Florence was the capital of a reunited Italy—work that also created the city's avenues and boulevards. At that time, the Loggia del Pesce from the Mercato Vecchio was also moved to Piazza Ciompi. The square's Giubbe Rosse cafe has long been a meeting place for famous artists and writers, notably those of Futurism.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Piazza della Repubblica, Florence",
+     "url": "https://en.wikipedia.org/wiki/Piazza_della_Repubblica%2C_Florence",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1283790",
+     "url": "https://www.wikidata.org/wiki/Q1283790",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "tomb-of-antipope-john-xxiii",
+   "image": {
+    "file": "images/tomb-of-antipope-john-xxiii.jpg",
+    "author": null,
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grabmaljohannes13.jpg"
+   },
+   "location": {
+    "latitude": 43.7732,
+    "longitude": 11.2546
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 31,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "borough 1",
+   "content": {
+    "en": {
+     "name": "Tomb of Antipope John XXIII",
+     "intro": "The marble-and-bronze tomb monument of Antipope John XXIII was created by Donatello and Michelozzo for the Florence Baptistry adjacent to the Duomo.",
+     "narration": "The marble-and-bronze tomb monument of Antipope John XXIII was created by Donatello and Michelozzo for the Florence Baptistry adjacent to the Duomo. It was commissioned by the executors of Cossa's will after his death on 22 December 1419, and completed during the 1420s, establishing it as one of the early landmarks of Renaissance Florence. According to Ferdinand Gregorovius, the tomb is \"at once the sepulchre of the Great Schism in the church and the last papal tomb which is outside Rome itself\".",
+     "longDescription": "The marble-and-bronze tomb monument of Antipope John XXIII was created by Donatello and Michelozzo for the Florence Baptistry adjacent to the Duomo. It was commissioned by the executors of Cossa's will after his death on 22 December 1419, and completed during the 1420s, establishing it as one of the early landmarks of Renaissance Florence. According to Ferdinand Gregorovius, the tomb is \"at once the sepulchre of the Great Schism in the church and the last papal tomb which is outside Rome itself\". Cossa had a long history; the tomb and the linkage between Cossa and Florence have been interpreted as a snub to Cossa's successor Pope Martin V or vicarious \"Medici self-promotion\", as such a tomb would have been deemed unacceptable for a Florentine citizen. The tomb monument's design included figures of the three Virtues in niches, Cossa's family arms, a gilded bronze recumbent effigy laid out above an inscription-bearing sarcophagus supported on corbel brackets, and above it a Madonna and Child in a half-lunette, with a canopy over all. At the time of its completion, the monument was the tallest sculpture in Florence, and one of very few tombs within the Baptistry of the neighboring Duomo. The tomb monument was the first of several collaborations between Donatello and Michelozzo, and the attribution of its various elements to each of them has been debated by art historians, as have the interpretations of its design and iconography.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Tomb of Antipope John XXIII",
+     "url": "https://en.wikipedia.org/wiki/Tomb_of_Antipope_John_XXIII",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2280593",
+     "url": "https://www.wikidata.org/wiki/Q2280593",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "fountain-of-neptune-florence",
+   "image": {
+    "file": "images/fountain-of-neptune-florence.jpg",
+    "author": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Urspr%C3%BCnglich_Symbol_f%C3%BCr_die_Macht_der_Medici-Familie%22_07.jpg"
+   },
+   "location": {
+    "latitude": 43.769556,
+    "longitude": 11.256056
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Fountain of Neptune, Florence",
+     "intro": "The Fountain of Neptune is situated in the Piazza della Signoria in Florence, Italy, near the northwest corner of the Palazzo Vecchio.",
+     "narration": "The Fountain of Neptune is situated in the Piazza della Signoria in Florence, Italy, near the northwest corner of the Palazzo Vecchio. It was commissioned by Cosimo I de' Medici in 1559 to celebrate his gift of clean water to the city, and later was appropriated to celebrate the marriage of his son and heir apparent Francesco de' Medici I to Grand Duchess Joanna of Austria. The fountain was designed by Baccio Bandinelli, and executed by Bartolomeo Ammannati with several other artists between 1560 and 1574. It incorporates mythological figures and iconographies that symbolize Cosimo I de' Medici's power and the union of Francesco and Joanna. It sustained considerable damage over the years and was restored in 2019.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Fountain of Neptune, Florence",
+     "url": "https://en.wikipedia.org/wiki/Fountain_of_Neptune%2C_Florence",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q645374",
+     "url": "https://www.wikidata.org/wiki/Q645374",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "loggia-del-mercato-nuovo",
+   "image": {
+    "file": "images/loggia-del-mercato-nuovo.jpg",
+    "author": "Dan Kamminga",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Firenze-mercato.jpg"
+   },
+   "location": {
+    "latitude": 43.76999167,
+    "longitude": 11.25429444
+   },
+   "category": "market",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "historic",
+    "market"
+   ],
+   "area": "borough 1",
+   "content": {
+    "en": {
+     "name": "Loggia del Mercato Nuovo",
+     "intro": "The Loggia del Mercato Nuovo, popularly known as the Loggia del Porcellino, is a building in Florence, Italy.",
+     "narration": "The Loggia del Mercato Nuovo, popularly known as the Loggia del Porcellino, is a building in Florence, Italy. It is so called to distinguish it from the Mercato vecchio that used to be located in the area of today's Piazza della Repubblica.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Loggia del Mercato Nuovo",
+     "url": "https://en.wikipedia.org/wiki/Loggia_del_Mercato_Nuovo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q917483",
+     "url": "https://www.wikidata.org/wiki/Q917483",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "piazza-santa-croce",
+   "image": {
+    "file": "images/piazza-santa-croce.jpg",
+    "author": "Vladimir.grujeski",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D0%B0_%D0%A1%D0%B0%D0%BD%D1%82%D0%B0_%D0%9A%D1%80%D0%BE%D1%87%D0%B5_%D0%B8_%D0%B8%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D0%BE%D1%82_%D0%BF%D0%BB%D0%BE%D1%88%D1%82%D0%B0%D0%B4.jpg"
+   },
+   "location": {
+    "latitude": 43.76885,
+    "longitude": 11.26148056
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "borough 1",
+   "content": {
+    "en": {
+     "name": "Piazza Santa Croce",
+     "intro": "Piazza Santa Croce is one of the main plazas or squares located in the central neighbourhood of Florence, in the region of Tuscany, Italy.",
+     "narration": "Piazza Santa Croce is one of the main plazas or squares located in the central neighbourhood of Florence, in the region of Tuscany, Italy. It is located near Piazza della Signoria and the National Central Library, and takes its name from the Basilica of Santa Croce that overlooks the square.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Piazza Santa Croce",
+     "url": "https://en.wikipedia.org/wiki/Piazza_Santa_Croce",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1017385",
+     "url": "https://www.wikidata.org/wiki/Q1017385",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ponte-santa-trinita",
+   "image": {
+    "file": "images/ponte-santa-trinita.jpg",
+    "author": "Jay Stewart",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponte_Santa_Trinita_seen_from_Ponte_Vecchio.jpg"
+   },
+   "location": {
+    "latitude": 43.76888889,
+    "longitude": 11.25027778
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument",
+    "river",
+    "roman"
+   ],
+   "area": "Florence",
+   "content": {
+    "en": {
+     "name": "Ponte Santa Trinita",
+     "intro": "The Ponte Santa Trinita is a Renaissance bridge in Florence, Italy, spanning the Arno.",
+     "narration": "The Ponte Santa Trinita is a Renaissance bridge in Florence, Italy, spanning the Arno. The Ponte Santa Trìnita is the oldest elliptic arch bridge in the world, characterised by three flattened ellipses. The outside spans each measure 29 m with the centre span being 32 m in length. The two neighbouring bridges are the Ponte Vecchio, to the east, and the Ponte alla Carraia to the west. The bridge was constructed by the Florentine architect Bartolomeo Ammannati from 1567 to 1569. Its site, downstream of the Ponte Vecchio, is a major link in the medieval street plan of Florence, which has been bridged at this site since the 13th century.",
+     "longDescription": "The Ponte Santa Trinita is a Renaissance bridge in Florence, Italy, spanning the Arno. The Ponte Santa Trìnita is the oldest elliptic arch bridge in the world, characterised by three flattened ellipses. The outside spans each measure 29 m with the centre span being 32 m in length. The two neighbouring bridges are the Ponte Vecchio, to the east, and the Ponte alla Carraia to the west. The bridge was constructed by the Florentine architect Bartolomeo Ammannati from 1567 to 1569. Its site, downstream of the Ponte Vecchio, is a major link in the medieval street plan of Florence, which has been bridged at this site since the 13th century. The wooden bridge of 1252 collapsed under the weight of a crowd seven years later, and was rebuilt in stone; this structure was in turn destroyed by a flood in 1269 and again in 1333. The bridge of five arches constructed by Taddeo Gaddi was also destroyed in the flood of 1557, which occasioned Ammannati's replacement. Four ornamental statues of the Seasons were added to the bridge in 1608, as part of the wedding celebrations of Cosimo II de' Medici with Maria Magdalena of Austria: Spring by Pietro Francavilla, Summer and Autumn by Giovanni Caccini, and Winter by Taddeo Landini. On the night between 3 and 4 August 1944, the bridge was destroyed by retreating German troops on the advance of the British 8th Army. A Bailey bridge was built for temporary use by the Royal Engineers. The bridge was reconstructed in 1958 with original stones raised from the Arno or taken from the same quarry of Boboli gardens, under the direction of architect Riccardo Gizdulich, who examined Florentine archives, and engineer Emilio Brizzi. The missing head of Primavera was recovered from the bed of the Arno in October 1961.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Ponte Santa Trinita",
+     "url": "https://en.wikipedia.org/wiki/Ponte_Santa_Trinita",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q545578",
+     "url": "https://www.wikidata.org/wiki/Q545578",
+     "license": "CC0"
+    }
+   ]
+  }
+ ]
+}

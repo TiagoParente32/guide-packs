@@ -1,0 +1,2326 @@
+{
+ "format": 1,
+ "city": {
+  "id": "seville",
+  "name": "Seville",
+  "country": "Spain",
+  "center": {
+   "latitude": 37.3886303,
+   "longitude": -5.9953403
+  },
+  "bounds": {
+   "south": 37.3002036,
+   "north": 37.4529579,
+   "west": -6.0329183,
+   "east": -5.8191571
+  },
+  "languages": [
+   "en"
+  ],
+  "quality": "generated",
+  "placeCount": 45,
+  "version": 1,
+  "hero": {
+   "file": "images/plaza-de-espana-seville.jpg",
+   "author": "Carlos Delgado",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a_(Sevilla)_-_01.jpg"
+  },
+  "packUrl": "cities/seville/pack.json",
+  "generatedAt": "2026-10-30T14:28:38Z"
+ },
+ "pois": [
+  {
+   "id": "plaza-de-espana-seville",
+   "image": {
+    "file": "images/plaza-de-espana-seville.jpg",
+    "author": "Carlos Delgado",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a_(Sevilla)_-_01.jpg"
+   },
+   "location": {
+    "latitude": 37.377080398,
+    "longitude": -5.98690073
+   },
+   "category": "square",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "baroque",
+    "historic",
+    "iconic",
+    "moorish",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Plaza de España, Seville",
+     "intro": "The Plaza de España is a plaza in Maria Luisa Park in Seville, Spain.",
+     "narration": "The Plaza de España is a plaza in Maria Luisa Park in Seville, Spain. It was built in 1928 for the Ibero-American Exposition of 1929. It is a landmark example of Regionalism Architecture, mixing elements of the Baroque Revival, Renaissance Revival and Moorish Revival styles of Spanish architecture.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Plaza de España, Seville",
+     "url": "https://en.wikipedia.org/wiki/Plaza_de_Espa%C3%B1a%2C_Seville",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q956018",
+     "url": "https://www.wikidata.org/wiki/Q956018",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "seville-cathedral",
+   "image": {
+    "file": "images/seville-cathedral.jpg",
+    "author": "PEPE GADEIRAS",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:CATEDRAL_DE_SEVILLA.jpg"
+   },
+   "location": {
+    "latitude": 37.385742159,
+    "longitude": -5.993095562
+   },
+   "category": "church",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "medieval"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Seville Cathedral",
+     "intro": "The Cathedral of Saint Mary of the See, better known as Seville Cathedral, is a Catholic cathedral in Seville, Andalusia, Spain.",
+     "narration": "The Cathedral of Saint Mary of the See, better known as Seville Cathedral, is a Catholic cathedral in Seville, Andalusia, Spain. It was registered in 1987 by UNESCO as a World Heritage Site, along with the adjoining Alcázar palace complex and the General Archive of the Indies. It is one of the largest churches in the world and the largest Gothic cathedral. After its completion in the early 16th century, Seville Cathedral supplanted Hagia Sophia as the largest cathedral in the world, a title the Byzantine church had held for a thousand years. The Gothic section alone has a length of 126 m, a width of 76 m, and a central nave height of 36 m.",
+     "longDescription": "The Cathedral of Saint Mary of the See, better known as Seville Cathedral, is a Catholic cathedral in Seville, Andalusia, Spain. It was registered in 1987 by UNESCO as a World Heritage Site, along with the adjoining Alcázar palace complex and the General Archive of the Indies. It is one of the largest churches in the world and the largest Gothic cathedral. After its completion in the early 16th century, Seville Cathedral supplanted Hagia Sophia as the largest cathedral in the world, a title the Byzantine church had held for a thousand years. The Gothic section alone has a length of 126 m, a width of 76 m, and a central nave height of 36 m. The total height of the Giralda tower from the ground to the weather vane is 104.5 m. The Archbishop's Palace is located on the northeastern side of the cathedral. Seville Cathedral was the site of the baptism of Infante Juan of Aragon in 1478, only son of the Catholic Monarchs Ferdinand II of Aragon and Isabella I of Castile. Its royal chapel holds the remains of the city's conqueror, Ferdinand III of Castile, his son and heir, Alfonso the Wise, and their descendant, King Peter the Cruel. The funerary monuments for cardinals Juan de Cervantes and Pedro González de Mendoza are located among its chapels. Christopher Columbus and his son Diego are also buried in the cathedral.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Seville Cathedral",
+     "url": "https://en.wikipedia.org/wiki/Seville_Cathedral",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q231606",
+     "url": "https://www.wikidata.org/wiki/Q231606",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "alcazar-of-seville",
+   "image": {
+    "file": "images/alcazar-of-seville.jpg",
+    "author": "Cat from Sevilla, Spain",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Patio_de_las_doncellas.jpg"
+   },
+   "location": {
+    "latitude": 37.384426149,
+    "longitude": -5.991186625
+   },
+   "category": "architecture",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "moorish"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Alcázar of Seville",
+     "intro": "The Alcázar of Seville, officially called Royal Alcázar of Seville, is a historic royal palace in Seville, Spain and one of the official residences of the Spanish royal family.",
+     "narration": "The Alcázar of Seville, officially called Royal Alcázar of Seville, is a historic royal palace in Seville, Spain and one of the official residences of the Spanish royal family. It was formerly the site of the Islamic-era citadel of the city, begun in the 10th century under the Umayyads and then developed into a larger palace complex by the Abbadid dynasty and the Almohads. After the Castilian conquest of the city in 1248, the site was progressively rebuilt and replaced by new palaces and gardens. Among the most important of these is a richly decorated Mudéjar-style palace built by Pedro I during the 1360s.",
+     "longDescription": "The Alcázar of Seville, officially called Royal Alcázar of Seville, is a historic royal palace in Seville, Spain and one of the official residences of the Spanish royal family. It was formerly the site of the Islamic-era citadel of the city, begun in the 10th century under the Umayyads and then developed into a larger palace complex by the Abbadid dynasty and the Almohads. After the Castilian conquest of the city in 1248, the site was progressively rebuilt and replaced by new palaces and gardens. Among the most important of these is a richly decorated Mudéjar-style palace built by Pedro I during the 1360s. The palace is a preeminent example of Mudéjar style in the Iberian Peninsula and also includes sections with Gothic and Renaissance elements. The upper storeys of the Alcázar are still occupied by the royal family when they visit Seville and are administered by the Patrimonio Nacional. It was registered in 1987 by UNESCO as a World Heritage Site, along with the adjoining Seville Cathedral and the General Archive of the Indies.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Alcázar of Seville",
+     "url": "https://en.wikipedia.org/wiki/Alc%C3%A1zar_of_Seville",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q498261",
+     "url": "https://www.wikidata.org/wiki/Q498261",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "torre-del-oro",
+   "image": {
+    "file": "images/torre-del-oro.jpg",
+    "author": "Jebulon",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torre_del_oro_laurels_Seville_Andalusia_Spain.jpg"
+   },
+   "location": {
+    "latitude": 37.382455145,
+    "longitude": -5.996296078
+   },
+   "category": "monument",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 25,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "medieval",
+    "monument",
+    "river"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Torre del Oro",
+     "intro": "The Torre del Oro is a dodecagonal military watchtower in Seville, southern Spain.",
+     "narration": "The Torre del Oro is a dodecagonal military watchtower in Seville, southern Spain. It was erected by the Almohad Caliphate in order to control access to Seville via the Guadalquivir river. Constructed in the first third of the 13th century, the tower served as a prison during the Middle Ages. Its name comes from the golden shine it projected on the river, due to its building materials.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Torre del Oro",
+     "url": "https://en.wikipedia.org/wiki/Torre_del_Oro",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q943873",
+     "url": "https://www.wikidata.org/wiki/Q943873",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "giralda",
+   "image": {
+    "file": "images/giralda.jpg",
+    "author": "Alberto-g-rovi",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giralda_de_Sevilla_(3).jpg"
+   },
+   "location": {
+    "latitude": 37.38614,
+    "longitude": -5.99238
+   },
+   "category": "monument",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 46,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "medieval",
+    "monument"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Giralda",
+     "intro": "The Giralda is the bell tower of Seville Cathedral in Seville, Spain.",
+     "narration": "The Giralda is the bell tower of Seville Cathedral in Seville, Spain. It was built as the minaret for the Great Mosque of Seville in al-Andalus, during the reign of the Almohad dynasty, with a Renaissance-style belfry added by the Catholics after the expulsion of the Muslims from the area. The cathedral, including the Giralda, was registered in 1987 as a World Heritage Site by UNESCO, along with the Alcázar and the General Archive of the Indies. It remains one of the most important symbols of the city, as it has been since the Middle Ages. The tower is one of the most famous monuments of Moorish architecture in Spain and one of the most refined examples of Almohad architecture.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Giralda",
+     "url": "https://en.wikipedia.org/wiki/Giralda",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q834479",
+     "url": "https://www.wikidata.org/wiki/Q834479",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "metropol-parasol",
+   "image": {
+    "file": "images/metropol-parasol.jpg",
+    "author": "Anual",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Setas_2022An006.jpg"
+   },
+   "location": {
+    "latitude": 37.39325278,
+    "longitude": -5.99188056
+   },
+   "category": "monument",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Metropol Parasol",
+     "intro": "The Setas de Sevilla or Las Setas, initially titled Metropol Parasol, is a large, predominantly wood structure located at La Encarnación square in the old quarter of Seville, Spain.",
+     "narration": "The Setas de Sevilla or Las Setas, initially titled Metropol Parasol, is a large, predominantly wood structure located at La Encarnación square in the old quarter of Seville, Spain. It accommodates a traditional market, restaurants, a performance square, archaeological museum, a venue for MICE events Metropol Eventos — and 'rooftop' terrace with a panoramic view of Seville's old city. Selected from 65 submissions in a city-sponsored competition, the structure was designed by German architect Jürgen Mayer, was completed in April 2011, and is roughly 150 by 70 metres with an approximate height of 26 metres.",
+     "longDescription": "The Setas de Sevilla or Las Setas, initially titled Metropol Parasol, is a large, predominantly wood structure located at La Encarnación square in the old quarter of Seville, Spain. It accommodates a traditional market, restaurants, a performance square, archaeological museum, a venue for MICE events Metropol Eventos — and 'rooftop' terrace with a panoramic view of Seville's old city. Selected from 65 submissions in a city-sponsored competition, the structure was designed by German architect Jürgen Mayer, was completed in April 2011, and is roughly 150 by 70 metres with an approximate height of 26 metres. Initially beset with technical problems as well as budget and schedule overruns, the parasols are constructed of 3,500 cubic meters of micro-laminated Finnish pine and are marketed as the world's largest wooden structure. Since their opening, the parasols have become Seville's third-most visited urban landmark.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Metropol Parasol",
+     "url": "https://en.wikipedia.org/wiki/Metropol_Parasol",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q3087671",
+     "url": "https://www.wikidata.org/wiki/Q3087671",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "casa-de-pilatos",
+   "image": {
+    "file": "images/casa-de-pilatos.jpg",
+    "author": "Anual",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa_pilatos_2018002.jpg"
+   },
+   "location": {
+    "latitude": 37.390269146,
+    "longitude": -5.986988762
+   },
+   "category": "architecture",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 29,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "modern"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Casa de Pilatos",
+     "intro": "La Casa de Pilatos is an Andalusian palace in Seville, Spain, which serves as the permanent residence of the Dukes of Medinaceli.",
+     "narration": "La Casa de Pilatos is an Andalusian palace in Seville, Spain, which serves as the permanent residence of the Dukes of Medinaceli. It is an example of an Italian Renaissance building with Mudéjar elements and decorations. It is considered the prototype of the Andalusian palace. The Casa de Pilatos has around 150 different azulejo designs made in the 1530s by the brothers Diego and Juan Pulido, one of the largest early-modern azulejo collections in the world.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Casa de Pilatos",
+     "url": "https://en.wikipedia.org/wiki/Casa_de_Pilatos",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1046529",
+     "url": "https://www.wikidata.org/wiki/Q1046529",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "plaza-de-la-encarnacion",
+   "image": {
+    "file": "images/plaza-de-la-encarnacion.jpg",
+    "author": "Anual",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Metropolparasolnov2011001.jpg"
+   },
+   "location": {
+    "latitude": 37.392930555,
+    "longitude": -5.991894444
+   },
+   "category": "square",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 4,
+   "tags": [
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Plaza de la Encarnación",
+     "intro": "The Setas de Sevilla or Las Setas, initially titled Metropol Parasol, is a large, predominantly wood structure located at La Encarnación square in the old quarter of Seville, Spain.",
+     "narration": "The Setas de Sevilla or Las Setas, initially titled Metropol Parasol, is a large, predominantly wood structure located at La Encarnación square in the old quarter of Seville, Spain. It accommodates a traditional market, restaurants, a performance square, archaeological museum, a venue for MICE events Metropol Eventos — and 'rooftop' terrace with a panoramic view of Seville's old city. Selected from 65 submissions in a city-sponsored competition, the structure was designed by German architect Jürgen Mayer, was completed in April 2011, and is roughly 150 by 70 metres with an approximate height of 26 metres.",
+     "longDescription": "The Setas de Sevilla or Las Setas, initially titled Metropol Parasol, is a large, predominantly wood structure located at La Encarnación square in the old quarter of Seville, Spain. It accommodates a traditional market, restaurants, a performance square, archaeological museum, a venue for MICE events Metropol Eventos — and 'rooftop' terrace with a panoramic view of Seville's old city. Selected from 65 submissions in a city-sponsored competition, the structure was designed by German architect Jürgen Mayer, was completed in April 2011, and is roughly 150 by 70 metres with an approximate height of 26 metres. Initially beset with technical problems as well as budget and schedule overruns, the parasols are constructed of 3,500 cubic meters of micro-laminated Finnish pine and are marketed as the world's largest wooden structure. Since their opening, the parasols have become Seville's third-most visited urban landmark.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Plaza de la Encarnación",
+     "url": "https://en.wikipedia.org/wiki/Plaza_de_la_Encarnaci%C3%B3n",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q3906567",
+     "url": "https://www.wikidata.org/wiki/Q3906567",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "triana-seville",
+   "image": {
+    "file": "images/triana-seville.jpg",
+    "author": "Jose A.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seville_(Spain)_-_48502181917.jpg"
+   },
+   "location": {
+    "latitude": 37.383580555,
+    "longitude": -6.0052
+   },
+   "category": "neighbourhood",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "iconic",
+    "neighbourhood",
+    "river"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Triana, Seville",
+     "intro": "Triana is a neighbourhood and administrative district on the west bank of the Guadalquivir River in the city of Seville, Spain.",
+     "narration": "Triana is a neighbourhood and administrative district on the west bank of the Guadalquivir River in the city of Seville, Spain. Like other neighbourhoods that were historically separated from the main city, it was known as an arrabal. Triana is located on a peninsula between two branches of the Guadalquivir, narrowly linked to the mainland in the north. Two other districts are also usually included in this area, Los Remedios to the south and La Cartuja to the north. Residents of Triana have traditionally been called trianeros; they identify strongly with the neighbourhood and consider it different in character from the rest of Seville.",
+     "longDescription": "Triana is a neighbourhood and administrative district on the west bank of the Guadalquivir River in the city of Seville, Spain. Like other neighbourhoods that were historically separated from the main city, it was known as an arrabal. Triana is located on a peninsula between two branches of the Guadalquivir, narrowly linked to the mainland in the north. Two other districts are also usually included in this area, Los Remedios to the south and La Cartuja to the north. Residents of Triana have traditionally been called trianeros; they identify strongly with the neighbourhood and consider it different in character from the rest of Seville. Triana has a traditional pottery and tile industry, a vibrant flamenco culture, and its own festivals; it has played an important role in the development of Sevillan culture and tradition.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Triana, Seville",
+     "url": "https://en.wikipedia.org/wiki/Triana%2C_Seville",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q957828",
+     "url": "https://www.wikidata.org/wiki/Q957828",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "maestranza-seville",
+   "image": {
+    "file": "images/maestranza-seville.jpg",
+    "author": "Vincenzo venditti",
+    "license": "CC BY-SA 3.0 es",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/es/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_Toros_de_la_Maestranza.jpg"
+   },
+   "location": {
+    "latitude": 37.385958507,
+    "longitude": -5.998406636
+   },
+   "category": "architecture",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Maestranza (Seville)",
+     "intro": "The Plaza de Toros de la Real Maestranza de Caballería de Sevilla is a 12,000-capacity bullring in Seville, Spain.",
+     "narration": "The Plaza de Toros de la Real Maestranza de Caballería de Sevilla is a 12,000-capacity bullring in Seville, Spain. During the annual Seville Fair in Seville, it is the site of one of the most well-known bullfighting festivals in the world. It is a part of the Real Maestranza de Caballería de Sevilla, a noble guild established for traditional cavalry training. The ring itself is considered one of the city's most enjoyable tourist attractions and is certainly one of the most visited. As a stage for bullfighting, it is considered one of the world's most challenging environments because of its history, characteristics, and viewing public, which is considered one of the most unforgiving in all of bullfighting fandom.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Maestranza (Seville)",
+     "url": "https://en.wikipedia.org/wiki/Maestranza_%28Seville%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2274061",
+     "url": "https://www.wikidata.org/wiki/Q2274061",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "museum-of-fine-arts-of-seville",
+   "image": {
+    "file": "images/museum-of-fine-arts-of-seville.jpg",
+    "author": "Pepe Morón",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fachada_Museo.jpg"
+   },
+   "location": {
+    "latitude": 37.39265415,
+    "longitude": -6.000126118
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 32,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "medieval",
+    "modern",
+    "museum"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Museum of Fine Arts of Seville",
+     "intro": "The Museum of Fine Arts of Seville is one of the main art galleries in Seville, Spain, with a collection of Spanish visual arts from the medieval period to the early 20th century.",
+     "narration": "The Museum of Fine Arts of Seville is one of the main art galleries in Seville, Spain, with a collection of Spanish visual arts from the medieval period to the early 20th century. The collection includes a choice selection of works by artists from the Golden Age of Sevillian painting during the 17th century, such as Bartolomé Esteban Murillo, Francisco de Zurbarán, and Valdés Leal. The main entrance faces the Plaza del Museo. Inside, the museum contains 14 galleries, three cloisters, and a patio.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Museum of Fine Arts of Seville",
+     "url": "https://en.wikipedia.org/wiki/Museum_of_Fine_Arts_of_Seville",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2163496",
+     "url": "https://www.wikidata.org/wiki/Q2163496",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "parque-de-maria-luisa",
+   "image": {
+    "file": "images/parque-de-maria-luisa.jpg",
+    "author": "Roberta Morea from Madrid",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parque_de_Maria_Luisa,_Sevilla.jpg"
+   },
+   "location": {
+    "latitude": 37.375740598,
+    "longitude": -5.988889474
+   },
+   "category": "park",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "historic",
+    "iconic",
+    "park",
+    "river",
+    "scenic"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Parque de María Luisa",
+     "intro": "The Parque de María Luisa is a public park that stretches along the Guadalquivir River in Seville, Spain.",
+     "narration": "The Parque de María Luisa is a public park that stretches along the Guadalquivir River in Seville, Spain. It is Seville's principal green area.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Parque de María Luisa",
+     "url": "https://en.wikipedia.org/wiki/Parque_de_Mar%C3%ADa_Luisa",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2627907",
+     "url": "https://www.wikidata.org/wiki/Q2627907",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "alamillo-bridge",
+   "image": {
+    "file": "images/alamillo-bridge.jpg",
+    "author": "Jebulon",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puente_del_Alamillo_Guadalquivir_Seville_Spain.jpg"
+   },
+   "location": {
+    "latitude": 37.413333333,
+    "longitude": -5.990277777
+   },
+   "category": "monument",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 27,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument",
+    "river"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Alamillo Bridge",
+     "intro": "The Alamillo Bridge is a structure in Seville, Andalucia, which spans the Canal de Alfonso XIII, allowing access to La Cartuja, a peninsula located between the canal and the Guadalquivir River.",
+     "narration": "The Alamillo Bridge is a structure in Seville, Andalucia, which spans the Canal de Alfonso XIII, allowing access to La Cartuja, a peninsula located between the canal and the Guadalquivir River. The bridge was constructed as part of infrastructure improvements for Expo 92, which was held on large banana farms on the island. Construction of the bridge began in 1989 and was completed in 1992 from a design by Santiago Calatrava.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Alamillo Bridge",
+     "url": "https://en.wikipedia.org/wiki/Alamillo_Bridge",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1353494",
+     "url": "https://www.wikidata.org/wiki/Q1353494",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palacio-de-san-telmo",
+   "image": {
+    "file": "images/palacio-de-san-telmo.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_de_San_Telmo,_Sevilla,_Espa%C3%B1a,_2015-12-06,_DD_74.JPG"
+   },
+   "location": {
+    "latitude": 37.380277777,
+    "longitude": -5.993611111
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 31,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Palacio de San Telmo",
+     "intro": "The Palace of San Telmo is a historic edifice in Seville, southern Spain, formerly the Universidad de Mareantes, now the seat of the presidency of the Andalusian Autonomous Government.",
+     "narration": "The Palace of San Telmo is a historic edifice in Seville, southern Spain, formerly the Universidad de Mareantes, now the seat of the presidency of the Andalusian Autonomous Government. Construction of the building began in 1682 outside the walls of the city, on property belonging to the Tribunal of the Holy Office, the institution responsible for the Spanish Inquisition. It was originally constructed as the seat of the University of Navigators, a school to educate orphaned children and train them as sailors.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palacio de San Telmo",
+     "url": "https://en.wikipedia.org/wiki/Palacio_de_San_Telmo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2665595",
+     "url": "https://www.wikidata.org/wiki/Q2665595",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palacio-de-las-duenas",
+   "image": {
+    "file": "images/palacio-de-las-duenas.jpg",
+    "author": "Alonso de Mendoza",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrada_al_Palacio_de_las_Due%C3%B1as,_Sevilla.jpg"
+   },
+   "location": {
+    "latitude": 37.394722222,
+    "longitude": -5.989166666
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "medieval",
+    "moorish"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Palacio de las Dueñas",
+     "intro": "Palacio de las Dueñas is a palace in Seville, Spain, currently belonging to the House of Alba.",
+     "narration": "Palacio de las Dueñas is a palace in Seville, Spain, currently belonging to the House of Alba. It was built in the late 15th century in the Renaissance style with Gothic and Moorish influences. The palace is one of the major historic homes of great architectural and artistic heritage in the city. The poet Antonio Machado was born here, as were Carlos Falcó, 5th Marquess of Griñón, and the Marquess of Castel-Moncayo. On October 5, 2011, Cayetana Fitz-James Stuart, 18th Duchess of Alba, married her third husband here. The palace became a national monument on June 3, 1931. The promoter of its opening to tourist visits was the then-current Duke of Alba, Carlos Fitz-James Stuart y Martínez de Irujo.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palacio de las Dueñas",
+     "url": "https://en.wikipedia.org/wiki/Palacio_de_las_Due%C3%B1as",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q7126325",
+     "url": "https://www.wikidata.org/wiki/Q7126325",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "sevilla-tower",
+   "image": {
+    "file": "images/sevilla-tower.jpg",
+    "author": "Gzzz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torre_Sevilla_abril_2015.jpg"
+   },
+   "location": {
+    "latitude": 37.39194444,
+    "longitude": -6.00972222
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Sevilla Tower",
+     "intro": "The Sevilla Tower, known until 2015 as the Pelli Tower, is an office skyscraper in Seville, Spain.",
+     "narration": "The Sevilla Tower, known until 2015 as the Pelli Tower, is an office skyscraper in Seville, Spain. Its construction started in March 2008 and was completed in 2015. The stands at 180.5 metres tall and has 40 floors. It is an office building, with the entrance to the tower located off Odiel street. The tower is the tallest building in Andalusia and in the city of Seville, and the eighth tallest in Spain. It provides a panoramic view on all Seville. The tower is located in La Cartuja, the former zone of the Universal Exposition that took place in Seville between April and October 1992.",
+     "longDescription": "The Sevilla Tower, known until 2015 as the Pelli Tower, is an office skyscraper in Seville, Spain. Its construction started in March 2008 and was completed in 2015. The stands at 180.5 metres tall and has 40 floors. It is an office building, with the entrance to the tower located off Odiel street. The tower is the tallest building in Andalusia and in the city of Seville, and the eighth tallest in Spain. It provides a panoramic view on all Seville. The tower is located in La Cartuja, the former zone of the Universal Exposition that took place in Seville between April and October 1992. It is located next to the river in an area being redeveloped since the early 2000s. The tower is flanked by two four story podium buildings also designed by César Pelli. The curved edges of the podium buildings define a plaza that opens on the north and south and narrows at the center, creating a pedestrian-scaled commercial street. The tower notably hosts a 5-star hotel, Eurostars Torre Sevilla, along with various offices.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Sevilla Tower",
+     "url": "https://en.wikipedia.org/wiki/Sevilla_Tower",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2746748",
+     "url": "https://www.wikidata.org/wiki/Q2746748",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "puente-de-isabel-ii",
+   "image": {
+    "file": "images/puente-de-isabel-ii.jpg",
+    "author": "Anual",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puente_de_triana_2013An010.jpg"
+   },
+   "location": {
+    "latitude": 37.386329617,
+    "longitude": -6.002374237
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument",
+    "river"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Puente de Isabel II",
+     "intro": "The Puente de Isabel II, Puente de Triana or Triana Bridge, is a metal arch bridge in Seville, Spain, that connects the Triana neighbourhood with the centre of the city.",
+     "narration": "The Puente de Isabel II, Puente de Triana or Triana Bridge, is a metal arch bridge in Seville, Spain, that connects the Triana neighbourhood with the centre of the city. It crosses the Canal de Alfonso XIII, one of the arms of the River Guadalquivir that isolate Triana as an almost-island. It was built during the reign of Isabella II of Spain and completed in 1852 as the first solid bridge in Seville, replacing an earlier floating bridge consisting of boats. First built by the Moors in the 12th century, the pontoon bridge managed to exist for seven centuries due to later repairs.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Puente de Isabel II",
+     "url": "https://en.wikipedia.org/wiki/Puente_de_Isabel_II",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1862973",
+     "url": "https://www.wikidata.org/wiki/Q1862973",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "macarena-seville",
+   "image": {
+    "file": "images/macarena-seville.jpg",
+    "author": "Michiel1972",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Macarena_(Sevilla)_-_Aerial_photograph.jpg"
+   },
+   "location": {
+    "latitude": 37.404153,
+    "longitude": -5.990339
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "neighbourhood",
+    "river"
+   ],
+   "area": "Sevilla",
+   "content": {
+    "en": {
+     "name": "Macarena, Seville",
+     "intro": "Macarena is one of the eleven districts into which the city of Seville, capital of the autonomous community of Andalucía, Spain, is divided for administrative purposes.",
+     "narration": "Macarena is one of the eleven districts into which the city of Seville, capital of the autonomous community of Andalucía, Spain, is divided for administrative purposes. It is located in the north of the city, bordered to the south by the Casco Antiguo and San Pablo-Santa Justa suburbs, to the east and north by Norte and to the west by Triana. It covers the area between the Guadalquivir River and the Carmona Highway and from the SE-30 ring-road in the north to the Ronda del Casco Antiguo. It contains smaller neighbourhoods such as León XIII, Miraflores, and the Polígono Norte as well as the Miraflores park along the SE-30.",
+     "longDescription": "Macarena is one of the eleven districts into which the city of Seville, capital of the autonomous community of Andalucía, Spain, is divided for administrative purposes. It is located in the north of the city, bordered to the south by the Casco Antiguo and San Pablo-Santa Justa suburbs, to the east and north by Norte and to the west by Triana. It covers the area between the Guadalquivir River and the Carmona Highway and from the SE-30 ring-road in the north to the Ronda del Casco Antiguo. It contains smaller neighbourhoods such as León XIII, Miraflores, and the Polígono Norte as well as the Miraflores park along the SE-30. The district contains the Andalucian Parliament, the Torre de los Perdigones in the park of the same name, and the Hospital Universitario Virgen Macarena.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Macarena, Seville",
+     "url": "https://en.wikipedia.org/wiki/Macarena%2C_Seville",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q585718",
+     "url": "https://www.wikidata.org/wiki/Q585718",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "casco-antiguo",
+   "image": {
+    "file": "images/casco-antiguo.jpg",
+    "author": "Gzzz",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casco_Antiguo_Sevilla.jpg"
+   },
+   "location": {
+    "latitude": 37.393333333,
+    "longitude": -5.994444444
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 28,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "neighbourhood",
+    "river",
+    "roman"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Casco Antiguo",
+     "intro": "The Casco Antiguo is the city centre district of Seville, the capital of the Spanish region of Andalusia.",
+     "narration": "The Casco Antiguo is the city centre district of Seville, the capital of the Spanish region of Andalusia. The Casco Antiguo comprises Seville's old town, which lies on the east bank of the Guadalquivir river. It borders the districts of Macarena to the north, Nervión and San Pablo-Santa Justa to the east, and the Distrito Sur to the south. Bridges across the Guadalquivir link the Casco Antiguo to Los Remedios, Triana and La Cartuja.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Casco Antiguo",
+     "url": "https://en.wikipedia.org/wiki/Casco_Antiguo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q4216644",
+     "url": "https://www.wikidata.org/wiki/Q4216644",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "santa-cruz-seville",
+   "image": {
+    "file": "images/santa-cruz-seville.jpg",
+    "author": "Vanbasten 23",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santa_Cruz_(1).jpg"
+   },
+   "location": {
+    "latitude": 37.385,
+    "longitude": -5.99027778
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 26,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "medieval",
+    "moorish",
+    "neighbourhood"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Santa Cruz, Seville",
+     "intro": "Santa Cruz is the primary tourist neighborhood of Seville, Spain, and the former Jewish quarter of the medieval city.",
+     "narration": "Santa Cruz is the primary tourist neighborhood of Seville, Spain, and the former Jewish quarter of the medieval city. Santa Cruz is bordered by the Jardines de Murillo, the Real Alcázar, Calle Mateos Gago, and Calle Santa María La Blanca/San José. The neighbourhood is the location of many of Seville's oldest churches and is home to the Cathedral of Seville, including the converted minaret of the old Moorish mosque Giralda.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Santa Cruz, Seville",
+     "url": "https://en.wikipedia.org/wiki/Santa_Cruz%2C_Seville",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2421643",
+     "url": "https://www.wikidata.org/wiki/Q2421643",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "walls-of-seville",
+   "image": {
+    "file": "images/walls-of-seville.jpg",
+    "author": "EmDee",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:S%C3%A9ville_-_Remparts_almohades.JPG"
+   },
+   "location": {
+    "latitude": 37.3904,
+    "longitude": -5.99083
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument",
+    "moorish",
+    "roman"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Walls of Seville",
+     "intro": "The Walls of Seville are a series of defensive walls surrounding the Old Town of Seville.",
+     "narration": "The Walls of Seville are a series of defensive walls surrounding the Old Town of Seville. The city has been surrounded by walls since the Roman period, and they were maintained and modified throughout the subsequent Visigoth, Islamic and finally Castilian periods. The walls remained intact until the 19th century, when they were partially demolished after the revolution of 1868. Some parts of the walls still exist, especially around the Alcázar of Seville and some curtain walls in the barrio de la Macarena. The walls originally had eighteen gates or points of access, four of which survive today: Puerta de la Macarena, Puerta de Córdoba, Postigo del Aceite and Postigo del Alcázar.",
+     "longDescription": "The Walls of Seville are a series of defensive walls surrounding the Old Town of Seville. The city has been surrounded by walls since the Roman period, and they were maintained and modified throughout the subsequent Visigoth, Islamic and finally Castilian periods. The walls remained intact until the 19th century, when they were partially demolished after the revolution of 1868. Some parts of the walls still exist, especially around the Alcázar of Seville and some curtain walls in the barrio de la Macarena. The walls originally had eighteen gates or points of access, four of which survive today: Puerta de la Macarena, Puerta de Córdoba, Postigo del Aceite and Postigo del Alcázar. The extant parts of the walls maintain an Almohad appearance, mixed with Classicist air resulting from restorations carried out in the 18th century.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Walls of Seville",
+     "url": "https://en.wikipedia.org/wiki/Walls_of_Seville",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q3896917",
+     "url": "https://www.wikidata.org/wiki/Q3896917",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "royal-tobacco-factory",
+   "image": {
+    "file": "images/royal-tobacco-factory.jpg",
+    "author": "Anual",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rectorado_universidad_de_sevilla_2024An001.jpg"
+   },
+   "location": {
+    "latitude": 37.380689772,
+    "longitude": -5.990832804
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 31,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Royal Tobacco Factory",
+     "intro": "The Royal Tobacco Factory is an 18th-century stone building in Seville, southern Spain.",
+     "narration": "The Royal Tobacco Factory is an 18th-century stone building in Seville, southern Spain. Since the 1950s it has been the seat of the rectorate of the University of Seville. Prior to that, it was, as its name indicates, a tobacco factory: the most prominent such institution in Europe, and a lineal descendant of Europe's first tobacco factory, which was located nearby. It is one of the most notable and splendid examples of industrial architecture from the era of Spain's Antiguo Régimen.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Royal Tobacco Factory",
+     "url": "https://en.wikipedia.org/wiki/Royal_Tobacco_Factory",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2542555",
+     "url": "https://www.wikidata.org/wiki/Q2542555",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "plaza-de-america",
+   "image": {
+    "file": "images/plaza-de-america.jpg",
+    "author": "Anual",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pabell%C3%B3n_Mud%C3%A9jar_001.jpg"
+   },
+   "location": {
+    "latitude": 37.3716,
+    "longitude": -5.98739
+   },
+   "category": "square",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "medieval",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Plaza de América",
+     "intro": "The Plaza de América, located in the Parque de María Luisa, was built by architect Aníbal González for the Ibero-American exhibition of 1929.",
+     "narration": "The Plaza de América, located in the Parque de María Luisa, was built by architect Aníbal González for the Ibero-American exhibition of 1929. The Plaza is flanked by three buildings, also built by González for the exhibition, in three distinct architectural styles: the Museum of Popular Arts, the Archaeological Museum, and the Royal Pavilion.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Plaza de América",
+     "url": "https://en.wikipedia.org/wiki/Plaza_de_Am%C3%A9rica",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2429567",
+     "url": "https://www.wikidata.org/wiki/Q2429567",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "torre-de-la-plata",
+   "image": {
+    "file": "images/torre-de-la-plata.jpg",
+    "author": "Jl FilpoC",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torre_de_la_Plata_o_Torre_de_la_Victoria,_Sevilla.jpg"
+   },
+   "location": {
+    "latitude": 37.38320327,
+    "longitude": -5.995428289
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Torre de la Plata",
+     "intro": "The Torre de la Plata is an octagonal military tower in Andalusia, located in present-day Seville, southern Spain.",
+     "narration": "The Torre de la Plata is an octagonal military tower in Andalusia, located in present-day Seville, southern Spain. It was constructed by the Almohad Caliphate.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Torre de la Plata",
+     "url": "https://en.wikipedia.org/wiki/Torre_de_la_Plata",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2606632",
+     "url": "https://www.wikidata.org/wiki/Q2606632",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "archbishop-s-palace-seville",
+   "image": {
+    "file": "images/archbishop-s-palace-seville.jpg",
+    "author": "Emilio J. Rodríguez Posada",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_arzobispal_de_Sevilla,_Espa%C3%B1a.jpg"
+   },
+   "location": {
+    "latitude": 37.386898298,
+    "longitude": -5.991872345
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 33,
+   "visitMinutes": 6,
+   "tags": [
+    "baroque",
+    "historic",
+    "monument"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Archbishop's Palace, Seville",
+     "intro": "The Archbishop's Palace of Seville is a palace in Seville, Spain.",
+     "narration": "The Archbishop's Palace of Seville is a palace in Seville, Spain. It has served as the residence of bishops and archbishops of the episcopal sees and numerous nobleman and military figures to the present time. It is located in the southern section of Seville, in the Plaza Virgen de los Reyes, angled almost opposite the Giralda. It is situated on the northeastern side of Seville Cathedral in the neighborhood of Santa Cruz. Of Spanish Baroque architectural style, it has had the status of National Monument since 1969.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Archbishop's Palace, Seville",
+     "url": "https://en.wikipedia.org/wiki/Archbishop%27s_Palace%2C_Seville",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q3360949",
+     "url": "https://www.wikidata.org/wiki/Q3360949",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "plaza-nueva-seville",
+   "image": {
+    "file": "images/plaza-nueva-seville.jpg",
+    "author": "Paul Hermans",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sevilla_Plaza_Nueva_San_Fernando_18-03-2011_17-46-44.jpg"
+   },
+   "location": {
+    "latitude": 37.388469,
+    "longitude": -5.995581
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 22,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "historic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Plaza Nueva, Seville",
+     "intro": "Plaza Nueva is a public square in the city center of Seville, Spain, containing the Seville City Hall.",
+     "narration": "Plaza Nueva is a public square in the city center of Seville, Spain, containing the Seville City Hall. The land which the plaza is built on was formerly part of the San Fernando convent from 1270 to 1840. The land was later acquired by the local government and converted into a public square. The plaza was completed in 1856.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Plaza Nueva, Seville",
+     "url": "https://en.wikipedia.org/wiki/Plaza_Nueva%2C_Seville",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5518485",
+     "url": "https://www.wikidata.org/wiki/Q5518485",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "archeological-museum-of-seville",
+   "image": {
+    "file": "images/archeological-museum-of-seville.jpg",
+    "author": "No machine-readable author provided. Lobillo assumed (based on copyright claims).",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SevillaMuseoArqueologico02.JPG"
+   },
+   "location": {
+    "latitude": 37.370938888,
+    "longitude": -5.987088888
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Archeological Museum of Seville",
+     "intro": "The Archeological Museum of Seville is a museum in Seville, southern Spain, housed in the Pabellón del Renacimiento, one of the pavilions designed by the architect Aníbal González.",
+     "narration": "The Archeological Museum of Seville is a museum in Seville, southern Spain, housed in the Pabellón del Renacimiento, one of the pavilions designed by the architect Aníbal González. These pavilions at the Plaza de España were created for the Ibero-American Exposition of 1929.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Archeological Museum of Seville",
+     "url": "https://en.wikipedia.org/wiki/Archeological_Museum_of_Seville",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q637061",
+     "url": "https://www.wikidata.org/wiki/Q637061",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "monastery-of-santa-maria-de-las-cuevas",
+   "image": {
+    "file": "images/monastery-of-santa-maria-de-las-cuevas.jpg",
+    "author": "Anual",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_la_Cartuja_001.jpg"
+   },
+   "location": {
+    "latitude": 37.397810357,
+    "longitude": -6.00764744
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "modern"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Monastery of Santa Maria de las Cuevas",
+     "intro": "The Monastery of Santa María de las Cuevas, also known as the Monastery of the Cartuja, is a religious building on the Isla de La Cartuja in Seville, southern Spain.",
+     "narration": "The Monastery of Santa María de las Cuevas, also known as the Monastery of the Cartuja, is a religious building on the Isla de La Cartuja in Seville, southern Spain. The Andalusian Contemporary Art Center is now located on this site.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Monastery of Santa Maria de las Cuevas",
+     "url": "https://en.wikipedia.org/wiki/Monastery_of_Santa_Maria_de_las_Cuevas",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q97641872",
+     "url": "https://www.wikidata.org/wiki/Q97641872",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "isla-magica",
+   "image": {
+    "file": "images/isla-magica.jpg",
+    "author": "CarlosVdeHabsburgo",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrada_a_Isla_M%C3%A1gica.JPG"
+   },
+   "location": {
+    "latitude": 37.40833,
+    "longitude": -6.00028
+   },
+   "category": "park",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 8,
+   "tags": [
+    "hidden",
+    "park",
+    "scenic"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Isla Mágica",
+     "intro": "Isla Mágica is a theme park at the Isla de La Cartuja, in Seville, Andalusia in Spain.",
+     "narration": "Isla Mágica is a theme park at the Isla de La Cartuja, in Seville, Andalusia in Spain. The park has six themed areas and a water park called Agua Mágica. The theme was built after the Expo '92 Universal Exhibition on part of the grounds where it was held. Initially called Cartuja, El parque de los descubrimientos, the theme park was later redesigned and it reopened as Isla Mágica on 28 June 1997. On 28 June 2014, the Agua Mágica water park was opened. It features a large lake and many other attractions including roller coasters and various other types of rides as well as both live and cinematic shows.",
+     "longDescription": "Isla Mágica is a theme park at the Isla de La Cartuja, in Seville, Andalusia in Spain. The park has six themed areas and a water park called Agua Mágica. The theme was built after the Expo '92 Universal Exhibition on part of the grounds where it was held. Initially called Cartuja, El parque de los descubrimientos, the theme park was later redesigned and it reopened as Isla Mágica on 28 June 1997. On 28 June 2014, the Agua Mágica water park was opened. It features a large lake and many other attractions including roller coasters and various other types of rides as well as both live and cinematic shows. The park's slogan is \"Diversión sin límites\" which translates as \"Fun without Limits\".",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Isla Mágica",
+     "url": "https://en.wikipedia.org/wiki/Isla_M%C3%A1gica",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2961111",
+     "url": "https://www.wikidata.org/wiki/Q2961111",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "nervion-seville",
+   "image": {
+    "file": "images/nervion-seville.jpg",
+    "author": "CarlosVdeHabsburgo",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cl%C3%ADnica_Mallen.jpg"
+   },
+   "location": {
+    "latitude": 37.3856,
+    "longitude": -5.97258
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 23,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Nervión, Seville",
+     "intro": "Nervión is a district of Seville, Spain.",
+     "narration": "Nervión is a district of Seville, Spain. It lies to the east of the city centre, to the north of the Distrito Sur, to the south of San Pablo-Santa Justa and to the west of Cerro-Amate. The district is an important commercial district of the city, where much of the regional capital's business takes place. The population is 16,129 inhabitants.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Nervión, Seville",
+     "url": "https://en.wikipedia.org/wiki/Nervi%C3%B3n%2C_Seville",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q6996895",
+     "url": "https://www.wikidata.org/wiki/Q6996895",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "castle-of-san-jorge",
+   "image": {
+    "file": "images/castle-of-san-jorge.jpg",
+    "author": "CarlosVdeHabsburgo",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castillo_de_San_Jorge_de_Sevilla.JPG"
+   },
+   "location": {
+    "latitude": 37.3856105,
+    "longitude": -6.003561196
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 6,
+   "tags": [
+    "food",
+    "hidden",
+    "historic",
+    "medieval",
+    "monument",
+    "river"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Castle of San Jorge",
+     "intro": "The Castle of San Jorge was a medieval fortress built on the west bank of the Guadalquivir river in the Spanish city of Seville.",
+     "narration": "The Castle of San Jorge was a medieval fortress built on the west bank of the Guadalquivir river in the Spanish city of Seville. It was also used as headquarters and prison for the Spanish Inquisition. It was demolished in the 19th century and made into a food market. A museum in the underground ruins focuses on the history of the castle, the Spanish Inquisition and of religious repression. Next to the food market in the Barrio de Triana, the Alley of the Inquisition, which was part of the fortifications, now connects Castilla Street with the Nuestra Señora de la O Walk.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Castle of San Jorge",
+     "url": "https://en.wikipedia.org/wiki/Castle_of_San_Jorge",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5757560",
+     "url": "https://www.wikidata.org/wiki/Q5757560",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "hospital-de-los-venerables",
+   "image": {
+    "file": "images/hospital-de-los-venerables.jpg",
+    "author": "Anual",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hospital_Venerables_001.jpg"
+   },
+   "location": {
+    "latitude": 37.385238245,
+    "longitude": -5.990111257
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 23,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "baroque",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Hospital de los Venerables",
+     "intro": "The Hospital de los Venerables of Seville, Spain, is a baroque 17th-century building which served as a residence for priests.",
+     "narration": "The Hospital de los Venerables of Seville, Spain, is a baroque 17th-century building which served as a residence for priests. It currently houses the Velázquez Center, dedicated to the famous painter Diego Velázquez. It is located in the Plaza de los Venerables, in the center of the Barrio de Santa Cruz and close to the Murillo Gardens, the Seville Cathedral and Alcázar.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Hospital de los Venerables",
+     "url": "https://en.wikipedia.org/wiki/Hospital_de_los_Venerables",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q97639944",
+     "url": "https://www.wikidata.org/wiki/Q97639944",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "royal-shipyards-of-seville",
+   "image": {
+    "file": "images/royal-shipyards-of-seville.jpg",
+    "author": "Anual",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atarazanas_2025_003.jpg"
+   },
+   "location": {
+    "latitude": 37.384663296,
+    "longitude": -5.995461498
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 28,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "medieval",
+    "monument",
+    "river"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Royal Shipyards of Seville",
+     "intro": "The Seville Shipyard is a medieval shipyard in the city of Seville that operated from the 13th to the 15th century.",
+     "narration": "The Seville Shipyard is a medieval shipyard in the city of Seville that operated from the 13th to the 15th century. Composed of seventeen naves, the building was connected to the Guadalquivir River by a stretch of sand. On March 13, 1969, the State gave Monumento Histórico Artístico status to the Shipyards, and on June 18, 1985, the Maestranza de Artillería de Sevilla was added to the Bien de Interés Cultural category of monuments.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Royal Shipyards of Seville",
+     "url": "https://en.wikipedia.org/wiki/Royal_Shipyards_of_Seville",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5710444",
+     "url": "https://www.wikidata.org/wiki/Q5710444",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "hospital-de-la-caridad-seville",
+   "image": {
+    "file": "images/hospital-de-la-caridad-seville.jpg",
+    "author": "Anual",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fachada_del_Hospital_de_la_Caridad.jpg"
+   },
+   "location": {
+    "latitude": 37.383996643,
+    "longitude": -5.995387293
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 30,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "baroque",
+    "church",
+    "hidden",
+    "historic",
+    "roman"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Hospital de la Caridad (Seville)",
+     "intro": "The Hospital de la Caridad is a Roman Catholic baroque charity hospital building near Plaza de toros de la Real Maestranza de Caballería de Sevilla in Spain.",
+     "narration": "The Hospital de la Caridad is a Roman Catholic baroque charity hospital building near Plaza de toros de la Real Maestranza de Caballería de Sevilla in Spain. The hospital is dedicated to the Blessed Virgin Mary under the venerated title of Our Lady of Charity, where a venerated 15th—century image is enshrined within the Church of Saint George of Lydda within the hospital property. The charity hospital was founded in 1674, and still cares for the aged and infirm.",
+     "longDescription": "The Hospital de la Caridad is a Roman Catholic baroque charity hospital building near Plaza de toros de la Real Maestranza de Caballería de Sevilla in Spain. The hospital is dedicated to the Blessed Virgin Mary under the venerated title of Our Lady of Charity, where a venerated 15th—century image is enshrined within the Church of Saint George of Lydda within the hospital property. The charity hospital was founded in 1674, and still cares for the aged and infirm. The hospital's chapel is open to the public and \"contains some of Seville's most sumptuous baroque sculpture.\" Bartolomé Esteban Murillo in 1668 painted eight paintings commissioned for Seville's Hermandad de la Caridad, to which the artist himself belonged and one of whose commandments was to clothe the naked. Four of those eight works remain in Seville: The Miracle of the Loaves and Fishes Moses at the Rock of Horeb Saint Elizabeth of Hungary Saint John of God Carrying a Sick Man Whereas, the other four works were looted by Napoleonic commander and Marechal Nicolas Jean-de-Dieu Soult in 1810.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Hospital de la Caridad (Seville)",
+     "url": "https://en.wikipedia.org/wiki/Hospital_de_la_Caridad_%28Seville%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q858907",
+     "url": "https://www.wikidata.org/wiki/Q858907",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palace-of-the-countess-of-lebrija",
+   "image": {
+    "file": "images/palace-of-the-countess-of-lebrija.jpg",
+    "author": null,
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SevillaPalacioDeLebrija01.JPG"
+   },
+   "location": {
+    "latitude": 37.392133443,
+    "longitude": -5.993823756
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "modern",
+    "moorish",
+    "roman"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Palace of the Countess of Lebrija",
+     "intro": "The Lebrija Palace or Palacio de la Condesa de Lebrija is a house museum in central Seville, Spain.",
+     "narration": "The Lebrija Palace or Palacio de la Condesa de Lebrija is a house museum in central Seville, Spain. Dating to the 16th century and remodeled between the 18th and 20th centuries, the palace is characterised by its collection of art, including Roman mosaics and other antiquities as well as Asian art, paintings by European masters and European decorative arts. The interior of the palace is decorated in a palette of architectural styles, with elements such as Moorish arches, Plateresque decoration, tilework retrieved from ruined convent, a coffered ceiling from a 16th-century palace and a Renaissance frieze, while its façade and layout reflect typical Andalusian style.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palace of the Countess of Lebrija",
+     "url": "https://en.wikipedia.org/wiki/Palace_of_the_Countess_of_Lebrija",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1064212",
+     "url": "https://www.wikidata.org/wiki/Q1064212",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "church-of-saint-louis-of-france",
+   "image": {
+    "file": "images/church-of-saint-louis-of-france.jpg",
+    "author": "jl FILPO",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Luis_de_los_Franceses.jpg"
+   },
+   "location": {
+    "latitude": 37.39838,
+    "longitude": -5.98831
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 28,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "baroque",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Church of Saint Louis of France",
+     "intro": "The Church of Saint Louis of France, located in the historic district of Seville, Spain, represents an example of Baroque architecture in the 18th century.",
+     "narration": "The Church of Saint Louis of France, located in the historic district of Seville, Spain, represents an example of Baroque architecture in the 18th century. The church was designed by the architect Leonardo of Figueroa and constructed between 1699 and 1731 on behalf of the Jesuits. Following the expulsion of the Jesuits from Spain in 1835, it had different uses and was eventually deconsecrated. The building currently belongs to the Provincial Council of Seville.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Church of Saint Louis of France",
+     "url": "https://en.wikipedia.org/wiki/Church_of_Saint_Louis_of_France",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q3582357",
+     "url": "https://www.wikidata.org/wiki/Q3582357",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "seville-city-hall",
+   "image": {
+    "file": "images/seville-city-hall.jpg",
+    "author": "Anual",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ayuntamiento_de_Sevilla_001.jpg"
+   },
+   "location": {
+    "latitude": 37.388611111,
+    "longitude": -5.994444444
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 25,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Seville City Hall",
+     "intro": "The Seville City Hall is a Plateresque-style building in Plaza Nueva in Seville, currently housing the City Council of Seville.",
+     "narration": "The Seville City Hall is a Plateresque-style building in Plaza Nueva in Seville, currently housing the City Council of Seville. The building has a large façade divided into five modules, decorated by Plateresque reliefs; these include grotesque motifs inspired by Italian Florentine architecture, heraldry symbols, allegories of Justice and Good Government and depictions of mythological or historical characters such as Hercules, Julius Caesar and Charles V.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Seville City Hall",
+     "url": "https://en.wikipedia.org/wiki/Seville_City_Hall",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5047899",
+     "url": "https://www.wikidata.org/wiki/Q5047899",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "santa-maria-magdalena-seville",
+   "image": {
+    "file": "images/santa-maria-magdalena-seville.jpg",
+    "author": "Anual",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_Magdalena_Sevilla_006.jpg"
+   },
+   "location": {
+    "latitude": 37.390548099,
+    "longitude": -5.998408305
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "baroque",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Santa María Magdalena, Seville",
+     "intro": "Santa María Magdalena is a Baroque church in Seville, southern Spain.",
+     "narration": "Santa María Magdalena is a Baroque church in Seville, southern Spain. It was built in 1691-1709 to a design of architect Leonardo de Figueroa. It is the seat of various hermandades.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Santa María Magdalena, Seville",
+     "url": "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_Magdalena%2C_Seville",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q7419759",
+     "url": "https://www.wikidata.org/wiki/Q7419759",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "plaza-de-san-francisco-seville",
+   "image": {
+    "file": "images/plaza-de-san-francisco-seville.jpg",
+    "author": "Anual",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_San_Francisco_(Sevilla)001.jpg"
+   },
+   "location": {
+    "latitude": 37.38853333,
+    "longitude": -5.99399167
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 22,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Plaza de San Francisco, Seville",
+     "intro": "Plaza de San Francisco is a square in the Casco Antiguo of Seville, Spain.",
+     "narration": "Plaza de San Francisco is a square in the Casco Antiguo of Seville, Spain. The Ayuntamiento, known as Casa consistorial de Sevilla, built in the 16th century, runs along the entire western side of the square. On the other side of the City Hall is the Plaza Nueva. Both plazas are connected to the Avenida de la Constitución.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Plaza de San Francisco, Seville",
+     "url": "https://en.wikipedia.org/wiki/Plaza_de_San_Francisco%2C_Seville",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2917864",
+     "url": "https://www.wikidata.org/wiki/Q2917864",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "church-of-santa-maria-la-blanca-seville",
+   "image": {
+    "file": "images/church-of-santa-maria-la-blanca-seville.jpg",
+    "author": "Anual",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Santa_Mar%C3%ADa_la_Blanca,_Sevilla.jpg"
+   },
+   "location": {
+    "latitude": 37.386479339,
+    "longitude": -5.987231068
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Church of Santa Maria la Blanca (Seville)",
+     "intro": "The Church of Santa María la Blanca is located in the San Bartolomé neighborhood of the district of Casco Antiguo in Seville.",
+     "narration": "The Church of Santa María la Blanca is located in the San Bartolomé neighborhood of the district of Casco Antiguo in Seville. It was built in the 17th century. It is the headquarters of the Brotherhood of the Rosary of Our Lady of the Snows.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Church of Santa Maria la Blanca (Seville)",
+     "url": "https://en.wikipedia.org/wiki/Church_of_Santa_Maria_la_Blanca_%28Seville%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5555137",
+     "url": "https://www.wikidata.org/wiki/Q5555137",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "plaza-de-armas-bus-station",
+   "image": {
+    "file": "images/plaza-de-armas-bus-station.jpg",
+    "author": "Gzzz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Estaci%C3%B3n_de_autobuses_Plaza_de_Armas_2.jpg"
+   },
+   "location": {
+    "latitude": 37.39189406,
+    "longitude": -6.003873038
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Plaza de Armas (bus station)",
+     "intro": "Plaza de Armas is an international bus station of the city of Seville.",
+     "narration": "Plaza de Armas is an international bus station of the city of Seville. It is located at the intersection of the avenue Cristo de la Expiración and Torneo St., in the district of Casco Antiguo. It was opened in 1992.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Plaza de Armas (bus station)",
+     "url": "https://en.wikipedia.org/wiki/Plaza_de_Armas_%28bus_station%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q277100",
+     "url": "https://www.wikidata.org/wiki/Q277100",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "el-arenal-seville",
+   "image": {
+    "file": "images/el-arenal-seville.jpg",
+    "author": "Ввласенко",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Guadalquivir_embankment_in_Seville._Spain.jpg"
+   },
+   "location": {
+    "latitude": 37.385,
+    "longitude": -5.99733
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood",
+    "river"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "El Arenal, Seville",
+     "intro": "El Arenal is a neighbourhood in the historical centre of Seville, the Casco Antiguo.",
+     "narration": "El Arenal is a neighbourhood in the historical centre of Seville, the Casco Antiguo. It lies on the east bank of the Guadalquivir river to the west of the old Jewish Quarter, Santa Cruz, and south of the neighbourhoods of Museo and Alfalfa. Its name comes from the sandy nature that this east bank of the river once used to have. El Arenal has a history characterised by its former position as the port of Seville, until river silting forced the city to relocate the port to the southern edge of the city in the 17th century.",
+     "longDescription": "El Arenal is a neighbourhood in the historical centre of Seville, the Casco Antiguo. It lies on the east bank of the Guadalquivir river to the west of the old Jewish Quarter, Santa Cruz, and south of the neighbourhoods of Museo and Alfalfa. Its name comes from the sandy nature that this east bank of the river once used to have. El Arenal has a history characterised by its former position as the port of Seville, until river silting forced the city to relocate the port to the southern edge of the city in the 17th century. In the 16th century, the district called El Compás de Arenal, El Compás, or El Arenal was smaller than that of today and lay between the city walls and the river between the Puerta del Arenal, and the Puerta del Triana gates. A low-lying, sandy area, it was the main home of the Sevillan underworld, and the site of the notorious brothel, El Compás from where the other part of its name derived. Some of the historical sites in the current neighbourhood are: The Torre del Oro, 13th Century Moorish watchtower The Reales Atarazanas, the Royal Shipyards La Real Maestranza, Seville's bullring and the second most important in Spain, after the Plaza de \"Las Ventas\" in Madrid",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: El Arenal, Seville",
+     "url": "https://en.wikipedia.org/wiki/El_Arenal%2C_Seville",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5350769",
+     "url": "https://www.wikidata.org/wiki/Q5350769",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "alameda-de-hercules",
+   "image": {
+    "file": "images/alameda-de-hercules.jpg",
+    "author": "Michiel1972",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alameda_de_H%C3%A9rcules_-_March_2011.jpg"
+   },
+   "location": {
+    "latitude": 37.3986,
+    "longitude": -5.99381
+   },
+   "category": "street",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 26,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "river",
+    "street"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Alameda de Hércules",
+     "intro": "The Alameda de Hércules, or simply La Alameda, is a garden square or mall in Seville, southern Spain.",
+     "narration": "The Alameda de Hércules, or simply La Alameda, is a garden square or mall in Seville, southern Spain. Built in 1574, it was originally a promenaded public garden, named after the eight rows of white poplar trees that fill its central part. Located in the northern half of the city's casco antiguo, between the Guadalquivir River and the Macarena neighbourhood, it was the oldest public garden in Spain and Europe.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Alameda de Hércules",
+     "url": "https://en.wikipedia.org/wiki/Alameda_de_H%C3%A9rcules",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2215281",
+     "url": "https://www.wikidata.org/wiki/Q2215281",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "canos-de-carmona",
+   "image": {
+    "file": "images/canos-de-carmona.jpg",
+    "author": "Lobillo",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:CanosCarmona3.JPG"
+   },
+   "location": {
+    "latitude": 37.388313888,
+    "longitude": -5.982619444
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument",
+    "roman"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Caños de Carmona",
+     "intro": "The Caños de Carmona is a Roman aqueduct built during the first century BC to supply water from a spring in the ancient Roman city of Irippo –current Alcalá de Guadaíra– to the ancient Roman city of Hispalis –current…",
+     "narration": "The Caños de Carmona is a Roman aqueduct built during the first century BC to supply water from a spring in the ancient Roman city of Irippo –current Alcalá de Guadaíra– to the ancient Roman city of Hispalis –current Seville–, both in the ancient Roman province of Hispania Ulterior –current Spain–. It was later renovated and partially re-built in the twelfth century by the Almohads and it was fully operational until its demolition in 1912. Some sections survived the demolition and remain standing today. The aqueduct was originally 17.5 kilometres long and was primary constructed from bricks.",
+     "longDescription": "The Caños de Carmona is a Roman aqueduct built during the first century BC to supply water from a spring in the ancient Roman city of Irippo –current Alcalá de Guadaíra– to the ancient Roman city of Hispalis –current Seville–, both in the ancient Roman province of Hispania Ulterior –current Spain–. It was later renovated and partially re-built in the twelfth century by the Almohads and it was fully operational until its demolition in 1912. Some sections survived the demolition and remain standing today. The aqueduct was originally 17.5 kilometres long and was primary constructed from bricks. It consisted of underground pipe sections and elevated sections of, approximately in total, 400 arches standing on pillars, with additional upper arcade sections in some places. It is believed to be the only example of this type of Roman construction in Spain.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Caños de Carmona",
+     "url": "https://en.wikipedia.org/wiki/Ca%C3%B1os_de_Carmona",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5759632",
+     "url": "https://www.wikidata.org/wiki/Q5759632",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "buhaira-gardens",
+   "image": {
+    "file": "images/buhaira-gardens.jpg",
+    "author": "888pablo888",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_de_la_Buhaira,_fachada_principal.jpg"
+   },
+   "location": {
+    "latitude": 37.38237828,
+    "longitude": -5.978875648
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 22,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Seville",
+   "content": {
+    "en": {
+     "name": "Buhaira Gardens",
+     "intro": "The Buhaira Gardens, also known as the Buhaira Palace or the Buḥayra, is a former Almohad garden and palace in Seville, Spain.",
+     "narration": "The Buhaira Gardens, also known as the Buhaira Palace or the Buḥayra, is a former Almohad garden and palace in Seville, Spain. It was created in the 12th century. After the Reconquista it was also known in Spanish as the Huerta del Rey or Huerta Dabenahofar in its later history. It is now a public park and historic site.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Buhaira Gardens",
+     "url": "https://en.wikipedia.org/wiki/Buhaira_Gardens",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q97688649",
+     "url": "https://www.wikidata.org/wiki/Q97688649",
+     "license": "CC0"
+    }
+   ]
+  }
+ ]
+}

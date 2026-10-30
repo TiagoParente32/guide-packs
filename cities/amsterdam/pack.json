@@ -1,0 +1,2309 @@
+{
+ "format": 1,
+ "city": {
+  "id": "amsterdam",
+  "name": "Amsterdam",
+  "country": "Netherlands",
+  "center": {
+   "latitude": 52.3730796,
+   "longitude": 4.8924534
+  },
+  "bounds": {
+   "south": 52.2781742,
+   "north": 52.4310638,
+   "west": 4.7287776,
+   "east": 5.0791622
+  },
+  "languages": [
+   "en"
+  ],
+  "quality": "generated",
+  "placeCount": 45,
+  "version": 1,
+  "hero": {
+   "file": "images/de-wallen.jpg",
+   "author": "Rungbachduong",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:De_Wallen.JPG"
+  },
+  "packUrl": "cities/amsterdam/pack.json",
+  "generatedAt": "2026-10-30T14:53:12Z"
+ },
+ "pois": [
+  {
+   "id": "de-wallen",
+   "image": {
+    "file": "images/de-wallen.jpg",
+    "author": "Rungbachduong",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:De_Wallen.JPG"
+   },
+   "location": {
+    "latitude": 52.373416666,
+    "longitude": 4.898055555
+   },
+   "category": "neighbourhood",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "iconic",
+    "neighbourhood"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "De Wallen",
+     "intro": "De Wallen is the largest and best known red-light district in Amsterdam.",
+     "narration": "De Wallen is the largest and best known red-light district in Amsterdam. It consists of a network of alleys containing approximately 300 one-room cabins rented by prostitutes who offer their sexual services from behind a window or glass door, typically illuminated with red lights and blacklight. Window prostitution is the most visible and typical kind of red-light district sex work in Amsterdam. De Wallen, together with prostitution areas Singelgebied and Ruysdaelkade, form the Rosse Buurt of Amsterdam. Of these, De Wallen is the oldest and largest area. It is one of the city's major tourist attractions.",
+     "longDescription": "De Wallen is the largest and best known red-light district in Amsterdam. It consists of a network of alleys containing approximately 300 one-room cabins rented by prostitutes who offer their sexual services from behind a window or glass door, typically illuminated with red lights and blacklight. Window prostitution is the most visible and typical kind of red-light district sex work in Amsterdam. De Wallen, together with prostitution areas Singelgebied and Ruysdaelkade, form the Rosse Buurt of Amsterdam. Of these, De Wallen is the oldest and largest area. It is one of the city's major tourist attractions. Thursday through Sunday access to De Wallen is restricted at 1:00 am, with bars and restaurants closing at 2:00 am and brothels at 3:00 am. The area also has a number of sex shops, sex theatres, peep shows, a sex museum, a cannabis museum, and a number of coffeeshops that sell cannabis.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: De Wallen",
+     "url": "https://en.wikipedia.org/wiki/De_Wallen",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q447664",
+     "url": "https://www.wikidata.org/wiki/Q447664",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "dam-square",
+   "image": {
+    "file": "images/dam-square.jpg",
+    "author": "Sneeuwvlakte",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Dak_van_de_Stad_(14).jpg"
+   },
+   "location": {
+    "latitude": 52.373055555,
+    "longitude": 4.892777777
+   },
+   "category": "square",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Dam Square",
+     "intro": "Dam Square, also known as the Dam, is a town square in Amsterdam, the capital and most populous city of the Netherlands.",
+     "narration": "Dam Square, also known as the Dam, is a town square in Amsterdam, the capital and most populous city of the Netherlands. Its notable buildings and frequent events make it one of the best-known and most important locations in the city and the country.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Dam Square",
+     "url": "https://en.wikipedia.org/wiki/Dam_Square",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q839050",
+     "url": "https://www.wikidata.org/wiki/Q839050",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "anne-frank-house",
+   "image": {
+    "file": "images/anne-frank-house.jpg",
+    "author": "Jose A.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_(Paises_Bajos)_(15316045410).jpg"
+   },
+   "location": {
+    "latitude": 52.3751472,
+    "longitude": 4.8840398
+   },
+   "category": "monument",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Anne Frank House",
+     "intro": "The Anne Frank House is a writer's house and biographical museum dedicated to Jewish wartime diarist Anne Frank.",
+     "narration": "The Anne Frank House is a writer's house and biographical museum dedicated to Jewish wartime diarist Anne Frank. The building is located on the Prinsengracht, close to the Westerkerk, in central Amsterdam in the Netherlands. During World War II, when the Netherlands was occupied by Germany, Anne Frank hid from Nazi persecution with her family and four other people in hidden rooms, in the rear building, of the 17th-century canal house, later known as the Secret Annex. She did not survive the war but her wartime diary was published in 1947. Ten years later, the Anne Frank Foundation was established to protect the property from developers who wanted to demolish the block.",
+     "longDescription": "The Anne Frank House is a writer's house and biographical museum dedicated to Jewish wartime diarist Anne Frank. The building is located on the Prinsengracht, close to the Westerkerk, in central Amsterdam in the Netherlands. During World War II, when the Netherlands was occupied by Germany, Anne Frank hid from Nazi persecution with her family and four other people in hidden rooms, in the rear building, of the 17th-century canal house, later known as the Secret Annex. She did not survive the war but her wartime diary was published in 1947. Ten years later, the Anne Frank Foundation was established to protect the property from developers who wanted to demolish the block. The entire museum, which occupies the three adjacent buildings on the street front of Prinsengracht 263 to 267, opened on 3 May 1960. It preserves the hiding place, with the other buildings expanding the permanent exhibition on the life and times of Anne Frank, and has an exhibition space about all forms of persecution and discrimination. In 2017, the museum had 1.27 million visitors and was the third most visited museum in the Netherlands, after the Van Gogh Museum and the Rijksmuseum.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Anne Frank House",
+     "url": "https://en.wikipedia.org/wiki/Anne_Frank_House",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q165366",
+     "url": "https://www.wikidata.org/wiki/Q165366",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "royal-palace-of-amsterdam",
+   "image": {
+    "file": "images/royal-palace-of-amsterdam.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_Real,_%C3%81msterdam,_Pa%C3%ADses_Bajos,_2016-05-30,_DD_07-09_HDR.jpg"
+   },
+   "location": {
+    "latitude": 52.373166666,
+    "longitude": 4.891361111
+   },
+   "category": "architecture",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Royal Palace of Amsterdam",
+     "intro": "The Royal Palace of Amsterdam in Amsterdam is one of three palaces in the Netherlands which are at the disposal of the monarch by Act of Parliament.",
+     "narration": "The Royal Palace of Amsterdam in Amsterdam is one of three palaces in the Netherlands which are at the disposal of the monarch by Act of Parliament. It is situated on the west side of Dam Square in the centre of Amsterdam, opposite the War Memorial and next to the Nieuwe Kerk. The palace was originally built in the mid-seventeenth century as the new city hall for the city of Amsterdam, and only became a royal palace in 1808 when the Netherlands were part of the First French Republic and First Empire under Napoleon Bonaparte.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Royal Palace of Amsterdam",
+     "url": "https://en.wikipedia.org/wiki/Royal_Palace_of_Amsterdam",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1056152",
+     "url": "https://www.wikidata.org/wiki/Q1056152",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "rijksmuseum",
+   "image": {
+    "file": "images/rijksmuseum.jpg",
+    "author": "Marco Almbauer",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rijksmuseum_in_Amsterdam.jpg"
+   },
+   "location": {
+    "latitude": 52.36,
+    "longitude": 4.885277777
+   },
+   "category": "museum",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "museum"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Rijksmuseum",
+     "intro": "The Rijksmuseum is the national museum of the Netherlands dedicated to Dutch arts and history, located at the Museum Square in the borough of Amsterdam South, close to the Van Gogh Museum, the Stedelijk Museum…",
+     "narration": "The Rijksmuseum is the national museum of the Netherlands dedicated to Dutch arts and history, located at the Museum Square in the borough of Amsterdam South, close to the Van Gogh Museum, the Stedelijk Museum Amsterdam, and the Royal Concertgebouw. The Rijksmuseum was founded in The Hague on 19 November 1798 and moved to Amsterdam in 1808, where it was first located in the Royal Palace and later in the Trippenhuis. The current main building was designed by Pierre Cuypers and first opened in 1885. On 13 April 2013, after a ten-year renovation which cost €375 million, the main building was reopened by Queen Beatrix.",
+     "longDescription": "The Rijksmuseum is the national museum of the Netherlands dedicated to Dutch arts and history, located at the Museum Square in the borough of Amsterdam South, close to the Van Gogh Museum, the Stedelijk Museum Amsterdam, and the Royal Concertgebouw. The Rijksmuseum was founded in The Hague on 19 November 1798 and moved to Amsterdam in 1808, where it was first located in the Royal Palace and later in the Trippenhuis. The current main building was designed by Pierre Cuypers and first opened in 1885. On 13 April 2013, after a ten-year renovation which cost €375 million, the main building was reopened by Queen Beatrix. In 2013 and 2014, it was the most visited museum in the Netherlands with record numbers of 2.2 million and 2.47 million visitors. It is also the largest art museum in the country. The museum has on display 8,000 objects of art and history, from their total collection of one million objects from the years 1200–2000, among which are some masterpieces by Rembrandt, Frans Hals, and Johannes Vermeer. The museum also has a small Asian collection, which is on display in the Asian pavilion.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Rijksmuseum",
+     "url": "https://en.wikipedia.org/wiki/Rijksmuseum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q190804",
+     "url": "https://www.wikidata.org/wiki/Q190804",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "concertgebouw-amsterdam",
+   "image": {
+    "file": "images/concertgebouw-amsterdam.jpg",
+    "author": "yisris",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Concertgebouw_in_Amsterdam_April_2015.jpg"
+   },
+   "location": {
+    "latitude": 52.356305555,
+    "longitude": 4.879083333
+   },
+   "category": "architecture",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 31,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Concertgebouw, Amsterdam",
+     "intro": "The Royal Concertgebouw is a concert hall in Amsterdam, Netherlands.",
+     "narration": "The Royal Concertgebouw is a concert hall in Amsterdam, Netherlands. The Dutch term \"concertgebouw\" translates into English as \"concert building\". Its superb acoustics place it among the finest concert halls in the world, along with New York's Carnegie Hall, Boston's Symphony Hall and the Musikverein in Vienna. In celebration of the building's 125th anniversary, Queen Beatrix bestowed the royal title \"Koninklijk\" upon the building on 11 April 2013, as she had on the Royal Concertgebouw Orchestra upon its 100th in 1988.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Concertgebouw, Amsterdam",
+     "url": "https://en.wikipedia.org/wiki/Concertgebouw%2C_Amsterdam",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q849957",
+     "url": "https://www.wikidata.org/wiki/Q849957",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "vondelpark",
+   "image": {
+    "file": "images/vondelpark.jpg",
+    "author": "Dguendel",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam,_Vondelpark,_at_the_pond-2.jpg"
+   },
+   "location": {
+    "latitude": 52.356944444,
+    "longitude": 4.866388888
+   },
+   "category": "park",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 29,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "historic",
+    "iconic",
+    "park",
+    "scenic"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Vondelpark",
+     "intro": "The Vondelpark is a public urban park of 47 hectares in Amsterdam, Netherlands.",
+     "narration": "The Vondelpark is a public urban park of 47 hectares in Amsterdam, Netherlands. It is part of the borough of Amsterdam-Zuid and situated west from the Leidseplein and the Museumplein. The park was opened in 1865 and originally named Nieuwe Park, but later renamed Vondelpark, after the 17th-century playwright and poet Joost van den Vondel. The park has around 10 million visitors annually. Within the park is an open-air theatre, a playground and several food service facilities.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Vondelpark",
+     "url": "https://en.wikipedia.org/wiki/Vondelpark",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1419691",
+     "url": "https://www.wikidata.org/wiki/Q1419691",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "westerkerk",
+   "image": {
+    "file": "images/westerkerk.jpg",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Westerkerk_--_2015_--_7186.jpg"
+   },
+   "location": {
+    "latitude": 52.3745,
+    "longitude": 4.8839
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Westerkerk",
+     "intro": "The Westerkerk is a Reformed church within Dutch Protestant Calvinism in central Amsterdam, Netherlands.",
+     "narration": "The Westerkerk is a Reformed church within Dutch Protestant Calvinism in central Amsterdam, Netherlands. It lies in the most western part of the Grachtengordel neighborhood, next to the Jordaan, between the Prinsengracht and Keizersgracht.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Westerkerk",
+     "url": "https://en.wikipedia.org/wiki/Westerkerk",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1130722",
+     "url": "https://www.wikidata.org/wiki/Q1130722",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "van-gogh-museum",
+   "image": {
+    "file": "images/van-gogh-museum.jpg",
+    "author": "Warrox",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Van_Gogh_Museum.jpg"
+   },
+   "location": {
+    "latitude": 52.358333333,
+    "longitude": 4.881111111
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "iconic",
+    "museum"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Van Gogh Museum",
+     "intro": "The Van Gogh Museum is a Dutch art museum dedicated to the works of Vincent van Gogh and his contemporaries in the Museum Square in Amsterdam South, close to the Stedelijk Museum, the Rijksmuseum, and the Concertgebouw.",
+     "narration": "The Van Gogh Museum is a Dutch art museum dedicated to the works of Vincent van Gogh and his contemporaries in the Museum Square in Amsterdam South, close to the Stedelijk Museum, the Rijksmuseum, and the Concertgebouw. The museum opened on 2 June 1973, and its buildings were designed by Gerrit Rietveld and Kisho Kurokawa. The museum contains the largest collection of Van Gogh's paintings and drawings in the world. In 2017, the museum had 2.3 million visitors and was the most-visited museum in the Netherlands, and the 23rd-most-visited art museum in the world.",
+     "longDescription": "The Van Gogh Museum is a Dutch art museum dedicated to the works of Vincent van Gogh and his contemporaries in the Museum Square in Amsterdam South, close to the Stedelijk Museum, the Rijksmuseum, and the Concertgebouw. The museum opened on 2 June 1973, and its buildings were designed by Gerrit Rietveld and Kisho Kurokawa. The museum contains the largest collection of Van Gogh's paintings and drawings in the world. In 2017, the museum had 2.3 million visitors and was the most-visited museum in the Netherlands, and the 23rd-most-visited art museum in the world. In 2019, the Van Gogh Museum launched the Meet Vincent Van Gogh Experience, a technology-driven \"immersive exhibition\" on Van Gogh's life and works, which has toured globally.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Van Gogh Museum",
+     "url": "https://en.wikipedia.org/wiki/Van_Gogh_Museum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q224124",
+     "url": "https://www.wikidata.org/wiki/Q224124",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "stelling-van-amsterdam",
+   "image": {
+    "file": "images/stelling-van-amsterdam.jpg",
+    "author": "HenkvD",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_bij_Spijkerboor_bovenzijde_geschutskoepel.JPG"
+   },
+   "location": {
+    "latitude": 52.374444444,
+    "longitude": 4.893055555
+   },
+   "category": "monument",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument"
+   ],
+   "area": "Utrecht",
+   "content": {
+    "en": {
+     "name": "Stelling van Amsterdam",
+     "intro": "The Stelling van Amsterdam is a 135-kilometre fortification line around Amsterdam, which would function as a national redoubt.",
+     "narration": "The Stelling van Amsterdam is a 135-kilometre fortification line around Amsterdam, which would function as a national redoubt. It comprises 45 forts, as well as dams, dikes, locks, pumping stations, batteries and casemates. The forts are 10–15 kilometres from the centre and lowlands, which can easily be inundated in time of war. The inundation was designed to give a depth of about 30 centimetres, too little for boats to cross. Any buildings within 1 kilometre of the line had to be made of wood so that they could be burnt and the obstruction removed. The Stelling van Amsterdam was constructed between 1880 and 1920.",
+     "longDescription": "The Stelling van Amsterdam is a 135-kilometre fortification line around Amsterdam, which would function as a national redoubt. It comprises 45 forts, as well as dams, dikes, locks, pumping stations, batteries and casemates. The forts are 10–15 kilometres from the centre and lowlands, which can easily be inundated in time of war. The inundation was designed to give a depth of about 30 centimetres, too little for boats to cross. Any buildings within 1 kilometre of the line had to be made of wood so that they could be burnt and the obstruction removed. The Stelling van Amsterdam was constructed between 1880 and 1920. The Stelling was mobilised and partially inundated during the First World War, but the Netherlands remained neutral and was not invaded. In 1922, the Stelling became part of the Fortress Holland. The north side of the Stelling was inundated when Germany invaded in 1940 at the start of the Second World War, but the Netherlands capitulated before the Germans reached the Stelling. It is part of the UNESCO World Heritage Site Dutch Water Defence Lines.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Stelling van Amsterdam",
+     "url": "https://en.wikipedia.org/wiki/Stelling_van_Amsterdam",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q855003",
+     "url": "https://www.wikidata.org/wiki/Q855003",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "oude-kerk-amsterdam",
+   "image": {
+    "file": "images/oude-kerk-amsterdam.jpg",
+    "author": "No machine-readable author provided. Dave1980~commonswiki assumed (based on copyright claims).",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_oude_kerk2.jpg"
+   },
+   "location": {
+    "latitude": 52.374167,
+    "longitude": 4.898056
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 34,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "modern",
+    "roman"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Oude Kerk, Amsterdam",
+     "intro": "The Oude Kerk is a Reformed church in Amsterdam, Netherlands, being the oldest parish church in the city.",
+     "narration": "The Oude Kerk is a Reformed church in Amsterdam, Netherlands, being the oldest parish church in the city. The oldest structure in Amsterdam, the building was founded around 1213 and consecrated in 1306 as a Roman Catholic church by the bishop of Utrecht with Saint Nicolas as its patron saint. After the Reformation in 1578, it became a Reformed church, which it remains today. It is located in De Wallen and since 2012, the church has also housed contemporary art exhibitions. The square surrounding the church is the Oudekerksplein.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Oude Kerk, Amsterdam",
+     "url": "https://en.wikipedia.org/wiki/Oude_Kerk%2C_Amsterdam",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q623558",
+     "url": "https://www.wikidata.org/wiki/Q623558",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "rembrandt-house-museum",
+   "image": {
+    "file": "images/rembrandt-house-museum.jpg",
+    "author": "14:43, 17 October 2006",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rembrandshuis.jpg"
+   },
+   "location": {
+    "latitude": 52.369444,
+    "longitude": 4.901389
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "museum"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Rembrandt House Museum",
+     "intro": "The Rembrandt House Museum is a museum located in a former house in the Jodenbreestraat, in the center of Amsterdam.",
+     "narration": "The Rembrandt House Museum is a museum located in a former house in the Jodenbreestraat, in the center of Amsterdam. Between 1639 and 1658, the house was occupied by the Dutch painter Rembrandt van Rijn, who also had his studio and art dealership there. The museum now includes the house next door, which has the museum shop and more conventional gallery spaces. The house was built around 1606 and was renovated around 1627, probably under the supervision of Jacob van Campen. It was then given an extra floor and a new facade with a triangular pediment. Rembrandt bought it on 5 January 1639 for thirteen thousand guilders.",
+     "longDescription": "The Rembrandt House Museum is a museum located in a former house in the Jodenbreestraat, in the center of Amsterdam. Between 1639 and 1658, the house was occupied by the Dutch painter Rembrandt van Rijn, who also had his studio and art dealership there. The museum now includes the house next door, which has the museum shop and more conventional gallery spaces. The house was built around 1606 and was renovated around 1627, probably under the supervision of Jacob van Campen. It was then given an extra floor and a new facade with a triangular pediment. Rembrandt bought it on 5 January 1639 for thirteen thousand guilders. After his bankruptcy it was auctioned in 1658 and sold for eleven thousand guilders. In the following centuries it was used as a residence and was renovated several times. At the beginning of the 20th century, the building was in poor condition, and on the occasion of the Rembrandt Year in 1906, it was purchased in 1907 by the municipality of Amsterdam, which donated it to the Rembrandthuis foundation. Between 1907 and 1911 the house was restored by Karel de Bazel. The museum was opened on 10 June 1911. Queen Wilhelmina and Prince Hendrik were the first visitors. The Rembrandt House Museum owes its foundation to an initiative by the painter Jozef Israëls. Since 2008, the museum had around 200,000 visitors per year, with a record number of over 280,000 visitors in 2019.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Rembrandt House Museum",
+     "url": "https://en.wikipedia.org/wiki/Rembrandt_House_Museum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q277316",
+     "url": "https://www.wikidata.org/wiki/Q277316",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "grachtengordel",
+   "image": {
+    "file": "images/grachtengordel.jpg",
+    "author": "Andrés Barrios",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imagen_de_los_canales_conc%C3%A9ntricos_en_%C3%81msterdam.png"
+   },
+   "location": {
+    "latitude": 52.366388888,
+    "longitude": 4.885833333
+   },
+   "category": "neighbourhood",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "historic",
+    "iconic",
+    "neighbourhood"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Grachtengordel",
+     "intro": "The Grachtengordel, known in English as the Canal District, is a neighborhood in Amsterdam, Netherlands located in the Centrum district.",
+     "narration": "The Grachtengordel, known in English as the Canal District, is a neighborhood in Amsterdam, Netherlands located in the Centrum district. The seventeenth-century canals of Amsterdam, located in the center of Amsterdam, were added to the UNESCO World Heritage List in August 2010. The Amsterdam Canal District consists of the area around the city's four main canals: the Singel, the Herengracht, the Keizersgracht, and the Prinsengracht. From the Brouwersgracht, the canals are generally parallel with one another, leading gradually southeast into the Amstel river. Many of the canal houses in the Amsterdam Canal District are from the Dutch Golden Age, 17th century.",
+     "longDescription": "The Grachtengordel, known in English as the Canal District, is a neighborhood in Amsterdam, Netherlands located in the Centrum district. The seventeenth-century canals of Amsterdam, located in the center of Amsterdam, were added to the UNESCO World Heritage List in August 2010. The Amsterdam Canal District consists of the area around the city's four main canals: the Singel, the Herengracht, the Keizersgracht, and the Prinsengracht. From the Brouwersgracht, the canals are generally parallel with one another, leading gradually southeast into the Amstel river. Many of the canal houses in the Amsterdam Canal District are from the Dutch Golden Age, 17th century. Many of these buildings, however, underwent restoration or reconstruction in various centuries, meaning that the buildings display many different architectural styles and facades.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Grachtengordel",
+     "url": "https://en.wikipedia.org/wiki/Grachtengordel",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q478707",
+     "url": "https://www.wikidata.org/wiki/Q478707",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "nieuwe-kerk-amsterdam",
+   "image": {
+    "file": "images/nieuwe-kerk-amsterdam.jpg",
+    "author": "C messier",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nieuwe_Kerk_2610.jpg"
+   },
+   "location": {
+    "latitude": 52.373889,
+    "longitude": 4.891944
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Nieuwe Kerk, Amsterdam",
+     "intro": "The Nieuwe Kerk is a 15th-century church in Amsterdam located on Dam Square, next to the Royal Palace.",
+     "narration": "The Nieuwe Kerk is a 15th-century church in Amsterdam located on Dam Square, next to the Royal Palace. Originally a Catholic church, it became a Dutch Reformed church in 1578. It now belongs to the Protestant Church in the Netherlands.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Nieuwe Kerk, Amsterdam",
+     "url": "https://en.wikipedia.org/wiki/Nieuwe_Kerk%2C_Amsterdam",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1419675",
+     "url": "https://www.wikidata.org/wiki/Q1419675",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "magere-brug",
+   "image": {
+    "file": "images/magere-brug.jpg",
+    "author": "S Sepp",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Magere_Brug.jpg"
+   },
+   "location": {
+    "latitude": 52.363586,
+    "longitude": 4.902357
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument",
+    "river"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Magere Brug",
+     "intro": "The Magere Brug is a bridge over the river Amstel in Amsterdam, Netherlands.",
+     "narration": "The Magere Brug is a bridge over the river Amstel in Amsterdam, Netherlands. It connects the banks of the river at Kerkstraat, between the Keizersgracht and Prinsengracht. The central section of the Magere Brug is a bascule bridge made of white-painted wood. The present bridge was built in 1934. The first bridge at this site was built in 1691 as Kerkstraatbrug and had 13 arches. Because this bridge was very narrow, the locals called it magere brug, which literally means \"skinny bridge\". In 1871 the state of the bridge had deteriorated so much, it was demolished and replaced by a nine-arched wooden bridge. Half a century later, this bridge also needed to be replaced.",
+     "longDescription": "The Magere Brug is a bridge over the river Amstel in Amsterdam, Netherlands. It connects the banks of the river at Kerkstraat, between the Keizersgracht and Prinsengracht. The central section of the Magere Brug is a bascule bridge made of white-painted wood. The present bridge was built in 1934. The first bridge at this site was built in 1691 as Kerkstraatbrug and had 13 arches. Because this bridge was very narrow, the locals called it magere brug, which literally means \"skinny bridge\". In 1871 the state of the bridge had deteriorated so much, it was demolished and replaced by a nine-arched wooden bridge. Half a century later, this bridge also needed to be replaced. Architect Piet Kramer made several designs for a steel and stone bridge, but the city decided to replace it with a new bridge that looked the same as the previous, only slightly bigger. In 1934, that bridge was demolished, and replaced by a redesign made by Piet Kramer. The last major renovation was in 1969. Until 1994, the bridge was opened by hand, but is now operated automatically. Use of the bridge has been limited to pedestrians and cyclists since 2003. The centre-part is opened many times, daily, in order to let river traffic pass. The sightseeing tour boats are low enough to pass underneath the bridge when closed. The bridge is decorated with 1,200 light bulbs which are turned on in the evening. A story told to tourists about the origins of the 1691 version of the bridge is that it was built by two sisters who lived on opposite sides of the Amstel river and wanted to be able to visit one another, every day. In one variant of the story, the sisters were not able to afford a bridge of adequate width or height for general use, so a very narrow bridge was built, hence its name. In another variant, the sis",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Magere Brug",
+     "url": "https://en.wikipedia.org/wiki/Magere_Brug",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1344400",
+     "url": "https://www.wikidata.org/wiki/Q1344400",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "museumplein",
+   "image": {
+    "file": "images/museumplein.jpg",
+    "author": "Kati Tuomaala",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dsc_0200_1_Jpg_(151469793).jpeg"
+   },
+   "location": {
+    "latitude": 52.357611,
+    "longitude": 4.881619
+   },
+   "category": "square",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 4,
+   "tags": [
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Museumplein",
+     "intro": "The Museumplein is a public space in the Museumkwartier neighbourhood of the Amsterdam-Zuid borough in Amsterdam, Netherlands.",
+     "narration": "The Museumplein is a public space in the Museumkwartier neighbourhood of the Amsterdam-Zuid borough in Amsterdam, Netherlands. Located at the Museumplein are three major museums – the Rijksmuseum, Van Gogh Museum, and Stedelijk Museum – and the concert hall Concertgebouw. The area was originally a wax candle factory and marshy meadows. Construction began following the completion of the Rijksmuseum in 1885, with a street plan based on the design of Pierre Cuypers, the museum's celebrated architect. The area was the location of the International Colonial and Export Exhibition in 1883. The Museumplein was reconstructed after a design by the Swedish/Danish landscape architect Sven-Ingvar Andersson in 1999. It now includes underground parking spaces and an underground supermarket.",
+     "longDescription": "The Museumplein is a public space in the Museumkwartier neighbourhood of the Amsterdam-Zuid borough in Amsterdam, Netherlands. Located at the Museumplein are three major museums – the Rijksmuseum, Van Gogh Museum, and Stedelijk Museum – and the concert hall Concertgebouw. The area was originally a wax candle factory and marshy meadows. Construction began following the completion of the Rijksmuseum in 1885, with a street plan based on the design of Pierre Cuypers, the museum's celebrated architect. The area was the location of the International Colonial and Export Exhibition in 1883. The Museumplein was reconstructed after a design by the Swedish/Danish landscape architect Sven-Ingvar Andersson in 1999. It now includes underground parking spaces and an underground supermarket. In the winter, the pond can be transformed into an artificial ice skating area. The space is also used for events such as festivals, celebrations, and demonstrations. In July 2017 the 2017 FIBA 3x3 Europe Cup, the European 3x3 basketball tournament, was held at the Museumplein. The main \"I AMsterdam\" sign was also located here in front of the Rijksmuseum, until 4 December 2018, when it was removed at the behest of the city council. The sculpture \"Self Portrait of a Dreamer\" by Joseph Klibansky was exhibited within the pond from 26 June 2018 to 28 Aug 2018.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Museumplein",
+     "url": "https://en.wikipedia.org/wiki/Museumplein",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q639321",
+     "url": "https://www.wikidata.org/wiki/Q639321",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "portuguese-synagogue-amsterdam",
+   "image": {
+    "file": "images/portuguese-synagogue-amsterdam.jpg",
+    "author": "A. Bakker",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Synagoge_J.D._Meijerplein.JPG"
+   },
+   "location": {
+    "latitude": 52.3675,
+    "longitude": 4.905278
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Portuguese Synagogue (Amsterdam)",
+     "intro": "The Portuguese Synagogue, also known as the Esnoga, or Snoge, is an Orthodox Jewish congregation and synagogue, located at Mr.",
+     "narration": "The Portuguese Synagogue, also known as the Esnoga, or Snoge, is an Orthodox Jewish congregation and synagogue, located at Mr. Visserplein 3 in Central Amsterdam, Amsterdam, in the North Holland region of The Netherlands. The synagogue was completed in 1675. Esnoga is the word for synagogue in the traditional Judaeo-Spanish language of Sephardi Jews. The Amsterdam Sephardic community was one of the largest and richest Jewish communities in Europe during the Dutch Golden Age, and their very large synagogue reflected this. The synagogue is an active place of worship and has been a popular tourist attraction since it was constructed in the late 17th century, when it drew Christian tourists from many countries.",
+     "longDescription": "The Portuguese Synagogue, also known as the Esnoga, or Snoge, is an Orthodox Jewish congregation and synagogue, located at Mr. Visserplein 3 in Central Amsterdam, Amsterdam, in the North Holland region of The Netherlands. The synagogue was completed in 1675. Esnoga is the word for synagogue in the traditional Judaeo-Spanish language of Sephardi Jews. The Amsterdam Sephardic community was one of the largest and richest Jewish communities in Europe during the Dutch Golden Age, and their very large synagogue reflected this. The synagogue is an active place of worship and has been a popular tourist attraction since it was constructed in the late 17th century, when it drew Christian tourists from many countries. The congregation allowed visitation of non-Jews and its opulence was a reflection of the importance of sacred worship to the congregation as well as signaling to all the wealth of the Portuguese Jewish community.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Portuguese Synagogue (Amsterdam)",
+     "url": "https://en.wikipedia.org/wiki/Portuguese_Synagogue_%28Amsterdam%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1853707",
+     "url": "https://www.wikidata.org/wiki/Q1853707",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "stedelijk-museum-amsterdam",
+   "image": {
+    "file": "images/stedelijk-museum-amsterdam.jpg",
+    "author": "John Lewis Marshall",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:De_nieuwe_vleugel_van_het_Stedelijk_Museum_Amsterdam.jpg"
+   },
+   "location": {
+    "latitude": 52.357778,
+    "longitude": 4.879722
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "modern"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Stedelijk Museum Amsterdam",
+     "intro": "The Stedelijk Museum Amsterdam, colloquially known as the Stedelijk, is a museum for modern art, contemporary art, and design located in Amsterdam, Netherlands.",
+     "narration": "The Stedelijk Museum Amsterdam, colloquially known as the Stedelijk, is a museum for modern art, contemporary art, and design located in Amsterdam, Netherlands. The 19th-century building was designed by Adriaan Willem Weissman. The connecting 21st-century wing, which houses the current entrance, was designed by Benthem Crouwel Architects. The museum is located at the Museum Square in the borough Amsterdam South, where it is close to the Van Gogh Museum, the Rijksmuseum, and the Concertgebouw. The collection comprises modern and contemporary art and design from the early 20th century up to the present day.",
+     "longDescription": "The Stedelijk Museum Amsterdam, colloquially known as the Stedelijk, is a museum for modern art, contemporary art, and design located in Amsterdam, Netherlands. The 19th-century building was designed by Adriaan Willem Weissman. The connecting 21st-century wing, which houses the current entrance, was designed by Benthem Crouwel Architects. The museum is located at the Museum Square in the borough Amsterdam South, where it is close to the Van Gogh Museum, the Rijksmuseum, and the Concertgebouw. The collection comprises modern and contemporary art and design from the early 20th century up to the present day. It features artists such as Vincent van Gogh, Wassily Kandinsky, Ernst Ludwig Kirchner, Marc Chagall, Henri Matisse, Jackson Pollock, Karel Appel, Andy Warhol, Willem de Kooning, Marlene Dumas, Lucio Fontana, and Gilbert & George. In 2024, the museum had an estimated 574,000 visitors. Its 2024 budget was around €37 million, and counted around 200 members of staff.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Stedelijk Museum Amsterdam",
+     "url": "https://en.wikipedia.org/wiki/Stedelijk_Museum_Amsterdam",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q924335",
+     "url": "https://www.wikidata.org/wiki/Q924335",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "jordaan",
+   "image": {
+    "file": "images/jordaan.jpg",
+    "author": "No machine-readable author provided. Jonik assumed (based on copyright claims).",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canals_of_Amsterdam_-_Jordaan_area.jpg"
+   },
+   "location": {
+    "latitude": 52.37917,
+    "longitude": 4.88028
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "neighbourhood"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Jordaan",
+     "intro": "The Jordaan is a neighbourhood of the city of Amsterdam, Netherlands.",
+     "narration": "The Jordaan is a neighbourhood of the city of Amsterdam, Netherlands. It is part of the borough of Amsterdam-Centrum. The area is bordered by the Singelgracht canal and the neighbourhood of Frederik Hendrikbuurt to the west; the Prinsengracht to the east; the Brouwersgracht to the north and the Leidsegracht to the south. The former canal Rozengracht is the main traffic artery through the neighbourhood. Originally a working-class neighbourhood, the Jordaan has become one of the most expensive, upscale locations in the Netherlands. It is home to many art galleries, particularly for modern art, and is also dotted with speciality shops and restaurants. Markets are held regularly at Noordermarkt, the Westerstraat and Lindengracht.",
+     "longDescription": "The Jordaan is a neighbourhood of the city of Amsterdam, Netherlands. It is part of the borough of Amsterdam-Centrum. The area is bordered by the Singelgracht canal and the neighbourhood of Frederik Hendrikbuurt to the west; the Prinsengracht to the east; the Brouwersgracht to the north and the Leidsegracht to the south. The former canal Rozengracht is the main traffic artery through the neighbourhood. Originally a working-class neighbourhood, the Jordaan has become one of the most expensive, upscale locations in the Netherlands. It is home to many art galleries, particularly for modern art, and is also dotted with speciality shops and restaurants. Markets are held regularly at Noordermarkt, the Westerstraat and Lindengracht. Rembrandt spent the last years of his life in the Jordaan, on the Rozengracht canal. He was buried in the Westerkerk church, at the corner of Rozengracht and Prinsengracht, just beyond the Jordaan. The Anne Frank House, where Anne Frank went into hiding during World War II, is located just beyond the neighborhood, on the east side of the Prinsengracht.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Jordaan",
+     "url": "https://en.wikipedia.org/wiki/Jordaan",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1401387",
+     "url": "https://www.wikidata.org/wiki/Q1401387",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "basilica-of-saint-nicholas-amsterdam",
+   "image": {
+    "file": "images/basilica-of-saint-nicholas-amsterdam.jpg",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_St_Nicolaaskerk_1900.jpg"
+   },
+   "location": {
+    "latitude": 52.376528,
+    "longitude": 4.901111
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "roman"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Basilica of Saint Nicholas, Amsterdam",
+     "intro": "The Co-cathedral Basilica of Saint Nicholas is located in the Old Centre district of Amsterdam, Netherlands, very close to Amsterdam's main railway station.",
+     "narration": "The Co-cathedral Basilica of Saint Nicholas is located in the Old Centre district of Amsterdam, Netherlands, very close to Amsterdam's main railway station. Saint Nicholas is the patron saint of both the church and the city of Amsterdam. The basilica is the city's primary Roman Catholic church.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Basilica of Saint Nicholas, Amsterdam",
+     "url": "https://en.wikipedia.org/wiki/Basilica_of_Saint_Nicholas%2C_Amsterdam",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1350750",
+     "url": "https://www.wikidata.org/wiki/Q1350750",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "bloemenmarkt",
+   "image": {
+    "file": "images/bloemenmarkt.jpg",
+    "author": "Massimo Catarinella",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SingelBloemenmarkt.jpg"
+   },
+   "location": {
+    "latitude": 52.366778,
+    "longitude": 4.891347
+   },
+   "category": "market",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 34,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "market"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Bloemenmarkt",
+     "intro": "The Bloemenmarkt is the world's only floating flower market.",
+     "narration": "The Bloemenmarkt is the world's only floating flower market. Founded in 1862, it is sited in Amsterdam, Netherlands, on the Singel canal between Muntplein and Koningsplein in the city's southern canal belt. It has 15 souvenir and gift shops, with only a few still selling fresh flowers. Today, the market is one of the main suppliers of flower bulbs and tulip paraphernalia to tourists visiting Amsterdam. The quality of the flower bulbs sold is questionable at best. A 2019 survey found bulbs bought at the Bloemenmarkt rarely to never flower.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Bloemenmarkt",
+     "url": "https://en.wikipedia.org/wiki/Bloemenmarkt",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q643079",
+     "url": "https://www.wikidata.org/wiki/Q643079",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "leidseplein",
+   "image": {
+    "file": "images/leidseplein.jpg",
+    "author": "Yozza",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leidseplein_Amsterdam3.jpg"
+   },
+   "location": {
+    "latitude": 52.364133,
+    "longitude": 4.882969
+   },
+   "category": "square",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Leidseplein",
+     "intro": "Leidseplein is a square in central Amsterdam, Netherlands.",
+     "narration": "Leidseplein is a square in central Amsterdam, Netherlands. It is in the Weteringschans neighbourhood, immediately northeast of the Singelgracht. It is located on the crossroads of the Weteringschans, Marnixstraat and Leidsestraat.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Leidseplein",
+     "url": "https://en.wikipedia.org/wiki/Leidseplein",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1409805",
+     "url": "https://www.wikidata.org/wiki/Q1409805",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "munttoren",
+   "image": {
+    "file": "images/munttoren.jpg",
+    "author": "Guilhem Vellut",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Munttoren_in_Amsterdam_2015.jpg"
+   },
+   "location": {
+    "latitude": 52.366944,
+    "longitude": 4.893333
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument",
+    "river"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Munttoren",
+     "intro": "The Munttoren or Munt is a tower in Amsterdam, Netherlands.",
+     "narration": "The Munttoren or Munt is a tower in Amsterdam, Netherlands. It stands on the busy Muntplein square, where the Amstel river and the Singel canal meet, near the flower market and the eastern end of the Kalverstraat shopping street.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Munttoren",
+     "url": "https://en.wikipedia.org/wiki/Munttoren",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1429748",
+     "url": "https://www.wikidata.org/wiki/Q1429748",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "national-monument-amsterdam",
+   "image": {
+    "file": "images/national-monument-amsterdam.jpg",
+    "author": "A. J. van der Wal",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Overzicht_voorzijde_-_Amsterdam_-_20357041_-_RCE.jpg"
+   },
+   "location": {
+    "latitude": 52.372840527,
+    "longitude": 4.893665449
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "National Monument (Amsterdam)",
+     "intro": "The National Monument on Dam Square is a 1956 cenotaph in Amsterdam, Netherlands.",
+     "narration": "The National Monument on Dam Square is a 1956 cenotaph in Amsterdam, Netherlands. A national Remembrance of the Dead ceremony is held at the monument every year on 4 May to commemorate the casualties of World War II and subsequent armed conflicts.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: National Monument (Amsterdam)",
+     "url": "https://en.wikipedia.org/wiki/National_Monument_%28Amsterdam%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q473851",
+     "url": "https://www.wikidata.org/wiki/Q473851",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "homomonument",
+   "image": {
+    "file": "images/homomonument.jpg",
+    "author": "Geert-Jan Edelenbosch",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Homomonumentwestermarkt.jpg"
+   },
+   "location": {
+    "latitude": 52.374444444,
+    "longitude": 4.884722222
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Homomonument",
+     "intro": "The Homomonument is a memorial in the centre of Amsterdam, the capital of the Netherlands.",
+     "narration": "The Homomonument is a memorial in the centre of Amsterdam, the capital of the Netherlands. It commemorates all LGBTQ people who have been persecuted because of their sexual orientation. Opened on 5 September 1987, it was the first monument in the world to commemorate gays and lesbians who were killed by the German Nazi regime. The monument takes the form of three large pink triangles made of granite, set into the ground, which together compose a larger triangle. It is located on the bank of the Keizersgracht canal, near the historic Westerkerk church.",
+     "longDescription": "The Homomonument is a memorial in the centre of Amsterdam, the capital of the Netherlands. It commemorates all LGBTQ people who have been persecuted because of their sexual orientation. Opened on 5 September 1987, it was the first monument in the world to commemorate gays and lesbians who were killed by the German Nazi regime. The monument takes the form of three large pink triangles made of granite, set into the ground, which together compose a larger triangle. It is located on the bank of the Keizersgracht canal, near the historic Westerkerk church. The Homomonument was designed to \"inspire and support lesbians and gays in their struggle against denial, oppression and discrimination.\" During the Netherlands' annual Remembrance Day ceremony on 4 May, wreaths are laid on the monument to commemorate LGBT victims of persecution. A day later, on Liberation Day, the monument becomes the site of a street party.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Homomonument",
+     "url": "https://en.wikipedia.org/wiki/Homomonument",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q51411",
+     "url": "https://www.wikidata.org/wiki/Q51411",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "albert-cuyp-market",
+   "image": {
+    "file": "images/albert-cuyp-market.jpg",
+    "author": "Michiel1972 at Dutch Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Albert_Cuypmarkt.jpg"
+   },
+   "location": {
+    "latitude": 52.356111,
+    "longitude": 4.896944
+   },
+   "category": "market",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "market",
+    "modern"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Albert Cuyp Market",
+     "intro": "The Albert Cuyp Market is a street market in Amsterdam, The Netherlands, on the Albert Cuypstraat between Ferdinand Bolstraat and Van Woustraat, in the De Pijp area of the Oud-Zuid district of the city.",
+     "narration": "The Albert Cuyp Market is a street market in Amsterdam, The Netherlands, on the Albert Cuypstraat between Ferdinand Bolstraat and Van Woustraat, in the De Pijp area of the Oud-Zuid district of the city. The street and market are named for Albert Cuyp, a painter from the 17th century. The market began as an ad hoc collection of street traders and pushcarts. By the beginning of the 20th century, this had become so chaotic that in 1905, the city government decided to set up a market, at first only held on Saturday evenings. In 1912, the market became a daytime market open six days a week.",
+     "longDescription": "The Albert Cuyp Market is a street market in Amsterdam, The Netherlands, on the Albert Cuypstraat between Ferdinand Bolstraat and Van Woustraat, in the De Pijp area of the Oud-Zuid district of the city. The street and market are named for Albert Cuyp, a painter from the 17th century. The market began as an ad hoc collection of street traders and pushcarts. By the beginning of the 20th century, this had become so chaotic that in 1905, the city government decided to set up a market, at first only held on Saturday evenings. In 1912, the market became a daytime market open six days a week. Originally the street was accessible while the market was taking place, but more recently the street has been completely closed off to traffic during market hours. The product selection at the market varies from the traditional range of vegetables, fruit and fish to clothing and even cameras. There are many products sold that are of interest to the city's residents of Surinamese, Antillean, Turkish, and Moroccan origin, giving the market and neighbourhood a strong multicultural feel. The market is the busiest in all of the Netherlands and claims to be the largest daytime market in Europe. It is also an important tourist attraction. The famous Dutch Stroopwafels are prepared fresh here. Also popular are the many ethnic restaurants and bars that are found behind the market stalls. In 2005, a statue of the Dutch Levenslied-singer André Hazes was unveiled on the Albert Cuypstraat, with symbolic meaning as the street was the place where his talent as street artist was discovered by John Kraaijkamp Sr.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Albert Cuyp Market",
+     "url": "https://en.wikipedia.org/wiki/Albert_Cuyp_Market",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2342892",
+     "url": "https://www.wikidata.org/wiki/Q2342892",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "magna-plaza",
+   "image": {
+    "file": "images/magna-plaza.jpg",
+    "author": "C messier",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Magna_Plaza_2665.jpg"
+   },
+   "location": {
+    "latitude": 52.373647,
+    "longitude": 4.890289
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "historic",
+    "medieval",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Magna Plaza",
+     "intro": "The former Amsterdam Main Post Office, now the Magna Plaza shopping centre, is a monumental building located at Nieuwezijds Voorburgwal 182 in Amsterdam, Netherlands.",
+     "narration": "The former Amsterdam Main Post Office, now the Magna Plaza shopping centre, is a monumental building located at Nieuwezijds Voorburgwal 182 in Amsterdam, Netherlands. It was built in 1895–1899 in neo-Gothic and neo-Renaissance style. The building has been a rijksmonument since 9 July 1974, and is part of the Top 100 Dutch heritage sites.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Magna Plaza",
+     "url": "https://en.wikipedia.org/wiki/Magna_Plaza",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1962448",
+     "url": "https://www.wikidata.org/wiki/Q1962448",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "artis-zoo",
+   "image": {
+    "file": "images/artis-zoo.jpg",
+    "author": "Dejonkheer",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NL-Artis-ingang.jpg"
+   },
+   "location": {
+    "latitude": 52.366111111,
+    "longitude": 4.916666666
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Artis (zoo)",
+     "intro": "Natura Artis Magistra, commonly known just as Artis, is a zoo and botanical garden in the centre of Amsterdam.",
+     "narration": "Natura Artis Magistra, commonly known just as Artis, is a zoo and botanical garden in the centre of Amsterdam. It is the oldest zoo in the Netherlands and fifth oldest zoo in the world that is still operating. In addition to the zoo, Artis also contains an aquarium, a planetarium, an arboretum, Micropia, and the Groote Museum. A part of the art collection is on display in the aquarium building of the zoo. Artis contains 27 historically significant buildings, bridges, and ponds, most of which are still used as animal enclosures.",
+     "longDescription": "Natura Artis Magistra, commonly known just as Artis, is a zoo and botanical garden in the centre of Amsterdam. It is the oldest zoo in the Netherlands and fifth oldest zoo in the world that is still operating. In addition to the zoo, Artis also contains an aquarium, a planetarium, an arboretum, Micropia, and the Groote Museum. A part of the art collection is on display in the aquarium building of the zoo. Artis contains 27 historically significant buildings, bridges, and ponds, most of which are still used as animal enclosures. The zoo is a member of the Dutch Zoo Federation, the European Association of Zoos and Aquaria, Species360, the World Association of Zoos and Aquariums and the Nederlandse Vereniging van Botanische Tuinen.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Artis (zoo)",
+     "url": "https://en.wikipedia.org/wiki/Artis_%28zoo%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q713124",
+     "url": "https://www.wikidata.org/wiki/Q713124",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "wereldmuseum-amsterdam",
+   "image": {
+    "file": "images/wereldmuseum-amsterdam.jpg",
+    "author": "Sneeuwvlakte",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wereldmuseum_Amsterdam_(2025).jpg"
+   },
+   "location": {
+    "latitude": 52.3625,
+    "longitude": 4.921111111
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "modern",
+    "museum"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Wereldmuseum Amsterdam",
+     "intro": "The Wereldmuseum Amsterdam, previously known as Tropenmuseum between 1950 and 2023, is an ethnographic museum with its headquarters in Amsterdam, Netherlands.",
+     "narration": "The Wereldmuseum Amsterdam, previously known as Tropenmuseum between 1950 and 2023, is an ethnographic museum with its headquarters in Amsterdam, Netherlands. It was originally founded in Haarlem, Netherlands in 1864 under the name Koloniaal Museum and later renamed Tropenmuseum. The Wereldmuseum is one of the largest museums in Amsterdam. It has a permanent exhibition of part of its collection and hosts temporary exhibitions, including contemporary, modern and traditional visual arts and photographic works. The museum is part of the Nationaal Museum van Wereldculturen, a combination of three ethnographic museums in the Netherlands.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Wereldmuseum Amsterdam",
+     "url": "https://en.wikipedia.org/wiki/Wereldmuseum_Amsterdam",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1131589",
+     "url": "https://www.wikidata.org/wiki/Q1131589",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "rembrandtplein",
+   "image": {
+    "file": "images/rembrandtplein.jpg",
+    "author": "Marion Golsteijn",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NieuwRembrandtplein.JPG"
+   },
+   "location": {
+    "latitude": 52.366019,
+    "longitude": 4.896642
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "historic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Rembrandtplein",
+     "intro": "Rembrandtplein is a major square in central Amsterdam, Netherlands, named after Rembrandt van Rijn who owned a house nearby from 1639 to 1656.",
+     "narration": "Rembrandtplein is a major square in central Amsterdam, Netherlands, named after Rembrandt van Rijn who owned a house nearby from 1639 to 1656.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Rembrandtplein",
+     "url": "https://en.wikipedia.org/wiki/Rembrandtplein",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1579642",
+     "url": "https://www.wikidata.org/wiki/Q1579642",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "zuidas",
+   "image": {
+    "file": "images/zuidas.jpg",
+    "author": "Massimo Catarinella",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ZuidasAmsterdamNederland2011.jpg"
+   },
+   "location": {
+    "latitude": 52.3389,
+    "longitude": 4.8703
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Zuidas",
+     "intro": "The Zuidas is a business district and residential neighbourhood in Amsterdam, Netherlands, in the borough of Amsterdam-Zuid.",
+     "narration": "The Zuidas is a business district and residential neighbourhood in Amsterdam, Netherlands, in the borough of Amsterdam-Zuid. Also known as the \"Financial Mile,\" it lies along the southern sector of the A10 ring road, between Oud-Zuid and the Rivierenbuurt to the north and the garden suburb of Buitenveldert to the south. The name refers both to a statistical district of the municipality and to the larger municipal development area known as Grootstedelijk Gebied Zuidas; the two boundaries do not coincide. The statistical district had 4,975 residents on 1 January 2026. The development area covers about 245 hectares, excluding the separate Zuidasdok infrastructure programme, and is divided into twelve project neighbourhoods.",
+     "longDescription": "The Zuidas is a business district and residential neighbourhood in Amsterdam, Netherlands, in the borough of Amsterdam-Zuid. Also known as the \"Financial Mile,\" it lies along the southern sector of the A10 ring road, between Oud-Zuid and the Rivierenbuurt to the north and the garden suburb of Buitenveldert to the south. The name refers both to a statistical district of the municipality and to the larger municipal development area known as Grootstedelijk Gebied Zuidas; the two boundaries do not coincide. The statistical district had 4,975 residents on 1 January 2026. The development area covers about 245 hectares, excluding the separate Zuidasdok infrastructure programme, and is divided into twelve project neighbourhoods. According to the municipal project organisation, the area contained more than 50,000 jobs, some 32,000 students and about 2,000 businesses in 2024. Originally conceived as a commercial office location, the district has been redeveloped as a mixed-use area combining offices with housing, public space and educational facilities. Its urban design has been compared to large European business hubs such as La Défense in Paris and Canary Wharf in London.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Zuidas",
+     "url": "https://en.wikipedia.org/wiki/Zuidas",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2984693",
+     "url": "https://www.wikidata.org/wiki/Q2984693",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "nemo-museum",
+   "image": {
+    "file": "images/nemo-museum.jpg",
+    "author": "Elekes Andor",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nemo_Science_Museum_(53).jpg"
+   },
+   "location": {
+    "latitude": 52.374106,
+    "longitude": 4.912392
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 31,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "museum"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "NEMO (museum)",
+     "intro": "NEMO Science Museum is a science centre in Amsterdam, Netherlands.",
+     "narration": "NEMO Science Museum is a science centre in Amsterdam, Netherlands. It is located in the Oosterdokseiland neighbourhood in the Amsterdam-Centrum borough, situated between the Oosterdokseiland and the Kattenburg. The museum has its origins in 1923, and is housed in a building designed by Renzo Piano since 1997. It contains five floors of hands-on science exhibitions and is the largest science center in the Netherlands. It attracts around 728,000 visitors annually, which makes it the seventh most visited museum in the Netherlands.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: NEMO (museum)",
+     "url": "https://en.wikipedia.org/wiki/NEMO_%28museum%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1422000",
+     "url": "https://www.wikidata.org/wiki/Q1422000",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "paradiso-amsterdam",
+   "image": {
+    "file": "images/paradiso-amsterdam.jpg",
+    "author": "Photo: Andreas Praefcke",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_Paradiso.jpg"
+   },
+   "location": {
+    "latitude": 52.362144,
+    "longitude": 4.883872
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Paradiso (Amsterdam)",
+     "intro": "Paradiso is a music venue and cultural centre located in Amsterdam, Netherlands.",
+     "narration": "Paradiso is a music venue and cultural centre located in Amsterdam, Netherlands. Built in 1880 as a religious building for the Vrije Gemeente, it was converted into a youth entertainment venue in 1968. Until the 1990s, it was the largest concert club in Amsterdam. It is sometimes described as a \"Pop Temple\", as the interior of its main hall retains some church-like features, including large stained glass windows behind the stage. The main hall of Paradiso has a capacity of 1,500 visitors. On an upper floor, there is another small hall with a capacity of 250 people. Performances are also regularly held in the basement cafe.",
+     "longDescription": "Paradiso is a music venue and cultural centre located in Amsterdam, Netherlands. Built in 1880 as a religious building for the Vrije Gemeente, it was converted into a youth entertainment venue in 1968. Until the 1990s, it was the largest concert club in Amsterdam. It is sometimes described as a \"Pop Temple\", as the interior of its main hall retains some church-like features, including large stained glass windows behind the stage. The main hall of Paradiso has a capacity of 1,500 visitors. On an upper floor, there is another small hall with a capacity of 250 people. Performances are also regularly held in the basement cafe. In 2014, the Paradiso organization began operations at a venue in Amsterdam-Noord named Tolhuistuin, formerly Paradiso Noord. Among the most famous acts to have played Paradiso are Adele, David Bowie, U2, Eminem, Kanye West, Nirvana, Duran Duran, Pink Floyd, Lady Gaga, Prince, Los Lobos, The Rolling Stones, Metallica and Black Sabbath.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Paradiso (Amsterdam)",
+     "url": "https://en.wikipedia.org/wiki/Paradiso_%28Amsterdam%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1535378",
+     "url": "https://www.wikidata.org/wiki/Q1535378",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ons-lieve-heer-op-solder",
+   "image": {
+    "file": "images/ons-lieve-heer-op-solder.jpg",
+    "author": "Remi Mathis",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Museum_Ons%27_Lieve_Heer_op_Solder_-_hidden_church.JPG"
+   },
+   "location": {
+    "latitude": 52.375076,
+    "longitude": 4.899363
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 33,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Ons' Lieve Heer op Solder",
+     "intro": "Ons' Lieve Heer op Solder is a 17th-century canal house, house church, and museum in the city center of Amsterdam, The Netherlands.",
+     "narration": "Ons' Lieve Heer op Solder is a 17th-century canal house, house church, and museum in the city center of Amsterdam, The Netherlands. The Catholic church was built on the top three floors of the canal house during the 1660s. It is an important example of a \"schuilkerk\", or \"clandestine church\" in which Catholics and other religious dissenters from the seventeenth-century Dutch Reformed Church, unable to worship in public, held services. The church has been open as a museum since 28 April 1888, and has 85,000 visitors annually.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Ons' Lieve Heer op Solder",
+     "url": "https://en.wikipedia.org/wiki/Ons%27_Lieve_Heer_op_Solder",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q493160",
+     "url": "https://www.wikidata.org/wiki/Q493160",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ndsm",
+   "image": {
+    "file": "images/ndsm.jpg",
+    "author": "Alf van Beem",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrotopia_(atelier_va_Lieshout)_op_de_NDSM-werf_foto19.jpg"
+   },
+   "location": {
+    "latitude": 52.4016036,
+    "longitude": 4.8915066
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "historic",
+    "neighbourhood",
+    "river"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "NDSM",
+     "intro": "NDSM is a neighborhood in Amsterdam, Netherlands located on the former terrain of the Nederlandsche Dok en Scheepsbouw Maatschappij shipbuilding company.",
+     "narration": "NDSM is a neighborhood in Amsterdam, Netherlands located on the former terrain of the Nederlandsche Dok en Scheepsbouw Maatschappij shipbuilding company. It is located in the Amsterdam-Noord borough along the IJ river and can be reached by ferry from Amsterdam Centraal station. After the shipyard closed, the various buildings were occupied by squatters before being gentrified in the 2000s, becoming offices for groups such as Greenpeace, Pernod Ricard, Red Bull, Paramount and HEMA HQ. The East part of the former wharf houses a large number of art galleries and festivals throughout the year. The IJhallen is the biggest flea market in Europe.",
+     "longDescription": "NDSM is a neighborhood in Amsterdam, Netherlands located on the former terrain of the Nederlandsche Dok en Scheepsbouw Maatschappij shipbuilding company. It is located in the Amsterdam-Noord borough along the IJ river and can be reached by ferry from Amsterdam Centraal station. After the shipyard closed, the various buildings were occupied by squatters before being gentrified in the 2000s, becoming offices for groups such as Greenpeace, Pernod Ricard, Red Bull, Paramount and HEMA HQ. The East part of the former wharf houses a large number of art galleries and festivals throughout the year. The IJhallen is the biggest flea market in Europe. It also boasts a number of popular restaurants such as Pllek, IJver, Loetje aan het IJ, Noorderlicht and Kometen Brood. NDSM-West is being redeveloped as a mixed-use residential area with high-rise buildings up to 120 meters. By 2034, NDSM-West will have 5000 residential units. NDSM-Oost will be redeveloped into a city park with art galleries and monumental buildings.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: NDSM",
+     "url": "https://en.wikipedia.org/wiki/NDSM",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q16665958",
+     "url": "https://www.wikidata.org/wiki/Q16665958",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "nieuwmarkt",
+   "image": {
+    "file": "images/nieuwmarkt.jpg",
+    "author": "Shadowgate from Novara, ITALY",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam(iget)_(15872111880).jpg"
+   },
+   "location": {
+    "latitude": 52.372573,
+    "longitude": 4.900503
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 4,
+   "tags": [
+    "food",
+    "hidden",
+    "historic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Nieuwmarkt",
+     "intro": "Nieuwmarkt is a square in the centre of Amsterdam, Netherlands.",
+     "narration": "Nieuwmarkt is a square in the centre of Amsterdam, Netherlands. The surrounding area is known as the Lastage neighborhood. It is situated in the borough of Amsterdam-Centrum. The square is considered part of Amsterdam's Chinatown, next to the De Wallen. There are over 20 cafés and coffeeshops facing the square. There is a daily market on the square, as well as an organic food market on Saturdays and a market for antiques and books on Sundays in the summer months. The Nieuwmarkt is dominated by a building known as the Waag, originally a gate in the medieval city walls but converted into a weighing house after the walls were demolished in the 17th century.",
+     "longDescription": "Nieuwmarkt is a square in the centre of Amsterdam, Netherlands. The surrounding area is known as the Lastage neighborhood. It is situated in the borough of Amsterdam-Centrum. The square is considered part of Amsterdam's Chinatown, next to the De Wallen. There are over 20 cafés and coffeeshops facing the square. There is a daily market on the square, as well as an organic food market on Saturdays and a market for antiques and books on Sundays in the summer months. The Nieuwmarkt is dominated by a building known as the Waag, originally a gate in the medieval city walls but converted into a weighing house after the walls were demolished in the 17th century. The square was created when the canals around the Waag were filled in 1614, and was used as a marketplace. In World War II the square was used by the Nazis as a collection point for Jews who had been rounded up to be sent to the concentration camps. In the 1970s many buildings on and around the square were torn down to make way for a planned metro and four-lane highway, which was to run right through the Nieuwmarkt neighbourhood. This led to heavy rioting, known as the Nieuwmarkt Riots, in 1975 and, ultimately, abandonment of the highway plans. The metro, however, was constructed, and Nieuwmarkt is now a station on the Amsterdam metro system.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Nieuwmarkt",
+     "url": "https://en.wikipedia.org/wiki/Nieuwmarkt",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1568693",
+     "url": "https://www.wikidata.org/wiki/Q1568693",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "bijlmermeer",
+   "image": {
+    "file": "images/bijlmermeer.jpg",
+    "author": "Hilton Teper",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gooioord,_Bijlmer.jpg"
+   },
+   "location": {
+    "latitude": 52.31861,
+    "longitude": 4.96528
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Bijlmermeer",
+     "intro": "The Bijlmermeer, or colloquially the Bijlmer, is a neighborhood in the Amsterdam-Zuidoost borough in Amsterdam, Netherlands.",
+     "narration": "The Bijlmermeer, or colloquially the Bijlmer, is a neighborhood in the Amsterdam-Zuidoost borough in Amsterdam, Netherlands. The other neighborhoods in Amsterdam-Zuidoost are Gaasperdam, Bullewijk, Venserpolder and Driemond.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Bijlmermeer",
+     "url": "https://en.wikipedia.org/wiki/Bijlmermeer",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q128498",
+     "url": "https://www.wikidata.org/wiki/Q128498",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "de-pijp",
+   "image": {
+    "file": "images/de-pijp.jpg",
+    "author": "No machine-readable author provided. SanderK assumed (based on copyright claims).",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gerard_Doustraat_hoekhuis1.JPG"
+   },
+   "location": {
+    "latitude": 52.3531,
+    "longitude": 4.8961
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 29,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "De Pijp",
+     "intro": "De Pijp is a neighbourhood of Amsterdam, Netherlands.",
+     "narration": "De Pijp is a neighbourhood of Amsterdam, Netherlands. It is located directly south of Amsterdam's city centre and it is part of the borough Amsterdam-Zuid, in a part of the city known as the Old South. It is served by De Pijp metro station. Most streets in De Pijp are named after Dutch painters, like Jan Steen, Frans Hals, Ruysdael and Vincent van Gogh. The three districts composing the area are Oude Pijp, Nieuwe Pijp and Diamantbuurt.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: De Pijp",
+     "url": "https://en.wikipedia.org/wiki/De_Pijp",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q163319",
+     "url": "https://www.wikidata.org/wiki/Q163319",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "vondelkerk",
+   "image": {
+    "file": "images/vondelkerk.jpg",
+    "author": "BoH",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vondelstraat_120A.JPG"
+   },
+   "location": {
+    "latitude": 52.36111,
+    "longitude": 4.87361
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "roman"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Vondelkerk",
+     "intro": "The Vondel Church is a church building located on Vondelstraat in Amsterdam-West.",
+     "narration": "The Vondel Church is a church building located on Vondelstraat in Amsterdam-West. From 1880 to 1977, the building—designed by architect Pierre Cuypers—served as the Church of the Most Sacred Heart of Jesus for the Roman Catholic parish of the same name. After its deconsecration, the central nave was used for purposes including concerts, while surrounding spaces were rented out as offices. In a fire in November 1904, the original tower was destroyed. It was rebuilt according to a design by Joseph Cuypers, son of Pierre Cuypers. During the early hours of 1 January 2026, another fire broke out, the tower was destroyed, and parts of the building collapsed.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Vondelkerk",
+     "url": "https://en.wikipedia.org/wiki/Vondelkerk",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2142834",
+     "url": "https://www.wikidata.org/wiki/Q2142834",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "waterlooplein",
+   "image": {
+    "file": "images/waterlooplein.jpg",
+    "author": "Txllxt TxllxT",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Waterlooplein_-_Waterlooplein_Market.jpg"
+   },
+   "location": {
+    "latitude": 52.368333,
+    "longitude": 4.901667
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "historic",
+    "neighbourhood",
+    "river",
+    "square"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Waterlooplein",
+     "intro": "Waterlooplein is a square in the centre of Amsterdam in the Netherlands.",
+     "narration": "Waterlooplein is a square in the centre of Amsterdam in the Netherlands. The square near the Amstel river is named after the Battle of Waterloo in 1815. Prominent buildings on the square are the Stopera city hall and opera building and the Mozes en Aäronkerk church. The daily flea market on the square is popular with tourists. The market has some 300 stalls and is open every day except Sunday. Waterlooplein is a stop on the common part of Amsterdam Metro lines 51, 53, and 54. Tram line 14 and the Museumboot water taxi also stop at Waterlooplein. There is a taxi stand and parking garage. The area of Amsterdam that includes Waterlooplein is also called Groot Waterloo district.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Waterlooplein",
+     "url": "https://en.wikipedia.org/wiki/Waterlooplein",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2301532",
+     "url": "https://www.wikidata.org/wiki/Q2301532",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "sloterdijk-amsterdam",
+   "image": {
+    "file": "images/sloterdijk-amsterdam.jpg",
+    "author": "tp://www.bmz.amsterdam.nl",
+    "license": "Attribution",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Petruskerksloterdijk.jpg"
+   },
+   "location": {
+    "latitude": 52.387222222,
+    "longitude": 4.846388888
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Sloterdijk, Amsterdam",
+     "intro": "Sloterdijk was a village in the Dutch province of North Holland.",
+     "narration": "Sloterdijk was a village in the Dutch province of North Holland. It now is a part of the municipality of Amsterdam, and lies about 3 km northwest of the city centre. Since 2010 Sloterdijk has formed part of the stadsdeel of Amsterdam-West. Nearby is the site of Amsterdam Sloterdijk railway station.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Sloterdijk, Amsterdam",
+     "url": "https://en.wikipedia.org/wiki/Sloterdijk%2C_Amsterdam",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q3018576",
+     "url": "https://www.wikidata.org/wiki/Q3018576",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "beurs-van-berlage",
+   "image": {
+    "file": "images/beurs-van-berlage.jpg",
+    "author": "Sergé Technau",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Overzicht_klokkentoren_met_uurwerk,_aan_de_Beurspleinzijde_de_hoofdingang_met_bordestrap_-_Amsterdam_-_20408819_-_RCE.jpg"
+   },
+   "location": {
+    "latitude": 52.375,
+    "longitude": 4.896388888
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Beurs van Berlage",
+     "intro": "The Beurs van Berlage is a building on the Damrak, in the centre of Amsterdam.",
+     "narration": "The Beurs van Berlage is a building on the Damrak, in the centre of Amsterdam. It was designed by architect Hendrik Petrus Berlage and constructed between 1896 and 1903. It influenced many modernist architects, in particular functionalists and the Amsterdam School. It is now used as a venue for concerts, exhibitions and conferences. The building is constructed of red brick, with an iron and glass roof, and stone piers, lintels and corbels. Its entrance is under a 40-metre-high clock tower, while inside lie three large multi-storey halls, with offices and communal facilities grouped around them. The aim of the architect was to modify the styles of the past by emphasizing sweeping planes and open plan interiors.",
+     "longDescription": "The Beurs van Berlage is a building on the Damrak, in the centre of Amsterdam. It was designed by architect Hendrik Petrus Berlage and constructed between 1896 and 1903. It influenced many modernist architects, in particular functionalists and the Amsterdam School. It is now used as a venue for concerts, exhibitions and conferences. The building is constructed of red brick, with an iron and glass roof, and stone piers, lintels and corbels. Its entrance is under a 40-metre-high clock tower, while inside lie three large multi-storey halls, with offices and communal facilities grouped around them. The aim of the architect was to modify the styles of the past by emphasizing sweeping planes and open plan interiors. It has stylistic similarities with some earlier buildings, for instance St Pancras station and the work of H. H. Richardson in America, or the Castell dels Tres Dragons, Barcelona, by Lluís Domènech i Montaner. True to its nineteenth-century roots, it maintains the use of ornament in a civic structure. On 2 February 2002 the civil ceremony of the wedding of King Willem-Alexander and Máxima Zorreguieta took place in the Beurs van Berlage. The Beurs van Berlage has a café located on the Beursplein side and the tower is also open to the public.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Beurs van Berlage",
+     "url": "https://en.wikipedia.org/wiki/Beurs_van_Berlage",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q851200",
+     "url": "https://www.wikidata.org/wiki/Q851200",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "amsterdam-museum",
+   "image": {
+    "file": "images/amsterdam-museum.jpg",
+    "author": "Marion Golsteijn",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdams_Historisch_Museum.jpg"
+   },
+   "location": {
+    "latitude": 52.370278,
+    "longitude": 4.890833
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 21,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "museum",
+    "river"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Amsterdam Museum",
+     "intro": "The Amsterdam Museum, known until 2010 as the Amsterdam Historical Museum, is an Amsterdam-based museum dedicated to the city's past and present.",
+     "narration": "The Amsterdam Museum, known until 2010 as the Amsterdam Historical Museum, is an Amsterdam-based museum dedicated to the city's past and present. Due to the renovation of its main location, the museum is temporarily located in the Amstelhof on the Amstel River, together with H'ART Museum and the dependence of the Museum van de Geest.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Amsterdam Museum",
+     "url": "https://en.wikipedia.org/wiki/Amsterdam_Museum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1820897",
+     "url": "https://www.wikidata.org/wiki/Q1820897",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "waag-amsterdam",
+   "image": {
+    "file": "images/waag-amsterdam.jpg",
+    "author": "Patrick Verdier",
+    "license": "Copyrighted free use",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Waag.jpg"
+   },
+   "location": {
+    "latitude": 52.37278,
+    "longitude": 4.90028
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 33,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "Waag, Amsterdam",
+     "intro": "The Waag is a 15th-century building on Nieuwmarkt square in Amsterdam.",
+     "narration": "The Waag is a 15th-century building on Nieuwmarkt square in Amsterdam. It was originally a city gate and part of the walls of Amsterdam. Later it served as a guildhall, museum, fire station and anatomical theatre, among other things. The Waag is the oldest remaining non-religious building in Amsterdam. The building was listed as a national monument in 1970. The Waag is depicted in Rembrandt's 1632 painting The Anatomy Lesson of Dr. Nicolaes Tulp. The surgeons' guild commissioned this painting for their guildhall in the Waag.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Waag, Amsterdam",
+     "url": "https://en.wikipedia.org/wiki/Waag%2C_Amsterdam",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2466999",
+     "url": "https://www.wikidata.org/wiki/Q2466999",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "1945-dam-square-shooting",
+   "image": {
+    "file": "images/1945-dam-square-shooting.jpg",
+    "author": "Wiel van der Randen",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tweede_Wereldoorlog,_SFA001000648_01.jpg"
+   },
+   "location": {
+    "latitude": 52.3731,
+    "longitude": 4.89278
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Amsterdam",
+   "content": {
+    "en": {
+     "name": "1945 Dam Square shooting",
+     "intro": "The 1945 shooting on Dam square took place during the liberation of Amsterdam on 7 May 1945, in the last days of World War II in Europe.",
+     "narration": "The 1945 shooting on Dam square took place during the liberation of Amsterdam on 7 May 1945, in the last days of World War II in Europe. German soldiers fired machine guns into a large crowd gathered in Dam Square to celebrate the end of the war, killing over 30 people.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: 1945 Dam Square shooting",
+     "url": "https://en.wikipedia.org/wiki/1945_Dam_Square_shooting",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q3476414",
+     "url": "https://www.wikidata.org/wiki/Q3476414",
+     "license": "CC0"
+    }
+   ]
+  }
+ ]
+}

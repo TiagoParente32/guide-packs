@@ -1,0 +1,2306 @@
+{
+ "format": 1,
+ "city": {
+  "id": "venice",
+  "name": "Venice",
+  "country": "Italy",
+  "center": {
+   "latitude": 45.4371908,
+   "longitude": 12.3345898
+  },
+  "bounds": {
+   "south": 45.2312466,
+   "north": 45.5779981,
+   "west": 12.1668349,
+   "east": 12.5965709
+  },
+  "languages": [
+   "en"
+  ],
+  "quality": "generated",
+  "placeCount": 45,
+  "version": 1,
+  "hero": {
+   "file": "images/st-mark-s-basilica.jpg",
+   "author": "Nino Barbieri",
+   "license": "CC BY-SA 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Venice_-_St._Marc%27s_Basilica_01.jpg"
+  },
+  "packUrl": "cities/venice/pack.json",
+  "generatedAt": "2026-10-30T14:46:07Z"
+ },
+ "pois": [
+  {
+   "id": "st-mark-s-basilica",
+   "image": {
+    "file": "images/st-mark-s-basilica.jpg",
+    "author": "Nino Barbieri",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Venice_-_St._Marc%27s_Basilica_01.jpg"
+   },
+   "location": {
+    "latitude": 45.434444444,
+    "longitude": 12.339722222
+   },
+   "category": "church",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "St Mark's Basilica",
+     "intro": "The Patriarchal Cathedral Basilica of Saint Mark, commonly known as St Mark's Basilica, is the cathedral church of the Patriarchate of Venice; it became the episcopal seat of the Patriarch of Venice in 1807,…",
+     "narration": "The Patriarchal Cathedral Basilica of Saint Mark, commonly known as St Mark's Basilica, is the cathedral church of the Patriarchate of Venice; it became the episcopal seat of the Patriarch of Venice in 1807, replacing the earlier cathedral of San Pietro di Castello. It is dedicated to and holds the relics of Saint Mark the Evangelist, the patron saint of the city. The church is located on the eastern end of Saint Mark's Square, the former political and religious centre of the Republic of Venice, and is attached to the Doge's Palace.",
+     "longDescription": "The Patriarchal Cathedral Basilica of Saint Mark, commonly known as St Mark's Basilica, is the cathedral church of the Patriarchate of Venice; it became the episcopal seat of the Patriarch of Venice in 1807, replacing the earlier cathedral of San Pietro di Castello. It is dedicated to and holds the relics of Saint Mark the Evangelist, the patron saint of the city. The church is located on the eastern end of Saint Mark's Square, the former political and religious centre of the Republic of Venice, and is attached to the Doge's Palace. Prior to the fall of the republic in 1797, it was the chapel of the Doge and was subject to his jurisdiction, with the concurrence of the procurators of Saint Mark for administrative and financial affairs. The present structure is the third church, begun probably in 1063 to express Venice's growing civic consciousness and pride. Like the two earlier churches, its model was the sixth-century Church of the Holy Apostles in Constantinople, although accommodations were made to adapt the design to the limitations of the physical site and to meet the specific needs of Venetian state ceremonies. Middle-Byzantine, Romanesque, and Islamic influences are also evident, and Gothic elements were later incorporated. To convey the republic's wealth and power, the original brick façades and interior walls were embellished over time with precious stones and rare marbles, primarily in the thirteenth century. Many of the columns, reliefs, and sculptures were spoils stripped from the churches, palaces, and public monuments of Constantinople as a result of the Venetian participation in the Fourth Crusade. Among the plundered artefacts brought back to Venice were the four ancient bronze horses that were placed prominently over the entry. The interior of the domes",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St Mark's Basilica",
+     "url": "https://en.wikipedia.org/wiki/St_Mark%27s_Basilica",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q172988",
+     "url": "https://www.wikidata.org/wiki/Q172988",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "piazza-san-marco",
+   "image": {
+    "file": "images/piazza-san-marco.jpg",
+    "author": "Matthias Süßen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piazza_San_Marco_(Venice)_at_night-msu-2021-6449-.jpg"
+   },
+   "location": {
+    "latitude": 45.434,
+    "longitude": 12.338
+   },
+   "category": "square",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 32,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Piazza San Marco",
+     "intro": "Piazza San Marco, often known in English as St Mark's Square, is the principal public square of Venice, Italy, where it is generally known just as la Piazza.",
+     "narration": "Piazza San Marco, often known in English as St Mark's Square, is the principal public square of Venice, Italy, where it is generally known just as la Piazza. The Piazzetta is an extension of the Piazza towards San Marco basin in its southeast corner. The two spaces together form the social, religious and political centre of Venice and are referred to together. This article relates to both of them. A remark usually attributed to Napoleon calls the Piazza San Marco \"the drawing room of Europe\".",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Piazza San Marco",
+     "url": "https://en.wikipedia.org/wiki/Piazza_San_Marco",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q217527",
+     "url": "https://www.wikidata.org/wiki/Q217527",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "doge-s-palace",
+   "image": {
+    "file": "images/doge-s-palace.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:(Venice)_Doge%27s_Palace_facing_the_sea.jpg"
+   },
+   "location": {
+    "latitude": 45.433666666,
+    "longitude": 12.340416666
+   },
+   "category": "museum",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 33,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "medieval",
+    "museum"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Doge's Palace",
+     "intro": "The Doge's Palace is a palace built in Venetian Gothic style, and one of the main landmarks of the city of Venice in northern Italy.",
+     "narration": "The Doge's Palace is a palace built in Venetian Gothic style, and one of the main landmarks of the city of Venice in northern Italy. The palace included government offices, a jail, and the residence of the Doge of Venice, the elected authority of the former Republic of Venice. It was originally built in 810, rebuilt in 1340 and extended and modified in the following centuries. It became a museum in 1923 and is one of 11 museums run by the Fondazione Musei Civici di Venezia.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Doge's Palace",
+     "url": "https://en.wikipedia.org/wiki/Doge%27s_Palace",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q189883",
+     "url": "https://www.wikidata.org/wiki/Q189883",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "santa-maria-della-salute",
+   "image": {
+    "file": "images/santa-maria-della-salute.jpg",
+    "author": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here are not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santa_Maria_della_Salute_from_Hotel_Monaco.jpg"
+   },
+   "location": {
+    "latitude": 45.43057,
+    "longitude": 12.33473
+   },
+   "category": "church",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "roman"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Santa Maria della Salute",
+     "intro": "Santa Maria della Salute, commonly known simply as La Salute, is a Roman Catholic church and minor basilica located at the Punta della Dogana in the Dorsoduro sestiere of the city of Venice, Italy.",
+     "narration": "Santa Maria della Salute, commonly known simply as La Salute, is a Roman Catholic church and minor basilica located at the Punta della Dogana in the Dorsoduro sestiere of the city of Venice, Italy. It stands on the narrow finger of Punta della Dogana, between the Grand Canal and the Giudecca Canal, at the Bacino di San Marco, making the church visible when entering the Piazza San Marco from the water. The Salute is part of the parish of the Gesuati and is the most recent of the so-called plague churches. In 1630, Venice experienced an unusually devastating outbreak of the plague.",
+     "longDescription": "Santa Maria della Salute, commonly known simply as La Salute, is a Roman Catholic church and minor basilica located at the Punta della Dogana in the Dorsoduro sestiere of the city of Venice, Italy. It stands on the narrow finger of Punta della Dogana, between the Grand Canal and the Giudecca Canal, at the Bacino di San Marco, making the church visible when entering the Piazza San Marco from the water. The Salute is part of the parish of the Gesuati and is the most recent of the so-called plague churches. In 1630, Venice experienced an unusually devastating outbreak of the plague. As a votive offering for the city's deliverance from the pestilence, the Republic of Venice vowed to build and dedicate a church to Our Lady of Health. The church was designed in the then fashionable Baroque style by Baldassare Longhena, who studied under the architect Vincenzo Scamozzi. Construction began in 1631. Most of the objects of art housed in the church bear references to the Black Death. The dome of the Salute was an important addition to the Venice skyline and soon became emblematic of the city, appearing in artworks both by locals, such as Canaletto and Francesco Guardi, and visitors, such as J. M. W. Turner and John Singer Sargent.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Santa Maria della Salute",
+     "url": "https://en.wikipedia.org/wiki/Santa_Maria_della_Salute",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q52531",
+     "url": "https://www.wikidata.org/wiki/Q52531",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-mark-s-clocktower",
+   "image": {
+    "file": "images/st-mark-s-clocktower.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Mark%27s_Clocktower_2.jpg"
+   },
+   "location": {
+    "latitude": 45.43404,
+    "longitude": 12.33821
+   },
+   "category": "square",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "St Mark's Clocktower",
+     "intro": "The Clock Tower in Venice is an early Renaissance building on the north side of the Piazza San Marco, at the entrance to the Merceria.",
+     "narration": "The Clock Tower in Venice is an early Renaissance building on the north side of the Piazza San Marco, at the entrance to the Merceria. It comprises a tower, which contains the clock, and lower buildings on each side. It adjoins the eastern end of the Procuratie Vecchie. Both the tower and the clock date from the last decade of the 15th century, though the mechanism of the clock has subsequently been much altered. It was placed where the clock would be visible from the waters of the lagoon and give notice to everyone of the wealth and glory of Venice.",
+     "longDescription": "The Clock Tower in Venice is an early Renaissance building on the north side of the Piazza San Marco, at the entrance to the Merceria. It comprises a tower, which contains the clock, and lower buildings on each side. It adjoins the eastern end of the Procuratie Vecchie. Both the tower and the clock date from the last decade of the 15th century, though the mechanism of the clock has subsequently been much altered. It was placed where the clock would be visible from the waters of the lagoon and give notice to everyone of the wealth and glory of Venice. The lower two floors of the tower make a monumental archway into the main street of the city, the Merceria, which linked the political and religious centre with the commercial and financial centre. Today it is one of the 11 venues managed by the Fondazione Musei Civici di Venezia.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St Mark's Clocktower",
+     "url": "https://en.wikipedia.org/wiki/St_Mark%27s_Clocktower",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q966625",
+     "url": "https://www.wikidata.org/wiki/Q966625",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "bridge-of-sighs",
+   "image": {
+    "file": "images/bridge-of-sighs.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antonio_Contin_-_Ponte_dei_sospiri_(Venice).jpg"
+   },
+   "location": {
+    "latitude": 45.434055555,
+    "longitude": 12.340861111
+   },
+   "category": "monument",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Bridge of Sighs",
+     "intro": "The Bridge of Sighs is a bridge in Venice, Italy.",
+     "narration": "The Bridge of Sighs is a bridge in Venice, Italy. It connects the Doge's Palace with the New Prison across Rio di Palazzo.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Bridge of Sighs",
+     "url": "https://en.wikipedia.org/wiki/Bridge_of_Sighs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q52517",
+     "url": "https://www.wikidata.org/wiki/Q52517",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "venetian-ghetto",
+   "image": {
+    "file": "images/venetian-ghetto.jpg",
+    "author": "San Marco Venice",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Venetian_Ghetto_from_above.jpg"
+   },
+   "location": {
+    "latitude": 45.445277777,
+    "longitude": 12.326388888
+   },
+   "category": "neighbourhood",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "historic",
+    "iconic",
+    "neighbourhood"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Venetian Ghetto",
+     "intro": "The Venetian Ghetto was the area of Venice in which Jews were forced to live by the government of the Venetian Republic.",
+     "narration": "The Venetian Ghetto was the area of Venice in which Jews were forced to live by the government of the Venetian Republic. The English word ghetto is derived from the Jewish ghetto in Venice. The Venetian Ghetto was instituted on 29 March 1516 by decree of Doge Leonardo Loredan and the Venetian Senate. It was not the first time that Jews in Venice were compelled to live in a segregated area of the city. In 1555, Venice had 160,208 inhabitants, including 923 Jews, who were mainly merchants. Between 1541 and 1633, the Ghetto Vecchio and Ghetto Nuovo were made to accommodate the increase in Jewish immigration, but the total number of Jews in Italy did not exceed 25,000.",
+     "longDescription": "The Venetian Ghetto was the area of Venice in which Jews were forced to live by the government of the Venetian Republic. The English word ghetto is derived from the Jewish ghetto in Venice. The Venetian Ghetto was instituted on 29 March 1516 by decree of Doge Leonardo Loredan and the Venetian Senate. It was not the first time that Jews in Venice were compelled to live in a segregated area of the city. In 1555, Venice had 160,208 inhabitants, including 923 Jews, who were mainly merchants. Between 1541 and 1633, the Ghetto Vecchio and Ghetto Nuovo were made to accommodate the increase in Jewish immigration, but the total number of Jews in Italy did not exceed 25,000. The Jewish community in Venice did not exceed 5,000 until the early seventeenth century. In 1797, the French Army of Italy, commanded by the 28-year-old General Napoleon Bonaparte, occupied Venice, forced the Venetian Republic to dissolve itself on 12 May 1797, and ended the ghetto's separation from the city on 11 July of the same year. In the 19th century, the ghetto was renamed the Contrada dell'unione.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Venetian Ghetto",
+     "url": "https://en.wikipedia.org/wiki/Venetian_Ghetto",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q649030",
+     "url": "https://www.wikidata.org/wiki/Q649030",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "gallerie-dell-accademia",
+   "image": {
+    "file": "images/gallerie-dell-accademia.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Accademia_(Venice).jpg"
+   },
+   "location": {
+    "latitude": 45.431078,
+    "longitude": 12.328139
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "museum"
+   ],
+   "area": "Venezia-Murano-Burano",
+   "content": {
+    "en": {
+     "name": "Gallerie dell'Accademia",
+     "intro": "The Gallerie dell'Accademia is a museum gallery of pre-19th-century art in Venice, northern Italy.",
+     "narration": "The Gallerie dell'Accademia is a museum gallery of pre-19th-century art in Venice, northern Italy. It houses the Leonardo da Vinci drawing The Vitruvian Man, which can only be exposed for a few weeks every six years for conservation reasons. It is housed in a building complex comprising the former Scuola Grande, church, and convent of Santa Maria della Carità on the south bank of the Grand Canal, within the sestiere of Dorsoduro. It was originally the gallery of the Accademia di Belle Arti di Venezia, the art academy of Venice, from which it became independent in 1879, and for which the Ponte dell'Accademia and the Accademia boat landing station for the vaporetto water bus are named.",
+     "longDescription": "The Gallerie dell'Accademia is a museum gallery of pre-19th-century art in Venice, northern Italy. It houses the Leonardo da Vinci drawing The Vitruvian Man, which can only be exposed for a few weeks every six years for conservation reasons. It is housed in a building complex comprising the former Scuola Grande, church, and convent of Santa Maria della Carità on the south bank of the Grand Canal, within the sestiere of Dorsoduro. It was originally the gallery of the Accademia di Belle Arti di Venezia, the art academy of Venice, from which it became independent in 1879, and for which the Ponte dell'Accademia and the Accademia boat landing station for the vaporetto water bus are named. The two institutions remained in the same building until 2004, when the art school moved to the Ospedale degli Incurabili.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Gallerie dell'Accademia",
+     "url": "https://en.wikipedia.org/wiki/Gallerie_dell%27Accademia",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q338330",
+     "url": "https://www.wikidata.org/wiki/Q338330",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "rialto-bridge",
+   "image": {
+    "file": "images/rialto-bridge.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rialto_2025_4.jpg"
+   },
+   "location": {
+    "latitude": 45.438008,
+    "longitude": 12.335639
+   },
+   "category": "monument",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 46,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Rialto Bridge",
+     "intro": "The Rialto Bridge is the oldest of the four bridges spanning the Grand Canal in Venice, Italy.",
+     "narration": "The Rialto Bridge is the oldest of the four bridges spanning the Grand Canal in Venice, Italy. Connecting the sestieri of San Marco and San Polo, it has been rebuilt several times since its first construction as a pontoon bridge in 1173, and is now a significant tourist attraction in the city. The present stone bridge is a single span designed by Antonio da Ponte. Construction began in 1588 and was completed in 1591. It is similar to the wooden bridge it succeeded. Two ramps lead up to a central portico. On either side of the portico, the covered ramps carry rows of shops. The engineering of the bridge was considered so audacious that architect Vincenzo Scamozzi predicted future ruin.",
+     "longDescription": "The Rialto Bridge is the oldest of the four bridges spanning the Grand Canal in Venice, Italy. Connecting the sestieri of San Marco and San Polo, it has been rebuilt several times since its first construction as a pontoon bridge in 1173, and is now a significant tourist attraction in the city. The present stone bridge is a single span designed by Antonio da Ponte. Construction began in 1588 and was completed in 1591. It is similar to the wooden bridge it succeeded. Two ramps lead up to a central portico. On either side of the portico, the covered ramps carry rows of shops. The engineering of the bridge was considered so audacious that architect Vincenzo Scamozzi predicted future ruin. The bridge has defied its critics to become one of the architectural icons, and top tourist attractions, in Venice.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Rialto Bridge",
+     "url": "https://en.wikipedia.org/wiki/Rialto_Bridge",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q52505",
+     "url": "https://www.wikidata.org/wiki/Q52505",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "santa-maria-gloriosa-dei-frari",
+   "image": {
+    "file": "images/santa-maria-gloriosa-dei-frari.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Facade_of_Santa_Maria_Gloriosa_dei_Frari_(Venice).jpg"
+   },
+   "location": {
+    "latitude": 45.43693,
+    "longitude": 12.32649
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "medieval"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Santa Maria Gloriosa dei Frari",
+     "intro": "The Basilica di Santa Maria Gloriosa dei Frari, commonly abbreviated to the Frari, is a church located in the Campo dei Frari at the heart of the San Polo district of Venice, Italy.",
+     "narration": "The Basilica di Santa Maria Gloriosa dei Frari, commonly abbreviated to the Frari, is a church located in the Campo dei Frari at the heart of the San Polo district of Venice, Italy. It is one of the largest churches in the city and it has the status of a minor basilica. The church is dedicated to the Assumption of Mary. The imposing edifice is built of brick and is one of the three notable churches in the city that retain most of their Venetian Gothic appearance. In common with many Franciscan churches, the exterior is rather plain, even on the front facade. The exterior features a bell tower that was repaired in the early 2000s for structural problems.",
+     "longDescription": "The Basilica di Santa Maria Gloriosa dei Frari, commonly abbreviated to the Frari, is a church located in the Campo dei Frari at the heart of the San Polo district of Venice, Italy. It is one of the largest churches in the city and it has the status of a minor basilica. The church is dedicated to the Assumption of Mary. The imposing edifice is built of brick and is one of the three notable churches in the city that retain most of their Venetian Gothic appearance. In common with many Franciscan churches, the exterior is rather plain, even on the front facade. The exterior features a bell tower that was repaired in the early 2000s for structural problems. The interior is notable for many tombs and works of art that accumulated in the centuries after it was built. It contains many very grand wall monuments to distinguished Venetians buried in the church, including a number of Doges. Many of these are important works in the history of Venetian sculpture, including that by Donatello. Paintings in situ include two large and important altarpieces by Titian, the Assumption of the Virgin on the high altar and the Pesaro Madonna in a chapel. The basilica also contains the only rood screen still in place in a church in Venice, a vestige of the Venetian Gothic architecture that preceded Venetian Renaissance architecture.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Santa Maria Gloriosa dei Frari",
+     "url": "https://en.wikipedia.org/wiki/Santa_Maria_Gloriosa_dei_Frari",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q224961",
+     "url": "https://www.wikidata.org/wiki/Q224961",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-mark-s-campanile",
+   "image": {
+    "file": "images/st-mark-s-campanile.jpg",
+    "author": "Orlando Paride",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Campanile_of_St._Mark%27s_Basilica_-_remote_view.jpg"
+   },
+   "location": {
+    "latitude": 45.434027777,
+    "longitude": 12.339027777
+   },
+   "category": "monument",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "St Mark's Campanile",
+     "intro": "St Mark's Campanile is the bell tower of St Mark's Basilica in Venice, Italy.",
+     "narration": "St Mark's Campanile is the bell tower of St Mark's Basilica in Venice, Italy. The campanile is a reconstruction completed in 1912, the previous tower having collapsed in 1902. At 98.6 metres in height, it is the tallest structure in Venice and is colloquially termed \"el paròn de casa\". It is one of the most recognizable symbols of the city. Located in Saint Mark's Square near the mouth of the Grand Canal, the campanile was initially intended as a watchtower to sight approaching ships and protect the entry to the city. It also served as a landmark to guide Venetian ships safely into harbour.",
+     "longDescription": "St Mark's Campanile is the bell tower of St Mark's Basilica in Venice, Italy. The campanile is a reconstruction completed in 1912, the previous tower having collapsed in 1902. At 98.6 metres in height, it is the tallest structure in Venice and is colloquially termed \"el paròn de casa\". It is one of the most recognizable symbols of the city. Located in Saint Mark's Square near the mouth of the Grand Canal, the campanile was initially intended as a watchtower to sight approaching ships and protect the entry to the city. It also served as a landmark to guide Venetian ships safely into harbour. Construction began in the early tenth century and continued sporadically over time as the tower was slowly raised in height. A belfry and a spire were first added in the twelfth century. In the fourteenth century the spire was gilded, making the tower visible to distant ships in the Adriatic. The campanile reached its full height in 1514 when the belfry and spire were completely rebuilt on the basis of an earlier Renaissance design by Giorgio Spavento. Historically, the bells served to regulate the civic and religious life of Venice, marking the beginning, pauses, and end of the work day; the convocation of government assemblies; and public executions. The campanile stands alone in the square, near the front of St Mark's Basilica. It has a simple form, recalling its early defensive function, the bulk of which is a square brick shaft with lesenes, 12 metres wide on each side and 50 metres tall. The belfry is topped by an attic with effigies of the Lion of St Mark and allegorical figures of Venice as Justice. The tower is capped by a pyramidal spire at the top of which there is a golden weather vane in the form of the archangel Gabriel.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St Mark's Campanile",
+     "url": "https://en.wikipedia.org/wiki/St_Mark%27s_Campanile",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q754194",
+     "url": "https://www.wikidata.org/wiki/Q754194",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "santi-giovanni-e-paolo-venice",
+   "image": {
+    "file": "images/santi-giovanni-e-paolo-venice.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilica_dei_Santi_Giovanni_e_Paolo.jpg"
+   },
+   "location": {
+    "latitude": 45.439216666,
+    "longitude": 12.342397222
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 24,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Santi Giovanni e Paolo, Venice",
+     "intro": "The Basilica dei Santi Giovanni e Paolo, known in Venetian as San Zanipolo, is a Catholic minor basilica and Dominican conventual church in the Castello sestiere of Venice, Italy.",
+     "narration": "The Basilica dei Santi Giovanni e Paolo, known in Venetian as San Zanipolo, is a Catholic minor basilica and Dominican conventual church in the Castello sestiere of Venice, Italy. It is one of the largest churches in the city of Venice. After the 15th century the funeral services of all of Venice's doges were held here, and twenty-five doges are buried in the church.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Santi Giovanni e Paolo, Venice",
+     "url": "https://en.wikipedia.org/wiki/Santi_Giovanni_e_Paolo%2C_Venice",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q155225",
+     "url": "https://www.wikidata.org/wiki/Q155225",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "san-giorgio-maggiore-church-venice",
+   "image": {
+    "file": "images/san-giorgio-maggiore-church-venice.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Giorgio_Maggiore_(Venice).jpg"
+   },
+   "location": {
+    "latitude": 45.4293,
+    "longitude": 12.3433
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 28,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "San Giorgio Maggiore (church), Venice",
+     "intro": "San Giorgio Maggiore is a 16th-century Benedictine church on the island of the same name in Venice, northern Italy, designed by Andrea Palladio, and built between 1566 and 1610.",
+     "narration": "San Giorgio Maggiore is a 16th-century Benedictine church on the island of the same name in Venice, northern Italy, designed by Andrea Palladio, and built between 1566 and 1610. The church is a basilica in the classical Renaissance style and its brilliant white marble gleams above the blue water of the lagoon opposite the Piazzetta di San Marco and forms the focal point of the view from every part of the Riva degli Schiavoni.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: San Giorgio Maggiore (church), Venice",
+     "url": "https://en.wikipedia.org/wiki/San_Giorgio_Maggiore_%28church%29%2C_Venice",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q713558",
+     "url": "https://www.wikidata.org/wiki/Q713558",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "biblioteca-marciana",
+   "image": {
+    "file": "images/biblioteca-marciana.jpg",
+    "author": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here are not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Libreria_Marciana_Venezia_sera.jpg"
+   },
+   "location": {
+    "latitude": 45.433333333,
+    "longitude": 12.339166666
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Biblioteca Marciana",
+     "intro": "The Marciana Library or Library of Saint Mark is a public library in Venice, Italy.",
+     "narration": "The Marciana Library or Library of Saint Mark is a public library in Venice, Italy. It is one of the earliest surviving public libraries and repositories for manuscripts in Italy and holds one of the world's most significant collections of classical texts. It is named after Mark the Evangelist, the patron saint of the city. The library was founded in 1468 when the humanist scholar Cardinal Bessarion, bishop of Tusculum and titular Latin patriarch of Constantinople, donated his collection of Greek and Latin manuscripts to the Republic of Venice, with the stipulation that a library of public utility be established.",
+     "longDescription": "The Marciana Library or Library of Saint Mark is a public library in Venice, Italy. It is one of the earliest surviving public libraries and repositories for manuscripts in Italy and holds one of the world's most significant collections of classical texts. It is named after Mark the Evangelist, the patron saint of the city. The library was founded in 1468 when the humanist scholar Cardinal Bessarion, bishop of Tusculum and titular Latin patriarch of Constantinople, donated his collection of Greek and Latin manuscripts to the Republic of Venice, with the stipulation that a library of public utility be established. The collection was the result of Bessarion's persistent efforts to locate rare manuscripts throughout Greece and Italy and then acquire or copy them as a means of preserving the writings of the classical Greek authors and the literature of Byzantium after the fall of Constantinople in 1453. His choice of Venice was primarily due to the city's large community of Greek refugees and its historical ties to the Byzantine Empire. The Venetian government was slow, however, to honour its commitment to suitably house the manuscripts with decades of discussion and indecision, owing to a series of military conflicts in the late-fifteenth and early-sixteenth centuries and the resulting climate of political uncertainty. The library was ultimately built during the period of recovery as part of a vast programme of urban renewal aimed at glorifying the republic through architecture and affirming its international prestige as a centre of wisdom and learning. The original library building is located in Saint Mark's Square, Venice's former governmental centre, with its long façade facing the Doge's Palace. Constructed between 1537 and 1588, it is considered the masterpiece of the",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Biblioteca Marciana",
+     "url": "https://en.wikipedia.org/wiki/Biblioteca_Marciana",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q578460",
+     "url": "https://www.wikidata.org/wiki/Q578460",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "cannaregio",
+   "image": {
+    "file": "images/cannaregio.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canale_di_Cannaregio_-_Viewed_from_Grand_Canal.jpg"
+   },
+   "location": {
+    "latitude": 45.446,
+    "longitude": 12.327
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "neighbourhood"
+   ],
+   "area": "Venezia-Murano-Burano",
+   "content": {
+    "en": {
+     "name": "Cannaregio",
+     "intro": "Cannaregio is the northernmost of the six historic sestieri of Venice, Italy.",
+     "narration": "Cannaregio is the northernmost of the six historic sestieri of Venice, Italy. It is the second largest sestiere by land area and the largest by population, with 13,169 people as of 2007. Isola di San Michele, the historic cemetery island, is associated with the district.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Cannaregio",
+     "url": "https://en.wikipedia.org/wiki/Cannaregio",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q52423",
+     "url": "https://www.wikidata.org/wiki/Q52423",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ca-rezzonico",
+   "image": {
+    "file": "images/ca-rezzonico.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ca%27_Rezzonico_(Venice).jpg"
+   },
+   "location": {
+    "latitude": 45.434086,
+    "longitude": 12.324354
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "baroque",
+    "historic",
+    "museum"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Ca' Rezzonico",
+     "intro": "Ca' Rezzonico is a palazzo and art museum on the Grand Canal in the Dorsoduro sestiere of Venice, Italy.",
+     "narration": "Ca' Rezzonico is a palazzo and art museum on the Grand Canal in the Dorsoduro sestiere of Venice, Italy. It is a particularly notable example of the 18th century Venetian baroque and rococo architecture and interior decoration, and displays paintings by the leading Venetian painters of the period, including Francesco Guardi and Giambattista Tiepolo. It is a public museum dedicated to 18th-century Venice and one of the 11 venues managed by the Fondazione Musei Civici di Venezia. The palazzo was originally designed by the architect Baldassarre Longhena in 1649 for the Bon family.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Ca' Rezzonico",
+     "url": "https://en.wikipedia.org/wiki/Ca%27_Rezzonico",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1052171",
+     "url": "https://www.wikidata.org/wiki/Q1052171",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "last-supper-tintoretto",
+   "image": {
+    "file": "images/last-supper-tintoretto.jpg",
+    "author": "Jacopo Tintoretto",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacopo_Tintoretto_-_The_Last_Supper_-_WGA22649.jpg"
+   },
+   "location": {
+    "latitude": 45.429166666,
+    "longitude": 12.343333333
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic"
+   ],
+   "area": "Venezia-Murano-Burano",
+   "content": {
+    "en": {
+     "name": "Last Supper (Tintoretto)",
+     "intro": "The Last Supper is a painting by the Italian Renaissance artist Jacopo Tintoretto.",
+     "narration": "The Last Supper is a painting by the Italian Renaissance artist Jacopo Tintoretto. An oil painting on canvas executed in 1592–1594, it is housed in the Basilica di San Giorgio Maggiore in Venice, Italy.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Last Supper (Tintoretto)",
+     "url": "https://en.wikipedia.org/wiki/Last_Supper_%28Tintoretto%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2472983",
+     "url": "https://www.wikidata.org/wiki/Q2472983",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "portrait-of-the-four-tetrarchs",
+   "image": {
+    "file": "images/portrait-of-the-four-tetrarchs.jpg",
+    "author": "Jean-Pol GRANDMONT",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:0_Venise,_les_T%C3%A9trarques_de_la_basilique_San_Marco_(2).JPG"
+   },
+   "location": {
+    "latitude": 45.43416667,
+    "longitude": 12.33972222
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "medieval",
+    "monument",
+    "roman"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Portrait of the Four Tetrarchs",
+     "intro": "The Portrait of the Four Tetrarchs is a porphyry sculpture group of four Roman emperors dating from around 300 AD.",
+     "narration": "The Portrait of the Four Tetrarchs is a porphyry sculpture group of four Roman emperors dating from around 300 AD. The sculptural group has been fixed to a corner of the façade of St Mark's Basilica in Venice, Italy since the Middle Ages. It probably formed part of the decorations of the Philadelphion in Constantinople, and was removed to Venice in 1204 or soon after. Spolia from the Fourth Crusade, the statues were originally designed as two separate sculptures, each consisting of a pair of armoured late Roman emperors embracing one another.",
+     "longDescription": "The Portrait of the Four Tetrarchs is a porphyry sculpture group of four Roman emperors dating from around 300 AD. The sculptural group has been fixed to a corner of the façade of St Mark's Basilica in Venice, Italy since the Middle Ages. It probably formed part of the decorations of the Philadelphion in Constantinople, and was removed to Venice in 1204 or soon after. Spolia from the Fourth Crusade, the statues were originally designed as two separate sculptures, each consisting of a pair of armoured late Roman emperors embracing one another. The paired statues stand on plinths supported by a console of the same stone, and their backs are engaged in the remains of large porphyry columns to which the statues were once attached, carved all of a piece. The columns no longer exist, and one emperor pair is missing part of the plinth and an emperor's foot, which has been found in Istanbul. One statue pair has been sliced vertically and is missing a large portion of the right-hand emperor's right side, while another vertical slice divides the two figures and has sawn through their embracing arms. The Portrait of the Four Tetrarchs probably depicts the four rulers of the Empire instituted by Emperor Diocletian – the first Tetrarchy. He appointed as co-augustus Maximian; they chose Galerius and Constantius I as their caesares; Constantius was father to Constantine the Great. There is disagreement as to the identity of these statues and their placement, but it is suggested that the Eastern rulers form a pair and the Western rulers form the other pair, each pair consisting of the senior augustus and the junior caesar. Another possibility is that the two augusti are depicted in one pair and the two caesares in the other. A third, older theory is that they represent a dynastic group",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Portrait of the Four Tetrarchs",
+     "url": "https://en.wikipedia.org/wiki/Portrait_of_the_Four_Tetrarchs",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2570221",
+     "url": "https://www.wikidata.org/wiki/Q2570221",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ca-d-oro",
+   "image": {
+    "file": "images/ca-d-oro.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ca%27_d%27Oro_facciata.jpg"
+   },
+   "location": {
+    "latitude": 45.440555555,
+    "longitude": 12.333888888
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "medieval",
+    "museum"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Ca' d'Oro",
+     "intro": "The Ca' d'Oro, or Palazzo Santa Sofia, is a palace on the Grand Canal in Venice, northern Italy.",
+     "narration": "The Ca' d'Oro, or Palazzo Santa Sofia, is a palace on the Grand Canal in Venice, northern Italy. Ca' d'Oro or Cadoro translates to \"House of Gold\" or \"Golden House\" in English because of the gilt and polychrome external decorations that once adorned its walls. It was designed by Marino Contarini and later restored by Baron Giorgio Franchetti. In 1927, the building was converted into a museum and since then has been known as the Galleria Giorgio Franchetti alla Ca' d'Oro. The Ca' d'Oro has long been regarded as the best-surviving palazzo in Venetian Gothic architecture, retaining all the most characteristic features, despite some losses.",
+     "longDescription": "The Ca' d'Oro, or Palazzo Santa Sofia, is a palace on the Grand Canal in Venice, northern Italy. Ca' d'Oro or Cadoro translates to \"House of Gold\" or \"Golden House\" in English because of the gilt and polychrome external decorations that once adorned its walls. It was designed by Marino Contarini and later restored by Baron Giorgio Franchetti. In 1927, the building was converted into a museum and since then has been known as the Galleria Giorgio Franchetti alla Ca' d'Oro. The Ca' d'Oro has long been regarded as the best-surviving palazzo in Venetian Gothic architecture, retaining all the most characteristic features, despite some losses. On the facade, the loggia-like window group of closely spaced small columns, with heavy tracery and quatrefoil openings above, use the formula from the Doge's Palace that had become iconic. There is also Byzantine-inspired decoration along the roofline and patterning in fancy colored stone to the flat wall surfaces. The smaller windows show a variety of forms with an ogee arch capped with a relief ornament.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Ca' d'Oro",
+     "url": "https://en.wikipedia.org/wiki/Ca%27_d%27Oro",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q820872",
+     "url": "https://www.wikidata.org/wiki/Q820872",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "rialto",
+   "image": {
+    "file": "images/rialto.jpg",
+    "author": null,
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rialto.jpg"
+   },
+   "location": {
+    "latitude": 45.4385,
+    "longitude": 12.3348
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "neighbourhood"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Rialto",
+     "intro": "The Rialto is a central area of Venice, Italy, in the sestiere of San Polo.",
+     "narration": "The Rialto is a central area of Venice, Italy, in the sestiere of San Polo. It has for centuries been the financial and commercial heart of the city. Rialto is known for its prominent markets as well as for the Rialto Bridge across the Grand Canal.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Rialto",
+     "url": "https://en.wikipedia.org/wiki/Rialto",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1190585",
+     "url": "https://www.wikidata.org/wiki/Q1190585",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "museo-correr",
+   "image": {
+    "file": "images/museo-correr.jpg",
+    "author": "Kasa Fue, edited by MenkinAlRire",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Venedig_Juli_2020_Lockdown_1-edit.jpg"
+   },
+   "location": {
+    "latitude": 45.433933,
+    "longitude": 12.337128
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 25,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "museum"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Museo Correr",
+     "intro": "The Museo Correr is a museum in Venice, northern Italy.",
+     "narration": "The Museo Correr is a museum in Venice, northern Italy. Located in St. Mark's Square, Venice, it is one of the 11 civic museums run by the Fondazione Musei Civici di Venezia. The museum extends along the southside of the square on the upper floors of the Procuratorie Nuove. With its rich and varied collections, the Museo Correr covers both the art and history of Venice.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Museo Correr",
+     "url": "https://en.wikipedia.org/wiki/Museo_Correr",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1470912",
+     "url": "https://www.wikidata.org/wiki/Q1470912",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "la-fenice",
+   "image": {
+    "file": "images/la-fenice.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teatro_La_Fenice_(Venice)_-_Facade.jpg"
+   },
+   "location": {
+    "latitude": 45.4337,
+    "longitude": 12.3339
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 26,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "La Fenice",
+     "intro": "Teatro La Fenice is a historic opera house in Venice, Italy.",
+     "narration": "Teatro La Fenice is a historic opera house in Venice, Italy. It is one of \"the most famous and renowned landmarks in the history of Italian theatre\" and in the history of opera as a whole. Especially in the 19th century, La Fenice became the site of many famous operatic premieres at which several works by the four major bel canto era composers—Rossini, Bellini, Donizetti, and Verdi—were performed.",
+     "longDescription": "Teatro La Fenice is a historic opera house in Venice, Italy. It is one of \"the most famous and renowned landmarks in the history of Italian theatre\" and in the history of opera as a whole. Especially in the 19th century, La Fenice became the site of many famous operatic premieres at which several works by the four major bel canto era composers—Rossini, Bellini, Donizetti, and Verdi—were performed. Its name reflects its role in permitting an opera company to \"rise from the ashes\" despite losing the use of three theatres to fire, the first in 1774 after the city's leading house was destroyed and rebuilt but not opened until 1792; the second fire came in 1836, but rebuilding was completed within a year. The third fire was the result of arson, and destroyed the house in 1996 leaving only the exterior walls; it was rebuilt and re-opened in November 2004. In order to celebrate this event, the tradition of the Venice New Year's Concert started. Through the years, the greatest conductors in the world have performed at La Fenice, including Giuseppe Martucci, Arturo Toscanini, Richard Strauss, Pietro Mascagni, Leonard Bernstein, Leopold Stokowski, Fritz Reiner, Tullio Serafin, John Barbirolli, Guido Cantelli, Dimitri Mitropoulos, Herbert von Karajan, Karl Böhm, Claudio Abbado, and Riccardo Muti.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: La Fenice",
+     "url": "https://en.wikipedia.org/wiki/La_Fenice",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q223942",
+     "url": "https://www.wikidata.org/wiki/Q223942",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ca-pesaro",
+   "image": {
+    "file": "images/ca-pesaro.jpg",
+    "author": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here are not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ca%27Pesaro_di_Baldassarre_Longhena_facciata_sul_Canal_Grande.jpg"
+   },
+   "location": {
+    "latitude": 45.441,
+    "longitude": 12.33146
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "baroque",
+    "historic",
+    "museum"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Ca' Pesaro",
+     "intro": "Ca' Pesaro is a Baroque marble palace turned art museum, facing the Grand Canal of Venice, Italy.",
+     "narration": "Ca' Pesaro is a Baroque marble palace turned art museum, facing the Grand Canal of Venice, Italy. Today it is one of the 11 museums run by the Fondazione Musei Civici di Venezia system. The building was originally designed by Baldassarre Longhena in the mid-17th century, the construction was completed by Gian Antonio Gaspari in 1710. As at Longhena's Ca' Rezzonico, a double order of colossal columns and colonnettes flanking arch-headed windows, reinterpreting a motif of Jacopo Sansovino, Longhena creates the impression of double loggias extending across the main Grand Canal frontage, above a boldly rusticated basement.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Ca' Pesaro",
+     "url": "https://en.wikipedia.org/wiki/Ca%27_Pesaro",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q756807",
+     "url": "https://www.wikidata.org/wiki/Q756807",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "peggy-guggenheim-collection",
+   "image": {
+    "file": "images/peggy-guggenheim-collection.jpg",
+    "author": "Abxbay",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pal_Venier_dei_Leone.jpg"
+   },
+   "location": {
+    "latitude": 45.430821,
+    "longitude": 12.331537
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "modern",
+    "museum"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Peggy Guggenheim Collection",
+     "intro": "The Peggy Guggenheim Collection is an art museum on the Grand Canal in the Dorsoduro sestiere of Venice, Italy.",
+     "narration": "The Peggy Guggenheim Collection is an art museum on the Grand Canal in the Dorsoduro sestiere of Venice, Italy. It is one of the most visited attractions in Venice. The collection is housed in the Palazzo Venier dei Leoni, an 18th-century palace, which was the home of the American heiress Peggy Guggenheim for three decades. She began displaying her private collection of modern artworks to the public seasonally in 1951. After her death in 1979, it passed to the Solomon R. Guggenheim Foundation, which opened the collection year-round from 1980. The collection includes works of prominent Italian futurists and American modernists working in such genres as Cubism, Surrealism and abstract expressionism. It also includes sculptural works.",
+     "longDescription": "The Peggy Guggenheim Collection is an art museum on the Grand Canal in the Dorsoduro sestiere of Venice, Italy. It is one of the most visited attractions in Venice. The collection is housed in the Palazzo Venier dei Leoni, an 18th-century palace, which was the home of the American heiress Peggy Guggenheim for three decades. She began displaying her private collection of modern artworks to the public seasonally in 1951. After her death in 1979, it passed to the Solomon R. Guggenheim Foundation, which opened the collection year-round from 1980. The collection includes works of prominent Italian futurists and American modernists working in such genres as Cubism, Surrealism and abstract expressionism. It also includes sculptural works. In 2017, Karole Vail, a granddaughter of Peggy Guggenheim, was appointed the director of the collection, succeeding Philip Rylands, who led the museum for 37 years.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Peggy Guggenheim Collection",
+     "url": "https://en.wikipedia.org/wiki/Peggy_Guggenheim_Collection",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1049033",
+     "url": "https://www.wikidata.org/wiki/Q1049033",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ponte-dell-accademia",
+   "image": {
+    "file": "images/ponte-dell-accademia.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponte_dell%27Accademia_Venezia.jpg"
+   },
+   "location": {
+    "latitude": 45.43166,
+    "longitude": 12.32899
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Ponte dell'Accademia",
+     "intro": "The Ponte dell'Accademia is one of only four bridges to span the Grand Canal in Venice, Italy.",
+     "narration": "The Ponte dell'Accademia is one of only four bridges to span the Grand Canal in Venice, Italy. It crosses near the southern end of the canal, and is named for the Accademia di Belle Arti di Venezia, which from 1807 to 2004 was housed in the Scuola della Carità together with the Gallerie dell'Accademia, which is still there. The bridge links the sestieri of Dorsoduro and San Marco. A bridge on the site was first suggested as early as 1488. The provveditore Luca Tron proposed in the council to build two bridges across the Grand Canal, one here and the other at Santa Sofia.",
+     "longDescription": "The Ponte dell'Accademia is one of only four bridges to span the Grand Canal in Venice, Italy. It crosses near the southern end of the canal, and is named for the Accademia di Belle Arti di Venezia, which from 1807 to 2004 was housed in the Scuola della Carità together with the Gallerie dell'Accademia, which is still there. The bridge links the sestieri of Dorsoduro and San Marco. A bridge on the site was first suggested as early as 1488. The provveditore Luca Tron proposed in the council to build two bridges across the Grand Canal, one here and the other at Santa Sofia. The members of the council, however, laughed at him, and the motion was not even put to the vote. The original steel structure, designed by Alfred Neville, opened on 20 November 1854, but was demolished and replaced by a wooden bridge designed by Eugenio Miozzi and opened in 1933, despite widespread hopes for a stone bridge. Lovers have attempted to attach padlocks to the metal hand rails of the bridge, but Venetian authorities have successfully cracked down on this.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Ponte dell'Accademia",
+     "url": "https://en.wikipedia.org/wiki/Ponte_dell%27Accademia",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q52509",
+     "url": "https://www.wikidata.org/wiki/Q52509",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "il-redentore",
+   "image": {
+    "file": "images/il-redentore.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chiesa_del_Redentore_(Venice).jpg"
+   },
+   "location": {
+    "latitude": 45.424991666,
+    "longitude": 12.332452777
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "river",
+    "roman"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Il Redentore",
+     "intro": "The Chiesa del Santissimo Redentore, commonly known as Il Redentore, is a 16th-century Roman Catholic church located on Giudecca in the sestiere of Dorsoduro, in the city of Venice, Italy.",
+     "narration": "The Chiesa del Santissimo Redentore, commonly known as Il Redentore, is a 16th-century Roman Catholic church located on Giudecca in the sestiere of Dorsoduro, in the city of Venice, Italy. It was designed by Italian Renaissance architect Andrea Palladio and built as a votive church to thank God for the deliverance of the city from a major outbreak of the plague. Located on the waterfront of the Canale della Giudecca, it dominates the skyline of the island of Giudecca. It is a member of the Chorus Association of Venetian churches and contains a number of paintings by artists including Tintoretto, Paolo Veronese, and Francesco Bassano.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Il Redentore",
+     "url": "https://en.wikipedia.org/wiki/Il_Redentore",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q830807",
+     "url": "https://www.wikidata.org/wiki/Q830807",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "san-zaccaria-venice",
+   "image": {
+    "file": "images/san-zaccaria-venice.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chiesa_di_San_Zaccaria_Venezia.jpg"
+   },
+   "location": {
+    "latitude": 45.434722222,
+    "longitude": 12.343333333
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 22,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "river"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "San Zaccaria, Venice",
+     "intro": "The Church of San Zaccaria is a 15th-century former monastic church in central Venice.",
+     "narration": "The Church of San Zaccaria is a 15th-century former monastic church in central Venice. It is a large edifice located in the Campo San Zaccaria, just off the waterfront to the southeast of Piazza San Marco and St Mark's Basilica. It is dedicated to Zechariah, father of John the Baptist and was built by the Republic of Venice.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: San Zaccaria, Venice",
+     "url": "https://en.wikipedia.org/wiki/San_Zaccaria%2C_Venice",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q794876",
+     "url": "https://www.wikidata.org/wiki/Q794876",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "piazzale-roma",
+   "image": {
+    "file": "images/piazzale-roma.jpg",
+    "author": "Luca Fascia",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piazzale_Roma.JPG"
+   },
+   "location": {
+    "latitude": 45.43777778,
+    "longitude": 12.31861111
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Piazzale Roma",
+     "intro": "Piazzale Roma is a square in Venice, Italy, at the entrance of the city, at the end of the Ponte della Libertà, a road bridge.",
+     "narration": "Piazzale Roma is a square in Venice, Italy, at the entrance of the city, at the end of the Ponte della Libertà, a road bridge. The bridge connects the islands that form the historical centre of the city of Venice to the mainland part of the city. Piazzale Roma and nearby Tronchetto island are the only places in Venice's insular urban core accessible to ground motor vehicles, such as automobiles and buses. The square acts as the main bus station for Venice. There are bus links to Venice Marco Polo Airport and Treviso Airport.",
+     "longDescription": "Piazzale Roma is a square in Venice, Italy, at the entrance of the city, at the end of the Ponte della Libertà, a road bridge. The bridge connects the islands that form the historical centre of the city of Venice to the mainland part of the city. Piazzale Roma and nearby Tronchetto island are the only places in Venice's insular urban core accessible to ground motor vehicles, such as automobiles and buses. The square acts as the main bus station for Venice. There are bus links to Venice Marco Polo Airport and Treviso Airport. The square is close to the main Santa Lucia railway station for Venice, linked by the Ponte della Costituzione, a modern footbridge installed in 2008 over the western end of the Grand Canal. The Venice People Mover, a public transit system, connects Tronchetto island and Piazzale Roma. It started operating in 2010.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Piazzale Roma",
+     "url": "https://en.wikipedia.org/wiki/Piazzale_Roma",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2717404",
+     "url": "https://www.wikidata.org/wiki/Q2717404",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ponte-della-liberta",
+   "image": {
+    "file": "images/ponte-della-liberta.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Venise_Aero_Pont_de_la_Libert%C3%A9.jpg"
+   },
+   "location": {
+    "latitude": 45.454486,
+    "longitude": 12.297306
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Ponte della Libertà",
+     "intro": "The Ponte della Libertà is a road bridge connecting the islands that form the historical centre of the city of Venice to the mainland part of the city.",
+     "narration": "The Ponte della Libertà is a road bridge connecting the islands that form the historical centre of the city of Venice to the mainland part of the city. Designed in 1932 by engineer Eugenio Miozzi, it was opened by Benito Mussolini in 1933 as Ponte Littorio – a name used during the Fascist era for several other Italian bridges. At the end of World War II it was renamed Ponte della Libertà to honour the end of the Fascist dictatorship and of the Nazi occupation. The bridge is the only vehicular access to the historical centre of Venice. The eastern end of the road terminates in the Piazzale Roma, the bus depot for the historical centre.",
+     "longDescription": "The Ponte della Libertà is a road bridge connecting the islands that form the historical centre of the city of Venice to the mainland part of the city. Designed in 1932 by engineer Eugenio Miozzi, it was opened by Benito Mussolini in 1933 as Ponte Littorio – a name used during the Fascist era for several other Italian bridges. At the end of World War II it was renamed Ponte della Libertà to honour the end of the Fascist dictatorship and of the Nazi occupation. The bridge is the only vehicular access to the historical centre of Venice. The eastern end of the road terminates in the Piazzale Roma, the bus depot for the historical centre. The western end reaches mainland Venice and becomes the Via Libertà, which divides the Venetian boroughs of Mestre and Marghera. It is the final section of the old Public Road 11, the Padana Superiore. It is 3.85 km long and has two lanes with a tram track each way. There is also a pedestrian and cycle path on the southern side. It was built alongside the Venice Railway Viaduct, which had been constructed in 1846. This has two tracks each way and is still in use.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Ponte della Libertà",
+     "url": "https://en.wikipedia.org/wiki/Ponte_della_Libert%C3%A0",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1134699",
+     "url": "https://www.wikidata.org/wiki/Q1134699",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "san-pietro-di-castello-church",
+   "image": {
+    "file": "images/san-pietro-di-castello-church.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Pietro_di_Castello_(Venice)_Abside.jpg"
+   },
+   "location": {
+    "latitude": 45.43458,
+    "longitude": 12.35972
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "roman"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "San Pietro di Castello (church)",
+     "intro": "The Basilica di San Pietro di Castello, commonly called San Pietro di Castello, is a Roman Catholic minor basilica of the Patriarch of Venice located in the Castello sestiere of the Italian city of Venice.",
+     "narration": "The Basilica di San Pietro di Castello, commonly called San Pietro di Castello, is a Roman Catholic minor basilica of the Patriarch of Venice located in the Castello sestiere of the Italian city of Venice. The present building dates from the 16th century, but a church has stood on the site since at least the 7th century. From 1451 to 1807, it was the city's cathedral church, though hardly playing the usual dominant role of a cathedral, as it was overshadowed by the \"state church\" of San Marco and inconveniently located. During its history, the church has undergone a number of alterations and additions by some of Venice's most prominent architects.",
+     "longDescription": "The Basilica di San Pietro di Castello, commonly called San Pietro di Castello, is a Roman Catholic minor basilica of the Patriarch of Venice located in the Castello sestiere of the Italian city of Venice. The present building dates from the 16th century, but a church has stood on the site since at least the 7th century. From 1451 to 1807, it was the city's cathedral church, though hardly playing the usual dominant role of a cathedral, as it was overshadowed by the \"state church\" of San Marco and inconveniently located. During its history, the church has undergone a number of alterations and additions by some of Venice's most prominent architects. Andrea Palladio received his first commission in the city of Venice from the Patriarch Vincenzo Diedo to rebuild the facade and interior of St Pietro, but Diedo's death delayed the project. After St Mark's Basilica became Venice's official cathedral, San Pietro fell into a state of disrepair. It was firebombed during the First World War and only through the efforts of conservation organisations has it been restored to its former state. Its ongoing conservation is now managed through its membership of the Chorus Association of Venetian churches. The church is located on San Pietro di Castello, a small island off the eastern end of the main city of Venice.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: San Pietro di Castello (church)",
+     "url": "https://en.wikipedia.org/wiki/San_Pietro_di_Castello_%28church%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q945981",
+     "url": "https://www.wikidata.org/wiki/Q945981",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ospedale-della-pieta",
+   "image": null,
+   "location": {
+    "latitude": 45.434111111,
+    "longitude": 12.344611111
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Ospedale della Pietà",
+     "intro": "The Ospedale della Pietà was a convent, orphanage, and music school in Venice.",
+     "narration": "The Ospedale della Pietà was a convent, orphanage, and music school in Venice. Like other Venetian ospedali, the Pietà was first established as a hospice for the needy. A group of Venetian nuns, called the Consorelle di Santa Maria dell’Umiltà, established this charitable institution for orphans and abandoned girls in the fourteenth century. By the seventeenth and eighteenth centuries the Pietà – along with the three other charitable Ospedali Grandi – was well known for its all-female musical ensembles that attracted tourists and patrons from around Europe. Its fame is largely connected to its resident composer and violin teacher Antonio Vivaldi, who was also a Catholic priest.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Ospedale della Pietà",
+     "url": "https://en.wikipedia.org/wiki/Ospedale_della_Piet%C3%A0",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1816328",
+     "url": "https://www.wikidata.org/wiki/Q1816328",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ponte-della-costituzione",
+   "image": {
+    "file": "images/ponte-della-costituzione.jpg",
+    "author": "Christoph Radtke",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponte_della_Costituzione.JPG"
+   },
+   "location": {
+    "latitude": 45.438888888,
+    "longitude": 12.319444444
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Cannaregio",
+   "content": {
+    "en": {
+     "name": "Ponte della Costituzione",
+     "intro": "The Ponte della Costituzione is the fourth bridge over the Grand Canal in Venice, Italy.",
+     "narration": "The Ponte della Costituzione is the fourth bridge over the Grand Canal in Venice, Italy. It was designed by Santiago Calatrava, and was moved into place in 2007, amid protest by politicians and the general public. The bridge was installed in 2008 and opened to the public on the night of September 11, 2008. The bridge was known as Quarto Ponte sul Canal Grande before the official name was adopted to celebrate the 60th anniversary of the Italian constitution in 2008. Tourists and locals in Venice now refer to it as the Calatrava Bridge.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Ponte della Costituzione",
+     "url": "https://en.wikipedia.org/wiki/Ponte_della_Costituzione",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q52501",
+     "url": "https://www.wikidata.org/wiki/Q52501",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palazzo-grassi",
+   "image": {
+    "file": "images/palazzo-grassi.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_Grassi.jpg"
+   },
+   "location": {
+    "latitude": 45.4337974,
+    "longitude": 12.3279355
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Palazzo Grassi",
+     "intro": "Palazzo Grassi is a building in the Venetian Classical style located on the Grand Canal of Venice, between the Palazzo Moro Lin and the campo San Samuele.",
+     "narration": "Palazzo Grassi is a building in the Venetian Classical style located on the Grand Canal of Venice, between the Palazzo Moro Lin and the campo San Samuele.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palazzo Grassi",
+     "url": "https://en.wikipedia.org/wiki/Palazzo_Grassi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q907964",
+     "url": "https://www.wikidata.org/wiki/Q907964",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "piraeus-lion",
+   "image": {
+    "file": "images/piraeus-lion.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arsenale_(Venice)_-_First_Ancient_Greek_lion.jpg"
+   },
+   "location": {
+    "latitude": 45.43478333,
+    "longitude": 12.34981667
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 26,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument",
+    "roman"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Piraeus Lion",
+     "intro": "The Piraeus Lion is one of four lion statues on display at the Venetian Arsenal, Italy, where it was displayed as a symbol of Venice's patron saint, Saint Mark.",
+     "narration": "The Piraeus Lion is one of four lion statues on display at the Venetian Arsenal, Italy, where it was displayed as a symbol of Venice's patron saint, Saint Mark. The statue is made of white marble and stands some 3 m high. It is particularly noteworthy for two lengthy runic inscriptions on its shoulders and flanks; these were likely carved by Scandinavians sometime in the 11th century AD.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Piraeus Lion",
+     "url": "https://en.wikipedia.org/wiki/Piraeus_Lion",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2568227",
+     "url": "https://www.wikidata.org/wiki/Q2568227",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "santa-maria-dei-miracoli-venice",
+   "image": {
+    "file": "images/santa-maria-dei-miracoli-venice.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santa_Maria_dei_Miracoli_(facciata).jpg"
+   },
+   "location": {
+    "latitude": 45.43943,
+    "longitude": 12.3392
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Santa Maria dei Miracoli, Venice",
+     "intro": "Santa Maria dei Miracoli is a church in the sestiere of Cannaregio, in Venice, Italy, designed in 1481 by Renaissance architect Pietro Lombardo and his sons Tullio and Antonio.",
+     "narration": "Santa Maria dei Miracoli is a church in the sestiere of Cannaregio, in Venice, Italy, designed in 1481 by Renaissance architect Pietro Lombardo and his sons Tullio and Antonio. It was completed in 1489.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Santa Maria dei Miracoli, Venice",
+     "url": "https://en.wikipedia.org/wiki/Santa_Maria_dei_Miracoli%2C_Venice",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q533680",
+     "url": "https://www.wikidata.org/wiki/Q533680",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ca-foscari",
+   "image": {
+    "file": "images/ca-foscari.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:(Venice)_Ca%27_Foscari.jpg"
+   },
+   "location": {
+    "latitude": 45.434464,
+    "longitude": 12.3266
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "medieval",
+    "river"
+   ],
+   "area": "Dorsoduro",
+   "content": {
+    "en": {
+     "name": "Ca' Foscari",
+     "intro": "Ca' Foscari, the palace of the Foscari family, is a Gothic building on the waterfront of the Grand Canal in the Dorsoduro sestiere of Venice, Italy.",
+     "narration": "Ca' Foscari, the palace of the Foscari family, is a Gothic building on the waterfront of the Grand Canal in the Dorsoduro sestiere of Venice, Italy. It was built for the doge Francesco Foscari in 1453, and designed by the architect Bartolomeo Bon. It is now the main seat of Ca' Foscari University of Venice. The palace is located on the widest bend of the Grand Canal. Here, during the annual Regata Storica, held on the first Sunday in September, a floating wooden structure known as the La Machina is placed; this is also the site of the finishing line, and the venue for prize-giving.",
+     "longDescription": "Ca' Foscari, the palace of the Foscari family, is a Gothic building on the waterfront of the Grand Canal in the Dorsoduro sestiere of Venice, Italy. It was built for the doge Francesco Foscari in 1453, and designed by the architect Bartolomeo Bon. It is now the main seat of Ca' Foscari University of Venice. The palace is located on the widest bend of the Grand Canal. Here, during the annual Regata Storica, held on the first Sunday in September, a floating wooden structure known as the La Machina is placed; this is also the site of the finishing line, and the venue for prize-giving. A Byzantine palace known as the \"House with the Two Towers\" previously stood on the site. Ca' Foscari's external courtyard is the biggest courtyard of a private house after that of the Doge's Palace.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Ca' Foscari",
+     "url": "https://en.wikipedia.org/wiki/Ca%27_Foscari",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q957551",
+     "url": "https://www.wikidata.org/wiki/Q957551",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "scuola-grande-di-san-rocco",
+   "image": {
+    "file": "images/scuola-grande-di-san-rocco.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scuola_Grande_di_San_Rocco_(Venice).jpg"
+   },
+   "location": {
+    "latitude": 45.436571,
+    "longitude": 12.325309
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Scuola Grande di San Rocco",
+     "intro": "The Scuola Grande di San Rocco is a building in Venice, northern Italy.",
+     "narration": "The Scuola Grande di San Rocco is a building in Venice, northern Italy. It is noted for its collection of paintings by Tintoretto and generally agreed to include some of his finest work.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Scuola Grande di San Rocco",
+     "url": "https://en.wikipedia.org/wiki/Scuola_Grande_di_San_Rocco",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1270723",
+     "url": "https://www.wikidata.org/wiki/Q1270723",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "equestrian-statue-of-bartolomeo-colleoni-venice",
+   "image": {
+    "file": "images/equestrian-statue-of-bartolomeo-colleoni-venice.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bartolomeo_Colleoni_by_Andrea_del_Verrocchio.jpg"
+   },
+   "location": {
+    "latitude": 45.4392,
+    "longitude": 12.3414
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 21,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Equestrian statue of Bartolomeo Colleoni (Venice)",
+     "intro": "The equestrian statue of Bartolomeo Colleoni is a Renaissance sculpture in Campo Santi Giovanni e Paolo, Venice, Italy, created by Andrea del Verrocchio in 1480–1488.",
+     "narration": "The equestrian statue of Bartolomeo Colleoni is a Renaissance sculpture in Campo Santi Giovanni e Paolo, Venice, Italy, created by Andrea del Verrocchio in 1480–1488. Portraying the condottiero Bartolomeo Colleoni, it has a height of 395 cm excluding the pedestal. It is the second major equestrian statue of the Italian Renaissance, after Donatello's equestrian statue of Gattamelata.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Equestrian statue of Bartolomeo Colleoni (Venice)",
+     "url": "https://en.wikipedia.org/wiki/Equestrian_statue_of_Bartolomeo_Colleoni_%28Venice%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q473237",
+     "url": "https://www.wikidata.org/wiki/Q473237",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "punta-della-dogana",
+   "image": {
+    "file": "images/punta-della-dogana.jpg",
+    "author": "Jean-Pol GRANDMONT",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:0_Venise,_Canal_della_Giudecca,_Dogana,_Santa._Maria_della_Salute_et_Canal_Grande.JPG"
+   },
+   "location": {
+    "latitude": 45.4308,
+    "longitude": 12.33618
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 23,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "museum"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Punta della Dogana",
+     "intro": "Punta della Dogana is an art museum in one of Venice's old customs buildings, the Dogana da Mar.",
+     "narration": "Punta della Dogana is an art museum in one of Venice's old customs buildings, the Dogana da Mar. It also refers to the triangular area of Venice where the Grand Canal meets the Giudecca Canal, and its collection of buildings: the church of Santa Maria della Salute,, the Patriarchal Seminary of Venice, and Dogana da Mar at the triangle's tip.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Punta della Dogana",
+     "url": "https://en.wikipedia.org/wiki/Punta_della_Dogana",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q2931413",
+     "url": "https://www.wikidata.org/wiki/Q2931413",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "madonna-dell-orto",
+   "image": {
+    "file": "images/madonna-dell-orto.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madonna_dell%27Orto.jpg"
+   },
+   "location": {
+    "latitude": 45.446336111,
+    "longitude": 12.332472222
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Madonna dell'Orto",
+     "intro": "The Madonna dell'Orto is a church in Venice, Italy, in the sestiere of Cannaregio.",
+     "narration": "The Madonna dell'Orto is a church in Venice, Italy, in the sestiere of Cannaregio. This was the home parish of Tintoretto and holds a number of his works as well as his tomb.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Madonna dell'Orto",
+     "url": "https://en.wikipedia.org/wiki/Madonna_dell%27Orto",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q861436",
+     "url": "https://www.wikidata.org/wiki/Q861436",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "fondaco-dei-tedeschi",
+   "image": {
+    "file": "images/fondaco-dei-tedeschi.jpg",
+    "author": "Freddo213",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fontego_dei_Tedeschi_Venedig.jpg"
+   },
+   "location": {
+    "latitude": 45.43824,
+    "longitude": 12.33673
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 31,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Venezia-Murano-Burano",
+   "content": {
+    "en": {
+     "name": "Fondaco dei Tedeschi",
+     "intro": "The Fondaco dei Tedeschi, a historic building in Venice, Italy, is situated along the Grand Canal, close to the iconic Rialto Bridge.",
+     "narration": "The Fondaco dei Tedeschi, a historic building in Venice, Italy, is situated along the Grand Canal, close to the iconic Rialto Bridge. It was a hostel and a warehouse for the city's German merchants and their imports. After being destroyed by fire in 1505, the Fondaco dei Tedeschi was rebuilt in a Renaissance architectural style. It not only endured but also continued to serve its original purpose. Most recently, the building has housed a DFS department store located on Venice's Grand Canal.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Fondaco dei Tedeschi",
+     "url": "https://en.wikipedia.org/wiki/Fondaco_dei_Tedeschi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q1259067",
+     "url": "https://www.wikidata.org/wiki/Q1259067",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "campo-san-polo",
+   "image": {
+    "file": "images/campo-san-polo.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Campo_San_Polo_(Venice).jpg"
+   },
+   "location": {
+    "latitude": 45.4375,
+    "longitude": 12.3299
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Campo San Polo",
+     "intro": "The Campo San Polo is the largest campo in Venice, Italy, the second largest Venetian public square after the Piazza San Marco.",
+     "narration": "The Campo San Polo is the largest campo in Venice, Italy, the second largest Venetian public square after the Piazza San Marco. It is located in the Sestiere San Polo. Originally dedicated to grazing and agriculture, in 1493 it was entirely paved, a well being placed in the middle. It was subsequently used as the scene of many a bullfight, mass sermons and masked balls. After the 17th century the poor's market was moved here from Piazza San Marco. It remains to this day one of the most popular Carnival venues and is also used for open-air concerts and screenings during the Venice Film Festival. Lorenzino de' Medici was assassinated here in 1548.",
+     "longDescription": "The Campo San Polo is the largest campo in Venice, Italy, the second largest Venetian public square after the Piazza San Marco. It is located in the Sestiere San Polo. Originally dedicated to grazing and agriculture, in 1493 it was entirely paved, a well being placed in the middle. It was subsequently used as the scene of many a bullfight, mass sermons and masked balls. After the 17th century the poor's market was moved here from Piazza San Marco. It remains to this day one of the most popular Carnival venues and is also used for open-air concerts and screenings during the Venice Film Festival. Lorenzino de' Medici was assassinated here in 1548. Facing the church are the following buildings: Church of San Polo Palazzo Tiepolo Palazzo Soranzo Palazzo Donà Brusa Palazzo Corner Mocenigo",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Campo San Polo",
+     "url": "https://en.wikipedia.org/wiki/Campo_San_Polo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q744776",
+     "url": "https://www.wikidata.org/wiki/Q744776",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "fondaco-dei-turchi",
+   "image": {
+    "file": "images/fondaco-dei-turchi.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fondaco_dei_Turchi.jpg"
+   },
+   "location": {
+    "latitude": 45.442002,
+    "longitude": 12.328675
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "moorish",
+    "museum"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Fondaco dei Turchi",
+     "intro": "The Fondaco dei Turchi is a palazzo in classical Venetian style, later referred to as the Turks' Inn, on the Grand Canal of Venice, northeastern Italy.",
+     "narration": "The Fondaco dei Turchi is a palazzo in classical Venetian style, later referred to as the Turks' Inn, on the Grand Canal of Venice, northeastern Italy. Since the early 17th century until the 19th century, the Fondaco Dei Turchi served as a residence for Venice's Ottoman Turkish population. The fondaco functioned as a combination home, warehouse, and market for the Turkish traders. The structure, commissioned by Giacomo Palmier, took inspiration from Islamic, renaissance and Byzantine architecture. It was rebuilt by the government in 1869. Today it houses Venice's Natural History Museum.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Fondaco dei Turchi",
+     "url": "https://en.wikipedia.org/wiki/Fondaco_dei_Turchi",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q182708",
+     "url": "https://www.wikidata.org/wiki/Q182708",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "san-giacomo-di-rialto",
+   "image": {
+    "file": "images/san-giacomo-di-rialto.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Giacomo_di_Rialto_(Facade).jpg"
+   },
+   "location": {
+    "latitude": 45.43847222,
+    "longitude": 12.33547222
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "San Giacomo di Rialto",
+     "intro": "San Giacomo di Rialto is a church in the sestiere of San Polo, Venice, northern Italy.",
+     "narration": "San Giacomo di Rialto is a church in the sestiere of San Polo, Venice, northern Italy. The inclusion of Rialto in the name distinguishes this church from San Giacomo dell'Orio which is situated in the sestiere of Santa Croce, on the same side of the Grand Canal. The church's front forms the eastern side of Rialto Square and is one of the only buildings on that square that escaped the devastating fire of 1514 alongside the Palazzo dei Camerlenghi It has a large 15th-century clock above the entrance, a useful item in the Venetian business district but regarded as a standing joke for its inaccuracy. The Gothic portico is one of the few surviving examples in Venice.",
+     "longDescription": "San Giacomo di Rialto is a church in the sestiere of San Polo, Venice, northern Italy. The inclusion of Rialto in the name distinguishes this church from San Giacomo dell'Orio which is situated in the sestiere of Santa Croce, on the same side of the Grand Canal. The church's front forms the eastern side of Rialto Square and is one of the only buildings on that square that escaped the devastating fire of 1514 alongside the Palazzo dei Camerlenghi It has a large 15th-century clock above the entrance, a useful item in the Venetian business district but regarded as a standing joke for its inaccuracy. The Gothic portico is one of the few surviving examples in Venice. It has a Latin cross plan with a central dome. Inside, the Veneto-Byzantine capitals on the six columns of ancient Greek marble date from the 11th century.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: San Giacomo di Rialto",
+     "url": "https://en.wikipedia.org/wiki/San_Giacomo_di_Rialto",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q922677",
+     "url": "https://www.wikidata.org/wiki/Q922677",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palazzo-pisani-moretta",
+   "image": {
+    "file": "images/palazzo-pisani-moretta.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Pisani_Moretta_(Venice).jpg"
+   },
+   "location": {
+    "latitude": 45.4360089,
+    "longitude": 12.3292498
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Venice",
+   "content": {
+    "en": {
+     "name": "Palazzo Pisani Moretta",
+     "intro": "Palazzo Pisani Moretta is a palace situated along the Grand Canal in Venice, Italy, between Palazzo Tiepolo and Palazzo Barbarigo della Terrazza.",
+     "narration": "Palazzo Pisani Moretta is a palace situated along the Grand Canal in Venice, Italy, between Palazzo Tiepolo and Palazzo Barbarigo della Terrazza.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palazzo Pisani Moretta",
+     "url": "https://en.wikipedia.org/wiki/Palazzo_Pisani_Moretta",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q3372473",
+     "url": "https://www.wikidata.org/wiki/Q3372473",
+     "license": "CC0"
+    }
+   ]
+  }
+ ]
+}

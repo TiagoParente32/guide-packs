@@ -1,0 +1,2309 @@
+{
+ "format": 1,
+ "city": {
+  "id": "vienna",
+  "name": "Vienna",
+  "country": "Austria",
+  "center": {
+   "latitude": 48.2083537,
+   "longitude": 16.3725042
+  },
+  "bounds": {
+   "south": 48.1179069,
+   "north": 48.3226679,
+   "west": 16.181831,
+   "east": 16.5775132
+  },
+  "languages": [
+   "en"
+  ],
+  "quality": "generated",
+  "placeCount": 45,
+  "version": 1,
+  "hero": {
+   "file": "images/st-stephen-s-cathedral-vienna.jpg",
+   "author": "C.Stadler/Bwag",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Stephansdom_(1).JPG"
+  },
+  "packUrl": "cities/vienna/pack.json",
+  "generatedAt": "2026-10-30T14:57:38Z"
+ },
+ "pois": [
+  {
+   "id": "st-stephen-s-cathedral-vienna",
+   "image": {
+    "file": "images/st-stephen-s-cathedral-vienna.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Stephansdom_(1).JPG"
+   },
+   "location": {
+    "latitude": 48.208427,
+    "longitude": 16.373256
+   },
+   "category": "church",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "medieval",
+    "roman"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "St. Stephen's Cathedral, Vienna",
+     "intro": "St.",
+     "narration": "St. Stephen's Cathedral is a Roman Catholic church in Vienna, Austria, and the mother church of the Archdiocese of Vienna. It is the seat of the Archbishop of Vienna, Josef Grünwidl. The current Romanesque and Gothic form of the cathedral, seen today in the Stephansplatz, was largely initiated by Duke Rudolf IV and stands on the ruins of two earlier churches, the first a parish church consecrated in 1147. The most important religious building in Vienna, St. Stephen's Cathedral has borne witness to many important events in Habsburg and Austrian history and has, with its multi-coloured tile roof, become one of the city's most recognizable symbols. It has 256 stairs from the top to the bottom",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St. Stephen's Cathedral, Vienna",
+     "url": "https://en.wikipedia.org/wiki/St._Stephen%27s_Cathedral%2C_Vienna",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q5943",
+     "url": "https://www.wikidata.org/wiki/Q5943",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "donauturm",
+   "image": {
+    "file": "images/donauturm.jpg",
+    "author": "BambooBeast",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Donauturm_20120714.JPG"
+   },
+   "location": {
+    "latitude": 48.24023,
+    "longitude": 16.41003
+   },
+   "category": "viewpoint",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "scenic",
+    "viewpoint"
+   ],
+   "area": "Donaustadt",
+   "content": {
+    "en": {
+     "name": "Donauturm",
+     "intro": "The Donauturm is a tower located in the Donaupark, Vienna, Austria.",
+     "narration": "The Donauturm is a tower located in the Donaupark, Vienna, Austria. Opened in April 1964, it is the tallest structure in Austria, standing at 252 meters, and ranks as the 61st tallest tower in the world.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Donauturm",
+     "url": "https://en.wikipedia.org/wiki/Donauturm",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q686544",
+     "url": "https://www.wikidata.org/wiki/Q686544",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "heldenplatz",
+   "image": {
+    "file": "images/heldenplatz.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 3.0 at",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Neue_Hofburg.JPG"
+   },
+   "location": {
+    "latitude": 48.206280555,
+    "longitude": 16.363761111
+   },
+   "category": "square",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 24,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Heldenplatz",
+     "intro": "Heldenplatz is a public space in front of the Hofburg Palace in Vienna, Austria.",
+     "narration": "Heldenplatz is a public space in front of the Hofburg Palace in Vienna, Austria. Located in the Innere Stadt borough, the President of Austria resides in the adjoining Hofburg wing, while the Federal Chancellery is on adjacent Ballhausplatz. Many important actions and events took place here, most notably Adolf Hitler's ceremonial announcement of the Austrian Anschluss to Nazi Germany on 15 March 1938.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Heldenplatz",
+     "url": "https://en.wikipedia.org/wiki/Heldenplatz",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q700128",
+     "url": "https://www.wikidata.org/wiki/Q700128",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "kunsthistorisches-museum",
+   "image": {
+    "file": "images/kunsthistorisches-museum.jpg",
+    "author": "Andrzej Otrębski",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_Kunsthistorisches_Museum.jpg"
+   },
+   "location": {
+    "latitude": 48.203880555,
+    "longitude": 16.3616
+   },
+   "category": "museum",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "museum"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Kunsthistorisches Museum",
+     "intro": "The Kunsthistorisches Museum Wien is an art museum in Vienna, Austria.",
+     "narration": "The Kunsthistorisches Museum Wien is an art museum in Vienna, Austria. Housed in its festive palatial building on the Vienna Ring Road, it is crowned with an octagonal dome. The term Kunsthistorisches Museum applies to both the institution and the main building. It is the largest art museum in the country. Emperor Franz Joseph I of Austria-Hungary opened the facility around 1891 at the same time as the Natural History Museum, Vienna which has a similar design and is directly across Maria-Theresien-Platz. The two buildings were constructed between 1871 and 1891 according to plans by Gottfried Semper and Baron Karl von Hasenauer.",
+     "longDescription": "The Kunsthistorisches Museum Wien is an art museum in Vienna, Austria. Housed in its festive palatial building on the Vienna Ring Road, it is crowned with an octagonal dome. The term Kunsthistorisches Museum applies to both the institution and the main building. It is the largest art museum in the country. Emperor Franz Joseph I of Austria-Hungary opened the facility around 1891 at the same time as the Natural History Museum, Vienna which has a similar design and is directly across Maria-Theresien-Platz. The two buildings were constructed between 1871 and 1891 according to plans by Gottfried Semper and Baron Karl von Hasenauer. The emperor commissioned the two Ringstraße museums to create a suitable home for the Habsburgs' formidable art collection and to make it accessible to the general public. The buildings are rectangular, with symmetrical Renaissance Revival façades of sandstone lined with large arched windows on the main levels and topped with octagonal domes 60 metres high. The interiors of the museums are lavishly decorated with marble, stucco ornamentation, gold-leaf, and murals. The grand stairway features paintings by Gustav Klimt, Ernst Klimt, Franz Matsch, Hans Makart and Mihály Munkácsy.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Kunsthistorisches Museum",
+     "url": "https://en.wikipedia.org/wiki/Kunsthistorisches_Museum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q95569",
+     "url": "https://www.wikidata.org/wiki/Q95569",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "belvedere-vienna",
+   "image": {
+    "file": "images/belvedere-vienna.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Schloss_Belvedere,_oberes_(2).JPG"
+   },
+   "location": {
+    "latitude": 48.1934,
+    "longitude": 16.380519444
+   },
+   "category": "architecture",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "baroque",
+    "historic",
+    "iconic"
+   ],
+   "area": "Landstraße",
+   "content": {
+    "en": {
+     "name": "Belvedere, Vienna",
+     "intro": "The Belvedere is a historic building complex and art museum in Vienna, Austria.",
+     "narration": "The Belvedere is a historic building complex and art museum in Vienna, Austria. The complex consists of two Baroque palaces, the Upper and Lower Belvedere, together with the Orangery, the Palace Stables, and a formal Baroque garden. It is located in the city's third district, Landstraße, on the south-eastern edge of Vienna's historic centre. Built as the summer residence of Prince Eugene of Savoy, the complex was designed principally by Johann Lukas von Hildebrandt and completed in the early eighteenth century. Today the Belvedere is one of Austria's major art museums.",
+     "longDescription": "The Belvedere is a historic building complex and art museum in Vienna, Austria. The complex consists of two Baroque palaces, the Upper and Lower Belvedere, together with the Orangery, the Palace Stables, and a formal Baroque garden. It is located in the city's third district, Landstraße, on the south-eastern edge of Vienna's historic centre. Built as the summer residence of Prince Eugene of Savoy, the complex was designed principally by Johann Lukas von Hildebrandt and completed in the early eighteenth century. Today the Belvedere is one of Austria's major art museums. The museum institution presents Austrian art from the Middle Ages to the present in an international context, with the Upper Belvedere housing the permanent collection, the Lower Belvedere used for special exhibitions, and Belvedere 21 devoted to contemporary Austrian and international art, film, and music. The Belvedere Palace and garden ensemble forms part of the Baroque heritage of the Historic Centre of Vienna, a World Heritage Site. The Belvedere was built during a period of extensive construction in Vienna, which was then the imperial capital and residence city of the Habsburg monarchy. This period of prosperity followed Prince Eugene's successful military campaigns against the Ottoman Empire.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Belvedere, Vienna",
+     "url": "https://en.wikipedia.org/wiki/Belvedere%2C_Vienna",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q211818",
+     "url": "https://www.wikidata.org/wiki/Q211818",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "schonbrunn-palace",
+   "image": {
+    "file": "images/schonbrunn-palace.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Schloss_Sch%C3%B6nbrunn.JPG"
+   },
+   "location": {
+    "latitude": 48.18479,
+    "longitude": 16.31227
+   },
+   "category": "architecture",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 34,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "baroque",
+    "historic",
+    "iconic"
+   ],
+   "area": "Hietzing",
+   "content": {
+    "en": {
+     "name": "Schönbrunn Palace",
+     "intro": "Schönbrunn Palace was the main summer residence of the Habsburg rulers, located in Hietzing, the 13th district of Vienna.",
+     "narration": "Schönbrunn Palace was the main summer residence of the Habsburg rulers, located in Hietzing, the 13th district of Vienna. The name Schönbrunn has its roots in an artesian well from which water was consumed by the court. The 1,441-room Baroque palace is one of the most important architectural, cultural, and historic monuments in the country. The history of the palace and its vast gardens spans over 300 years, reflecting the changing tastes, interests, and aspirations of successive Habsburg monarchs. It has been a major tourist attraction since the mid-1950s.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Schönbrunn Palace",
+     "url": "https://en.wikipedia.org/wiki/Sch%C3%B6nbrunn_Palace",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q131330",
+     "url": "https://www.wikidata.org/wiki/Q131330",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "karlskirche",
+   "image": {
+    "file": "images/karlskirche.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Karlskirche_(1).JPG"
+   },
+   "location": {
+    "latitude": 48.198280555,
+    "longitude": 16.371880555
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "baroque",
+    "church",
+    "historic",
+    "iconic"
+   ],
+   "area": "Wieden",
+   "content": {
+    "en": {
+     "name": "Karlskirche",
+     "intro": "The Karlskirche is a Baroque church in the Karlsplatz in Vienna, Austria.",
+     "narration": "The Karlskirche is a Baroque church in the Karlsplatz in Vienna, Austria. The church is dedicated to Saint Charles Borromeo, a leading figure of the Counter-Reformation. The church is located on the border of Wieden and the Innere Stadt, the city centre.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Karlskirche",
+     "url": "https://en.wikipedia.org/wiki/Karlskirche",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q408847",
+     "url": "https://www.wikidata.org/wiki/Q408847",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "vienna-state-opera",
+   "image": {
+    "file": "images/vienna-state-opera.jpg",
+    "author": "P e z i",
+    "license": "CC BY-SA 3.0 at",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Staatsoper_Wien_DSC_5273w.jpg"
+   },
+   "location": {
+    "latitude": 48.203333333,
+    "longitude": 16.369166666
+   },
+   "category": "architecture",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Vienna State Opera",
+     "intro": "The Vienna State Opera is an opera house and opera company located in Vienna, Austria.",
+     "narration": "The Vienna State Opera is an opera house and opera company located in Vienna, Austria. The 1,709-seat Renaissance Revival venue was the first major building on the Vienna Ring Road. It was built from 1861 to 1869 following plans by August Sicard von Sicardsburg and Eduard van der Nüll, and designs by Josef Hlávka. The opera house was inaugurated as the \"Vienna Court Opera\" in the presence of Emperor Franz Joseph I and Empress Elisabeth of Austria. It became known by its current name after the establishment of the First Austrian Republic in 1921. The Vienna State Opera is the successor of the old Vienna Court Opera.",
+     "longDescription": "The Vienna State Opera is an opera house and opera company located in Vienna, Austria. The 1,709-seat Renaissance Revival venue was the first major building on the Vienna Ring Road. It was built from 1861 to 1869 following plans by August Sicard von Sicardsburg and Eduard van der Nüll, and designs by Josef Hlávka. The opera house was inaugurated as the \"Vienna Court Opera\" in the presence of Emperor Franz Joseph I and Empress Elisabeth of Austria. It became known by its current name after the establishment of the First Austrian Republic in 1921. The Vienna State Opera is the successor of the old Vienna Court Opera. The new site was chosen and the construction paid by Emperor Franz Joseph in 1861. The members of the Vienna Philharmonic are recruited from the Vienna State Opera orchestra. The building is also the home of the Vienna State Ballet and it hosts the annual Vienna Opera Ball during the carnival season.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Vienna State Opera",
+     "url": "https://en.wikipedia.org/wiki/Vienna_State_Opera",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q209937",
+     "url": "https://www.wikidata.org/wiki/Q209937",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "hofburg",
+   "image": {
+    "file": "images/hofburg.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 3.0 at",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Neue_Hofburg.JPG"
+   },
+   "location": {
+    "latitude": 48.206388888,
+    "longitude": 16.365277777
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "museum"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Hofburg",
+     "intro": "The Hofburg is the former principal imperial palace of the Habsburg dynasty in Austria.",
+     "narration": "The Hofburg is the former principal imperial palace of the Habsburg dynasty in Austria. Located in the center of Vienna, it was built in the 13th century by Ottokar II of Bohemia and expanded several times afterwards. It also served as the imperial winter residence, as Schönbrunn Palace was the summer residence. Since 1946, it has been the official residence and workplace of the president of Austria. Since 1279, the Hofburg area has been the documented seat of government. The Hofburg has been expanded over the centuries to include various residences, the imperial chapel, the imperial library, the treasury, the Burgtheater, the Spanish Riding School, the imperial mews.",
+     "longDescription": "The Hofburg is the former principal imperial palace of the Habsburg dynasty in Austria. Located in the center of Vienna, it was built in the 13th century by Ottokar II of Bohemia and expanded several times afterwards. It also served as the imperial winter residence, as Schönbrunn Palace was the summer residence. Since 1946, it has been the official residence and workplace of the president of Austria. Since 1279, the Hofburg area has been the documented seat of government. The Hofburg has been expanded over the centuries to include various residences, the imperial chapel, the imperial library, the treasury, the Burgtheater, the Spanish Riding School, the imperial mews. The palace faces the Heldenplatz ordered under the reign of Emperor Franz Joseph I, as part of what was planned to become the Kaiserforum but which was never completed. Numerous architects have executed work at the Hofburg as it expanded, notably the Italian architect-engineer Filiberto Luchese, Lodovico Burnacini and Martino and Domenico Carlone, the Baroque architects Lukas von Hildebrandt and Joseph Emanuel Fischer von Erlach, Johann Fischer von Erlach, and the architects of the Neue Burg built between 1881 and 1913.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Hofburg",
+     "url": "https://en.wikipedia.org/wiki/Hofburg",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q46242",
+     "url": "https://www.wikidata.org/wiki/Q46242",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "votivkirche-vienna",
+   "image": {
+    "file": "images/votivkirche-vienna.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Votivkirche_(a).JPG"
+   },
+   "location": {
+    "latitude": 48.21545,
+    "longitude": 16.3591
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 28,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic",
+    "medieval"
+   ],
+   "area": "Alsergrund",
+   "content": {
+    "en": {
+     "name": "Votivkirche, Vienna",
+     "intro": "The Votivkirche is a neo-Gothic style church located on the Ringstraße in Vienna, Austria.",
+     "narration": "The Votivkirche is a neo-Gothic style church located on the Ringstraße in Vienna, Austria. Following the attempted assassination of Emperor Franz Joseph in 1853, the Emperor's brother Archduke Ferdinand Maximilian inaugurated a campaign to create a church to thank God for saving the Emperor's life. Funds for construction were solicited from throughout the Empire. The church was dedicated in 1879 on the silver anniversary of Emperor Franz Joseph and his wife Empress Elisabeth.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Votivkirche, Vienna",
+     "url": "https://en.wikipedia.org/wiki/Votivkirche%2C_Vienna",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q254476",
+     "url": "https://www.wikidata.org/wiki/Q254476",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "vienna-gasometers",
+   "image": {
+    "file": "images/vienna-gasometers.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Simmering_(Wien)_-_Gasometer_(2).JPG"
+   },
+   "location": {
+    "latitude": 48.18489,
+    "longitude": 16.41997
+   },
+   "category": "neighbourhood",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "historic",
+    "iconic",
+    "neighbourhood"
+   ],
+   "area": "Vienna",
+   "content": {
+    "en": {
+     "name": "Vienna Gasometers",
+     "intro": "The Vienna Gasometers are four gasholder houses, built as part of the municipal gas works in Vienna, Austria.",
+     "narration": "The Vienna Gasometers are four gasholder houses, built as part of the municipal gas works in Vienna, Austria. The original gasholder houses were constructed from 1896 to 1899. They are located in the 11th district, Simmering. They were used from 1899 to 1984 to house gas holders, each with a storage capacity of 90,000 cubic meters. After the transition from coal gas to natural gas between 1969 and 1978, the four gasholder houses were no longer used and were shut down. Only the brick exterior walls were preserved. The structures have found new residential and commercial use in modern times, and are now a tourist attraction.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Vienna Gasometers",
+     "url": "https://en.wikipedia.org/wiki/Vienna_Gasometers",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q697527",
+     "url": "https://www.wikidata.org/wiki/Q697527",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "imperial-crypt",
+   "image": {
+    "file": "images/imperial-crypt.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 3.0 at",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Kapuzinergruft,_Maria-Theresia-Gruft_(1).JPG"
+   },
+   "location": {
+    "latitude": 48.205555555,
+    "longitude": 16.369722222
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic",
+    "iconic"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Imperial Crypt",
+     "intro": "The Imperial Crypt, also called the Capuchin Crypt, is a burial chamber beneath the Capuchin Church and monastery in Vienna, Austria.",
+     "narration": "The Imperial Crypt, also called the Capuchin Crypt, is a burial chamber beneath the Capuchin Church and monastery in Vienna, Austria. It was founded in 1618 and dedicated in 1632, and located on the Neuer Markt square of the Innere Stadt, near the Hofburg Palace. Since 1633, the Imperial Crypt has served as the principal place of entombment for the members of the House of Habsburg. The bones of 145 Habsburg royalty, plus urns containing the hearts or cremated remains of four others, are here, including 12 emperors and 18 empresses. The visible 107 metal sarcophagi and five heart urns range in style from puritan plain to exuberant rococo.",
+     "longDescription": "The Imperial Crypt, also called the Capuchin Crypt, is a burial chamber beneath the Capuchin Church and monastery in Vienna, Austria. It was founded in 1618 and dedicated in 1632, and located on the Neuer Markt square of the Innere Stadt, near the Hofburg Palace. Since 1633, the Imperial Crypt has served as the principal place of entombment for the members of the House of Habsburg. The bones of 145 Habsburg royalty, plus urns containing the hearts or cremated remains of four others, are here, including 12 emperors and 18 empresses. The visible 107 metal sarcophagi and five heart urns range in style from puritan plain to exuberant rococo. Some of the dozen resident Capuchin friars continue their customary role as the guardians and caretakers of the crypt, along with their other pastoral work in Vienna. The most recent entombment was in 2023.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Imperial Crypt",
+     "url": "https://en.wikipedia.org/wiki/Imperial_Crypt",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q662652",
+     "url": "https://www.wikidata.org/wiki/Q662652",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "hundertwasserhaus",
+   "image": {
+    "file": "images/hundertwasserhaus.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Hundertwasserhaus_(04).JPG"
+   },
+   "location": {
+    "latitude": 48.2075,
+    "longitude": 16.3939
+   },
+   "category": "architecture",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic"
+   ],
+   "area": "Vienna",
+   "content": {
+    "en": {
+     "name": "Hundertwasserhaus",
+     "intro": "The Hundertwasserhaus is an apartment house in Vienna, Austria, completed in 1985, after the idea and concept of Austrian artist Friedensreich Hundertwasser.",
+     "narration": "The Hundertwasserhaus is an apartment house in Vienna, Austria, completed in 1985, after the idea and concept of Austrian artist Friedensreich Hundertwasser.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Hundertwasserhaus",
+     "url": "https://en.wikipedia.org/wiki/Hundertwasserhaus",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q493126",
+     "url": "https://www.wikidata.org/wiki/Q493126",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "academy-of-fine-arts-vienna",
+   "image": {
+    "file": "images/academy-of-fine-arts-vienna.jpg",
+    "author": "P e z i",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akademie_der_bildenden_Kuenste_DSC_2400w.jpg"
+   },
+   "location": {
+    "latitude": 48.201253,
+    "longitude": 16.365103
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 29,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "museum"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Academy of Fine Arts Vienna",
+     "intro": "The Academy of Fine Arts Vienna is a public art school in Vienna, Austria.",
+     "narration": "The Academy of Fine Arts Vienna is a public art school in Vienna, Austria. Founded in 1688 as a private academy, it is now a public university with more than 1,500 students and six institutes. Its main building on Vienna's Schillerplatz near the Ringstraße boulevard was planned by Theophil Hansen and inaugurated in 1877. The academy houses an expansive art collection that includes the Last Judgement Triptych by Hieronymus Bosch and is open to the public.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Academy of Fine Arts Vienna",
+     "url": "https://en.wikipedia.org/wiki/Academy_of_Fine_Arts_Vienna",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q414219",
+     "url": "https://www.wikidata.org/wiki/Q414219",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "innere-stadt",
+   "image": {
+    "file": "images/innere-stadt.jpg",
+    "author": "Gryffindor",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rathaus_Vienna_June_2006_165.jpg"
+   },
+   "location": {
+    "latitude": 48.209722222,
+    "longitude": 16.37
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "neighbourhood"
+   ],
+   "area": "Vienna",
+   "content": {
+    "en": {
+     "name": "Innere Stadt",
+     "intro": "The Innere Stadt is the 1st municipal district of Vienna located in the center of the Austrian capital.",
+     "narration": "The Innere Stadt is the 1st municipal district of Vienna located in the center of the Austrian capital. The Innere Stadt is the old town of Vienna. Until the city boundaries were expanded in 1850, the Innere Stadt was congruent with the city of Vienna. Traditionally it was divided into four quarters, which were designated after important town gates: Stubenviertel, Kärntner Viertel, Widmerviertel, Schottenviertel. The Ringstraße circles the Innere Stadt along the route of the former city walls. The first district is, with a workforce of 100,745, the largest employment locale in Vienna. This is partially due to tourism, as well as the presence of many corporate headquarters due to the district's central location.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Innere Stadt",
+     "url": "https://en.wikipedia.org/wiki/Innere_Stadt",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q267329",
+     "url": "https://www.wikidata.org/wiki/Q267329",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "vindobona",
+   "image": {
+    "file": "images/vindobona.jpg",
+    "author": "Georges Jansoone",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien.Hofburg10.jpg"
+   },
+   "location": {
+    "latitude": 48.210833333,
+    "longitude": 16.370277777
+   },
+   "category": "archaeology",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 33,
+   "visitMinutes": 6,
+   "tags": [
+    "archaeology",
+    "hidden",
+    "historic",
+    "modern",
+    "roman"
+   ],
+   "area": "Vienna",
+   "content": {
+    "en": {
+     "name": "Vindobona",
+     "intro": "Vindobona was a Roman military camp in the province of Pannonia, located on the site of the modern city of Vienna in Austria.",
+     "narration": "Vindobona was a Roman military camp in the province of Pannonia, located on the site of the modern city of Vienna in Austria. The settlement area took on a new name in the 13th century, Berghof, now known as Alter Berghof. Around 1 AD, the kingdom of Noricum was included in the Roman Empire. Henceforth, the Danube marked the border of the empire, and the Romans built fortifications and settlements on the banks of the Danube, including Vindobona with an estimated population of 15,000 to 20,000.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Vindobona",
+     "url": "https://en.wikipedia.org/wiki/Vindobona",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q871525",
+     "url": "https://www.wikidata.org/wiki/Q871525",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "musikverein",
+   "image": {
+    "file": "images/musikverein.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Haus_des_Wiener_Musikvereins_(1).JPG"
+   },
+   "location": {
+    "latitude": 48.200488888,
+    "longitude": 16.372738888
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Musikverein",
+     "intro": "The Wiener Musikverein, commonly shortened to Musikverein, is a concert hall in Vienna, Austria, which is located in the Innere Stadt district.",
+     "narration": "The Wiener Musikverein, commonly shortened to Musikverein, is a concert hall in Vienna, Austria, which is located in the Innere Stadt district. During the 1863 construction of the Vienna Ring Road a piece of land for a new concert hall was granted to the Society of Friends of Music in Vienna by Emperor Franz Joseph I of Austria. Designed by Danish-born architect Theophil Hansen, the concert hall has housed the Vienna Philharmonic since its opening in 1870. The acoustics of the building's 'Great Hall' have earned it recognition alongside other prominent concert halls, such as the Konzerthaus in Berlin, the Concertgebouw in Amsterdam and Symphony Hall in Boston.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Musikverein",
+     "url": "https://en.wikipedia.org/wiki/Musikverein",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q686720",
+     "url": "https://www.wikidata.org/wiki/Q686720",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "leopoldstadt",
+   "image": {
+    "file": "images/leopoldstadt.jpg",
+    "author": "Ralf Roletschek",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:13-08-30-wien-by-RalfR-129.jpg"
+   },
+   "location": {
+    "latitude": 48.210277777,
+    "longitude": 16.412222222
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "modern",
+    "neighbourhood",
+    "roman"
+   ],
+   "area": "Vienna",
+   "content": {
+    "en": {
+     "name": "Leopoldstadt",
+     "intro": "Leopoldstadt is the second municipal district of Vienna in Austria.",
+     "narration": "Leopoldstadt is the second municipal district of Vienna in Austria. As of 1 January 2016, there are 103,233 inhabitants over 19.27 km2. It is situated in the heart of the city and, together with Brigittenau, forms a large island surrounded by the Danube Canal and, to the north, the Danube. It is named after Leopold I, Holy Roman Emperor. Due to its relatively high percentage of Jewish inhabitants before the Holocaust, Leopoldstadt gained the nickname Mazzesinsel. This context was a significant aspect for the district twinning with the New York City borough Brooklyn in 2007.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Leopoldstadt",
+     "url": "https://en.wikipedia.org/wiki/Leopoldstadt",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q259120",
+     "url": "https://www.wikidata.org/wiki/Q259120",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "secession-building",
+   "image": {
+    "file": "images/secession-building.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Secessionsgeb%C3%A4ude.JPG"
+   },
+   "location": {
+    "latitude": 48.200395,
+    "longitude": 16.365934
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "modern",
+    "museum"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Secession Building",
+     "intro": "The Secession Building is a contemporary art exhibition hall in Vienna, Austria.",
+     "narration": "The Secession Building is a contemporary art exhibition hall in Vienna, Austria. It was completed in 1898 by Joseph Maria Olbrich as an architectural manifesto for the Vienna Secession, a group of rebel artists that seceded from the long-established fine art institution.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Secession Building",
+     "url": "https://en.wikipedia.org/wiki/Secession_Building",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q265129",
+     "url": "https://www.wikidata.org/wiki/Q265129",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "vienna-city-hall",
+   "image": {
+    "file": "images/vienna-city-hall.jpg",
+    "author": "Thomas Ledl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_Rathaus_hochaufl%C3%B6send.jpg"
+   },
+   "location": {
+    "latitude": 48.2108,
+    "longitude": 16.3574
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 21,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "medieval"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Vienna City Hall",
+     "intro": "The Vienna City Hall is the town hall of Vienna, Austria, located in the Innere Stadt on the Rathausplatz, off the Ringstrasse.",
+     "narration": "The Vienna City Hall is the town hall of Vienna, Austria, located in the Innere Stadt on the Rathausplatz, off the Ringstrasse. The Gothic Revival building was designed by Friedrich von Schmidt and constructed between 1872 and 1883. It houses the offices of the Mayor of Vienna, as well as the city and state government.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Vienna City Hall",
+     "url": "https://en.wikipedia.org/wiki/Vienna_City_Hall",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q686468",
+     "url": "https://www.wikidata.org/wiki/Q686468",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "natural-history-museum-vienna",
+   "image": {
+    "file": "images/natural-history-museum-vienna.jpg",
+    "author": "Stb1er (Dario Premm)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naturhistorisches_Museum_Wien_2.jpg"
+   },
+   "location": {
+    "latitude": 48.205130555,
+    "longitude": 16.359930555
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "museum"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Natural History Museum, Vienna",
+     "intro": "The Natural History Museum Vienna is a large natural history museum located in Vienna, Austria.",
+     "narration": "The Natural History Museum Vienna is a large natural history museum located in Vienna, Austria. The NHM Vienna is one of the largest museums and non-university research institutions in Austria and an important center of excellence for all matters relating to natural sciences. The museum's 39 exhibition rooms cover 8,460 square meters and present more than 100,000 objects. It is home to 30 million objects available to more than 60 scientists and numerous guest researchers who carry out basic research in a wide range of topics related to human sciences, earth sciences, and life sciences. The Index Herbariorum code assigned to this museum is \"W\" and it is used when citing housed herbarium specimens.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Natural History Museum, Vienna",
+     "url": "https://en.wikipedia.org/wiki/Natural_History_Museum%2C_Vienna",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q688704",
+     "url": "https://www.wikidata.org/wiki/Q688704",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "alsergrund",
+   "image": null,
+   "location": {
+    "latitude": 48.225277777,
+    "longitude": 16.356944444
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "neighbourhood"
+   ],
+   "area": "Vienna",
+   "content": {
+    "en": {
+     "name": "Alsergrund",
+     "intro": "Alsergrund is the ninth district of Vienna, Austria.",
+     "narration": "Alsergrund is the ninth district of Vienna, Austria. It is located just north of the first, central district, Innere Stadt. Alsergrund was incorporated in 1862, with seven suburbs. As a central district, the area is densely populated. According to the 2001 census, there were 37,816 inhabitants over 2.99 square km. Many departments of the University of Vienna, TU Wien and the University of Natural Resources and Life Sciences are located in Alsergrund. Until 2013, Vienna University of Economics and Business was also located in the 9th district, but eventually moved to the 2nd district. There are also many large hospitals, including the biggest in Vienna, the AKH. Alsergrund is associated with many notable names of Viennese art and science.",
+     "longDescription": "Alsergrund is the ninth district of Vienna, Austria. It is located just north of the first, central district, Innere Stadt. Alsergrund was incorporated in 1862, with seven suburbs. As a central district, the area is densely populated. According to the 2001 census, there were 37,816 inhabitants over 2.99 square km. Many departments of the University of Vienna, TU Wien and the University of Natural Resources and Life Sciences are located in Alsergrund. Until 2013, Vienna University of Economics and Business was also located in the 9th district, but eventually moved to the 2nd district. There are also many large hospitals, including the biggest in Vienna, the AKH. Alsergrund is associated with many notable names of Viennese art and science. It is the birthplace of Romantic composer Franz Schubert. Classic music composer Ludwig van Beethoven died here in his apartment at Schwarzspanierstraße 15. Berggasse 19 is the former residence and office of Sigmund Freud. It was Freud's home from 1891 until his flight to England in 1938, and is currently the site of the Vienna Sigmund Freud Museum. Most of the patients Freud treated during the development of his theories of psychoanalysis visited him at his Alsergrund office. In addition, the park in front of the Votivkirche, on the corner of Währingerstrasse and Schottenring, was named after Freud, in memory of his frequent visits there.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Alsergrund",
+     "url": "https://en.wikipedia.org/wiki/Alsergrund",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q257780",
+     "url": "https://www.wikidata.org/wiki/Q257780",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "naschmarkt",
+   "image": {
+    "file": "images/naschmarkt.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Naschmarkt.JPG"
+   },
+   "location": {
+    "latitude": 48.1989,
+    "longitude": 16.3636
+   },
+   "category": "square",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 4,
+   "tags": [
+    "food",
+    "historic",
+    "neighbourhood",
+    "river",
+    "square"
+   ],
+   "area": "Mariahilf",
+   "content": {
+    "en": {
+     "name": "Naschmarkt",
+     "intro": "The Naschmarkt is a popular fruit and vegetable market in Vienna.",
+     "narration": "The Naschmarkt is a popular fruit and vegetable market in Vienna. Located at the Wienzeile over the Wien River, it is about 1.5 kilometres long. Originally known as Aschenmarkt, it started to be called the Naschmarkt around 1820. Nowadays, one can buy fresh fruit and vegetables from around the world, exotic herbs, cheese, baked goods such as bread, kaiser rolls, torte, meats, and seafood. There are also many small restaurants which offer e.g. sushi, kebab, seafood, traditional Viennese food such as Kaiserschmarrn or Palatschinken and stalls which offer clothes and accessories. Since 1977, the market extends further along the Wienzeile to an adjacent area every Saturday, when a flea market takes place there.",
+     "longDescription": "The Naschmarkt is a popular fruit and vegetable market in Vienna. Located at the Wienzeile over the Wien River, it is about 1.5 kilometres long. Originally known as Aschenmarkt, it started to be called the Naschmarkt around 1820. Nowadays, one can buy fresh fruit and vegetables from around the world, exotic herbs, cheese, baked goods such as bread, kaiser rolls, torte, meats, and seafood. There are also many small restaurants which offer e.g. sushi, kebab, seafood, traditional Viennese food such as Kaiserschmarrn or Palatschinken and stalls which offer clothes and accessories. Since 1977, the market extends further along the Wienzeile to an adjacent area every Saturday, when a flea market takes place there. The atmosphere of the Naschmarkt is famous far beyond the borders of Vienna, and large numbers of tourists visit the market every year.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Naschmarkt",
+     "url": "https://en.wikipedia.org/wiki/Naschmarkt",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q417645",
+     "url": "https://www.wikidata.org/wiki/Q417645",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "landstrae",
+   "image": {
+    "file": "images/landstrae.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Bahnhof_Wien_Mitte.JPG"
+   },
+   "location": {
+    "latitude": 48.196388888,
+    "longitude": 16.395833333
+   },
+   "category": "neighbourhood",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "neighbourhood"
+   ],
+   "area": "Vienna",
+   "content": {
+    "en": {
+     "name": "Landstraße",
+     "intro": "Landstraße is the 3rd municipal district of Vienna, Austria.",
+     "narration": "Landstraße is the 3rd municipal district of Vienna, Austria. It is near the center of Vienna and was established in the 19th century. Landstraße is a heavily populated urban area with many workers and residential homes. It has 89,834 inhabitants in an area of 7.42 km2. It has existed since about 1200 AD. In 1192, the English king Richard the Lionheart was captured in the Erdberg neighbourhood, after the unsuccessful Third Crusade. To tourists, Landstraße is mostly known for the 18th-century castle and gardens of Belvedere, the residence of Eugene of Savoy, which today houses the Austrian Gallery. Another residence was built by the Russian envoy to Vienna, Count Razumovsky.",
+     "longDescription": "Landstraße is the 3rd municipal district of Vienna, Austria. It is near the center of Vienna and was established in the 19th century. Landstraße is a heavily populated urban area with many workers and residential homes. It has 89,834 inhabitants in an area of 7.42 km2. It has existed since about 1200 AD. In 1192, the English king Richard the Lionheart was captured in the Erdberg neighbourhood, after the unsuccessful Third Crusade. To tourists, Landstraße is mostly known for the 18th-century castle and gardens of Belvedere, the residence of Eugene of Savoy, which today houses the Austrian Gallery. Another residence was built by the Russian envoy to Vienna, Count Razumovsky. A more recent point of interest is the Hundertwasserhaus block of flats designed in a dream-like style by the architect and painter Friedensreich Hundertwasser. Museums in Landstraße include the KunstHausWien and the Museum of Art Fakes. The St. Marx Cemetery in Landstraße contains the grave of Wolfgang Amadeus Mozart. Austrian Chancellor Metternich once remarked, \"The Balkans begin at the Rennweg\", which was then a mere road in Landstraße, out of Vienna towards the east. In 1787, Leopold Mozart, the father of Wolfgang Amadeus Mozart, remarked to Wolfgang's sister, Nannerl Mozart, that her brother had moved to Landstraße, which was at the time outside Vienna's city walls. Leopold included a comment, suggesting that Wolfgang's move was perhaps due to a less-than-ideal financial situation.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Landstraße",
+     "url": "https://en.wikipedia.org/wiki/Landstra%C3%9Fe",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q519552",
+     "url": "https://www.wikidata.org/wiki/Q519552",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "stephansplatz-vienna",
+   "image": {
+    "file": "images/stephansplatz-vienna.jpg",
+    "author": "böhringer friedrich",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stephansplatz_Wien_4.jpg"
+   },
+   "location": {
+    "latitude": 48.2084,
+    "longitude": 16.3725
+   },
+   "category": "square",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 4,
+   "tags": [
+    "modern",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Stephansplatz, Vienna",
+     "intro": "The Stephansplatz is a square at the geographical centre of Vienna, Austria.",
+     "narration": "The Stephansplatz is a square at the geographical centre of Vienna, Austria. It is named after its most prominent building, the Stephansdom, Vienna's cathedral and one of the tallest churches in the world. Before the 20th century, a row of houses separated Stephansplatz from Stock-im-Eisen-Platz, but since their destruction, the name Stephansplatz started to be used for the wider area covering both. To the west and south, respectively, run the exclusive shopping streets Graben and Kärntner Straße. Opposite the Stephansdom is the Haas-Haus, a piece of striking modern architecture by Hans Hollein.",
+     "longDescription": "The Stephansplatz is a square at the geographical centre of Vienna, Austria. It is named after its most prominent building, the Stephansdom, Vienna's cathedral and one of the tallest churches in the world. Before the 20th century, a row of houses separated Stephansplatz from Stock-im-Eisen-Platz, but since their destruction, the name Stephansplatz started to be used for the wider area covering both. To the west and south, respectively, run the exclusive shopping streets Graben and Kärntner Straße. Opposite the Stephansdom is the Haas-Haus, a piece of striking modern architecture by Hans Hollein. Although public opinion was originally skeptical about the combination of the mediaeval cathedral and the glass and steel building, it is now considered an example of how old and new architecture can mix harmoniously.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Stephansplatz, Vienna",
+     "url": "https://en.wikipedia.org/wiki/Stephansplatz%2C_Vienna",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q701662",
+     "url": "https://www.wikidata.org/wiki/Q701662",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "osterreichische-galerie-belvedere",
+   "image": {
+    "file": "images/osterreichische-galerie-belvedere.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Schloss_Belvedere,_oberes_(1).JPG"
+   },
+   "location": {
+    "latitude": 48.191388888,
+    "longitude": 16.380833333
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "baroque",
+    "hidden",
+    "medieval",
+    "museum"
+   ],
+   "area": "Landstraße",
+   "content": {
+    "en": {
+     "name": "Österreichische Galerie Belvedere",
+     "intro": "The Österreichische Galerie Belvedere is a museum housed in the Belvedere palace, in Vienna, Austria.",
+     "narration": "The Österreichische Galerie Belvedere is a museum housed in the Belvedere palace, in Vienna, Austria. The Belvedere palaces were the summer residence of Prince Eugene of Savoy. The ensemble was built in the early eighteenth century by the famous Baroque architect Johann Lucas von Hildebrandt, and comprises the Upper and Lower Belvedere, with the Orangery and Palace Stables, as well as extensive gardens. The Belvedere houses what was the first public museum in Austria, today containing significant collections of Austrian art dating from the Middle Ages to the present day, complemented by the works of international artists.",
+     "longDescription": "The Österreichische Galerie Belvedere is a museum housed in the Belvedere palace, in Vienna, Austria. The Belvedere palaces were the summer residence of Prince Eugene of Savoy. The ensemble was built in the early eighteenth century by the famous Baroque architect Johann Lucas von Hildebrandt, and comprises the Upper and Lower Belvedere, with the Orangery and Palace Stables, as well as extensive gardens. The Belvedere houses what was the first public museum in Austria, today containing significant collections of Austrian art dating from the Middle Ages to the present day, complemented by the works of international artists. At the Upper Belvedere, visitors not only encounter artworks drawn from over five hundred years of art history but can also experience the magnificent staterooms. In addition to the Lower and Upper Belvedere, the museum has further sites at Prince Eugene's town palace and the 21er Haus as well as the Gustinus Ambrosi Museum. The Belvedere's art collection presents an almost complete overview of the development of art in Austria and, thus, an insight into the country's history. The world's largest collection of Gustav Klimt's paintings lies at the heart of the presentation of Art around 1900, on show at the Upper Belvedere. Its highlights are Klimt's paintings, The Kiss and Judith I, and masterpieces by Egon Schiele and Oskar Kokoschka. Key works of French Impressionism and the greatest collection of Viennese Biedermeier art are further attractions at the museum.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Österreichische Galerie Belvedere",
+     "url": "https://en.wikipedia.org/wiki/%C3%96sterreichische_Galerie_Belvedere",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q303139",
+     "url": "https://www.wikidata.org/wiki/Q303139",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "plague-column-vienna",
+   "image": {
+    "file": "images/plague-column-vienna.jpg",
+    "author": "Thomas Ledl",
+    "license": "CC BY-SA 3.0 at",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_Graben_Pests%C3%A4ule_Ostseite.jpg"
+   },
+   "location": {
+    "latitude": 48.208722222,
+    "longitude": 16.369805555
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 30,
+   "visitMinutes": 6,
+   "tags": [
+    "baroque",
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Plague Column, Vienna",
+     "intro": "The Plague Column, or Trinity Column, is a Holy Trinity column located on the Graben, a street in the inner city of Vienna, Austria.",
+     "narration": "The Plague Column, or Trinity Column, is a Holy Trinity column located on the Graben, a street in the inner city of Vienna, Austria. Erected after the Great Plague epidemic in 1679, the Baroque memorial is one of the best known and most prominent sculptural artworks in the city. Christine M. Boeckl, author of Images of Plague and Pestilence, calls it \"one of the most ambitious and innovative sculptural ensembles created anywhere in Europe in the post-Bernini era.\"",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Plague Column, Vienna",
+     "url": "https://en.wikipedia.org/wiki/Plague_Column%2C_Vienna",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q688614",
+     "url": "https://www.wikidata.org/wiki/Q688614",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "karlsplatz",
+   "image": {
+    "file": "images/karlsplatz.jpg",
+    "author": "Suicasmo",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Karlskirche,_Vienna_20180826.jpg"
+   },
+   "location": {
+    "latitude": 48.1992,
+    "longitude": 16.37
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 24,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Wieden",
+   "content": {
+    "en": {
+     "name": "Karlsplatz",
+     "intro": "Karlsplatz is a town square on the border of the first and fourth districts of Vienna, Austria.",
+     "narration": "Karlsplatz is a town square on the border of the first and fourth districts of Vienna, Austria. It is one of the most frequented and best connected transportation hubs in Vienna. The Karlskirche is located here. The first district can be reached either by subway or via Operngasse. The pavilions of the former Karlsplatz Stadtbahn Station remain despite the construction of the U-Bahn system.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Karlsplatz",
+     "url": "https://en.wikipedia.org/wiki/Karlsplatz",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q700753",
+     "url": "https://www.wikidata.org/wiki/Q700753",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "theater-an-der-wien",
+   "image": {
+    "file": "images/theater-an-der-wien.jpg",
+    "author": "Rosso Robot",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020-05-23_Theater_an_der_Wien_Linke_Wienzeile.jpg"
+   },
+   "location": {
+    "latitude": 48.199680555,
+    "longitude": 16.363930555
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "modern",
+    "river"
+   ],
+   "area": "Mariahilf",
+   "content": {
+    "en": {
+     "name": "Theater an der Wien",
+     "intro": "The Theater an der Wien is a historic theatre in Vienna located on the Left Wienzeile in the Mariahilf district.",
+     "narration": "The Theater an der Wien is a historic theatre in Vienna located on the Left Wienzeile in the Mariahilf district. Completed in 1801, the theatre has hosted the premieres of many celebrated works of theatre, opera, and symphonic music. Since 2006, it has served primarily as an opera house, hosting its own company. Although \"Wien\" is German for \"Vienna\", the \"Wien\" in the name of the theatre is actually the name of the Wien River, which once flowed by the theatre site; \"an der Wien\" means \"on the banks of the Wien\". In modern times, the river has been covered over in this location and the covered riverbed now houses the Naschmarkt, an open-air market.",
+     "longDescription": "The Theater an der Wien is a historic theatre in Vienna located on the Left Wienzeile in the Mariahilf district. Completed in 1801, the theatre has hosted the premieres of many celebrated works of theatre, opera, and symphonic music. Since 2006, it has served primarily as an opera house, hosting its own company. Although \"Wien\" is German for \"Vienna\", the \"Wien\" in the name of the theatre is actually the name of the Wien River, which once flowed by the theatre site; \"an der Wien\" means \"on the banks of the Wien\". In modern times, the river has been covered over in this location and the covered riverbed now houses the Naschmarkt, an open-air market. The theatre is operated in cooperation with Vereinigte Bühnen Wien which also operates the Raimund Theater and the Ronacher.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Theater an der Wien",
+     "url": "https://en.wikipedia.org/wiki/Theater_an_der_Wien",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q374336",
+     "url": "https://www.wikidata.org/wiki/Q374336",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "museum-of-applied-arts-vienna",
+   "image": {
+    "file": "images/museum-of-applied-arts-vienna.jpg",
+    "author": "Gryffindor",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:M.A.K._Vienna_June_2006_017.jpg"
+   },
+   "location": {
+    "latitude": 48.207669444,
+    "longitude": 16.381369444
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "modern",
+    "museum"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Museum of Applied Arts, Vienna",
+     "intro": "The MAK – Museum of Applied Arts is an arts and crafts museum located at Stubenring 5 in Vienna's 1st district Innere Stadt.",
+     "narration": "The MAK – Museum of Applied Arts is an arts and crafts museum located at Stubenring 5 in Vienna's 1st district Innere Stadt. Besides its traditional orientation towards arts and crafts and design, the museum especially focuses on architecture and contemporary art. The museum has been at its current location since 1871. Since 2004 the building is illuminated in the evenings by the permanent outdoor installation \"MAKlite\" of American artist James Turrell. In 2015 the MAK became the first museum to use bitcoin to acquire art, when it purchased the screensaver \"Event listeners\" of van den Dorpel. With over 300,000 objects displayed online, the MAK presents the largest online collection within the Austrian Federal Museums.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Museum of Applied Arts, Vienna",
+     "url": "https://en.wikipedia.org/wiki/Museum_of_Applied_Arts%2C_Vienna",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q478455",
+     "url": "https://www.wikidata.org/wiki/Q478455",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "mariahilf",
+   "image": {
+    "file": "images/mariahilf.jpg",
+    "author": "böhringer friedrich",
+    "license": "CC BY-SA 3.0 at",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Linke_Wienzeile_4,_1060_Wien.JPG"
+   },
+   "location": {
+    "latitude": 48.195277777,
+    "longitude": 16.349722222
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "Vienna",
+   "content": {
+    "en": {
+     "name": "Mariahilf",
+     "intro": "Mariahilf is the 6th municipal district of Vienna, Austria.",
+     "narration": "Mariahilf is the 6th municipal district of Vienna, Austria. It is near the center of Vienna and was established as a district in 1850. Mariahilf is a heavily populated urban area with many residential buildings. It has a population of 31,621 within an area of 1.48 square kilometres.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Mariahilf",
+     "url": "https://en.wikipedia.org/wiki/Mariahilf",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q654812",
+     "url": "https://www.wikidata.org/wiki/Q654812",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "maria-theresien-platz",
+   "image": {
+    "file": "images/maria-theresien-platz.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Maria-Theresien-Platz.JPG"
+   },
+   "location": {
+    "latitude": 48.2046,
+    "longitude": 16.3605
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "historic",
+    "modern",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Maria-Theresien-Platz",
+     "intro": "Maria-Theresien-Platz is a large public square in Vienna, Austria, that joins the Ringstraße with the Museumsquartier, a museum of modern arts located in the former Imperial Stables.",
+     "narration": "Maria-Theresien-Platz is a large public square in Vienna, Austria, that joins the Ringstraße with the Museumsquartier, a museum of modern arts located in the former Imperial Stables. Facing each other from the sides of the square are two near identical buildings, the Naturhistorisches Museum and the Kunsthistorisches Museum. The buildings are near identical, except for the statuary on their façades. The Naturhistorisches' façade has statues depicting personifications of Africa, Asia, Europe, and the Americas. The Kunsthistorisches façade features famous European artists, such as the Dutch Bruegel, among others. The Naturhistorisches Museum and the Kunsthistorisches Museum and the square adjoining them were built in 1889.",
+     "longDescription": "Maria-Theresien-Platz is a large public square in Vienna, Austria, that joins the Ringstraße with the Museumsquartier, a museum of modern arts located in the former Imperial Stables. Facing each other from the sides of the square are two near identical buildings, the Naturhistorisches Museum and the Kunsthistorisches Museum. The buildings are near identical, except for the statuary on their façades. The Naturhistorisches' façade has statues depicting personifications of Africa, Asia, Europe, and the Americas. The Kunsthistorisches façade features famous European artists, such as the Dutch Bruegel, among others. The Naturhistorisches Museum and the Kunsthistorisches Museum and the square adjoining them were built in 1889. At the center of the square stands the Maria-Theresia Memorial, a large statue depicting Empress Maria Theresa, namesake of the square. The Modern Art Museum in the former Imperial Stables shows contemporary works that some may consider controversial. The three museums are popular destinations for tourists. The Kunsthistorisches Museum contains numerous famous works by the Northern European masters, such as Bruegel's Tower of Babel, as well as an extensive collection of ancient world art. The Egyptian collection houses mummified forms, stone carvings, and the tomb of an Egyptian prince that was transported to Vienna and reassembled for Emperor Franz Joseph I of Austria. On the stairwell's roof are frescoes by the Austrian artist Gustav Klimt. The Naturhistorisches Museum houses displays of butterflies and other insects, and an extensive preserved and stuffed animal collection, the most poignant examples of which include a Przewalskii's horse, a baby Javanese rhinoceros, and a case of dodo remains. Also notable is the museum's famous Mikrotheater, showin",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Maria-Theresien-Platz",
+     "url": "https://en.wikipedia.org/wiki/Maria-Theresien-Platz",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q699952",
+     "url": "https://www.wikidata.org/wiki/Q699952",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ringstrasse",
+   "image": {
+    "file": "images/ringstrasse.jpg",
+    "author": "Gugerell",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_01_Burgring_b.jpg"
+   },
+   "location": {
+    "latitude": 48.2046,
+    "longitude": 16.3627
+   },
+   "category": "street",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "street"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Ringstrasse",
+     "intro": "The Ringstrasse or Ringstraße is a 5.3 km circular grand boulevard that serves as a ring road around the historic city centre, the Innere Stadt, of Vienna, Austria.",
+     "narration": "The Ringstrasse or Ringstraße is a 5.3 km circular grand boulevard that serves as a ring road around the historic city centre, the Innere Stadt, of Vienna, Austria. The road is built where the city walls once stood. The Ring, as it is colloquially known, was built, along with grand buildings on either side of the road, in the second half of the 19th century. The road runs clockwise, from the Urania to the Schottenring, and is divided into nine parts. Because of its architectural beauty and history, the Ringstrasse is designated by UNESCO as part of the Historic Centre of Vienna World Heritage Site.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Ringstrasse",
+     "url": "https://en.wikipedia.org/wiki/Ringstrasse",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q46232",
+     "url": "https://www.wikidata.org/wiki/Q46232",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "wieden",
+   "image": {
+    "file": "images/wieden.jpg",
+    "author": "Ninanuri",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orf_Funkhaus_Argentinierstr.jpg"
+   },
+   "location": {
+    "latitude": 48.19201,
+    "longitude": 16.3713
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 21,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "historic",
+    "neighbourhood"
+   ],
+   "area": "Vienna",
+   "content": {
+    "en": {
+     "name": "Wieden",
+     "intro": "Wieden is the 4th municipal district of Vienna, Austria.",
+     "narration": "Wieden is the 4th municipal district of Vienna, Austria. It is near the centre of Vienna and was established as a district in 1850, but its borders were changed later. Wieden is a small region near the city centre. After World War II, Wieden was part of the Soviet sector of Vienna for 10 years.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Wieden",
+     "url": "https://en.wikipedia.org/wiki/Wieden",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q268001",
+     "url": "https://www.wikidata.org/wiki/Q268001",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "albertina",
+   "image": {
+    "file": "images/albertina.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Albertina_(b).JPG"
+   },
+   "location": {
+    "latitude": 48.204722222,
+    "longitude": 16.368333333
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "modern",
+    "museum"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Albertina",
+     "intro": "The Albertina is a museum in the Innere Stadt of Vienna, Austria.",
+     "narration": "The Albertina is a museum in the Innere Stadt of Vienna, Austria. It houses one of the largest and most important print rooms in the world with approximately 65,000 drawings and approximately 1 million old master prints, as well as more modern graphic works, photographs and architectural drawings. Apart from the graphics collection the museum has acquired, on permanent loan, two significant collections of Impressionist and early 20th-century art, some of which are on permanent display. The museum also houses temporary exhibitions. The museum had 1,037,347 visitors in 2025, down 3 percent from 2024, but up 4% from 2019, before the COVID-19 pandemic. It ranked 74th in the list of most-visited art museums in the world.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Albertina",
+     "url": "https://en.wikipedia.org/wiki/Albertina",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q371908",
+     "url": "https://www.wikidata.org/wiki/Q371908",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "austrian-parliament-building",
+   "image": {
+    "file": "images/austrian-parliament-building.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Parlament,_Tag_der_offenen_T%C3%BCr_(14.1.2023).JPG"
+   },
+   "location": {
+    "latitude": 48.20805,
+    "longitude": 16.3587
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Austrian Parliament Building",
+     "intro": "The Austrian Parliament Building in Vienna is the meeting place of the two houses of the Austrian Parliament.",
+     "narration": "The Austrian Parliament Building in Vienna is the meeting place of the two houses of the Austrian Parliament. The building is located on the Ringstraße in the first district, Innere Stadt, near Hofburg Palace and the Palace of Justice. It was built to house the two chambers of the Imperial Council, the bicameral legislature of the Cisleithanian part of the Austro-Hungarian Empire. Since its construction, the Parliament Building has been the seat of these two houses, and their successors—the National Council and the Federal Council—of the Austrian legislature. The foundation stone was laid in 1874; the building was completed in 1883. The architect responsible for its Greek Revival style was Theophil Hansen.",
+     "longDescription": "The Austrian Parliament Building in Vienna is the meeting place of the two houses of the Austrian Parliament. The building is located on the Ringstraße in the first district, Innere Stadt, near Hofburg Palace and the Palace of Justice. It was built to house the two chambers of the Imperial Council, the bicameral legislature of the Cisleithanian part of the Austro-Hungarian Empire. Since its construction, the Parliament Building has been the seat of these two houses, and their successors—the National Council and the Federal Council—of the Austrian legislature. The foundation stone was laid in 1874; the building was completed in 1883. The architect responsible for its Greek Revival style was Theophil Hansen. He designed the building holistically, aiming to have each element harmonize with all the others, and was also responsible for the interior decoration, such as statues, paintings, furniture, chandeliers, and numerous other elements. Hansen was honored by Emperor Franz Joseph with the title of Freiherr after its completion. Following heavy damage and destruction in World War II, most of the interior has been restored to its original splendor. The parliament building covers over 13,500 square meters, making it one of the largest structures on the Ringstraße. It contains over one hundred rooms, the most prominent of which are the Chambers of the National Council, the Federal Council, and the former House of Deputies. The building also includes committee rooms, libraries, lobbies, dining rooms, bars and gymnasiums. One of the building's most famous features is the Pallas Athena fountain in front of the main entrance, built by Carl Kundmann after plans from Hansen from 1898 to 1902; it is one of the city's most notable tourist attractions. The Parliament Building is the si",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Austrian Parliament Building",
+     "url": "https://en.wikipedia.org/wiki/Austrian_Parliament_Building",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q702121",
+     "url": "https://www.wikidata.org/wiki/Q702121",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "margareten",
+   "image": {
+    "file": "images/margareten.jpg",
+    "author": "Herzi Pinki",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Residential_building_Reinprechtsdorfer_Stra%C3%9Fe_42,_Vienna.jpg"
+   },
+   "location": {
+    "latitude": 48.1872,
+    "longitude": 16.3531
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "Vienna",
+   "content": {
+    "en": {
+     "name": "Margareten",
+     "intro": "Margareten is the fifth district of Vienna.",
+     "narration": "Margareten is the fifth district of Vienna. It is near the old town of Vienna and was separated from the fourth district in 1861. Margareten is a residential urban area, with over 25,000 inhabitants per km2, one of the most densely populated districts in Vienna. The district is named after Margaret of Antioch.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Margareten",
+     "url": "https://en.wikipedia.org/wiki/Margareten",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q252731",
+     "url": "https://www.wikidata.org/wiki/Q252731",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "prater",
+   "image": {
+    "file": "images/prater.jpg",
+    "author": "Ralf Roletschek",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:13-05-24-wien-RalfR-200.jpg"
+   },
+   "location": {
+    "latitude": 48.216111111,
+    "longitude": 16.395555555
+   },
+   "category": "park",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "hidden",
+    "park",
+    "scenic"
+   ],
+   "area": "Leopoldstadt",
+   "content": {
+    "en": {
+     "name": "Prater",
+     "intro": "The Prater is a 6 km² public park in Vienna's 2nd district, Leopoldstadt.",
+     "narration": "The Prater is a 6 km² public park in Vienna's 2nd district, Leopoldstadt. The name \"Prater\" can also be used to refer to the Wurstelprater, an amusement park within the area.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Prater",
+     "url": "https://en.wikipedia.org/wiki/Prater",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q264752",
+     "url": "https://www.wikidata.org/wiki/Q264752",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "neubau",
+   "image": {
+    "file": "images/neubau.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Volkstheater_(2).JPG"
+   },
+   "location": {
+    "latitude": 48.2025,
+    "longitude": 16.348055555
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "Vienna",
+   "content": {
+    "en": {
+     "name": "Neubau",
+     "intro": "Neubau is the seventh district of Vienna.",
+     "narration": "Neubau is the seventh district of Vienna. It is located near the center of Vienna and was established as a district in 1850, but borders changed later. Neubau is a heavily populated urban area, with a major shopping area and residential buildings. It has a population of 32,027 people within an area of 1.61 km². It consists of the former Vorstädte of Neubau, Altlerchenfeld, St. Ulrich, Schottenfeld and Spittelberg. The district borders are formed by Lerchenfelder Straße in the north, Mariahilfer Straße in the south, Neubaugürtel in the west, and Museumstraße and Museumsplatz in the east.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Neubau",
+     "url": "https://en.wikipedia.org/wiki/Neubau",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q664835",
+     "url": "https://www.wikidata.org/wiki/Q664835",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "favoriten",
+   "image": {
+    "file": "images/favoriten.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Wienerberg_City_(a).JPG"
+   },
+   "location": {
+    "latitude": 48.1578,
+    "longitude": 16.3592
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 8,
+   "tags": [
+    "baroque",
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "Vienna",
+   "content": {
+    "en": {
+     "name": "Favoriten",
+     "intro": "Favoriten, the 10th district of Vienna, Austria, is located south of the central districts.",
+     "narration": "Favoriten, the 10th district of Vienna, Austria, is located south of the central districts. It is south of Innere Stadt, Wieden and Margareten. Favoriten is a heavily populated urban area with many residential buildings, but also large recreational areas and parks. The name comes from Favorita, a semi-baroque palace complex that once served as a hunting castle but today is the Theresianum, a Gymnasium in the 4th district. The customs facilities at the original southern border of Vienna were known as the Favoriten-Linie while nearby houses were known as the Siedlung vor der Favoriten-Linie.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Favoriten",
+     "url": "https://en.wikipedia.org/wiki/Favoriten",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q697548",
+     "url": "https://www.wikidata.org/wiki/Q697548",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "stadttempel",
+   "image": {
+    "file": "images/stadttempel.jpg",
+    "author": "Gryffindor",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stadttempel_Vienna_September_2006_010.jpg"
+   },
+   "location": {
+    "latitude": 48.211649,
+    "longitude": 16.374825
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Innere Stadt",
+   "content": {
+    "en": {
+     "name": "Stadttempel",
+     "intro": "The Stadttempel, also called the Seitenstettengasse Temple, is an Orthodox Jewish synagogue, located at Seitenstettengasse 4, in the Innere Stadt 1st district of Vienna, Austria.",
+     "narration": "The Stadttempel, also called the Seitenstettengasse Temple, is an Orthodox Jewish synagogue, located at Seitenstettengasse 4, in the Innere Stadt 1st district of Vienna, Austria. Completed in 1826, it is the main synagogue in Vienna. The congregation worships in the Ashkenazi rite.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Stadttempel",
+     "url": "https://en.wikipedia.org/wiki/Stadttempel",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q253663",
+     "url": "https://www.wikidata.org/wiki/Q253663",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "austrian-national-library",
+   "image": {
+    "file": "images/austrian-national-library.jpg",
+    "author": "Richard Hopkins",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:State_Hall_of_the_Austrian_National_Library_NightFall404_1.jpg"
+   },
+   "location": {
+    "latitude": 48.20614167,
+    "longitude": 16.36626667
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "baroque",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Vienna",
+   "content": {
+    "en": {
+     "name": "Austrian National Library",
+     "intro": "The Austrian National Library is the largest library in Austria, with more than 12 million items in its various collections.",
+     "narration": "The Austrian National Library is the largest library in Austria, with more than 12 million items in its various collections. The library is located in the Neue Burg Wing of the Hofburg in center of Vienna. Since 2005, some of the collections have been relocated within the Baroque structure of the Palais Mollard-Clary. Founded by the Habsburgs, the library was originally called the Imperial Court Library; the change to the current name occurred in 1920, following the end of the Habsburg Monarchy and the proclamation of the Austrian Republic. The library complex includes four museums, as well as multiple special collections and archives.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Austrian National Library",
+     "url": "https://en.wikipedia.org/wiki/Austrian_National_Library",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q304037",
+     "url": "https://www.wikidata.org/wiki/Q304037",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "brigittenau",
+   "image": null,
+   "location": {
+    "latitude": 48.236667,
+    "longitude": 16.369444
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 46,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "modern",
+    "neighbourhood"
+   ],
+   "area": "Vienna",
+   "content": {
+    "en": {
+     "name": "Brigittenau",
+     "intro": "Brigittenau is the 20th district of Vienna.",
+     "narration": "Brigittenau is the 20th district of Vienna. It is located north of the central districts, north of Leopoldstadt on the same island area between the Danube and the Danube Canal. Brigittenau is a heavily populated urban area with many residential buildings. The district's name comes from the Brigitta Chapel, built between 1645 and 1651. It consists of a good tract of land secured by the regulation of the Danube 1870–75, and many of the major streets are named after members of the Danube Regulation Commission. Therefore, it does not contain any distinctive historical areas. Brigittenau was separated from the 2nd district in 1900. Earlier component districts were named Schottenau, Wolfsau, Taborau, and Zwischenbrücken. The best-known landmark is the Millennium Tower.",
+     "longDescription": "Brigittenau is the 20th district of Vienna. It is located north of the central districts, north of Leopoldstadt on the same island area between the Danube and the Danube Canal. Brigittenau is a heavily populated urban area with many residential buildings. The district's name comes from the Brigitta Chapel, built between 1645 and 1651. It consists of a good tract of land secured by the regulation of the Danube 1870–75, and many of the major streets are named after members of the Danube Regulation Commission. Therefore, it does not contain any distinctive historical areas. Brigittenau was separated from the 2nd district in 1900. Earlier component districts were named Schottenau, Wolfsau, Taborau, and Zwischenbrücken. The best-known landmark is the Millennium Tower. The district also includes Adolf Hitler's former residence in Vienna, the Meldemannstraße dormitory.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Brigittenau",
+     "url": "https://en.wikipedia.org/wiki/Brigittenau",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q265655",
+     "url": "https://www.wikidata.org/wiki/Q265655",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "josefstadt",
+   "image": {
+    "file": "images/josefstadt.jpg",
+    "author": "Gugerell",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_08_Josefst%C3%A4dter_Stra%C3%9Fe_033.jpg"
+   },
+   "location": {
+    "latitude": 48.2108,
+    "longitude": 16.3481
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "historic",
+    "neighbourhood",
+    "roman"
+   ],
+   "area": "Vienna",
+   "content": {
+    "en": {
+     "name": "Josefstadt",
+     "intro": "Josefstadt is the eighth district of Vienna.",
+     "narration": "Josefstadt is the eighth district of Vienna. It is near the center of Vienna and was established as a district in 1850, but borders changed later. Josefstadt is a heavily populated urban area with many workers and residential homes. It has a population of 24,279 people. With an area of 1.08 km2, Josefstadt is the smallest district in Vienna, and was named after the Holy Roman Emperor Joseph I. It consists of the former Vorstädte of Josefstadt, Breitenfeld, Strozzigrund, and Alt-Lerchenfeld, as well as parts of St. Ulrich and Alservorstadt. The district borders are formed by Alser Straße, Lerchenfelderstraße, Hernalsergürtel and Lerchenfeldergürtel in the west, and Auerspergstraße and Landesgerichtsstraße in the east. Josefstadt has developed into a middle-class neighbourhood.",
+     "longDescription": "Josefstadt is the eighth district of Vienna. It is near the center of Vienna and was established as a district in 1850, but borders changed later. Josefstadt is a heavily populated urban area with many workers and residential homes. It has a population of 24,279 people. With an area of 1.08 km2, Josefstadt is the smallest district in Vienna, and was named after the Holy Roman Emperor Joseph I. It consists of the former Vorstädte of Josefstadt, Breitenfeld, Strozzigrund, and Alt-Lerchenfeld, as well as parts of St. Ulrich and Alservorstadt. The district borders are formed by Alser Straße, Lerchenfelderstraße, Hernalsergürtel and Lerchenfeldergürtel in the west, and Auerspergstraße and Landesgerichtsstraße in the east. Josefstadt has developed into a middle-class neighbourhood. Most mayors of Vienna have lived here, as does Austria's former president. Due to its proximity to the University of Vienna, Josefstadt is also the home of many students. On the basis of the 2005 municipal elections, Josefstadt became Vienna's second district ever to have a Green district director.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Josefstadt",
+     "url": "https://en.wikipedia.org/wiki/Josefstadt",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q256778",
+     "url": "https://www.wikidata.org/wiki/Q256778",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "ottakring",
+   "image": {
+    "file": "images/ottakring.jpg",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ottakring_(Wien)_-_Heuriger_10er_Marie.JPG"
+   },
+   "location": {
+    "latitude": 48.2125,
+    "longitude": 16.3106
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "Vienna",
+   "content": {
+    "en": {
+     "name": "Ottakring",
+     "intro": "Ottakring is the 16th District in the city of Vienna, Austria.",
+     "narration": "Ottakring is the 16th District in the city of Vienna, Austria. It is located west of the central districts, north of Penzing and south of Hernals. Ottakring has some heavily populated urban areas with many residential buildings. It was formed from the independent villages of Ottakring and Neulerchenfeld in 1892.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Ottakring",
+     "url": "https://en.wikipedia.org/wiki/Ottakring",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q265945",
+     "url": "https://www.wikidata.org/wiki/Q265945",
+     "license": "CC0"
+    }
+   ]
+  }
+ ]
+}

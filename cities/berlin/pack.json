@@ -1,0 +1,2308 @@
+{
+ "format": 1,
+ "city": {
+  "id": "berlin",
+  "name": "Berlin",
+  "country": "Germany",
+  "center": {
+   "latitude": 52.5173885,
+   "longitude": 13.3951309
+  },
+  "bounds": {
+   "south": 52.3382448,
+   "north": 52.6755087,
+   "west": 13.088345,
+   "east": 13.7611609
+  },
+  "languages": [
+   "en"
+  ],
+  "quality": "generated",
+  "placeCount": 45,
+  "version": 1,
+  "hero": {
+   "file": "images/fernsehturm-berlin.jpg",
+   "author": "L-BBE",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tv-turm_-_panoramio.jpg"
+  },
+  "packUrl": "cities/berlin/pack.json",
+  "generatedAt": "2026-10-30T14:55:14Z"
+ },
+ "pois": [
+  {
+   "id": "fernsehturm-berlin",
+   "image": {
+    "file": "images/fernsehturm-berlin.jpg",
+    "author": "L-BBE",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tv-turm_-_panoramio.jpg"
+   },
+   "location": {
+    "latitude": 52.520833333,
+    "longitude": 13.409444444
+   },
+   "category": "viewpoint",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "scenic",
+    "viewpoint"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Fernsehturm Berlin",
+     "intro": "The Fernsehturm in central Berlin was constructed between 1965 and 1969 by the government of the German Democratic Republic as both a functional broadcasting facility and a symbol of communist power.",
+     "narration": "The Fernsehturm in central Berlin was constructed between 1965 and 1969 by the government of the German Democratic Republic as both a functional broadcasting facility and a symbol of communist power. It remains a landmark today from its position next to Alexanderplatz in the city's Marien Quarter, part of the district of Mitte, visible across most suburban districts of Berlin. With a height of 368 metres it is the tallest structure in Germany, and the third-tallest structure in the European Union. When built it was the fourth-tallest freestanding structure in the world after the Empire State Building and the John Hancock Center.",
+     "longDescription": "The Fernsehturm in central Berlin was constructed between 1965 and 1969 by the government of the German Democratic Republic as both a functional broadcasting facility and a symbol of communist power. It remains a landmark today from its position next to Alexanderplatz in the city's Marien Quarter, part of the district of Mitte, visible across most suburban districts of Berlin. With a height of 368 metres it is the tallest structure in Germany, and the third-tallest structure in the European Union. When built it was the fourth-tallest freestanding structure in the world after the Empire State Building and the John Hancock Center. Of the four tallest structures in the European Union, the Fernsehturm is two metres shorter than the Torreta de Guardamar, 0.5 m shorter than the Riga Radio and TV Tower, and 8 m taller than the Trbovlje Power Station. The structure is also more than 220 m higher than the old Berlin Radio Tower in the western part of the city, which was built in the 1920s. In addition to its main function as the location of several radio and television transmitters, the building – internally known as \"Fernmeldeturm 32\" – serves as a viewing tower with an observation deck including a bar at a height of 203 metres, as well as a rotating restaurant. Also, the Berlin TV Tower can be booked as a venue for events. The distinctive city landmark has undergone a radical, symbolic transformation: After German reunification, it changed from a politically charged, national symbol of the GDR into a citywide symbol of a reunited Berlin. Due to its universal and timeless design, it has increasingly been used as a trademark and is identified worldwide with Berlin and Germany. In 1979, the Berlin TV Tower received official monument status by the East German government, a status ",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Fernsehturm Berlin",
+     "url": "https://en.wikipedia.org/wiki/Fernsehturm_Berlin",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q151356",
+     "url": "https://www.wikidata.org/wiki/Q151356",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "brandenburg-gate",
+   "image": {
+    "file": "images/brandenburg-gate.jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_morgens.jpg"
+   },
+   "location": {
+    "latitude": 52.516272222,
+    "longitude": 13.377722222
+   },
+   "category": "monument",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 37,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Brandenburg Gate",
+     "intro": "The Brandenburg Gate is an 18th-century neoclassical monument in Berlin, Germany.",
+     "narration": "The Brandenburg Gate is an 18th-century neoclassical monument in Berlin, Germany. One of the best-known landmarks of the country, it was erected on the site of a former city gate that marked the start of the road from Berlin to Brandenburg an der Havel, the former capital of the Margraviate of Brandenburg. The current structure was built from 1788 to 1791 by orders of King Frederick William II of Prussia, based on designs by the royal architect Carl Gotthard Langhans. The bronze sculpture of the quadriga crowning the gate is a work by the sculptor Johann Gottfried Schadow.",
+     "longDescription": "The Brandenburg Gate is an 18th-century neoclassical monument in Berlin, Germany. One of the best-known landmarks of the country, it was erected on the site of a former city gate that marked the start of the road from Berlin to Brandenburg an der Havel, the former capital of the Margraviate of Brandenburg. The current structure was built from 1788 to 1791 by orders of King Frederick William II of Prussia, based on designs by the royal architect Carl Gotthard Langhans. The bronze sculpture of the quadriga crowning the gate is a work by the sculptor Johann Gottfried Schadow. The Brandenburg Gate is located in the western part of the city centre within Mitte, at the junction of Unter den Linden and Ebertstraße. The gate dominates the Pariser Platz to the east, while to the immediate west it opens onto the Platz des 18. März beyond which the Straße des 17. Juni begins. One block to the north stands the Reichstag building, home to the German parliament, and further to the west is the Tiergarten inner-city park. The gate also forms the monumental entry to Unter den Linden, which leads directly to the former City Palace of the Prussian monarchs, and Berlin Cathedral. Throughout its existence, the Brandenburg Gate was often a site for major historical events. After World War II and during the Cold War, until its fall in 1989, the Berlin Wall obstructed the gateway, and was for almost three decades a marker of the city's division. Since German reunification in 1990, it has been considered not only a symbol of the tumultuous histories of Germany and Europe, but also of European unity and peace.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Brandenburg Gate",
+     "url": "https://en.wikipedia.org/wiki/Brandenburg_Gate",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q82425",
+     "url": "https://www.wikidata.org/wiki/Q82425",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "museum-island",
+   "image": {
+    "file": "images/museum-island.jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_Museumsinsel_Fernsehturm.jpg"
+   },
+   "location": {
+    "latitude": 52.521388888,
+    "longitude": 13.395555555
+   },
+   "category": "neighbourhood",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "historic",
+    "iconic",
+    "modern",
+    "neighbourhood",
+    "river"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Museum Island",
+     "intro": "The Museum Island is a museum complex on the northern part of Spree Island in the historic heart of Berlin, Germany.",
+     "narration": "The Museum Island is a museum complex on the northern part of Spree Island in the historic heart of Berlin, Germany. It is one of the capital's most visited sights and one of the most important museum sites in Europe. Originally built from 1830 to 1930, initially by order of the Prussian Kings, according to plans by five architects, the Museum Island was designated a UNESCO World Heritage Site in 1999 because of its testimony to the architectural and cultural development of museums in the 19th and 20th centuries. It consists of the Altes Museum, the Neues Museum, the Alte Nationalgalerie, the Bode-Museum and the Pergamon Museum.",
+     "longDescription": "The Museum Island is a museum complex on the northern part of Spree Island in the historic heart of Berlin, Germany. It is one of the capital's most visited sights and one of the most important museum sites in Europe. Originally built from 1830 to 1930, initially by order of the Prussian Kings, according to plans by five architects, the Museum Island was designated a UNESCO World Heritage Site in 1999 because of its testimony to the architectural and cultural development of museums in the 19th and 20th centuries. It consists of the Altes Museum, the Neues Museum, the Alte Nationalgalerie, the Bode-Museum and the Pergamon Museum. As the Museum Island designation includes all of Spree Island north of the Karl Liebknecht Boulevard, the historic Berlin Cathedral is also located there, next to the open Lustgarten park. To the south of Liebknecht Boulevard, the reconstructed Berlin Palace houses the Humboldt Forum museum and opened in 2020. Also adjacent, across the west branch of the Spree is the German Historical Museum. Since German reunification, the Museum Island has been rebuilt and extended according to a master plan. In 2019, a new visitor center and art gallery, the James Simon Gallery, was opened within the Museum Island heritage site.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Museum Island",
+     "url": "https://en.wikipedia.org/wiki/Museum_Island",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q151963",
+     "url": "https://www.wikidata.org/wiki/Q151963",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "reichstag-building",
+   "image": {
+    "file": "images/reichstag-building.jpg",
+    "author": "Jörg Braukmann",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reichstagsgeb%C3%A4ude_von_Westen.jpg"
+   },
+   "location": {
+    "latitude": 52.518611111,
+    "longitude": 13.376111111
+   },
+   "category": "architecture",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 46,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "river"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Reichstag building",
+     "intro": "The Reichstag is a historic legislative government building on Platz der Republik in Berlin that is the seat of the Bundestag parliament.",
+     "narration": "The Reichstag is a historic legislative government building on Platz der Republik in Berlin that is the seat of the Bundestag parliament. It is also the meeting place of the Federal Convention, which elects the president of Germany. The Neo-Renaissance building was constructed between 1884 and 1894 in the Tiergarten district on the left bank of the River Spree based on plans by the architect Paul Wallot. It housed the Reichstag of the German Empire and subsequent Weimar Republic. The Reich's Federal Council also originally met there. The building was initially used by the Reichstag for Nazi Germany, but severe damage in the Reichstag fire of 1933 prevented further use and the Reichstag moved to the nearby Kroll Opera House.",
+     "longDescription": "The Reichstag is a historic legislative government building on Platz der Republik in Berlin that is the seat of the Bundestag parliament. It is also the meeting place of the Federal Convention, which elects the president of Germany. The Neo-Renaissance building was constructed between 1884 and 1894 in the Tiergarten district on the left bank of the River Spree based on plans by the architect Paul Wallot. It housed the Reichstag of the German Empire and subsequent Weimar Republic. The Reich's Federal Council also originally met there. The building was initially used by the Reichstag for Nazi Germany, but severe damage in the Reichstag fire of 1933 prevented further use and the Reichstag moved to the nearby Kroll Opera House. The 1933 fire became a pivotal event in the entrenchment of the Nazi regime. The building took further damage during World War II, and its symbolism made it an important target for the Red Army during the Battle of Berlin. After the war, the building was modernised and partially restored in the 1950s and used for exhibitions and special events, as its location in West Berlin prevented its use as a parliament building by either of the two Germanies. From 1995 to 1999, the Reichstag was fundamentally redesigned by Norman Foster for its permanent use as a parliament building in the now reunified Germany. The keys were ceremonially handed over to the president of the Bundestag, Wolfgang Thierse, on 19 April 1999. A landmark of the city is the redesigned walk-in glass dome above the plenary chamber, proposed by artist and architect Gottfried Böhm.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Reichstag building",
+     "url": "https://en.wikipedia.org/wiki/Reichstag_building",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q151897",
+     "url": "https://www.wikidata.org/wiki/Q151897",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "gendarmenmarkt",
+   "image": {
+    "file": "images/gendarmenmarkt.jpg",
+    "author": "Christoph Matthias Siebenborn",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gendarmenmarkt_2010_11_01.jpg"
+   },
+   "location": {
+    "latitude": 52.513611111,
+    "longitude": 13.392777777
+   },
+   "category": "square",
+   "priority": 5,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Gendarmenmarkt",
+     "intro": "The Gendarmenmarkt is a square in Berlin and the site of an architectural ensemble that includes the Berlin concert hall, along with the French and German Churches.",
+     "narration": "The Gendarmenmarkt is a square in Berlin and the site of an architectural ensemble that includes the Berlin concert hall, along with the French and German Churches. In the centre of the square stands a monumental statue of poet Friedrich Schiller. The square was created by Johann Arnold Nering at the end of the seventeenth century as the Linden-Markt and reconstructed by Georg Christian Unger in 1773. The Gendarmenmarkt is named after a Prussian cuirassier regiment called the Gendarmen, which had stables at the square until 1773. During World War II, most of the buildings were badly damaged or destroyed. They have all been restored.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Gendarmenmarkt",
+     "url": "https://en.wikipedia.org/wiki/Gendarmenmarkt",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q170103",
+     "url": "https://www.wikidata.org/wiki/Q170103",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "berlin-victory-column",
+   "image": {
+    "file": "images/berlin-victory-column.jpg",
+    "author": "Zonk43",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siegessaeule_Berlin09072023.png"
+   },
+   "location": {
+    "latitude": 52.51451,
+    "longitude": 13.350111
+   },
+   "category": "monument",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "iconic",
+    "monument"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Berlin Victory Column",
+     "intro": "The Victory Column is a monument in Berlin, Germany.",
+     "narration": "The Victory Column is a monument in Berlin, Germany. Designed by Heinrich Strack after 1864 to commemorate the Prussian victory over Denmark in the Second Schleswig War, by the time it was inaugurated on 2 September 1873, Prussia had also defeated Austria and its German allies in the Austro-Prussian War and France in the Franco-Prussian War, giving the statue a new purpose. Different from the original plans, these later victories in the unification wars inspired the addition of the bronze sculpture of Victoria, the Roman goddess of victory, 8.3 metres high, designed by Friedrich Drake, giving the victory column its current height of 67 m.",
+     "longDescription": "The Victory Column is a monument in Berlin, Germany. Designed by Heinrich Strack after 1864 to commemorate the Prussian victory over Denmark in the Second Schleswig War, by the time it was inaugurated on 2 September 1873, Prussia had also defeated Austria and its German allies in the Austro-Prussian War and France in the Franco-Prussian War, giving the statue a new purpose. Different from the original plans, these later victories in the unification wars inspired the addition of the bronze sculpture of Victoria, the Roman goddess of victory, 8.3 metres high, designed by Friedrich Drake, giving the victory column its current height of 67 m. Berliners have given the statue the nickname Goldelse, meaning something like \"Golden Lizzy\", named after an 1866 novel by E. Marlitt and its heroine. The Victory Column is a major tourist attraction in the city of Berlin. Its viewing platform, for which a ticket is required, offers a view over Berlin.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Berlin Victory Column",
+     "url": "https://en.wikipedia.org/wiki/Berlin_Victory_Column",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q154987",
+     "url": "https://www.wikidata.org/wiki/Q154987",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "pergamon-museum",
+   "image": {
+    "file": "images/pergamon-museum.jpg",
+    "author": "Raimond Spekking",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pergamonmuseum_Front.jpg"
+   },
+   "location": {
+    "latitude": 52.521,
+    "longitude": 13.396
+   },
+   "category": "museum",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "iconic",
+    "museum"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Pergamon Museum",
+     "intro": "The Pergamon Museum is a listed building on the Museum Island in the historic centre of Berlin, Germany.",
+     "narration": "The Pergamon Museum is a listed building on the Museum Island in the historic centre of Berlin, Germany. It was built from 1910 to 1930 by order of Emperor Wilhelm II and according to plans by Alfred Messel and Ludwig Hoffmann in Stripped Classicism style. As part of the Museum Island complex, the Pergamon Museum was added to the UNESCO World Heritage List in 1999 because of its architecture and testimony to the evolution of museums as architectural and social phenomena. Prior to its closing in 2023, the Pergamon Museum was home to the Antikensammlung, including the famous Pergamon Altar, the Vorderasiatisches Museum and the Museum für Islamische Kunst.",
+     "longDescription": "The Pergamon Museum is a listed building on the Museum Island in the historic centre of Berlin, Germany. It was built from 1910 to 1930 by order of Emperor Wilhelm II and according to plans by Alfred Messel and Ludwig Hoffmann in Stripped Classicism style. As part of the Museum Island complex, the Pergamon Museum was added to the UNESCO World Heritage List in 1999 because of its architecture and testimony to the evolution of museums as architectural and social phenomena. Prior to its closing in 2023, the Pergamon Museum was home to the Antikensammlung, including the famous Pergamon Altar, the Vorderasiatisches Museum and the Museum für Islamische Kunst. In October 2023, the museum was completely closed for visitors, and is expected to remain mostly closed for 14 to 20 years – until 2037 to 2043 – for the execution of comprehensive renovation works. Its North Wing is expected to reopen in 2027.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Pergamon Museum",
+     "url": "https://en.wikipedia.org/wiki/Pergamon_Museum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q157298",
+     "url": "https://www.wikidata.org/wiki/Q157298",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "alexanderplatz",
+   "image": {
+    "file": "images/alexanderplatz.jpg",
+    "author": "Wladyslaw Sojka",
+    "license": "FAL",
+    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_-_Alexanderplatz1.jpg"
+   },
+   "location": {
+    "latitude": 52.521666666,
+    "longitude": 13.413611111
+   },
+   "category": "square",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 4,
+   "tags": [
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Alexanderplatz",
+     "intro": "Alexanderplatz is a large public square and transport hub in the central Mitte district of Berlin.",
+     "narration": "Alexanderplatz is a large public square and transport hub in the central Mitte district of Berlin. The square is named after the Russian Tsar Alexander I, which also denotes the larger neighbourhood stretching from Mollstraße in the north-east to Spandauer Straße and the Rotes Rathaus in the south-west. Alexanderplatz is reputedly the most visited area of Berlin, beating Friedrichstrasse and City West. It is a popular starting point for tourists, with many attractions including the Fernsehturm, the Nikolai Quarter and the Rotes Rathaus situated nearby. Alexanderplatz is still one of Berlin's major commercial areas, housing various shopping malls, department stores and other large retail locations.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Alexanderplatz",
+     "url": "https://en.wikipedia.org/wiki/Alexanderplatz",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q152783",
+     "url": "https://www.wikidata.org/wiki/Q152783",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "potsdamer-platz",
+   "image": {
+    "file": "images/potsdamer-platz.jpg",
+    "author": "Michael J. Zirbes",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:PotsdamerPlatz_Vogelperspektive_2004_1.jpg"
+   },
+   "location": {
+    "latitude": 52.508944444,
+    "longitude": 13.376333333
+   },
+   "category": "square",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 4,
+   "tags": [
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Potsdamer Platz",
+     "intro": "Potsdamer Platz is a public square and traffic intersection in the centre of Berlin, Germany, lying about 1 km south of the Brandenburg Gate and the Reichstag, and close to the southeast corner of the Tiergarten park.",
+     "narration": "Potsdamer Platz is a public square and traffic intersection in the centre of Berlin, Germany, lying about 1 km south of the Brandenburg Gate and the Reichstag, and close to the southeast corner of the Tiergarten park. It is named after the city of Potsdam, some 25 km to the south west, and marks the point where the old road from Potsdam passed through the city wall of Berlin at the Potsdam Gate. Initially, the open area near the city gate was used for military drills and parades. In the 19th into the 20th century, it developed from an intersection of suburban thoroughfares into the most bustling traffic intersection in Europe.",
+     "longDescription": "Potsdamer Platz is a public square and traffic intersection in the centre of Berlin, Germany, lying about 1 km south of the Brandenburg Gate and the Reichstag, and close to the southeast corner of the Tiergarten park. It is named after the city of Potsdam, some 25 km to the south west, and marks the point where the old road from Potsdam passed through the city wall of Berlin at the Potsdam Gate. Initially, the open area near the city gate was used for military drills and parades. In the 19th into the 20th century, it developed from an intersection of suburban thoroughfares into the most bustling traffic intersection in Europe. The area was totally destroyed during World War II and then left desolate during the Cold War era when the Berlin Wall bisected it. Following German reunification in 1990, Potsdamer Platz underwent extensive redevelopment throughout the 1990s and early 2000s. Today, it is a bustling commercial and cultural hub featuring corporate offices, retail spaces, restaurants, cinemas, and hotels.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Potsdamer Platz",
+     "url": "https://en.wikipedia.org/wiki/Potsdamer_Platz",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q152252",
+     "url": "https://www.wikidata.org/wiki/Q152252",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "pariser-platz",
+   "image": {
+    "file": "images/pariser-platz.jpg",
+    "author": "Matthias Süßen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg"
+   },
+   "location": {
+    "latitude": 52.516388888,
+    "longitude": 13.378888888
+   },
+   "category": "square",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 24,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Pariser Platz",
+     "intro": "Pariser Platz is a square in the historic center of Berlin, Germany, situated by the Brandenburg Gate at the end of Unter den Linden boulevard.",
+     "narration": "Pariser Platz is a square in the historic center of Berlin, Germany, situated by the Brandenburg Gate at the end of Unter den Linden boulevard. The square is named after the French capital of Paris to commemorate the victory of the Sixth Coalition over the French Empire at the Battle of Paris, and is one of the main focal points of the city.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Pariser Platz",
+     "url": "https://en.wikipedia.org/wiki/Pariser_Platz",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q156716",
+     "url": "https://www.wikidata.org/wiki/Q156716",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "berlin-cathedral",
+   "image": {
+    "file": "images/berlin-cathedral.jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berliner_Dom_von_Humboldt-Box.jpg"
+   },
+   "location": {
+    "latitude": 52.519166666,
+    "longitude": 13.401111111
+   },
+   "category": "church",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 45,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "baroque",
+    "church",
+    "historic",
+    "iconic"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Berlin Cathedral",
+     "intro": "Berlin Cathedral, also known as the Evangelical Supreme Parish and Collegiate Church, is a monumental German Protestant church and dynastic tomb at the Lustgarten on the Museum Island in central Berlin.",
+     "narration": "Berlin Cathedral, also known as the Evangelical Supreme Parish and Collegiate Church, is a monumental German Protestant church and dynastic tomb at the Lustgarten on the Museum Island in central Berlin. Having its origins as a castle chapel for the Berlin Palace, several structures have served to house the church since the 15th century. The present collegiate church was built from 1894 to 1905 by order of Emperor William II according to plans by Julius Raschdorff in Renaissance and Baroque Revival styles. The listed building is the largest Protestant church in Germany and one of the most important dynastic tombs in Europe. In addition to church services, the cathedral is used for state ceremonies, concerts and other events.",
+     "longDescription": "Berlin Cathedral, also known as the Evangelical Supreme Parish and Collegiate Church, is a monumental German Protestant church and dynastic tomb at the Lustgarten on the Museum Island in central Berlin. Having its origins as a castle chapel for the Berlin Palace, several structures have served to house the church since the 15th century. The present collegiate church was built from 1894 to 1905 by order of Emperor William II according to plans by Julius Raschdorff in Renaissance and Baroque Revival styles. The listed building is the largest Protestant church in Germany and one of the most important dynastic tombs in Europe. In addition to church services, the cathedral is used for state ceremonies, concerts and other events. Since the demolition of the Memorial Church section on the north side by the East German authorities in 1975, Berlin Cathedral has consisted of the large Sermon Church in the center, and the smaller Baptismal and Matrimonial Church on the south side and the Hohenzollern crypt, which covers almost the entire basement. Damaged during the Allied bombing in World War II, the cathedral's original interior was restored by 2002. Currently there is discussion about restoring the historical exterior as well.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Berlin Cathedral",
+     "url": "https://en.wikipedia.org/wiki/Berlin_Cathedral",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q154563",
+     "url": "https://www.wikidata.org/wiki/Q154563",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "pergamon-altar",
+   "image": {
+    "file": "images/pergamon-altar.jpg",
+    "author": "Lestat (Jan Mehlich)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_-_Pergamonmuseum_-_Altar_02.jpg"
+   },
+   "location": {
+    "latitude": 52.521111111,
+    "longitude": 13.396944444
+   },
+   "category": "architecture",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "iconic",
+    "modern",
+    "roman"
+   ],
+   "area": "Berlin",
+   "content": {
+    "en": {
+     "name": "Pergamon Altar",
+     "intro": "The Pergamon Altar was a monumental construction built during the reign of the Ancient Greek King Eumenes II of the Pergamon Empire in the first half of the 2nd century BC on one of the terraces of the acropolis of…",
+     "narration": "The Pergamon Altar was a monumental construction built during the reign of the Ancient Greek King Eumenes II of the Pergamon Empire in the first half of the 2nd century BC on one of the terraces of the acropolis of Pergamon in Asia Minor. It was described as one of the Seven Wonders of the Ancient World by three known classical lists. The structure was 35.74 metres wide and 33.4 metres deep; the front stairway alone was almost 20 metres wide. The base was decorated with a frieze in high relief showing the battle between the Giants and the Olympian gods known as the Gigantomachy.",
+     "longDescription": "The Pergamon Altar was a monumental construction built during the reign of the Ancient Greek King Eumenes II of the Pergamon Empire in the first half of the 2nd century BC on one of the terraces of the acropolis of Pergamon in Asia Minor. It was described as one of the Seven Wonders of the Ancient World by three known classical lists. The structure was 35.74 metres wide and 33.4 metres deep; the front stairway alone was almost 20 metres wide. The base was decorated with a frieze in high relief showing the battle between the Giants and the Olympian gods known as the Gigantomachy. There was a second, smaller and less well-preserved high relief frieze on the inner court walls which surrounded the actual fire altar on the upper level of the structure at the top of the stairs. In a set of consecutive scenes, it depicts events from the life of Telephus, legendary founder of the city of Pergamon and son of the hero Heracles and Auge, one of Tegean king Aleus's daughters. In 1878, the German engineer Carl Humann started official excavations on the acropolis of Pergamon, an effort that lasted until 1886. The relief panels from the Pergamon Altar were subsequently transferred to Berlin, where they were placed on display in the Pergamon Museum.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Pergamon Altar",
+     "url": "https://en.wikipedia.org/wiki/Pergamon_Altar",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q158058",
+     "url": "https://www.wikidata.org/wiki/Q158058",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "bebelplatz",
+   "image": {
+    "file": "images/bebelplatz.jpg",
+    "author": "A.Savin",
+    "license": "FAL",
+    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_Bebelplatz_asv2018-05_img3.jpg"
+   },
+   "location": {
+    "latitude": 52.5164,
+    "longitude": 13.3939
+   },
+   "category": "square",
+   "priority": 4,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 44,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "iconic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Bebelplatz",
+     "intro": "The Bebelplatz is a public square in the central Mitte district of Berlin, the capital of Germany.",
+     "narration": "The Bebelplatz is a public square in the central Mitte district of Berlin, the capital of Germany. Following World War II, the square was renamed after August Bebel, a founder of the Social Democratic Party of Germany in the 19th century. The square is located on the south side of the Unter den Linden boulevard, a major east-west thoroughfare that runs through Berlin's city center. It consists of a green area to the east and an open area to the west of the State Opera building, which it surrounds. It is bounded to the east by the Prinzessinnenpalais, to the west by the Alte Bibliothek and the Old Palace, and to the southeast by St.",
+     "longDescription": "The Bebelplatz is a public square in the central Mitte district of Berlin, the capital of Germany. Following World War II, the square was renamed after August Bebel, a founder of the Social Democratic Party of Germany in the 19th century. The square is located on the south side of the Unter den Linden boulevard, a major east-west thoroughfare that runs through Berlin's city center. It consists of a green area to the east and an open area to the west of the State Opera building, which it surrounds. It is bounded to the east by the Prinzessinnenpalais, to the west by the Alte Bibliothek and the Old Palace, and to the southeast by St. Hedwig's Cathedral, the first Catholic church built in Prussia after the Reformation.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Bebelplatz",
+     "url": "https://en.wikipedia.org/wiki/Bebelplatz",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q699504",
+     "url": "https://www.wikidata.org/wiki/Q699504",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "soviet-war-memorial-treptower-park",
+   "image": {
+    "file": "images/soviet-war-memorial-treptower-park.jpg",
+    "author": "Antoinevandermeer",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:TreptowEhrenmal10.JPG"
+   },
+   "location": {
+    "latitude": 52.486111,
+    "longitude": 13.471667
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument"
+   ],
+   "area": "Treptow-Köpenick",
+   "content": {
+    "en": {
+     "name": "Soviet War Memorial (Treptower Park)",
+     "intro": "The Soviet War Memorial is a war memorial and military cemetery in Berlin's Treptower Park.",
+     "narration": "The Soviet War Memorial is a war memorial and military cemetery in Berlin's Treptower Park. It was built to the design of the Soviet architect Yakov Belopolsky to commemorate 7,000 of the 80,000 Red Army soldiers who fell in the Battle of Berlin in April–May 1945. It opened four years after the end of World War II in Europe, on 8 May 1949. The Memorial served as the central war memorial of East Germany. The monument is one of three Soviet memorials built in Berlin after the end of the war.",
+     "longDescription": "The Soviet War Memorial is a war memorial and military cemetery in Berlin's Treptower Park. It was built to the design of the Soviet architect Yakov Belopolsky to commemorate 7,000 of the 80,000 Red Army soldiers who fell in the Battle of Berlin in April–May 1945. It opened four years after the end of World War II in Europe, on 8 May 1949. The Memorial served as the central war memorial of East Germany. The monument is one of three Soviet memorials built in Berlin after the end of the war. The other two memorials are the Tiergarten memorial, built in 1945 in the Tiergarten district of what later became West Berlin, and the Schönholzer Heide Memorial in Berlin's Pankow district. Together with the Rear-front Memorial in Magnitogorsk and The Motherland Calls in Volgograd, the monument is a part of a triptych.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Soviet War Memorial (Treptower Park)",
+     "url": "https://en.wikipedia.org/wiki/Soviet_War_Memorial_%28Treptower_Park%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q48441",
+     "url": "https://www.wikidata.org/wiki/Q48441",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "memorial-to-the-murdered-jews-of-europe",
+   "image": {
+    "file": "images/memorial-to-the-murdered-jews-of-europe.jpg",
+    "author": "NoRud",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_Holocaust-Mahnmal_in_Mitte_1.jpg"
+   },
+   "location": {
+    "latitude": 52.513888888,
+    "longitude": 13.378888888
+   },
+   "category": "monument",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 6,
+   "tags": [
+    "historic",
+    "monument"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Memorial to the Murdered Jews of Europe",
+     "intro": "The Memorial to the Murdered Jews of Europe, also known as the Holocaust Memorial, is a memorial in Berlin to the Jewish victims of the Holocaust committed by Nazi Germany, designed by architect Peter Eisenman and…",
+     "narration": "The Memorial to the Murdered Jews of Europe, also known as the Holocaust Memorial, is a memorial in Berlin to the Jewish victims of the Holocaust committed by Nazi Germany, designed by architect Peter Eisenman and Buro Happold. It consists of a 1.9-hectare site covered with 2,711 concrete slabs or \"stelae\", arranged in a grid pattern on a sloping field. The original plan was to place nearly 4,000 slabs, but after the recalculation, the number of slabs that could legally fit into the designated areas was 2,711. The stelae are 2.38 m long, 0.95 m wide and vary in height from 0.2 to 4.7 metres.",
+     "longDescription": "The Memorial to the Murdered Jews of Europe, also known as the Holocaust Memorial, is a memorial in Berlin to the Jewish victims of the Holocaust committed by Nazi Germany, designed by architect Peter Eisenman and Buro Happold. It consists of a 1.9-hectare site covered with 2,711 concrete slabs or \"stelae\", arranged in a grid pattern on a sloping field. The original plan was to place nearly 4,000 slabs, but after the recalculation, the number of slabs that could legally fit into the designated areas was 2,711. The stelae are 2.38 m long, 0.95 m wide and vary in height from 0.2 to 4.7 metres. They are organized in rows, 54 of them going north–south, and 87 heading east–west at right angles but set slightly askew. An attached underground \"Place of Information\" holds the names of approximately 3 million Jewish Holocaust victims, obtained from the Israeli museum Yad Vashem. Building began on 1 April 2003, and was finished on 15 December 2004. It was inaugurated on 10 May 2005, 60 years after the end of World War II in Europe, and opened to the public two days later. It is located one block south of the Brandenburg Gate, in the Mitte neighbourhood. The cost of construction was approximately €25 million.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Memorial to the Murdered Jews of Europe",
+     "url": "https://en.wikipedia.org/wiki/Memorial_to_the_Murdered_Jews_of_Europe",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q160700",
+     "url": "https://www.wikidata.org/wiki/Q160700",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "kaiser-wilhelm-memorial-church",
+   "image": {
+    "file": "images/kaiser-wilhelm-memorial-church.jpg",
+    "author": "nl:User:GerardM",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ged%C3%A4chtniskirche1.JPG"
+   },
+   "location": {
+    "latitude": 52.504722222,
+    "longitude": 13.335277777
+   },
+   "category": "church",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "historic"
+   ],
+   "area": "Charlottenburg-Wilmersdorf",
+   "content": {
+    "en": {
+     "name": "Kaiser Wilhelm Memorial Church",
+     "intro": "The Kaiser Wilhelm Memorial Church, mostly known simply as the Memorial Church is a Protestant church affiliated with the Evangelical Church in Berlin, Brandenburg and Silesian Upper Lusatia, a regional body of the…",
+     "narration": "The Kaiser Wilhelm Memorial Church, mostly known simply as the Memorial Church is a Protestant church affiliated with the Evangelical Church in Berlin, Brandenburg and Silesian Upper Lusatia, a regional body of the Protestant Church in Germany. It is located in the Bikini-Berlin building complex on the Kurfürstendamm in the centre of the Breitscheidplatz. The original church on the site was built in the 1890s. It was badly damaged in a bombing raid in 1943. The present building, which consists of a church with an attached foyer and a separate belfry with an attached chapel, was built between 1959 and 1963.",
+     "longDescription": "The Kaiser Wilhelm Memorial Church, mostly known simply as the Memorial Church is a Protestant church affiliated with the Evangelical Church in Berlin, Brandenburg and Silesian Upper Lusatia, a regional body of the Protestant Church in Germany. It is located in the Bikini-Berlin building complex on the Kurfürstendamm in the centre of the Breitscheidplatz. The original church on the site was built in the 1890s. It was badly damaged in a bombing raid in 1943. The present building, which consists of a church with an attached foyer and a separate belfry with an attached chapel, was built between 1959 and 1963. The damaged spire of the old church has been retained and its ground floor has been made into a memorial hall. The Memorial Church today is a famous landmark of western Berlin, and is nicknamed by Berliners \"der hohle Zahn\", meaning \"the hollow tooth\".",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Kaiser Wilhelm Memorial Church",
+     "url": "https://en.wikipedia.org/wiki/Kaiser_Wilhelm_Memorial_Church",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q153951",
+     "url": "https://www.wikidata.org/wiki/Q153951",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "altes-museum",
+   "image": {
+    "file": "images/altes-museum.jpg",
+    "author": "VitVit",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berl%C3%ADn_Star%C3%A9_muzeum_4.jpg"
+   },
+   "location": {
+    "latitude": 52.519444444,
+    "longitude": 13.398888888
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 46,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "museum"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Altes Museum",
+     "intro": "The Altes Museum is a listed building on the Museum Island in the historic centre of Berlin, Germany.",
+     "narration": "The Altes Museum is a listed building on the Museum Island in the historic centre of Berlin, Germany. Built between 1825 and 1830 by order of King Frederick William III of Prussia according to plans by Karl Friedrich Schinkel, it is considered a major work of German Neoclassical architecture. It is surrounded by the Berlin Cathedral to the east, the Berlin Palace to the south and the Zeughaus to the west. Currently, the Altes Museum houses the Antikensammlung and parts of the Münzkabinett. As part of the Museum Island complex, the Altes Museum was listed as a UNESCO World Heritage Site in 1999, in recognition of its testimony to the development of the museum as a social and architectural phenomenon.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Altes Museum",
+     "url": "https://en.wikipedia.org/wiki/Altes_Museum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q156722",
+     "url": "https://www.wikidata.org/wiki/Q156722",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "neues-museum",
+   "image": {
+    "file": "images/neues-museum.jpg",
+    "author": "Joyofmuseums",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neues_Museum_-_Joy_of_Museums.jpg"
+   },
+   "location": {
+    "latitude": 52.5202,
+    "longitude": 13.3976
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 35,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "museum"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Neues Museum",
+     "intro": "The Neues Museum is a listed building on the Museum Island of Berlin.",
+     "narration": "The Neues Museum is a listed building on the Museum Island of Berlin. Built from 1843 to 1855 by order of King Frederick William IV of Prussia in Neoclassical and Renaissance Revival styles, it is considered as the major work of Friedrich August Stüler. After suffering damage in World War II and decay in East Germany, it was restored from 1999 to 2009 by David Chipperfield. Currently, the Neues Museum is home to the Egyptian Museum, the Papyrus Museum, the Museum for Pre- and Early History and parts of the Antikensammlung.",
+     "longDescription": "The Neues Museum is a listed building on the Museum Island of Berlin. Built from 1843 to 1855 by order of King Frederick William IV of Prussia in Neoclassical and Renaissance Revival styles, it is considered as the major work of Friedrich August Stüler. After suffering damage in World War II and decay in East Germany, it was restored from 1999 to 2009 by David Chipperfield. Currently, the Neues Museum is home to the Egyptian Museum, the Papyrus Museum, the Museum for Pre- and Early History and parts of the Antikensammlung. As part of the Museum Island complex, the museum was inscribed on the UNESCO World Heritage List in 1999 because of its outstanding architecture and testimony to the evolution of museums as a cultural phenomenon.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Neues Museum",
+     "url": "https://en.wikipedia.org/wiki/Neues_Museum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q157316",
+     "url": "https://www.wikidata.org/wiki/Q157316",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "reichstag-fire",
+   "image": {
+    "file": "images/reichstag-fire.jpg",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reichstagsbrand.jpg"
+   },
+   "location": {
+    "latitude": 52.518611111,
+    "longitude": 13.376111111
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 43,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture"
+   ],
+   "area": "Berlin",
+   "content": {
+    "en": {
+     "name": "Reichstag fire",
+     "intro": "The Reichstag fire was an arson attack on the Reichstag building, home of the German parliament in Berlin, on Monday, 27 February 1933, precisely four weeks after Adolf Hitler was sworn in as Chancellor of Germany.",
+     "narration": "The Reichstag fire was an arson attack on the Reichstag building, home of the German parliament in Berlin, on Monday, 27 February 1933, precisely four weeks after Adolf Hitler was sworn in as Chancellor of Germany. Marinus van der Lubbe, a Dutch council communist, was said to be the culprit; the Nazis attributed the fire to a group of Communist agitators, used it as a pretext to claim that Communists were plotting against the German government, and induced President Paul von Hindenburg to issue the Reichstag Fire Decree, suspending civil liberties, and pursue a \"ruthless confrontation\" with the Communists. This made the fire pivotal in the establishment of Nazi rule in Germany.",
+     "longDescription": "The Reichstag fire was an arson attack on the Reichstag building, home of the German parliament in Berlin, on Monday, 27 February 1933, precisely four weeks after Adolf Hitler was sworn in as Chancellor of Germany. Marinus van der Lubbe, a Dutch council communist, was said to be the culprit; the Nazis attributed the fire to a group of Communist agitators, used it as a pretext to claim that Communists were plotting against the German government, and induced President Paul von Hindenburg to issue the Reichstag Fire Decree, suspending civil liberties, and pursue a \"ruthless confrontation\" with the Communists. This made the fire pivotal in the establishment of Nazi rule in Germany. The first report of the fire came shortly after 9:00 p.m., when a Berlin fire station received an alarm call. By the time police and firefighters arrived, the structure was engulfed in flames. The police conducted a thorough search inside the building and found Van der Lubbe, who was arrested. After the Fire Decree was issued, the police – now controlled by Hitler's Nazi Party – made mass arrests of communists, including all of the communist Reichstag delegates. This severely crippled communist participation in the 5 March elections. After the 5 March elections, the absence of the communists allowed the Nazi Party to expand their plurality in the Reichstag, greatly assisting the Nazi seizure of total power. On 9 March 1933 the Prussian state police arrested Bulgarians Georgi Dimitrov, Vasil Tanev, and Blagoy Popov, who were known Comintern operatives. Ernst Torgler, chairman of the KPD Reichstag faction, had surrendered to police on 28 February. Van der Lubbe and the four communists were the defendants in a trial that started in September 1933. It ended in the acquittal of the four communists and",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Reichstag fire",
+     "url": "https://en.wikipedia.org/wiki/Reichstag_fire",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q153992",
+     "url": "https://www.wikidata.org/wiki/Q153992",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "lustgarten",
+   "image": {
+    "file": "images/lustgarten.jpg",
+    "author": "CruiseTommy",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Altes_Museum_%26_Lustgarten.jpg"
+   },
+   "location": {
+    "latitude": 52.518611111,
+    "longitude": 13.399722222
+   },
+   "category": "square",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 4,
+   "tags": [
+    "historic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Lustgarten",
+     "intro": "The Lustgarten is a park in Museum Island in central Berlin at the foreground of the Altes Museum.",
+     "narration": "The Lustgarten is a park in Museum Island in central Berlin at the foreground of the Altes Museum. It is next to the Berliner Dom and near the reconstructed Berliner Stadtschloss of which it was originally a part. At various times in its history, the park has been used as a parade ground, a place for mass rallies and a public urban park. The area of the Lustgarten was originally developed in the 16th century as a kitchen garden attached to the Palace, then the residence of the Elector of Brandenburg, the core of the later Kingdom of Prussia.",
+     "longDescription": "The Lustgarten is a park in Museum Island in central Berlin at the foreground of the Altes Museum. It is next to the Berliner Dom and near the reconstructed Berliner Stadtschloss of which it was originally a part. At various times in its history, the park has been used as a parade ground, a place for mass rallies and a public urban park. The area of the Lustgarten was originally developed in the 16th century as a kitchen garden attached to the Palace, then the residence of the Elector of Brandenburg, the core of the later Kingdom of Prussia. After the devastation of Germany during the Thirty Years War, Berlin was redeveloped by Friedrich Wilhelm and his Dutch wife, Luise Henriette of Nassau. It was Luise, with the assistance of a military engineer Johann Mauritz and a landscape gardener Michael Hanff, who, in 1646, converted the former kitchen garden into a formal garden, with fountains and geometric paths, and gave it its current name, Pleasure Garden. In 1713, Friedrich Wilhelm I became King of Prussia and set about converting Prussia into a militarised state. He ripped out his grandmother's garden and converted the Lustgarten into a sand-covered parade ground. In 1790, Friedrich Wilhelm II allowed the Lustgarten to be turned back into a park, but during French occupation of Berlin in 1806 Napoleon again drilled troops there. In the early 19th century, the enlarged and increasingly wealthy Kingdom of Prussia undertook major redevelopments of central Berlin. A large, new classical building, the Old Museum, was built at the north-western end of the Lustgarten by the leading architect, Karl Friedrich Schinkel, and between 1826 and 1829 the Lustgarten was redesigned by Peter Joseph Lenné, with formal paths dividing the park into six sectors. A 13-metre high fountain in th",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Lustgarten",
+     "url": "https://en.wikipedia.org/wiki/Lustgarten",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q702512",
+     "url": "https://www.wikidata.org/wiki/Q702512",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "tiergarten-park",
+   "image": {
+    "file": "images/tiergarten-park.jpg",
+    "author": null,
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bln_Tiergtn8.jpg"
+   },
+   "location": {
+    "latitude": 52.516666666,
+    "longitude": 13.366666666
+   },
+   "category": "park",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 22,
+   "visitMinutes": 8,
+   "tags": [
+    "historic",
+    "park",
+    "scenic"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Tiergarten (park)",
+     "intro": "The Tiergarten, formal German name: Großer Tiergarten, is a prominent park in Berlin's inner-city area, located completely in the district of the same name.",
+     "narration": "The Tiergarten, formal German name: Großer Tiergarten, is a prominent park in Berlin's inner-city area, located completely in the district of the same name. It is one of the most popular parks in the city and at 210 hectares in size, is among the largest urban gardens in Germany. Only the Tempelhofer Park and Munich's Englischer Garten are larger.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Tiergarten (park)",
+     "url": "https://en.wikipedia.org/wiki/Tiergarten_%28park%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q694020",
+     "url": "https://www.wikidata.org/wiki/Q694020",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "schwerbelastungskorper",
+   "image": {
+    "file": "images/schwerbelastungskorper.jpg",
+    "author": "Dieter Brügmann",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_belastungskoerper.jpg"
+   },
+   "location": {
+    "latitude": 52.484,
+    "longitude": 13.3716
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 38,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "Tempelhof-Schöneberg",
+   "content": {
+    "en": {
+     "name": "Schwerbelastungskörper",
+     "intro": "The Schwerbelastungskörper is a large concrete cylinder located at the intersection of Dudenstraße, General-Pape-Straße, and Loewenhardtdamm in the northwestern part of the borough of Tempelhof in Berlin, Germany.",
+     "narration": "The Schwerbelastungskörper is a large concrete cylinder located at the intersection of Dudenstraße, General-Pape-Straße, and Loewenhardtdamm in the northwestern part of the borough of Tempelhof in Berlin, Germany. It was built by Adolf Hitler's chief architect Albert Speer to determine the feasibility of constructing large buildings on the area's marshy, sandy ground. Erected between 1941 and 1942 it was meant to test the ground for a massive triumphal arch on a nearby plot. The arch, in the style of the Nazi architectural movement, was to be about three times as large as the Arc de Triomphe in Paris, France.",
+     "longDescription": "The Schwerbelastungskörper is a large concrete cylinder located at the intersection of Dudenstraße, General-Pape-Straße, and Loewenhardtdamm in the northwestern part of the borough of Tempelhof in Berlin, Germany. It was built by Adolf Hitler's chief architect Albert Speer to determine the feasibility of constructing large buildings on the area's marshy, sandy ground. Erected between 1941 and 1942 it was meant to test the ground for a massive triumphal arch on a nearby plot. The arch, in the style of the Nazi architectural movement, was to be about three times as large as the Arc de Triomphe in Paris, France. It was one component of a plan to redesign the center of Berlin as an imposing, monumental capital reflecting the spirit of Nazi Germany as envisioned by Hitler. The Schwerbelastungskörper was built by Dyckerhoff & Widmann AG in 1941 at a cost of 400,000 Reichsmark. It consists of a foundation with a diameter of 11 m that reaches 18.2 m into the ground and contains rooms which once housed instruments to measure ground subsidence caused by the weight of the cylinder, which was estimated as equivalent to the load calculated for one pillar of the intended arch. On this foundation a cylinder 14 m high and 21 m in diameter weighing 12,650 tonnes was erected at street level.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Schwerbelastungskörper",
+     "url": "https://en.wikipedia.org/wiki/Schwerbelastungsk%C3%B6rper",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q704670",
+     "url": "https://www.wikidata.org/wiki/Q704670",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "alte-nationalgalerie",
+   "image": {
+    "file": "images/alte-nationalgalerie.jpg",
+    "author": "Manfred Brückels",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:AlteNationalgalerie_1a.jpg"
+   },
+   "location": {
+    "latitude": 52.52081,
+    "longitude": 13.398353
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 33,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "historic",
+    "museum"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Alte Nationalgalerie",
+     "intro": "The Alte Nationalgalerie is a listed building on the Museum Island in the historic centre of Berlin, Germany.",
+     "narration": "The Alte Nationalgalerie is a listed building on the Museum Island in the historic centre of Berlin, Germany. The gallery was built from 1862 to 1876 by the order of King Frederick William IV of Prussia according to plans by Friedrich August Stüler and Johann Heinrich Strack in Neoclassical and Renaissance Revival styles. The building's outside stair features a memorial to Frederick William IV. Currently, the Alte Nationalgalerie is home to paintings and sculptures of the 19th century and hosts a variety of tourist buses daily.",
+     "longDescription": "The Alte Nationalgalerie is a listed building on the Museum Island in the historic centre of Berlin, Germany. The gallery was built from 1862 to 1876 by the order of King Frederick William IV of Prussia according to plans by Friedrich August Stüler and Johann Heinrich Strack in Neoclassical and Renaissance Revival styles. The building's outside stair features a memorial to Frederick William IV. Currently, the Alte Nationalgalerie is home to paintings and sculptures of the 19th century and hosts a variety of tourist buses daily. As part of the Museum Island complex, the gallery was inscribed on the UNESCO World Heritage List in 1999 for its outstanding architecture and its testimony to the development of museums and galleries as a cultural phenomenon in the late 19th century.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Alte Nationalgalerie",
+     "url": "https://en.wikipedia.org/wiki/Alte_Nationalgalerie",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q162111",
+     "url": "https://www.wikidata.org/wiki/Q162111",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "bode-museum",
+   "image": {
+    "file": "images/bode-museum.jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_Museumsinsel_Fernsehturm.jpg"
+   },
+   "location": {
+    "latitude": 52.521944444,
+    "longitude": 13.394722222
+   },
+   "category": "museum",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 32,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "baroque",
+    "historic",
+    "museum"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Bode Museum",
+     "intro": "The Bode Museum, formerly called the Emperor Frederick Museum, is a listed building on the Museum Island in the historic centre of Berlin.",
+     "narration": "The Bode Museum, formerly called the Emperor Frederick Museum, is a listed building on the Museum Island in the historic centre of Berlin. It was built from 1898 to 1904 by order of German Emperor William II according to plans by Ernst von Ihne in Baroque Revival style. The building's front square featured a memorial to German Emperor Frederick III, which was destroyed by the East German authorities. Currently, the Bode-Museum is home to the Skulpturensammlung, the Museum für Byzantinische Kunst and the Münzkabinett.",
+     "longDescription": "The Bode Museum, formerly called the Emperor Frederick Museum, is a listed building on the Museum Island in the historic centre of Berlin. It was built from 1898 to 1904 by order of German Emperor William II according to plans by Ernst von Ihne in Baroque Revival style. The building's front square featured a memorial to German Emperor Frederick III, which was destroyed by the East German authorities. Currently, the Bode-Museum is home to the Skulpturensammlung, the Museum für Byzantinische Kunst and the Münzkabinett. As part of the Museum Island complex, the Bode-Museum was inscribed on the UNESCO World Heritage List in 1999 because of its outstanding architecture and testimony to the development of museums as a cultural phenomenon in the late 19th and early 20th centuries.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Bode Museum",
+     "url": "https://en.wikipedia.org/wiki/Bode_Museum",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q157825",
+     "url": "https://www.wikidata.org/wiki/Q157825",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "reich-chancellery",
+   "image": {
+    "file": "images/reich-chancellery.jpg",
+    "author": "UnknownUnknown",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1998-013-20A,_Berlin,_Reichskanzlei.jpg"
+   },
+   "location": {
+    "latitude": 52.511666666,
+    "longitude": 13.381944444
+   },
+   "category": "architecture",
+   "priority": 3,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "historic"
+   ],
+   "area": "Berlin",
+   "content": {
+    "en": {
+     "name": "Reich Chancellery",
+     "intro": "The Reich Chancellery was the traditional name of the office of the Chancellor of Germany in the period of the German Reich from 1878 to 1945.",
+     "narration": "The Reich Chancellery was the traditional name of the office of the Chancellor of Germany in the period of the German Reich from 1878 to 1945. The Chancellery's seat, selected and prepared since 1875, was the former city palace of Adolf Friedrich Count von der Schulenburg and later Prince Antoni Radziwiłł on Wilhelmstraße in Berlin. Both the palace and a new Reich Chancellery building were seriously damaged during World War II and subsequently demolished. Today the office of the German chancellor is usually called Kanzleramt, or more formally Bundeskanzleramt. The latter is also the name of the new seat of the Chancellor's Office, completed in 2001.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Reich Chancellery",
+     "url": "https://en.wikipedia.org/wiki/Reich_Chancellery",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q698208",
+     "url": "https://www.wikidata.org/wiki/Q698208",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-hedwig-s-cathedral",
+   "image": {
+    "file": "images/st-hedwig-s-cathedral.jpg",
+    "author": "A.Savin",
+    "license": "FAL",
+    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_Bebelplatz_asv2018-05_img1.jpg"
+   },
+   "location": {
+    "latitude": 52.515833333,
+    "longitude": 13.394722222
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "baroque",
+    "church",
+    "hidden",
+    "historic",
+    "roman"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "St. Hedwig's Cathedral",
+     "intro": "St.",
+     "narration": "St. Hedwig's Cathedral is the Catholic cathedral of the Archdiocese of Berlin on Bebelplatz in the historic centre of Berlin. Dedicated in honor of Hedwig of Silesia, it was erected from 1747 to 1773 by order of Frederick the Great according to plans by Georg Wenzeslaus von Knobelsdorff in Baroque style. Damaged during the Allied bombing in World War II, the cathedral's interior was restored from 1952 to 1963 in post-war modernist style as part of the rebuilding of the Forum Fridericianum on Bebelplatz. The listed building was closed for renovation work from 2018 and reopened on November 24, 2024 with a modern interior design.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St. Hedwig's Cathedral",
+     "url": "https://en.wikipedia.org/wiki/St._Hedwig%27s_Cathedral",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q170123",
+     "url": "https://www.wikidata.org/wiki/Q170123",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "neue-wache",
+   "image": {
+    "file": "images/neue-wache.jpg",
+    "author": "Ansgar Koreng",
+    "license": "CC BY 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:150214_Neue_Wache_Berlin.jpg"
+   },
+   "location": {
+    "latitude": 52.5175,
+    "longitude": 13.395556
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Neue Wache",
+     "intro": "The Neue Wache is a listed building on Unter den Linden boulevard in the historic centre of Berlin, Germany.",
+     "narration": "The Neue Wache is a listed building on Unter den Linden boulevard in the historic centre of Berlin, Germany. Erected from 1816 to 1818 according to plans by Karl Friedrich Schinkel as a guardhouse for the Royal Palace and a memorial to the Liberation Wars, it is considered a major work of Prussian Neoclassical architecture. A Victoria pedimental sculpture by Johann Gottfried Schadow and five General statues by Christian Daniel Rauch, referring to the Warrior statues on Schlossbrücke, also belong to the ensemble. Since 1931, it has held Germany's Tomb of the Unknown Soldier and national memorial for the First World War.",
+     "longDescription": "The Neue Wache is a listed building on Unter den Linden boulevard in the historic centre of Berlin, Germany. Erected from 1816 to 1818 according to plans by Karl Friedrich Schinkel as a guardhouse for the Royal Palace and a memorial to the Liberation Wars, it is considered a major work of Prussian Neoclassical architecture. A Victoria pedimental sculpture by Johann Gottfried Schadow and five General statues by Christian Daniel Rauch, referring to the Warrior statues on Schlossbrücke, also belong to the ensemble. Since 1931, it has held Germany's Tomb of the Unknown Soldier and national memorial for the First World War. Following German Reunification, the site has also been, since 1993, the Central Memorial of the Federal Republic of Germany to the Victims of War and Tyranny. Neue Wache is famous for its changing of the guard ceremony, which went unchanged throughout the 20th century despite radical changes to the German political system. Neue Wache, though, no longer has a regular honor guard except during special events. The modern changing of the guard lacks the goose step once continued by the East German Army, but is otherwise nearly identical to the old ceremony.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Neue Wache",
+     "url": "https://en.wikipedia.org/wiki/Neue_Wache",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q152341",
+     "url": "https://www.wikidata.org/wiki/Q152341",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "berlin-zoo",
+   "image": {
+    "file": "images/berlin-zoo.jpg",
+    "author": "Adamantios",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giraffe-berlin-zoo.jpg"
+   },
+   "location": {
+    "latitude": 52.508333333,
+    "longitude": 13.3375
+   },
+   "category": "park",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 80,
+    "exitRadiusMeters": 130,
+    "approachRadiusMeters": 280
+   },
+   "narrationDurationSeconds": 46,
+   "visitMinutes": 8,
+   "tags": [
+    "hidden",
+    "historic",
+    "park",
+    "scenic"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Berlin Zoo",
+     "intro": "The Berlin Zoological Garden is the oldest surviving and best-known zoo in Germany.",
+     "narration": "The Berlin Zoological Garden is the oldest surviving and best-known zoo in Germany. Opened in 1844, it covers 35 hectares and is located in Berlin's Tiergarten. With about 1,380 different species and over 20,200 animals, the zoo presents one of the most comprehensive collections of species in the world. The zoo and its aquarium had more than 3.5 million visitors in 2017. It is the most-visited zoo in Europe and one of the most popular worldwide. Regular animal feedings are among its most famous attractions. Globally known animals like Knut, the polar bear, and Bao Bao, the giant panda have contributed to the zoo's public image. The zoo collaborates with many universities, research institutes, and other zoos around the world.",
+     "longDescription": "The Berlin Zoological Garden is the oldest surviving and best-known zoo in Germany. Opened in 1844, it covers 35 hectares and is located in Berlin's Tiergarten. With about 1,380 different species and over 20,200 animals, the zoo presents one of the most comprehensive collections of species in the world. The zoo and its aquarium had more than 3.5 million visitors in 2017. It is the most-visited zoo in Europe and one of the most popular worldwide. Regular animal feedings are among its most famous attractions. Globally known animals like Knut, the polar bear, and Bao Bao, the giant panda have contributed to the zoo's public image. The zoo collaborates with many universities, research institutes, and other zoos around the world. It maintains and promotes European breeding programmes, helps safeguard several endangered species, and participates in several species reintroduction programs.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Berlin Zoo",
+     "url": "https://en.wikipedia.org/wiki/Berlin_Zoo",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q154828",
+     "url": "https://www.wikidata.org/wiki/Q154828",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "east-side-gallery",
+   "image": {
+    "file": "images/east-side-gallery.jpg",
+    "author": "Freepenguin",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_Wall6270.JPG"
+   },
+   "location": {
+    "latitude": 52.503055555,
+    "longitude": 13.444722222
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 42,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Friedrichshain-Kreuzberg",
+   "content": {
+    "en": {
+     "name": "East Side Gallery",
+     "intro": "The East Side Gallery memorial in Berlin-Friedrichshain is a permanent open-air gallery on the longest surviving section of the Berlin Wall in Mühlenstraße between the Berlin Ostbahnhof and the Oberbaumbrücke along…",
+     "narration": "The East Side Gallery memorial in Berlin-Friedrichshain is a permanent open-air gallery on the longest surviving section of the Berlin Wall in Mühlenstraße between the Berlin Ostbahnhof and the Oberbaumbrücke along the Spree. It consists of a series of murals painted directly on a 1,316 m long remnant of the Berlin Wall, located near the centre of Berlin, on Mühlenstraße in Friedrichshain-Kreuzberg. In the spring of 1990, after the opening of the Berlin Wall, this section was painted by 118 artists from 21 countries. The artists commented on the political changes of 1989/90 in a good hundred paintings on the side of the Wall that was formerly facing East Berlin.",
+     "longDescription": "The East Side Gallery memorial in Berlin-Friedrichshain is a permanent open-air gallery on the longest surviving section of the Berlin Wall in Mühlenstraße between the Berlin Ostbahnhof and the Oberbaumbrücke along the Spree. It consists of a series of murals painted directly on a 1,316 m long remnant of the Berlin Wall, located near the centre of Berlin, on Mühlenstraße in Friedrichshain-Kreuzberg. In the spring of 1990, after the opening of the Berlin Wall, this section was painted by 118 artists from 21 countries. The artists commented on the political changes of 1989/90 in a good hundred paintings on the side of the Wall that was formerly facing East Berlin. Due to urban development measures, it is no longer completely preserved, and instead of the originals from then, only the replicas from 2009 exist today. The actual border at this point was the Kreuzberg bank of the Spree. The gallery is, for the most part, located on the western wall, which closed off the border area to East Berlin. This wall, facing inwards towards West Berlin, was much thicker and more fortified than its outward-facing counterpart. However, a small portion of the so-called \"hinterland\" wall has managed to survive, despite its weaker structure, as part of the memorial. Mühlenstrasse, one of the main arterial roads to the south, ran along these border installations. Due to the spatial conditions, the previously usual concrete pipes were already installed here, so that the interior wall in this area was atypically optically, but somewhat elevated, resembling the outer wall. The gallery has official status as a Denkmal, or heritage-protected landmark. According to the Künstlerinitiative East Side Gallery e.V., an association of the artists involved in the project, \"The East Side Gallery is unders",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: East Side Gallery",
+     "url": "https://en.wikipedia.org/wiki/East_Side_Gallery",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q313746",
+     "url": "https://www.wikidata.org/wiki/Q313746",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "oberbaum-bridge",
+   "image": {
+    "file": "images/oberbaum-bridge.jpg",
+    "author": "Sarah Jane at Flickr",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oberbaumbr%C3%BCcke_mit_U-Bahn.jpg"
+   },
+   "location": {
+    "latitude": 52.50194,
+    "longitude": 13.44556
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument",
+    "river"
+   ],
+   "area": "Friedrichshain-Kreuzberg",
+   "content": {
+    "en": {
+     "name": "Oberbaum Bridge",
+     "intro": "The Oberbaum Bridge is a double-deck bridge crossing Berlin, Germany's River Spree, considered one of the city's landmarks.",
+     "narration": "The Oberbaum Bridge is a double-deck bridge crossing Berlin, Germany's River Spree, considered one of the city's landmarks. It links Friedrichshain and Kreuzberg, former boroughs that were divided by the Berlin Wall, and has become an important symbol of Berlin's unity. The lower deck of the bridge carries a roadway, which connects Oberbaum Straße to the south of the river with Warschauer Straße to the north. The upper deck of the bridge carries Berlin U-Bahn lines U1 and U3, between Schlesisches Tor and Warschauer Straße stations. The bridge appears prominently in the films Run Lola Run and Unknown as well as the TV series Berlin Station.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Oberbaum Bridge",
+     "url": "https://en.wikipedia.org/wiki/Oberbaum_Bridge",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q695082",
+     "url": "https://www.wikidata.org/wiki/Q695082",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "berlin-palace",
+   "image": {
+    "file": "images/berlin-palace.jpg",
+    "author": "Königlich Preußische Messbildanstalt",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin-Mitte-Ehemaliges_Berliner_Schloss-ZI-0136-06-Th176311.jpg"
+   },
+   "location": {
+    "latitude": 52.5175,
+    "longitude": 13.402777777
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "baroque",
+    "hidden",
+    "historic"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Berlin Palace",
+     "intro": "The Berlin Palace, formerly known as the Royal Palace, is a large building adjacent to Berlin Cathedral and the Museum Island in the Mitte area of Berlin.",
+     "narration": "The Berlin Palace, formerly known as the Royal Palace, is a large building adjacent to Berlin Cathedral and the Museum Island in the Mitte area of Berlin. It was the main residence of the Electors of Brandenburg, Kings of Prussia and German Emperors from 1443 to 1918. Expanded by order of Frederick I of Prussia according to plans by Andreas Schlüter from 1689 to 1713, it was thereafter considered a major work of Prussian Baroque architecture. The royal palace became one of Berlin’s largest buildings and shaped the cityscape with its 60-meter-high dome erected in 1845.",
+     "longDescription": "The Berlin Palace, formerly known as the Royal Palace, is a large building adjacent to Berlin Cathedral and the Museum Island in the Mitte area of Berlin. It was the main residence of the Electors of Brandenburg, Kings of Prussia and German Emperors from 1443 to 1918. Expanded by order of Frederick I of Prussia according to plans by Andreas Schlüter from 1689 to 1713, it was thereafter considered a major work of Prussian Baroque architecture. The royal palace became one of Berlin’s largest buildings and shaped the cityscape with its 60-meter-high dome erected in 1845. Used for various government functions after the abolition of the Hohenzollern monarchy in the 1918 revolution, the palace was damaged during the Allied bombing in World War II, and was razed to the ground by the East German authorities in 1950. In the 1970s, the East German authorities erected a modernist parliamentary and cultural center on the site, known as the Palace of the Republic. After German reunification in 1990, and years of debate, particularly regarding the fraught historical legacy of both buildings, the Palace of the Republic was itself demolished in 2009. Most of the Berlin Palace's exterior was reconstructed beginning in 2013 to house the Humboldt Forum museum. The east façade of the reconstructed palace incorporates a modernist design, while the new interior combines both historicist and modernist elements. Architect Franco Stella oversaw the project and the exterior reconstruction was completed in 2020, with the last decoration being mounted in 2025. The palace is now again among the largest in the world.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Berlin Palace",
+     "url": "https://en.wikipedia.org/wiki/Berlin_Palace",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q170119",
+     "url": "https://www.wikidata.org/wiki/Q170119",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "tiergarten-district",
+   "image": {
+    "file": "images/tiergarten-district.jpg",
+    "author": "H005",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Potsdamer_Platz_vom_Reichstag_aus_2005.jpg"
+   },
+   "location": {
+    "latitude": 52.516666666,
+    "longitude": 13.366666666
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 28,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "neighbourhood"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Tiergarten (district)",
+     "intro": "Tiergarten is a locality within the borough of Mitte, in central Berlin.",
+     "narration": "Tiergarten is a locality within the borough of Mitte, in central Berlin. Notable for the great and homonymous urban park, before German reunification, it was a part of West Berlin. Until Berlin's 2001 administrative reform, Tiergarten was also the name of a borough, consisting of the current locality of Tiergarten plus Hansaviertel and Moabit. A new system of road and rail tunnels runs under the park towards Berlin's main station in nearby Moabit.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Tiergarten (district)",
+     "url": "https://en.wikipedia.org/wiki/Tiergarten_%28district%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q328672",
+     "url": "https://www.wikidata.org/wiki/Q328672",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "nikolaiviertel",
+   "image": {
+    "file": "images/nikolaiviertel.jpg",
+    "author": "User:Manfred Brückels",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikolaivrtl_1a.jpg"
+   },
+   "location": {
+    "latitude": 52.516666666,
+    "longitude": 13.407222222
+   },
+   "category": "neighbourhood",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 120,
+    "exitRadiusMeters": 180,
+    "approachRadiusMeters": 350
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 8,
+   "tags": [
+    "food",
+    "hidden",
+    "historic",
+    "neighbourhood"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Nikolaiviertel",
+     "intro": "The Nikolaiviertel is an old quarter of the German capital of Berlin, founded c.",
+     "narration": "The Nikolaiviertel is an old quarter of the German capital of Berlin, founded c. 1200. Together with nearby Cölln, they jointly make up Alt-Berlin, the reconstructed historical heart of the city. Located in the Mitte locality, it is five minutes away from Alexanderplatz and Berlin Palace.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Nikolaiviertel",
+     "url": "https://en.wikipedia.org/wiki/Nikolaiviertel",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q703927",
+     "url": "https://www.wikidata.org/wiki/Q703927",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "schloss-charlottenburg",
+   "image": {
+    "file": "images/schloss-charlottenburg.jpg",
+    "author": "abbilder",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schloss_Charlottenburg_2025.jpg"
+   },
+   "location": {
+    "latitude": 52.521111,
+    "longitude": 13.295833
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 41,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "baroque",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Charlottenburg-Wilmersdorf",
+   "content": {
+    "en": {
+     "name": "Schloss Charlottenburg",
+     "intro": "Schloss Charlottenburg is a Baroque palace in Berlin, located in Charlottenburg, a district of the Charlottenburg-Wilmersdorf borough, and is among the largest palaces in the world.",
+     "narration": "Schloss Charlottenburg is a Baroque palace in Berlin, located in Charlottenburg, a district of the Charlottenburg-Wilmersdorf borough, and is among the largest palaces in the world. The palace was built at the end of the 17th century and was greatly expanded during the 18th century, primarily for Frederick the Great. It includes much lavish internal decoration in Baroque and Rococo styles. A large formal garden surrounded by woodland was added behind the palace, including a belvedere, a mausoleum, a theatre and a pavilion. During the Second World War, the palace was badly damaged but has since been reconstructed. The palace with its gardens is a major tourist attraction.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Schloss Charlottenburg",
+     "url": "https://en.wikipedia.org/wiki/Schloss_Charlottenburg",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q154996",
+     "url": "https://www.wikidata.org/wiki/Q154996",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "st-mary-s-church-berlin",
+   "image": {
+    "file": "images/st-mary-s-church-berlin.jpg",
+    "author": "Paul Korecky",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2018-08-09_DE_Berlin-Mitte,_Marienkirche_(49912530273).jpg"
+   },
+   "location": {
+    "latitude": 52.520556,
+    "longitude": 13.406667
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "St. Mary's Church, Berlin",
+     "intro": "St.",
+     "narration": "St. Mary's Church, known in German as the Marienkirche or St.-Marien-Kirche, is a church in Berlin, Germany. It is located on Karl-Liebknecht-Straße in central Berlin, near Alexanderplatz. The exact age of the original church site and structure is not precisely known, but it was mentioned as the site of the alleged theft by Jews of the wafers in an act of Host Desecration in 1243. As a result of these charges, a number of Jews were burnt at the stake at a place later called Judenberg. It is also mentioned in German chronicles in 1292. It is presumed to date from earlier in the 13th century.",
+     "longDescription": "St. Mary's Church, known in German as the Marienkirche or St.-Marien-Kirche, is a church in Berlin, Germany. It is located on Karl-Liebknecht-Straße in central Berlin, near Alexanderplatz. The exact age of the original church site and structure is not precisely known, but it was mentioned as the site of the alleged theft by Jews of the wafers in an act of Host Desecration in 1243. As a result of these charges, a number of Jews were burnt at the stake at a place later called Judenberg. It is also mentioned in German chronicles in 1292. It is presumed to date from earlier in the 13th century. The architecture of the building is now largely composed of comparatively modern restoration work which took place in the late 19th century and in the post-war period. The church was originally a Roman Catholic church, but has been a Lutheran Protestant church since the Reformation in 1539. While keeping this confession the parish was part of the Prussian Union of churches from 1817 to 1948, an umbrella church body combining parishes maintaining mostly the Lutheran, but also some the Calvinist and few the United Protestant confession.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: St. Mary's Church, Berlin",
+     "url": "https://en.wikipedia.org/wiki/St._Mary%27s_Church%2C_Berlin",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q679101",
+     "url": "https://www.wikidata.org/wiki/Q679101",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "new-synagogue-berlin",
+   "image": {
+    "file": "images/new-synagogue-berlin.jpg",
+    "author": "Ansgar Koreng",
+    "license": "CC BY 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neue_Synagoge,_Berlin-Mitte,_160328,_ako.jpg"
+   },
+   "location": {
+    "latitude": 52.524722,
+    "longitude": 13.394444
+   },
+   "category": "church",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 45,
+    "exitRadiusMeters": 80,
+    "approachRadiusMeters": 200
+   },
+   "narrationDurationSeconds": 39,
+   "visitMinutes": 6,
+   "tags": [
+    "architecture",
+    "church",
+    "hidden",
+    "historic",
+    "moorish"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "New Synagogue (Berlin)",
+     "intro": "The New Synagogue on Oranienburger Straße in Berlin is a mid-19th century synagogue built as the main place of worship for the city's Jewish community, succeeding the Old Synagogue which the community outgrew.",
+     "narration": "The New Synagogue on Oranienburger Straße in Berlin is a mid-19th century synagogue built as the main place of worship for the city's Jewish community, succeeding the Old Synagogue which the community outgrew. Because of its Moorish style and resemblance to the Alhambra, the New Synagogue is an important architectural monument in Germany. The building was designed by Eduard Knoblauch. Following Knoblauch's death in 1865, Friedrich August Stüler took responsibility for the majority of its construction as well as for its interior arrangement and design. It was inaugurated in the presence of Count Otto von Bismarck, then Minister President of Prussia, in 1866.",
+     "longDescription": "The New Synagogue on Oranienburger Straße in Berlin is a mid-19th century synagogue built as the main place of worship for the city's Jewish community, succeeding the Old Synagogue which the community outgrew. Because of its Moorish style and resemblance to the Alhambra, the New Synagogue is an important architectural monument in Germany. The building was designed by Eduard Knoblauch. Following Knoblauch's death in 1865, Friedrich August Stüler took responsibility for the majority of its construction as well as for its interior arrangement and design. It was inaugurated in the presence of Count Otto von Bismarck, then Minister President of Prussia, in 1866. One of the few synagogues to survive Kristallnacht, it was badly damaged prior to and during World War II and subsequently much was demolished; the present building on the site is a reconstruction of the ruined street frontage with its entrance, dome and towers, along with only a few rooms behind. It is truncated before the point where the main hall of the synagogue began.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: New Synagogue (Berlin)",
+     "url": "https://en.wikipedia.org/wiki/New_Synagogue_%28Berlin%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q246474",
+     "url": "https://www.wikidata.org/wiki/Q246474",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "unter-den-linden",
+   "image": {
+    "file": "images/unter-den-linden.jpg",
+    "author": "Nath el Biya/Niels",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Unter_den_Linden_von_oben.jpg"
+   },
+   "location": {
+    "latitude": 52.51658,
+    "longitude": 13.381
+   },
+   "category": "street",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 21,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "neighbourhood",
+    "street"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Unter den Linden",
+     "intro": "Unter den Linden is a boulevard in the central Mitte district of Berlin, Germany.",
+     "narration": "Unter den Linden is a boulevard in the central Mitte district of Berlin, Germany. Running from the Berlin Palace to the Brandenburg Gate, it is named after the linden trees that line the grassed pedestrian mall on the median and the two broad carriageways. The avenue links numerous Berlin sights, landmarks and rivers for sightseeing.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Unter den Linden",
+     "url": "https://en.wikipedia.org/wiki/Unter_den_Linden",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q160899",
+     "url": "https://www.wikidata.org/wiki/Q160899",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "berlin-state-opera",
+   "image": {
+    "file": "images/berlin-state-opera.jpg",
+    "author": "Marek Śliwecki",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_-_Staatsoper_Unter_den_Linden.jpg"
+   },
+   "location": {
+    "latitude": 52.516666666,
+    "longitude": 13.394722222
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 36,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Berlin State Opera",
+     "intro": "The Staatsoper Unter den Linden, also known as the Berlin State Opera, is a listed building on Unter den Linden boulevard in the historic center of Berlin, Germany.",
+     "narration": "The Staatsoper Unter den Linden, also known as the Berlin State Opera, is a listed building on Unter den Linden boulevard in the historic center of Berlin, Germany. Initially called the Königliche Oper or Berlin Hofoper, the opera house was built by order of Prussian king Frederick the Great from 1741 to 1743 according to plans by Georg Wenzeslaus von Knobelsdorff in the Palladian style. Damaged during the Allied bombing in World War II, the former Royal Prussian Opera House was rebuilt from 1951 to 1955 as part of the Forum Fridericianum square in East Berlin.",
+     "longDescription": "The Staatsoper Unter den Linden, also known as the Berlin State Opera, is a listed building on Unter den Linden boulevard in the historic center of Berlin, Germany. Initially called the Königliche Oper or Berlin Hofoper, the opera house was built by order of Prussian king Frederick the Great from 1741 to 1743 according to plans by Georg Wenzeslaus von Knobelsdorff in the Palladian style. Damaged during the Allied bombing in World War II, the former Royal Prussian Opera House was rebuilt from 1951 to 1955 as part of the Forum Fridericianum square in East Berlin. Nicknamed Lindenoper, it is \"the world's oldest state opera\" and \"the first theater anywhere to be, by itself, a prominent, freestanding monumental building in a city.\"",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Berlin State Opera",
+     "url": "https://en.wikipedia.org/wiki/Berlin_State_Opera",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q312576",
+     "url": "https://www.wikidata.org/wiki/Q312576",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "soviet-war-memorial-tiergarten",
+   "image": {
+    "file": "images/soviet-war-memorial-tiergarten.jpg",
+    "author": "Anil Öztas",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_(DE),_Sowjetisches_Ehrenmal_--_2021_--_9317.jpg"
+   },
+   "location": {
+    "latitude": 52.516603,
+    "longitude": 13.371931
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 31,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Soviet War Memorial (Tiergarten)",
+     "intro": "The Soviet War Memorial is one of several war memorials in Berlin, the capital city of Germany, erected by the Soviet Union to commemorate its war dead, particularly the 80,000 soldiers of the Soviet Armed Forces who…",
+     "narration": "The Soviet War Memorial is one of several war memorials in Berlin, the capital city of Germany, erected by the Soviet Union to commemorate its war dead, particularly the 80,000 soldiers of the Soviet Armed Forces who died during the Battle of Berlin in April and May 1945. The memorial is located in the Großer Tiergarten, a large public park to the west of the city centre, on the north side of the east–west Straße des 17. Juni in the Tiergarten locality.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Soviet War Memorial (Tiergarten)",
+     "url": "https://en.wikipedia.org/wiki/Soviet_War_Memorial_%28Tiergarten%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q32660126",
+     "url": "https://www.wikidata.org/wiki/Q32660126",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "berlin-potsdamer-platz-station",
+   "image": {
+    "file": "images/berlin-potsdamer-platz-station.jpg",
+    "author": "El Dirko",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Train_station_Berlin_Potsdamer_Platz.jpg"
+   },
+   "location": {
+    "latitude": 52.5094,
+    "longitude": 13.3758
+   },
+   "category": "square",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 60,
+    "exitRadiusMeters": 100,
+    "approachRadiusMeters": 250
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "hidden",
+    "historic",
+    "neighbourhood",
+    "square"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Berlin Potsdamer Platz station",
+     "intro": "Berlin Potsdamer Platz is a railway station in Berlin.",
+     "narration": "Berlin Potsdamer Platz is a railway station in Berlin. It is completely underground and situated under Potsdamer Platz in central Berlin. Regional and S-Bahn services call at the station, and it is also served by U-Bahn line U2.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Berlin Potsdamer Platz station",
+     "url": "https://en.wikipedia.org/wiki/Berlin_Potsdamer_Platz_station",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q672579",
+     "url": "https://www.wikidata.org/wiki/Q672579",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "bellevue-palace-germany",
+   "image": {
+    "file": "images/bellevue-palace-germany.jpg",
+    "author": "Taxiarchos228",
+    "license": "FAL",
+    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_-_Schloss_Bellevue2.jpg"
+   },
+   "location": {
+    "latitude": 52.5175,
+    "longitude": 13.353333333
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 23,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "river"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Bellevue Palace, Germany",
+     "intro": "Bellevue Palace, located in Berlin's Tiergarten district, has been the official residence of the president of Germany since 1994.",
+     "narration": "Bellevue Palace, located in Berlin's Tiergarten district, has been the official residence of the president of Germany since 1994. The schloss is situated on the banks of the Spree river, near the Berlin Victory Column, along the northern edge of the Großer Tiergarten park. Its name – the French for \"beautiful view\" – derives from its scenic prospect over the Spree's course.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Bellevue Palace, Germany",
+     "url": "https://en.wikipedia.org/wiki/Bellevue_Palace%2C_Germany",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q317091",
+     "url": "https://www.wikidata.org/wiki/Q317091",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "world-clock-alexanderplatz",
+   "image": {
+    "file": "images/world-clock-alexanderplatz.jpg",
+    "author": "Norbert Aepli, Switzerland (User:Noebu)",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2009-04-07_Berlin_506.jpg"
+   },
+   "location": {
+    "latitude": 52.521166666,
+    "longitude": 13.413305555
+   },
+   "category": "monument",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 50,
+    "exitRadiusMeters": 90,
+    "approachRadiusMeters": 220
+   },
+   "narrationDurationSeconds": 31,
+   "visitMinutes": 6,
+   "tags": [
+    "hidden",
+    "historic",
+    "monument"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "World Clock (Alexanderplatz)",
+     "intro": "The World Clock, also known as the Urania World Clock, is a large turret-style world clock located in the public square of Alexanderplatz in Mitte, Berlin.",
+     "narration": "The World Clock, also known as the Urania World Clock, is a large turret-style world clock located in the public square of Alexanderplatz in Mitte, Berlin. By reading the markings on its metal rotunda, the current time for 148 major cities from around the world can be determined. Since its erection by East Germany in 1969, it has been a tourist attraction and meeting place. In July 2015, the Federal Government of Germany declared the clock as a historically and culturally significant monument.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: World Clock (Alexanderplatz)",
+     "url": "https://en.wikipedia.org/wiki/World_Clock_%28Alexanderplatz%29",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q186173",
+     "url": "https://www.wikidata.org/wiki/Q186173",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "palace-of-the-republic-berlin",
+   "image": {
+    "file": "images/palace-of-the-republic-berlin.jpg",
+    "author": "Istvan [3]",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palast_der_Republik_DDR_1977.jpg"
+   },
+   "location": {
+    "latitude": 52.5175,
+    "longitude": 13.4025
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 32,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Palace of the Republic, Berlin",
+     "intro": "The Palace of the Republic was a building in Berlin that hosted the Volkskammer, East Germany's supreme state organ of power, from 1976 to 1990.",
+     "narration": "The Palace of the Republic was a building in Berlin that hosted the Volkskammer, East Germany's supreme state organ of power, from 1976 to 1990. Also known as the \"People's Palace\", it was located across the Unter den Linden from Museum Island in the Mitte area of East Berlin, on the site of the former Berlin Palace, which had been heavily damaged by Allied air raids and demolished in the 1950s. It was located between the Lustgarten and Schlossplatz, near the West Berlin border.",
+     "longDescription": "The Palace of the Republic was a building in Berlin that hosted the Volkskammer, East Germany's supreme state organ of power, from 1976 to 1990. Also known as the \"People's Palace\", it was located across the Unter den Linden from Museum Island in the Mitte area of East Berlin, on the site of the former Berlin Palace, which had been heavily damaged by Allied air raids and demolished in the 1950s. It was located between the Lustgarten and Schlossplatz, near the West Berlin border. The palace was completed in 1976 to house the Volkskammer, also serving various cultural purposes including two large auditoria, art galleries, a theatre, a cinema, 13 restaurants, five beer halls, a bowling alley, billiards rooms, a rooftop ice skating rink, a private gym with spa, a casino, a medical station, a post office, a police station with an underground cellblock, a fire station, an indoor basketball court, an indoor swimming pool, private barbershops and salons, public and private restrooms and a discothèque. In the early 1980s, one of the restaurants was replaced by a video game arcade for children of Volkskammer members and staff. The palace also had its own subway station, secure underground parking garage reserved for Central Committee members and a helipad reserved for Politburo members. The palace became vacant after German reunification in 1990, then was closed for health and safety reasons because it contained 5,000-plus tonnes of asbestos, even though asbestos had been outlawed in construction in East Germany in 1968. In 2003, the Bundestag voted to demolish the palace; it was taken down between 2006 and 2008. It was replaced with a reconstruction of the Berlin Palace, began in 2013 and was completed in 2020.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Palace of the Republic, Berlin",
+     "url": "https://en.wikipedia.org/wiki/Palace_of_the_Republic%2C_Berlin",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q161156",
+     "url": "https://www.wikidata.org/wiki/Q161156",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "red-town-hall",
+   "image": {
+    "file": "images/red-town-hall.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ayuntamiento_Rojo,_Berl%C3%ADn,_Alemania,_2026-05-02,_DD_46.jpg"
+   },
+   "location": {
+    "latitude": 52.518611111,
+    "longitude": 13.408333333
+   },
+   "category": "architecture",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 20,
+   "visitMinutes": 4,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Red Town Hall",
+     "intro": "The Red Town Hall is the town hall of Berlin, Germany, located in the Mitte district on Rathausstraße near Alexanderplatz.",
+     "narration": "The Red Town Hall is the town hall of Berlin, Germany, located in the Mitte district on Rathausstraße near Alexanderplatz. It is the seat to the Governing Mayor of Berlin and the government of the state of the city.",
+     "longDescription": null,
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Red Town Hall",
+     "url": "https://en.wikipedia.org/wiki/Red_Town_Hall",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q155210",
+     "url": "https://www.wikidata.org/wiki/Q155210",
+     "license": "CC0"
+    }
+   ]
+  },
+  {
+   "id": "museum-fur-naturkunde-berlin",
+   "image": {
+    "file": "images/museum-fur-naturkunde-berlin.jpg",
+    "author": "Jörg Zägel",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin,_Mitte,_Invalidenstrasse_43,_Museum_f%C3%BCr_Naturkunde.jpg"
+   },
+   "location": {
+    "latitude": 52.5302,
+    "longitude": 13.3792
+   },
+   "category": "museum",
+   "priority": 2,
+   "trigger": {
+    "enterRadiusMeters": 40,
+    "exitRadiusMeters": 70,
+    "approachRadiusMeters": 180
+   },
+   "narrationDurationSeconds": 40,
+   "visitMinutes": 8,
+   "tags": [
+    "architecture",
+    "hidden",
+    "historic",
+    "museum"
+   ],
+   "area": "Bezirk Mitte",
+   "content": {
+    "en": {
+     "name": "Museum für Naturkunde Berlin",
+     "intro": "The Museum für Naturkunde Berlin is a natural history museum located in Berlin, Germany.",
+     "narration": "The Museum für Naturkunde Berlin is a natural history museum located in Berlin, Germany. It exhibits a vast range of specimens from various segments of natural history and in such domain it is one of three major museums in Germany alongside Naturmuseum Senckenberg in Frankfurt and Museum Koenig in Bonn. The museum houses more than 30 million zoological, paleontological, and mineralogical specimens, including more than ten thousand type specimens. It is famous for two exhibits: the largest mounted dinosaur in the world, and a well-preserved specimen of the earliest known bird, Archaeopteryx. The museum's mineral collections date back to the Prussian Academy of Sciences of 1700.",
+     "longDescription": "The Museum für Naturkunde Berlin is a natural history museum located in Berlin, Germany. It exhibits a vast range of specimens from various segments of natural history and in such domain it is one of three major museums in Germany alongside Naturmuseum Senckenberg in Frankfurt and Museum Koenig in Bonn. The museum houses more than 30 million zoological, paleontological, and mineralogical specimens, including more than ten thousand type specimens. It is famous for two exhibits: the largest mounted dinosaur in the world, and a well-preserved specimen of the earliest known bird, Archaeopteryx. The museum's mineral collections date back to the Prussian Academy of Sciences of 1700. Important historic zoological specimens include those recovered by the German deep-sea Valdiva expedition, the German Southpolar Expedition, and the German Sunda Expedition. Expeditions to fossil beds in Tendaguru in former Deutsch Ostafrika unearthed rich paleontological treasures. The collections are so extensive that less than 1 in 5000 specimens is exhibited, and they attract researchers from around the world. Additional exhibits include a mineral collection representing 75% of the minerals in the world, a large meteor collection, the largest piece of amber in the world; exhibits of the now-extinct quagga, huia, and tasmanian tiger, and \"Bobby\" the gorilla, a Berlin Zoo celebrity from the 1920s and 1930s. In November 2018 the German government and the city of Berlin decided to expand and improve the building for more than €600 million.",
+     "lookFor": null
+    }
+   },
+   "sources": [
+    {
+     "title": "Wikipedia: Museum für Naturkunde Berlin",
+     "url": "https://en.wikipedia.org/wiki/Museum_f%C3%BCr_Naturkunde_Berlin",
+     "license": "CC BY-SA 4.0"
+    },
+    {
+     "title": "Wikidata Q233098",
+     "url": "https://www.wikidata.org/wiki/Q233098",
+     "license": "CC0"
+    }
+   ]
+  }
+ ]
+}
